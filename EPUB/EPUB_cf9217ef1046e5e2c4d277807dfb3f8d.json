@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chu-cho-shiloh_20152.html",
+    "title" : "Chú Chó Shiloh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phyllis Reynolds Naylor",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-30",
+    "duration" : 37427,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_cf9217ef1046e5e2c4d277807dfb3f8d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_cf9217ef1046e5e2c4d277807dfb3f8d.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chu-cho-shiloh.sna/Chu_cho_Shiloh_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3698,
+    "title" : "1 MASTER CCSL",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chu-cho-shiloh.sna/Chu_cho_Shiloh_10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2334,
+    "title" : "9TT MASTER CCSL",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chu-cho-shiloh.sna/Chu_cho_Shiloh_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4386,
+    "title" : "2 MASTER CCSL",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chu-cho-shiloh.sna/Chu_cho_Shiloh_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3575,
+    "title" : "3 MASTER CCSL",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chu-cho-shiloh.sna/Chu_cho_Shiloh_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4850,
+    "title" : "4 MASTER CCSL",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chu-cho-shiloh.sna/Chu_cho_Shiloh_5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3978,
+    "title" : "5 MASTER CCSL",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chu-cho-shiloh.sna/Chu_cho_Shiloh_6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3420,
+    "title" : "6 MASTER CCSL",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chu-cho-shiloh.sna/Chu_cho_Shiloh_7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3355,
+    "title" : "7 MASTER CCSL",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chu-cho-shiloh.sna/Chu_cho_Shiloh_8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4613,
+    "title" : "8 MASTER CCSL",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chu-cho-shiloh.sna/Chu_cho_Shiloh_9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3218,
+    "title" : "9 MASTER CCSL",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chu-cho-shiloh.sna/Chu_cho_Shiloh_1.mp3",
+    "title" : "1 MASTER CCSL",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chu-cho-shiloh.sna/Chu_cho_Shiloh_10.mp3",
+    "title" : "9TT MASTER CCSL",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chu-cho-shiloh.sna/Chu_cho_Shiloh_2.mp3",
+    "title" : "2 MASTER CCSL",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chu-cho-shiloh.sna/Chu_cho_Shiloh_3.mp3",
+    "title" : "3 MASTER CCSL",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chu-cho-shiloh.sna/Chu_cho_Shiloh_4.mp3",
+    "title" : "4 MASTER CCSL",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chu-cho-shiloh.sna/Chu_cho_Shiloh_5.mp3",
+    "title" : "5 MASTER CCSL",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chu-cho-shiloh.sna/Chu_cho_Shiloh_6.mp3",
+    "title" : "6 MASTER CCSL",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chu-cho-shiloh.sna/Chu_cho_Shiloh_7.mp3",
+    "title" : "7 MASTER CCSL",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chu-cho-shiloh.sna/Chu_cho_Shiloh_8.mp3",
+    "title" : "8 MASTER CCSL",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chu-cho-shiloh.sna/Chu_cho_Shiloh_9.mp3",
+    "title" : "9 MASTER CCSL",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

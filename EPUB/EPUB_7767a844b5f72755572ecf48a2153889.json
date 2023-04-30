@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tham-hiem-dia-cuc_20156.html",
+    "title" : "Thám Hiểm Địa Cực",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Henry Brook",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-30",
+    "duration" : 12406,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_7767a844b5f72755572ecf48a2153889.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_7767a844b5f72755572ecf48a2153889.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tham-hiem-dia-cuc.sna/THAM_HIEM_DIA_CUC-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2536,
+    "title" : "THAM HIEM DIA CUC-01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tham-hiem-dia-cuc.sna/THAM_HIEM_DIA_CUC-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1735,
+    "title" : "THAM HIEM DIA CUC-02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tham-hiem-dia-cuc.sna/THAM_HIEM_DIA_CUC-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2575,
+    "title" : "THAM HIEM DIA CUC-03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tham-hiem-dia-cuc.sna/THAM_HIEM_DIA_CUC-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1950,
+    "title" : "THAM HIEM DIA CUC-04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tham-hiem-dia-cuc.sna/THAM_HIEM_DIA_CUC-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1187,
+    "title" : "THAM HIEM DIA CUC-05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tham-hiem-dia-cuc.sna/THAM_HIEM_DIA_CUC-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2423,
+    "title" : "THAM HIEM DIA CUC-06",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tham-hiem-dia-cuc.sna/THAM_HIEM_DIA_CUC-01.mp3",
+    "title" : "THAM HIEM DIA CUC-01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tham-hiem-dia-cuc.sna/THAM_HIEM_DIA_CUC-02.mp3",
+    "title" : "THAM HIEM DIA CUC-02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tham-hiem-dia-cuc.sna/THAM_HIEM_DIA_CUC-03.mp3",
+    "title" : "THAM HIEM DIA CUC-03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tham-hiem-dia-cuc.sna/THAM_HIEM_DIA_CUC-04.mp3",
+    "title" : "THAM HIEM DIA CUC-04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tham-hiem-dia-cuc.sna/THAM_HIEM_DIA_CUC-05.mp3",
+    "title" : "THAM HIEM DIA CUC-05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tham-hiem-dia-cuc.sna/THAM_HIEM_DIA_CUC-06.mp3",
+    "title" : "THAM HIEM DIA CUC-06",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

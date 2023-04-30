@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/anh-dao-vang_20154.html",
+    "title" : "Ánh Đạo Vàng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Volker Kitz",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-30",
+    "duration" : 10771,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_f7e65f54fd7c1e5e383de4e04b7cef8a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_f7e65f54fd7c1e5e383de4e04b7cef8a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/01-anh-dao-vang/01-Anh-Dao-Vang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4106,
+    "title" : "01-Anh-Dao-Vang",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01-anh-dao-vang/02-Anh-Dao-Vang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3927,
+    "title" : "02-Anh-Dao-Vang",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01-anh-dao-vang/03-Anh-Dao-Vang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2738,
+    "title" : "03-Anh-Dao-Vang",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/01-anh-dao-vang/01-Anh-Dao-Vang.mp3",
+    "title" : "01-Anh-Dao-Vang",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01-anh-dao-vang/02-Anh-Dao-Vang.mp3",
+    "title" : "02-Anh-Dao-Vang",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01-anh-dao-vang/03-Anh-Dao-Vang.mp3",
+    "title" : "03-Anh-Dao-Vang",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bong-hoang-ngoc_20157.html",
+    "title" : "Bông Hoàng Ngọc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trần Đồng Minh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-30",
+    "duration" : 7507,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_0aa7db7960d1df689c31c1f3185602d9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_0aa7db7960d1df689c31c1f3185602d9.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bong-hoang-ngoc.sna/BONG_HOANG_NGOC-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1766,
+    "title" : "BONG HOANG NGOC-01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bong-hoang-ngoc.sna/BONG_HOANG_NGOC-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2205,
+    "title" : "BONG HOANG NGOC-02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bong-hoang-ngoc.sna/BONG_HOANG_NGOC-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1703,
+    "title" : "BONG HOANG NGOC-03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bong-hoang-ngoc.sna/BONG_HOANG_NGOC-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1833,
+    "title" : "BONG HOANG NGOC-04",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bong-hoang-ngoc.sna/BONG_HOANG_NGOC-01.mp3",
+    "title" : "BONG HOANG NGOC-01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bong-hoang-ngoc.sna/BONG_HOANG_NGOC-02.mp3",
+    "title" : "BONG HOANG NGOC-02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bong-hoang-ngoc.sna/BONG_HOANG_NGOC-03.mp3",
+    "title" : "BONG HOANG NGOC-03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bong-hoang-ngoc.sna/BONG_HOANG_NGOC-04.mp3",
+    "title" : "BONG HOANG NGOC-04",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

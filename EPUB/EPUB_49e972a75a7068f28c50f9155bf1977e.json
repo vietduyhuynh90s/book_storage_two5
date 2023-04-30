@@ -1,0 +1,197 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/duoc-la-dua_20124.html",
+    "title" : "Đuốc Lá Dừa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hoài Anh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-30",
+    "duration" : 22803,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_49e972a75a7068f28c50f9155bf1977e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_49e972a75a7068f28c50f9155bf1977e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/duoc-la-dua.sna/DUOC_LA_DUA_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3151,
+    "title" : "DUOC LA DUA 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duoc-la-dua.sna/DUOC_LA_DUA_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1979,
+    "title" : "DUOC LA DUA 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duoc-la-dua.sna/DUOC_LA_DUA_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1598,
+    "title" : "DUOC LA DUA 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duoc-la-dua.sna/DUOC_LA_DUA_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1183,
+    "title" : "DUOC LA DUA 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duoc-la-dua.sna/DUOC_LA_DUA_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2381,
+    "title" : "DUOC LA DUA 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duoc-la-dua.sna/DUOC_LA_DUA_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1768,
+    "title" : "DUOC LA DUA 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duoc-la-dua.sna/DUOC_LA_DUA_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1500,
+    "title" : "DUOC LA DUA 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duoc-la-dua.sna/DUOC_LA_DUA_08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1702,
+    "title" : "DUOC LA DUA 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duoc-la-dua.sna/DUOC_LA_DUA_09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1688,
+    "title" : "DUOC LA DUA 09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duoc-la-dua.sna/DUOC_LA_DUA_10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1259,
+    "title" : "DUOC LA DUA 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duoc-la-dua.sna/DUOC_LA_DUA_11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1367,
+    "title" : "DUOC LA DUA 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duoc-la-dua.sna/DUOC_LA_DUA_12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1816,
+    "title" : "DUOC LA DUA 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duoc-la-dua.sna/DUOC_LA_DUA_13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1411,
+    "title" : "DUOC LA DUA 13",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/duoc-la-dua.sna/DUOC_LA_DUA_01.mp3",
+    "title" : "DUOC LA DUA 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duoc-la-dua.sna/DUOC_LA_DUA_02.mp3",
+    "title" : "DUOC LA DUA 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duoc-la-dua.sna/DUOC_LA_DUA_03.mp3",
+    "title" : "DUOC LA DUA 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duoc-la-dua.sna/DUOC_LA_DUA_04.mp3",
+    "title" : "DUOC LA DUA 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duoc-la-dua.sna/DUOC_LA_DUA_05.mp3",
+    "title" : "DUOC LA DUA 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duoc-la-dua.sna/DUOC_LA_DUA_06.mp3",
+    "title" : "DUOC LA DUA 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duoc-la-dua.sna/DUOC_LA_DUA_07.mp3",
+    "title" : "DUOC LA DUA 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duoc-la-dua.sna/DUOC_LA_DUA_08.mp3",
+    "title" : "DUOC LA DUA 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duoc-la-dua.sna/DUOC_LA_DUA_09.mp3",
+    "title" : "DUOC LA DUA 09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duoc-la-dua.sna/DUOC_LA_DUA_10.mp3",
+    "title" : "DUOC LA DUA 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duoc-la-dua.sna/DUOC_LA_DUA_11.mp3",
+    "title" : "DUOC LA DUA 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duoc-la-dua.sna/DUOC_LA_DUA_12.mp3",
+    "title" : "DUOC LA DUA 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duoc-la-dua.sna/DUOC_LA_DUA_13.mp3",
+    "title" : "DUOC LA DUA 13",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
