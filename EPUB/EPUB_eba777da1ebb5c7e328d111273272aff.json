@@ -1,0 +1,377 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/mot-thoi-ngang-doc_13365.html",
+    "title" : "Một Thời Ngang Dọc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hoàng Ly",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 60838,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_eba777da1ebb5c7e328d111273272aff.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_eba777da1ebb5c7e328d111273272aff.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/mot-thoi-ngang-doc/08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2875,
+    "title" : "08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-thoi-ngang-doc/09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2070,
+    "title" : "09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-thoi-ngang-doc/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3315,
+    "title" : "1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-thoi-ngang-doc/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2120,
+    "title" : "10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-thoi-ngang-doc/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2097,
+    "title" : "11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-thoi-ngang-doc/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1947,
+    "title" : "12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-thoi-ngang-doc/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1551,
+    "title" : "13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-thoi-ngang-doc/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2147,
+    "title" : "14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-thoi-ngang-doc/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2139,
+    "title" : "15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-thoi-ngang-doc/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2111,
+    "title" : "16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-thoi-ngang-doc/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2038,
+    "title" : "17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-thoi-ngang-doc/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2221,
+    "title" : "18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-thoi-ngang-doc/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2150,
+    "title" : "19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-thoi-ngang-doc/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2395,
+    "title" : "2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-thoi-ngang-doc/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1982,
+    "title" : "20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-thoi-ngang-doc/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2085,
+    "title" : "21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-thoi-ngang-doc/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2320,
+    "title" : "22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-thoi-ngang-doc/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2258,
+    "title" : "23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-thoi-ngang-doc/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2500,
+    "title" : "24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-thoi-ngang-doc/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2402,
+    "title" : "25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-thoi-ngang-doc/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2292,
+    "title" : "26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-thoi-ngang-doc/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2364,
+    "title" : "27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-thoi-ngang-doc/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3330,
+    "title" : "28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-thoi-ngang-doc/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1865,
+    "title" : "3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-thoi-ngang-doc/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1185,
+    "title" : "4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-thoi-ngang-doc/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1595,
+    "title" : "5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-thoi-ngang-doc/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1620,
+    "title" : "6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-thoi-ngang-doc/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1864,
+    "title" : "7",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/mot-thoi-ngang-doc/08.mp3",
+    "title" : "08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-thoi-ngang-doc/09.mp3",
+    "title" : "09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-thoi-ngang-doc/1.mp3",
+    "title" : "1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-thoi-ngang-doc/10.mp3",
+    "title" : "10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-thoi-ngang-doc/11.mp3",
+    "title" : "11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-thoi-ngang-doc/12.mp3",
+    "title" : "12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-thoi-ngang-doc/13.mp3",
+    "title" : "13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-thoi-ngang-doc/14.mp3",
+    "title" : "14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-thoi-ngang-doc/15.mp3",
+    "title" : "15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-thoi-ngang-doc/16.mp3",
+    "title" : "16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-thoi-ngang-doc/17.mp3",
+    "title" : "17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-thoi-ngang-doc/18.mp3",
+    "title" : "18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-thoi-ngang-doc/19.mp3",
+    "title" : "19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-thoi-ngang-doc/2.mp3",
+    "title" : "2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-thoi-ngang-doc/20.mp3",
+    "title" : "20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-thoi-ngang-doc/21.mp3",
+    "title" : "21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-thoi-ngang-doc/22.mp3",
+    "title" : "22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-thoi-ngang-doc/23.mp3",
+    "title" : "23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-thoi-ngang-doc/24.mp3",
+    "title" : "24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-thoi-ngang-doc/25.mp3",
+    "title" : "25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-thoi-ngang-doc/26.mp3",
+    "title" : "26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-thoi-ngang-doc/27.mp3",
+    "title" : "27",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-thoi-ngang-doc/28.mp3",
+    "title" : "28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-thoi-ngang-doc/3.mp3",
+    "title" : "3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-thoi-ngang-doc/4.mp3",
+    "title" : "4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-thoi-ngang-doc/5.mp3",
+    "title" : "5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-thoi-ngang-doc/6.mp3",
+    "title" : "6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-thoi-ngang-doc/7.mp3",
+    "title" : "7",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/aq-chinh-truyen_12362.html",
+    "title" : "AQ Chính Truyện",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lỗ Tấn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 38938,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_f4ab62230f6ec041d418999f15532c5e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_f4ab62230f6ec041d418999f15532c5e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/aq-chinh-truyen/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4783,
+    "title" : "Gào Thét",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/aq-chinh-truyen/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3411,
+    "title" : "Thuốc, Cố Hương",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/aq-chinh-truyen/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4515,
+    "title" : "AQ Chính Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/aq-chinh-truyen/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3899,
+    "title" : "Tết Đoan Ngọ, Kịch vui về đàn vịt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/aq-chinh-truyen/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5166,
+    "title" : "Bàng hoàng, Trong quán rượu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/aq-chinh-truyen/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4459,
+    "title" : "Một gia đình hạnh phúc, Thị chúng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/aq-chinh-truyen/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5551,
+    "title" : "Tiếc thương những ngày đã mất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/aq-chinh-truyen/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3738,
+    "title" : "Ly hôn, Phản đối chiến tranh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/aq-chinh-truyen/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3416,
+    "title" : "Trị thủy",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/aq-chinh-truyen/1.mp3",
+    "title" : "Gào Thét",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/aq-chinh-truyen/2.mp3",
+    "title" : "Thuốc, Cố Hương",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/aq-chinh-truyen/3.mp3",
+    "title" : "AQ Chính Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/aq-chinh-truyen/4.mp3",
+    "title" : "Tết Đoan Ngọ, Kịch vui về đàn vịt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/aq-chinh-truyen/5.mp3",
+    "title" : "Bàng hoàng, Trong quán rượu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/aq-chinh-truyen/6.mp3",
+    "title" : "Một gia đình hạnh phúc, Thị chúng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/aq-chinh-truyen/7.mp3",
+    "title" : "Tiếc thương những ngày đã mất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/aq-chinh-truyen/8.mp3",
+    "title" : "Ly hôn, Phản đối chiến tranh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/aq-chinh-truyen/9.mp3",
+    "title" : "Trị thủy",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

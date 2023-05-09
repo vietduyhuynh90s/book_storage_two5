@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tanh-ly-tay-man_10514.html",
+    "title" : "Tanh - Lý Tây Mân",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lý Tây Mân",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 53981,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_c18c9cc6b44e514d7dee9c8c26ec4df5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_c18c9cc6b44e514d7dee9c8c26ec4df5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tanh/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6558,
+    "title" : "Bộ Truyện Ma Kinh Dị Cực Kỳ Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tanh/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9333,
+    "title" : "Truyện Ma Kinh Dị Nghe Rất Hay Và Lạ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tanh/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7762,
+    "title" : "Truyện ma kinh dị hay và mới nhất hiện nay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tanh/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10233,
+    "title" : "Truyện Ma Kinh Dị Hay Về Tống Kha",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tanh/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3958,
+    "title" : "Truyện Ma KInh Dị Vô Cùng Hấp Dẫn Người NGhe",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tanh/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9018,
+    "title" : "Truyện Ma Kinh Dị Dài Tập Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tanh/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7119,
+    "title" : "Truyện Ma Kinh Dị Nghe Rất Sợ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tanh/1.mp3",
+    "title" : "Bộ Truyện Ma Kinh Dị Cực Kỳ Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tanh/2.mp3",
+    "title" : "Truyện Ma Kinh Dị Nghe Rất Hay Và Lạ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tanh/3.mp3",
+    "title" : "Truyện ma kinh dị hay và mới nhất hiện nay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tanh/4.mp3",
+    "title" : "Truyện Ma Kinh Dị Hay Về Tống Kha",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tanh/5.mp3",
+    "title" : "Truyện Ma KInh Dị Vô Cùng Hấp Dẫn Người NGhe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tanh/6.mp3",
+    "title" : "Truyện Ma Kinh Dị Dài Tập Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tanh/7.mp3",
+    "title" : "Truyện Ma Kinh Dị Nghe Rất Sợ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/benh-an-cua-than-linh-tap-1_18628.html",
+    "title" : "Bệnh Án Của Thần Linh Tập 1",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Natsukawa Sosuke",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 19650,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_eced48dac88ccfaaa7a8e7c09de1d1e8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_eced48dac88ccfaaa7a8e7c09de1d1e8.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/benh-an-cua-than-linh-1-audiobook/B%E1%BB%87nh%20%C3%81n%20C%E1%BB%A7a%20Th%E1%BA%A7n%20Linh%201%20-%20Audiobook.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 19650,
+    "title" : "Bệnh Án Của Thần Linh 1 - Audiobook",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/benh-an-cua-than-linh-1-audiobook/B%E1%BB%87nh%20%C3%81n%20C%E1%BB%A7a%20Th%E1%BA%A7n%20Linh%201%20-%20Audiobook.mp3",
+    "title" : "Bệnh Án Của Thần Linh 1 - Audiobook",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

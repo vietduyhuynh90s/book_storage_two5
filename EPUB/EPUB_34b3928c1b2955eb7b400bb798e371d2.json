@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ong-gia-va-bien-ca-ernest-hemingway_10161.html",
+    "title" : "Ông Già và Biển Cả - Ernest Hemingway.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ernest Hemingway",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 11222,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_34b3928c1b2955eb7b400bb798e371d2.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_34b3928c1b2955eb7b400bb798e371d2.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/onggiavabienca/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2057,
+    "title" : "1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/onggiavabienca/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1944,
+    "title" : "2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/onggiavabienca/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1833,
+    "title" : "3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/onggiavabienca/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1882,
+    "title" : "4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/onggiavabienca/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1836,
+    "title" : "5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/onggiavabienca/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1670,
+    "title" : "6",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/onggiavabienca/1.mp3",
+    "title" : "1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/onggiavabienca/2.mp3",
+    "title" : "2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/onggiavabienca/3.mp3",
+    "title" : "3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/onggiavabienca/4.mp3",
+    "title" : "4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/onggiavabienca/5.mp3",
+    "title" : "5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/onggiavabienca/6.mp3",
+    "title" : "6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,593 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/van-bai-lat-ngua-nguyen-truong-thien-ly_10086.html",
+    "title" : "Ván Bài Lật Ngửa - Nguyễn Trương Thiên Lý.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Trương Thiên Lý",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 173538,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_ce470fde66c8375f5f756164db0f7458.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_ce470fde66c8375f5f756164db0f7458.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vanbailatngua/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2102,
+    "title" : "P1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1503,
+    "title" : "P10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1818,
+    "title" : "P11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2332,
+    "title" : "P12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3963,
+    "title" : "P13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2490,
+    "title" : "P14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2443,
+    "title" : "P15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1843,
+    "title" : "P16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3445,
+    "title" : "P17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3675,
+    "title" : "P18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4829,
+    "title" : "P19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2317,
+    "title" : "P2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4911,
+    "title" : "P20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5401,
+    "title" : "P21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4177,
+    "title" : "P22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3637,
+    "title" : "P23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3709,
+    "title" : "P24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3494,
+    "title" : "P25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3287,
+    "title" : "P26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3361,
+    "title" : "P27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4716,
+    "title" : "P28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5245,
+    "title" : "P29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2149,
+    "title" : "P3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6029,
+    "title" : "P30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6125,
+    "title" : "P31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3240,
+    "title" : "P32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3852,
+    "title" : "P33",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4841,
+    "title" : "P34",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5451,
+    "title" : "P35",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4317,
+    "title" : "P36",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3369,
+    "title" : "P37",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6264,
+    "title" : "P38",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5106,
+    "title" : "P39",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1836,
+    "title" : "P4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6203,
+    "title" : "P40",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5406,
+    "title" : "P41",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5449,
+    "title" : "P42",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4337,
+    "title" : "P43",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6648,
+    "title" : "P44",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4699,
+    "title" : "P45",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2994,
+    "title" : "phần kết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2125,
+    "title" : "P5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1819,
+    "title" : "P6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2245,
+    "title" : "P7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2086,
+    "title" : "P8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2250,
+    "title" : "P9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vanbailatngua/1.mp3",
+    "title" : "P1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/10.mp3",
+    "title" : "P10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/11.mp3",
+    "title" : "P11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/12.mp3",
+    "title" : "P12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/13.mp3",
+    "title" : "P13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/14.mp3",
+    "title" : "P14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/15.mp3",
+    "title" : "P15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/16.mp3",
+    "title" : "P16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/17.mp3",
+    "title" : "P17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/18.mp3",
+    "title" : "P18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/19.mp3",
+    "title" : "P19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/2.mp3",
+    "title" : "P2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/20.mp3",
+    "title" : "P20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/21.mp3",
+    "title" : "P21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/22.mp3",
+    "title" : "P22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/23.mp3",
+    "title" : "P23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/24.mp3",
+    "title" : "P24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/25.mp3",
+    "title" : "P25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/26.mp3",
+    "title" : "P26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/27.mp3",
+    "title" : "P27",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/28.mp3",
+    "title" : "P28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/29.mp3",
+    "title" : "P29",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/3.mp3",
+    "title" : "P3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/30.mp3",
+    "title" : "P30",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/31.mp3",
+    "title" : "P31",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/32.mp3",
+    "title" : "P32",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/33.mp3",
+    "title" : "P33",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/34.mp3",
+    "title" : "P34",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/35.mp3",
+    "title" : "P35",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/36.mp3",
+    "title" : "P36",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/37.mp3",
+    "title" : "P37",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/38.mp3",
+    "title" : "P38",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/39.mp3",
+    "title" : "P39",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/4.mp3",
+    "title" : "P4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/40.mp3",
+    "title" : "P40",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/41.mp3",
+    "title" : "P41",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/42.mp3",
+    "title" : "P42",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/43.mp3",
+    "title" : "P43",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/44.mp3",
+    "title" : "P44",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/45.mp3",
+    "title" : "P45",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/46.mp3",
+    "title" : "phần kết",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/5.mp3",
+    "title" : "P5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/6.mp3",
+    "title" : "P6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/7.mp3",
+    "title" : "P7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/8.mp3",
+    "title" : "P8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanbailatngua/9.mp3",
+    "title" : "P9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

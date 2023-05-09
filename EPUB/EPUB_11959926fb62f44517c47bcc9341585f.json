@@ -1,0 +1,209 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/audiobook-neu-em-khong-phai-mot-giac-mo-marc-levy-lang-man_3790.html",
+    "title" : "Nếu Em Không Phải Một Giấc Mơ - Marc Levy.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Marc Levy",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 24590,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_11959926fb62f44517c47bcc9341585f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_11959926fb62f44517c47bcc9341585f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/neuemkhongphailamotgiacmo/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 646,
+    "title" : "1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/neuemkhongphailamotgiacmo/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1981,
+    "title" : "10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/neuemkhongphailamotgiacmo/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2560,
+    "title" : "11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/neuemkhongphailamotgiacmo/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1160,
+    "title" : "12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/neuemkhongphailamotgiacmo/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1243,
+    "title" : "13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/neuemkhongphailamotgiacmo/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1186,
+    "title" : "14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/neuemkhongphailamotgiacmo/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1616,
+    "title" : "2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/neuemkhongphailamotgiacmo/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2415,
+    "title" : "3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/neuemkhongphailamotgiacmo/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2677,
+    "title" : "4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/neuemkhongphailamotgiacmo/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2257,
+    "title" : "5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/neuemkhongphailamotgiacmo/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1738,
+    "title" : "6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/neuemkhongphailamotgiacmo/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1738,
+    "title" : "7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/neuemkhongphailamotgiacmo/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1585,
+    "title" : "8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/neuemkhongphailamotgiacmo/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1788,
+    "title" : "9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/neuemkhongphailamotgiacmo/1.mp3",
+    "title" : "1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/neuemkhongphailamotgiacmo/10.mp3",
+    "title" : "10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/neuemkhongphailamotgiacmo/11.mp3",
+    "title" : "11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/neuemkhongphailamotgiacmo/12.mp3",
+    "title" : "12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/neuemkhongphailamotgiacmo/13.mp3",
+    "title" : "13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/neuemkhongphailamotgiacmo/14.mp3",
+    "title" : "14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/neuemkhongphailamotgiacmo/2.mp3",
+    "title" : "2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/neuemkhongphailamotgiacmo/3.mp3",
+    "title" : "3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/neuemkhongphailamotgiacmo/4.mp3",
+    "title" : "4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/neuemkhongphailamotgiacmo/5.mp3",
+    "title" : "5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/neuemkhongphailamotgiacmo/6.mp3",
+    "title" : "6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/neuemkhongphailamotgiacmo/7.mp3",
+    "title" : "7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/neuemkhongphailamotgiacmo/8.mp3",
+    "title" : "8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/neuemkhongphailamotgiacmo/9.mp3",
+    "title" : "9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

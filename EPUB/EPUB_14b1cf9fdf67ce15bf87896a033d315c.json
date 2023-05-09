@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chen-tra-tri-an-thay-co_16771.html",
+    "title" : "Chén Trà Tri Ân Thầy Cô",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhiều tác giả",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 5094,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_14b1cf9fdf67ce15bf87896a033d315c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_14b1cf9fdf67ce15bf87896a033d315c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnChentrachianthayco/hd04-baihocotruong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 349,
+    "title" : "hd04-baihocotruong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnChentrachianthayco/hd04-boividieuay.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 563,
+    "title" : "hd04-boividieuay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnChentrachianthayco/hd04-kiencan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 188,
+    "title" : "hd04-kiencan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnChentrachianthayco/hd04-kiennhanvahieu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 334,
+    "title" : "hd04-kiennhanvahieu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnChentrachianthayco/hd04-motcapkhongcogi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 525,
+    "title" : "hd04-motcapkhongcogi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnChentrachianthayco/hd04-ngaydautien.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 470,
+    "title" : "hd04-ngaydautien",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnChentrachianthayco/hd04-niemvutronghoctap.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 745,
+    "title" : "hd04-niemvutronghoctap",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnChentrachianthayco/hd04-suacmanhcuaonhoa.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 470,
+    "title" : "hd04-suacmanhcuaonhoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnChentrachianthayco/hd04-tiengmotcanhcuamo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 617,
+    "title" : "hd04-tiengmotcanhcuamo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnChentrachianthayco/hd04-tuyenduong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 374,
+    "title" : "hd04-tuyenduong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnChentrachianthayco/hd04-visaotoidunglop.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 459,
+    "title" : "hd04-visaotoidunglop",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnChentrachianthayco/hd04-baihocotruong.mp3",
+    "title" : "hd04-baihocotruong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnChentrachianthayco/hd04-boividieuay.mp3",
+    "title" : "hd04-boividieuay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnChentrachianthayco/hd04-kiencan.mp3",
+    "title" : "hd04-kiencan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnChentrachianthayco/hd04-kiennhanvahieu.mp3",
+    "title" : "hd04-kiennhanvahieu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnChentrachianthayco/hd04-motcapkhongcogi.mp3",
+    "title" : "hd04-motcapkhongcogi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnChentrachianthayco/hd04-ngaydautien.mp3",
+    "title" : "hd04-ngaydautien",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnChentrachianthayco/hd04-niemvutronghoctap.mp3",
+    "title" : "hd04-niemvutronghoctap",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnChentrachianthayco/hd04-suacmanhcuaonhoa.mp3",
+    "title" : "hd04-suacmanhcuaonhoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnChentrachianthayco/hd04-tiengmotcanhcuamo.mp3",
+    "title" : "hd04-tiengmotcanhcuamo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnChentrachianthayco/hd04-tuyenduong.mp3",
+    "title" : "hd04-tuyenduong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnChentrachianthayco/hd04-visaotoidunglop.mp3",
+    "title" : "hd04-visaotoidunglop",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

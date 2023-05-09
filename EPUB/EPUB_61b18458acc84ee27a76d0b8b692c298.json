@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/mai-huong-va-le-phong-the-lu_11460.html",
+    "title" : "Mai Hương Và Lê Phong - Thế Lữ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thế Lữ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 19173,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_61b18458acc84ee27a76d0b8b692c298.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_61b18458acc84ee27a76d0b8b692c298.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/maihuongvalephong/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3927,
+    "title" : "1 - Người Phải Chết, Người Thiếu Nữ Kỳ Dị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/maihuongvalephong/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4284,
+    "title" : "2 - Tin Dữ Trong Dây Nói, Ta Còn Gặp Nhau",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/maihuongvalephong/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3353,
+    "title" : "3 - Những Chuyện Kín Của Cô Mai Hương, Lê Phong Nổi Giận",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/maihuongvalephong/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4011,
+    "title" : "Năm Bộ Sách Quý, Trá Hình, Mắc Bẩy, Những Phút Cuối Cùng Của Lê Phong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/maihuongvalephong/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3598,
+    "title" : "5 - Thế Rồi, Những Câu Chuyện Lạ Lùng Của Lê Phong, Mai Hương Và Lê Phong",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/maihuongvalephong/1.mp3",
+    "title" : "1 - Người Phải Chết, Người Thiếu Nữ Kỳ Dị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/maihuongvalephong/2.mp3",
+    "title" : "2 - Tin Dữ Trong Dây Nói, Ta Còn Gặp Nhau",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/maihuongvalephong/3.mp3",
+    "title" : "3 - Những Chuyện Kín Của Cô Mai Hương, Lê Phong Nổi Giận",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/maihuongvalephong/4.mp3",
+    "title" : "Năm Bộ Sách Quý, Trá Hình, Mắc Bẩy, Những Phút Cuối Cùng Của Lê Phong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/maihuongvalephong/5.mp3",
+    "title" : "5 - Thế Rồi, Những Câu Chuyện Lạ Lùng Của Lê Phong, Mai Hương Và Lê Phong",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

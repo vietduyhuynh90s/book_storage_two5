@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chua-tung-hen-uoc-luc-xu_10533.html",
+    "title" : "Chưa Từng Hẹn Ước - Lục Xu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lục Xu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 31969,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_ee73879e00ae99512f5308e9dfdfc9e2.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_ee73879e00ae99512f5308e9dfdfc9e2.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chua-tung-hen-uoc/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5124,
+    "title" : "Truyện ngôn tình hiện đại hay nhất trong các cuốn của tác giả Lục Xu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chua-tung-hen-uoc/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4963,
+    "title" : "Truyện ngôn tình hiện đại hay nhất trong các cuốn của tác giả Lục Xu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chua-tung-hen-uoc/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5417,
+    "title" : "Truyện ngôn tình hiện đại hay nhất trong các cuốn của tác giả Lục Xu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chua-tung-hen-uoc/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4954,
+    "title" : "Truyện ngôn tình hiện đại hay nhất trong các cuốn của tác giả Lục Xu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chua-tung-hen-uoc/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5495,
+    "title" : "Truyện ngôn tình hiện đại hay nhất trong các cuốn của tác giả Lục Xu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chua-tung-hen-uoc/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6016,
+    "title" : "Truyện ngôn tình hiện đại hay nhất của tác giả Lục Xu",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chua-tung-hen-uoc/1.mp3",
+    "title" : "Truyện ngôn tình hiện đại hay nhất trong các cuốn của tác giả Lục Xu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chua-tung-hen-uoc/2.mp3",
+    "title" : "Truyện ngôn tình hiện đại hay nhất trong các cuốn của tác giả Lục Xu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chua-tung-hen-uoc/3.mp3",
+    "title" : "Truyện ngôn tình hiện đại hay nhất trong các cuốn của tác giả Lục Xu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chua-tung-hen-uoc/4.mp3",
+    "title" : "Truyện ngôn tình hiện đại hay nhất trong các cuốn của tác giả Lục Xu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chua-tung-hen-uoc/5.mp3",
+    "title" : "Truyện ngôn tình hiện đại hay nhất trong các cuốn của tác giả Lục Xu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chua-tung-hen-uoc/6.mp3",
+    "title" : "Truyện ngôn tình hiện đại hay nhất của tác giả Lục Xu",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

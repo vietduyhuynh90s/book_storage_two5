@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/huong-vi-giai-thoat_20254.html",
+    "title" : "Hương Vị Giải Thoát",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ajahn Chah",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 11636,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_a0dfd6c76ddc0e9585b85d20b50304e4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_a0dfd6c76ddc0e9585b85d20b50304e4.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/huong-vi-4/huong-vi-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1389,
+    "title" : "01_Truoc khi vao sach_TAnh_dau-22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-vi-4/huong-vi-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 966,
+    "title" : "02_Con duong hai hoa_KHanh_23-33",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-vi-4/huong-vi-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1314,
+    "title" : "03_Trung dao ben trong_KHanh_34-48",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-vi-4/huong-vi-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1866,
+    "title" : "04_Hon ca an lac_TAnh_49-70",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-vi-4/huong-vi-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1213,
+    "title" : "05_Khai phap nhan A_KHanh_71-84",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-vi-4/huong-vi-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1315,
+    "title" : "06_Khai phap nhan B_KHanh_84-99",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-vi-4/huong-vi-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1026,
+    "title" : "07_Uoc le the gian va su giai thoat_TAnh_100-111",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-vi-4/huong-vi-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1017,
+    "title" : "08_Khong nuong dua vao dau het_TAnh_112-123",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-vi-4/huong-vi-9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1530,
+    "title" : "09_Chinh kien noi cua tinh lang_KHanh_124-het",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/huong-vi-4/huong-vi-1.mp3",
+    "title" : "01_Truoc khi vao sach_TAnh_dau-22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-vi-4/huong-vi-2.mp3",
+    "title" : "02_Con duong hai hoa_KHanh_23-33",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-vi-4/huong-vi-3.mp3",
+    "title" : "03_Trung dao ben trong_KHanh_34-48",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-vi-4/huong-vi-4.mp3",
+    "title" : "04_Hon ca an lac_TAnh_49-70",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-vi-4/huong-vi-5.mp3",
+    "title" : "05_Khai phap nhan A_KHanh_71-84",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-vi-4/huong-vi-6.mp3",
+    "title" : "06_Khai phap nhan B_KHanh_84-99",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-vi-4/huong-vi-7.mp3",
+    "title" : "07_Uoc le the gian va su giai thoat_TAnh_100-111",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-vi-4/huong-vi-8.mp3",
+    "title" : "08_Khong nuong dua vao dau het_TAnh_112-123",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-vi-4/huong-vi-9.mp3",
+    "title" : "09_Chinh kien noi cua tinh lang_KHanh_124-het",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/me-luu-manh-con-thien-tai-quy-mieu-tu_10327.html",
+    "title" : "Mẹ Lưu Manh Con Thiên Tài - Quỷ Miêu Tử",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Quỷ Miêu Tử",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 84502,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_2b0c47e67f4bb49a23f35fd49e94d893.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_2b0c47e67f4bb49a23f35fd49e94d893.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/me-luu-manh-con-thien-tai/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8654,
+    "title" : "Truyện ngôn tình hay hay không nghe thì biết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-luu-manh-con-thien-tai/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10542,
+    "title" : "Truyện ngôn tình audio hay đến tận tập cuối",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-luu-manh-con-thien-tai/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7219,
+    "title" : "Mẹ Lưu Manh Con Thiên Tài [Phần 2] Truyện ngôn tình hay bất ngờ đáng để nghe 1 lần",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-luu-manh-con-thien-tai/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7211,
+    "title" : "Không nhảy hố này sẽ hối tiếc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-luu-manh-con-thien-tai/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7256,
+    "title" : "Mẹ Lưu Manh Con Thiên Tài [Phần 4] Truyện ngôn tình audio hay nghe ngay cho nóng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-luu-manh-con-thien-tai/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7235,
+    "title" : "Truyện ngôn tình hay & hài hước vô cùng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-luu-manh-con-thien-tai/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7755,
+    "title" : "Mẹ Lưu Manh Con Thiên Tài [Phần 6/7] Truyện ngôn tình hay càng nghe càng ham",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-luu-manh-con-thien-tai/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7022,
+    "title" : "Mẹ Lưu Manh Con Thiên Tài [Phần 7/8] Truyện ngôn tình hay càng hay về cuối",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-luu-manh-con-thien-tai/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11891,
+    "title" : "Truyện ngôn tình hay càng hay chỉ còn thêm 1 phần thôi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-luu-manh-con-thien-tai/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9717,
+    "title" : "Truyện ngôn tình hay nghe hoài không chán",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/me-luu-manh-con-thien-tai/1.mp3",
+    "title" : "Truyện ngôn tình hay hay không nghe thì biết",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-luu-manh-con-thien-tai/10.mp3",
+    "title" : "Truyện ngôn tình audio hay đến tận tập cuối",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-luu-manh-con-thien-tai/2.mp3",
+    "title" : "Mẹ Lưu Manh Con Thiên Tài [Phần 2] Truyện ngôn tình hay bất ngờ đáng để nghe 1 lần",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-luu-manh-con-thien-tai/3.mp3",
+    "title" : "Không nhảy hố này sẽ hối tiếc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-luu-manh-con-thien-tai/4.mp3",
+    "title" : "Mẹ Lưu Manh Con Thiên Tài [Phần 4] Truyện ngôn tình audio hay nghe ngay cho nóng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-luu-manh-con-thien-tai/5.mp3",
+    "title" : "Truyện ngôn tình hay & hài hước vô cùng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-luu-manh-con-thien-tai/6.mp3",
+    "title" : "Mẹ Lưu Manh Con Thiên Tài [Phần 6/7] Truyện ngôn tình hay càng nghe càng ham",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-luu-manh-con-thien-tai/7.mp3",
+    "title" : "Mẹ Lưu Manh Con Thiên Tài [Phần 7/8] Truyện ngôn tình hay càng hay về cuối",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-luu-manh-con-thien-tai/8.mp3",
+    "title" : "Truyện ngôn tình hay càng hay chỉ còn thêm 1 phần thôi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-luu-manh-con-thien-tai/9.mp3",
+    "title" : "Truyện ngôn tình hay nghe hoài không chán",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

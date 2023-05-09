@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/song-manh-me_14816.html",
+    "title" : "Sống Mạnh Mẽ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Stephen R. Covey",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 23231,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_3acb2457201b72c7f8bf8db7f0f70cf8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_3acb2457201b72c7f8bf8db7f0f70cf8.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/audiobook-songmanhme/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2656,
+    "title" : "1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-songmanhme/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1943,
+    "title" : "10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-songmanhme/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2237,
+    "title" : "2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-songmanhme/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2816,
+    "title" : "3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-songmanhme/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2077,
+    "title" : "4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-songmanhme/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2604,
+    "title" : "5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-songmanhme/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3026,
+    "title" : "6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-songmanhme/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2112,
+    "title" : "7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-songmanhme/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1816,
+    "title" : "8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-songmanhme/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1944,
+    "title" : "9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/audiobook-songmanhme/1.mp3",
+    "title" : "1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-songmanhme/10.mp3",
+    "title" : "10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-songmanhme/2.mp3",
+    "title" : "2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-songmanhme/3.mp3",
+    "title" : "3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-songmanhme/4.mp3",
+    "title" : "4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-songmanhme/5.mp3",
+    "title" : "5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-songmanhme/6.mp3",
+    "title" : "6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-songmanhme/7.mp3",
+    "title" : "7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-songmanhme/8.mp3",
+    "title" : "8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-songmanhme/9.mp3",
+    "title" : "9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

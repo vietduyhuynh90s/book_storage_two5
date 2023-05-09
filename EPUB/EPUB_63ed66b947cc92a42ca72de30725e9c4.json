@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nguyen-ly-80-20-bi-quyet-lam-it-duoc-nhieu-richard-koch_10601.html",
+    "title" : "Nguyên Lý 80/20 - Bí Quyết Làm Ít Được Nhiều - Richard Koch",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Richard Koch",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 31690,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_63ed66b947cc92a42ca72de30725e9c4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_63ed66b947cc92a42ca72de30725e9c4.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nguyen-ly-80-20/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4655,
+    "title" : "Nguyên Lý 80/20 - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyen-ly-80-20/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10988,
+    "title" : "Nguyên Lý 80/20 - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyen-ly-80-20/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 16047,
+    "title" : "Nguyên Lý 80/20 - Phần 3 + 4",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nguyen-ly-80-20/1.mp3",
+    "title" : "Nguyên Lý 80/20 - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyen-ly-80-20/2.mp3",
+    "title" : "Nguyên Lý 80/20 - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyen-ly-80-20/3.mp3",
+    "title" : "Nguyên Lý 80/20 - Phần 3 + 4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

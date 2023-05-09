@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/trang-lanh-nhu-suong-phi-nga-tu-ton_9973.html",
+    "title" : "Trăng Lạnh Như Sương - Phỉ Ngã Tư Tồn.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phỉ Ngã Tư Tồn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 59620,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_b2ac02dfeec66639545db8a0d87be4ca.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_b2ac02dfeec66639545db8a0d87be4ca.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tlns/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 33410,
+    "title" : "Phỉ Ngã Tư Tồn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tlns/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Phỉ Ngã Tư Tồn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tlns/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Phỉ Ngã Tư Tồn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tlns/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Phỉ Ngã Tư Tồn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tlns/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4610,
+    "title" : "Phỉ Ngã Tư Tồn",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tlns/1.mp3",
+    "title" : "Phỉ Ngã Tư Tồn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tlns/2.mp3",
+    "title" : "Phỉ Ngã Tư Tồn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tlns/3.mp3",
+    "title" : "Phỉ Ngã Tư Tồn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tlns/4.mp3",
+    "title" : "Phỉ Ngã Tư Tồn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_tlns/5.mp3",
+    "title" : "Phỉ Ngã Tư Tồn",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

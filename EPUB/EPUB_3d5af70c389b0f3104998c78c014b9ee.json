@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/toi-la-dao-si-nguyen-diep_10606.html",
+    "title" : "Tôi Là Đạo Sĩ - Nguyễn Điệp",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Điệp",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 33962,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_3d5af70c389b0f3104998c78c014b9ee.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_3d5af70c389b0f3104998c78c014b9ee.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/toi-la-dao-sy/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3711,
+    "title" : "Truyện Ma Kinh Dị ĐẠO SỸ DIỆT CƯƠNG THI ly kỳ mới nhất 2016 | GocAudio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-la-dao-sy/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4979,
+    "title" : "TÔI LÀ ĐẠO SĨ SS2 mới nhất - Tác giả Nguyễn Điệp | GocAudio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-la-dao-sy/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7934,
+    "title" : "TÔI LÀ ĐẠO SĨ SS3 mới và hay nhất 2016 | GocAudio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-la-dao-sy/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4299,
+    "title" : "tác giả Nguyễn Điệp - Version Anh Tú - Truyện ma đạo sĩ kinh điển 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-la-dao-sy/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5485,
+    "title" : "tác giả Nguyễn Điệp - Version Anh Tú - Truyện ma đạo sĩ kinh điển 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-la-dao-sy/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7554,
+    "title" : "tác giả Nguyễn Điệp - Version Anh Tú - Truyện ma đạo sĩ kinh điển 2018",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/toi-la-dao-sy/1.mp3",
+    "title" : "Truyện Ma Kinh Dị ĐẠO SỸ DIỆT CƯƠNG THI ly kỳ mới nhất 2016 | GocAudio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-la-dao-sy/2.mp3",
+    "title" : "TÔI LÀ ĐẠO SĨ SS2 mới nhất - Tác giả Nguyễn Điệp | GocAudio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-la-dao-sy/3.mp3",
+    "title" : "TÔI LÀ ĐẠO SĨ SS3 mới và hay nhất 2016 | GocAudio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-la-dao-sy/4.mp3",
+    "title" : "tác giả Nguyễn Điệp - Version Anh Tú - Truyện ma đạo sĩ kinh điển 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-la-dao-sy/5.mp3",
+    "title" : "tác giả Nguyễn Điệp - Version Anh Tú - Truyện ma đạo sĩ kinh điển 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-la-dao-sy/6.mp3",
+    "title" : "tác giả Nguyễn Điệp - Version Anh Tú - Truyện ma đạo sĩ kinh điển 2018",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

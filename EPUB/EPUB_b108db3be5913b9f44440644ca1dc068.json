@@ -1,0 +1,221 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/freud-than-yeu-cuu-nguyet-hi_10147.html",
+    "title" : "Freud Thân Yêu - Cửu Nguyệt Hi.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Cửu Nguyệt Hi",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 119990,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_b108db3be5913b9f44440644ca1dc068.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_b108db3be5913b9f44440644ca1dc068.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/freudthanyeu/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6454,
+    "title" : "Freud Thân Yêu – Ngôn tình trinh thám hiện đại hấp dẫn ly kỳ nhất 2017 – P1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/freudthanyeu/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10035,
+    "title" : "Freud Thân Yêu – Ngôn tình trinh thám hiện đại – P10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/freudthanyeu/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7931,
+    "title" : "Freud Thân Yêu – Ngôn tình trinh thám hiện đại – P11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/freudthanyeu/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9556,
+    "title" : "Freud Thân Yêu – Ngôn tình trinh thám hiện đại – P12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/freudthanyeu/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7973,
+    "title" : "Freud Thân Yêu – Ngôn tình trinh thám hiện đại – P13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/freudthanyeu/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7733,
+    "title" : "Freud Thân Yêu – Ngôn tình trinh thám hiện đại – P14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/freudthanyeu/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6274,
+    "title" : "Freud Thân Yêu – Ngôn tình trinh thám hiện đại – P15 Hết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/freudthanyeu/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7112,
+    "title" : "Freud Thân Yêu – Ngôn tình trinh thám hiện đại – P2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/freudthanyeu/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7131,
+    "title" : "Freud Thân Yêu – Ngôn tình trinh thám hiện đại – P3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/freudthanyeu/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7431,
+    "title" : "Freud Thân Yêu – Ngôn tình trinh thám hiện đại – P4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/freudthanyeu/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7918,
+    "title" : "Freud Thân Yêu – Ngôn tình trinh thám hiện đại – P5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/freudthanyeu/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8587,
+    "title" : "Freud Thân Yêu – Ngôn tình trinh thám hiện đại – P6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/freudthanyeu/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8790,
+    "title" : "Freud Thân Yêu – Ngôn tình trinh thám hiện đại – P7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/freudthanyeu/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8422,
+    "title" : "Freud Thân Yêu – Ngôn tình trinh thám hiện đại – P8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/freudthanyeu/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8643,
+    "title" : "Freud Thân Yêu – Ngôn tình trinh thám hiện đại – P9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/freudthanyeu/1.mp3",
+    "title" : "Freud Thân Yêu – Ngôn tình trinh thám hiện đại hấp dẫn ly kỳ nhất 2017 – P1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/freudthanyeu/10.mp3",
+    "title" : "Freud Thân Yêu – Ngôn tình trinh thám hiện đại – P10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/freudthanyeu/11.mp3",
+    "title" : "Freud Thân Yêu – Ngôn tình trinh thám hiện đại – P11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/freudthanyeu/12.mp3",
+    "title" : "Freud Thân Yêu – Ngôn tình trinh thám hiện đại – P12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/freudthanyeu/13.mp3",
+    "title" : "Freud Thân Yêu – Ngôn tình trinh thám hiện đại – P13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/freudthanyeu/14.mp3",
+    "title" : "Freud Thân Yêu – Ngôn tình trinh thám hiện đại – P14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/freudthanyeu/15.mp3",
+    "title" : "Freud Thân Yêu – Ngôn tình trinh thám hiện đại – P15 Hết",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/freudthanyeu/2.mp3",
+    "title" : "Freud Thân Yêu – Ngôn tình trinh thám hiện đại – P2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/freudthanyeu/3.mp3",
+    "title" : "Freud Thân Yêu – Ngôn tình trinh thám hiện đại – P3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/freudthanyeu/4.mp3",
+    "title" : "Freud Thân Yêu – Ngôn tình trinh thám hiện đại – P4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/freudthanyeu/5.mp3",
+    "title" : "Freud Thân Yêu – Ngôn tình trinh thám hiện đại – P5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/freudthanyeu/6.mp3",
+    "title" : "Freud Thân Yêu – Ngôn tình trinh thám hiện đại – P6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/freudthanyeu/7.mp3",
+    "title" : "Freud Thân Yêu – Ngôn tình trinh thám hiện đại – P7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/freudthanyeu/8.mp3",
+    "title" : "Freud Thân Yêu – Ngôn tình trinh thám hiện đại – P8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/freudthanyeu/9.mp3",
+    "title" : "Freud Thân Yêu – Ngôn tình trinh thám hiện đại – P9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

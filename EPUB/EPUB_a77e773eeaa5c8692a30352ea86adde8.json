@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nhat-ky-gai-goi-hac-nhan_10702.html",
+    "title" : "Nhật Ký Gái gọi - Hắc Nhan",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hắc Nhan",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 16637,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_a77e773eeaa5c8692a30352ea86adde8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_a77e773eeaa5c8692a30352ea86adde8.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nhat-ky-gai-goi/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8073,
+    "title" : "Truyện Ngôn Tình Hiện Đại Hay Cuốn Hút Đến Mê Người",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-gai-goi/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8564,
+    "title" : "Nhật Ký Gái Gọi [Phần 2 HẾT] Cái Kết Vô Cùng Ý Nghĩa",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nhat-ky-gai-goi/1.mp3",
+    "title" : "Truyện Ngôn Tình Hiện Đại Hay Cuốn Hút Đến Mê Người",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhat-ky-gai-goi/2.mp3",
+    "title" : "Nhật Ký Gái Gọi [Phần 2 HẾT] Cái Kết Vô Cùng Ý Nghĩa",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

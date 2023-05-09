@@ -1,0 +1,797 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/the-gia-danh-mon-thap-tam-xuan_10148.html",
+    "title" : "Thế Gia Danh Môn - Thập Tam Xuân.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thập Tam Xuân",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 190217,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_673c52ec46abc6c59af3a389d51ff49e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_673c52ec46abc6c59af3a389d51ff49e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/thegiadanhmon/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1303,
+    "title" : "Thập Tam Xuân - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2503,
+    "title" : "Thập Tam Xuân Phần 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3003,
+    "title" : "Thập Tam Xuân Phần 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2903,
+    "title" : "Thập Tam Xuân Phần 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2863,
+    "title" : "Thập Tam Xuân Phần 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3043,
+    "title" : "Thập Tam Xuân Phần 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2903,
+    "title" : "Thập Tam Xuân -Phần 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2623,
+    "title" : "Thập Tam Xuân - Phần 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2503,
+    "title" : "Thập Tam Xuân -Phần 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2803,
+    "title" : "Thập Tam Xuân -Phần 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2543,
+    "title" : "Thập Tam Xuân -Phần 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2653,
+    "title" : "Thập Tam Xuân - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3063,
+    "title" : "Thập Tam Xuân -Phần 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2703,
+    "title" : "Thập Tam Xuân -Phần 21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2983,
+    "title" : "Thập Tam Xuân - Phần 22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3013,
+    "title" : "Thập Tam Xuân - Phần 23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2963,
+    "title" : "Thập Tam Xuân - Phần 24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2313,
+    "title" : "Thập Tam Xuân - Phần 25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2903,
+    "title" : "Thập Tam Xuân - Phần 26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3003,
+    "title" : "Thập Tam Xuân - Phần 27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2953,
+    "title" : "Thập Tam Xuân - Phần 28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2383,
+    "title" : "Thập Tam Xuân -Phần 29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3053,
+    "title" : "Thập Tam Xuân - Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3003,
+    "title" : "Thập Tam Xuân -Phần 30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3053,
+    "title" : "Thập Tam Xuân -Phần 31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2993,
+    "title" : "Thập Tam Xuân -Phần 32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3203,
+    "title" : "Thập Tam Xuân -Phần 33",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3153,
+    "title" : "Thập Tam Xuân -Phần 34",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2103,
+    "title" : "Thập Tam Xuân -Phần 35",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2126,
+    "title" : "Thập Tam Xuân -Phần 36",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2883,
+    "title" : "Thập Tam Xuân -Phần 37",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2523,
+    "title" : "Thập Tam Xuân -Phần 38",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3103,
+    "title" : "Thập Tam Xuân -Phần 39",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2703,
+    "title" : "Thập Tam Xuân - Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3003,
+    "title" : "Thập Tam Xuân -Phần 40",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3103,
+    "title" : "Thập Tam Xuân -Phần 41",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2943,
+    "title" : "Thập Tam Xuân -Phần 42",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3103,
+    "title" : "Thập Tam Xuân -Phần 43",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3003,
+    "title" : "Thập Tam Xuân -Phần 44",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3003,
+    "title" : "Thập Tam Xuân -Phần 45",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2403,
+    "title" : "Thập Tam Xuân -Phần 46",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2703,
+    "title" : "Thập Tam Xuân -Phần 47",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3003,
+    "title" : "Thập Tam Xuân -Phần 48",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2303,
+    "title" : "Thập Tam Xuân -Phần 49",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2903,
+    "title" : "Thập Tam Xuân - Phần 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3503,
+    "title" : "Thập Tam Xuân -Phần 50",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3003,
+    "title" : "Thập Tam Xuân -Phần 51",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2653,
+    "title" : "Thập Tam Xuân -Phần 52",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3603,
+    "title" : "Thập Tam Xuân -Phần 53",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/54.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3663,
+    "title" : "Thập Tam Xuân -Phần 54",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/55.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3713,
+    "title" : "Thập Tam Xuân -Phần 55",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/56.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4003,
+    "title" : "Thập Tam Xuân -Phần 56",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/57.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5553,
+    "title" : "Thập Tam Xuân -Phần 57",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/58.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3903,
+    "title" : "Thập Tam Xuân -Phần 58",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/59.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4003,
+    "title" : "Thập Tam Xuân -Phần 59",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2673,
+    "title" : "Thập Tam Xuân - Phần 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/60.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3803,
+    "title" : "Thập Tam Xuân -Phần 60",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/61.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4008,
+    "title" : "Thập Tam Xuân -Phần 61",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/62.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4103,
+    "title" : "Thập Tam Xuân -Phần 62",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/63.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4393,
+    "title" : "Thập Tam Xuân -Phần 63 (END)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2603,
+    "title" : "Thập Tam Xuân - Phần 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2833,
+    "title" : "Thập Tam Xuân - Phần 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2903,
+    "title" : "Thập Tam Xuân Phần 9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/thegiadanhmon/1.mp3",
+    "title" : "Thập Tam Xuân - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/10.mp3",
+    "title" : "Thập Tam Xuân Phần 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/11.mp3",
+    "title" : "Thập Tam Xuân Phần 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/12.mp3",
+    "title" : "Thập Tam Xuân Phần 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/13.mp3",
+    "title" : "Thập Tam Xuân Phần 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/14.mp3",
+    "title" : "Thập Tam Xuân Phần 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/15.mp3",
+    "title" : "Thập Tam Xuân -Phần 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/16.mp3",
+    "title" : "Thập Tam Xuân - Phần 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/17.mp3",
+    "title" : "Thập Tam Xuân -Phần 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/18.mp3",
+    "title" : "Thập Tam Xuân -Phần 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/19.mp3",
+    "title" : "Thập Tam Xuân -Phần 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/2.mp3",
+    "title" : "Thập Tam Xuân - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/20.mp3",
+    "title" : "Thập Tam Xuân -Phần 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/21.mp3",
+    "title" : "Thập Tam Xuân -Phần 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/22.mp3",
+    "title" : "Thập Tam Xuân - Phần 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/23.mp3",
+    "title" : "Thập Tam Xuân - Phần 23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/24.mp3",
+    "title" : "Thập Tam Xuân - Phần 24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/25.mp3",
+    "title" : "Thập Tam Xuân - Phần 25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/26.mp3",
+    "title" : "Thập Tam Xuân - Phần 26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/27.mp3",
+    "title" : "Thập Tam Xuân - Phần 27",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/28.mp3",
+    "title" : "Thập Tam Xuân - Phần 28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/29.mp3",
+    "title" : "Thập Tam Xuân -Phần 29",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/3.mp3",
+    "title" : "Thập Tam Xuân - Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/30.mp3",
+    "title" : "Thập Tam Xuân -Phần 30",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/31.mp3",
+    "title" : "Thập Tam Xuân -Phần 31",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/32.mp3",
+    "title" : "Thập Tam Xuân -Phần 32",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/33.mp3",
+    "title" : "Thập Tam Xuân -Phần 33",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/34.mp3",
+    "title" : "Thập Tam Xuân -Phần 34",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/35.mp3",
+    "title" : "Thập Tam Xuân -Phần 35",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/36.mp3",
+    "title" : "Thập Tam Xuân -Phần 36",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/37.mp3",
+    "title" : "Thập Tam Xuân -Phần 37",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/38.mp3",
+    "title" : "Thập Tam Xuân -Phần 38",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/39.mp3",
+    "title" : "Thập Tam Xuân -Phần 39",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/4.mp3",
+    "title" : "Thập Tam Xuân - Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/40.mp3",
+    "title" : "Thập Tam Xuân -Phần 40",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/41.mp3",
+    "title" : "Thập Tam Xuân -Phần 41",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/42.mp3",
+    "title" : "Thập Tam Xuân -Phần 42",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/43.mp3",
+    "title" : "Thập Tam Xuân -Phần 43",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/44.mp3",
+    "title" : "Thập Tam Xuân -Phần 44",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/45.mp3",
+    "title" : "Thập Tam Xuân -Phần 45",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/46.mp3",
+    "title" : "Thập Tam Xuân -Phần 46",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/47.mp3",
+    "title" : "Thập Tam Xuân -Phần 47",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/48.mp3",
+    "title" : "Thập Tam Xuân -Phần 48",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/49.mp3",
+    "title" : "Thập Tam Xuân -Phần 49",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/5.mp3",
+    "title" : "Thập Tam Xuân - Phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/50.mp3",
+    "title" : "Thập Tam Xuân -Phần 50",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/51.mp3",
+    "title" : "Thập Tam Xuân -Phần 51",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/52.mp3",
+    "title" : "Thập Tam Xuân -Phần 52",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/53.mp3",
+    "title" : "Thập Tam Xuân -Phần 53",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/54.mp3",
+    "title" : "Thập Tam Xuân -Phần 54",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/55.mp3",
+    "title" : "Thập Tam Xuân -Phần 55",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/56.mp3",
+    "title" : "Thập Tam Xuân -Phần 56",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/57.mp3",
+    "title" : "Thập Tam Xuân -Phần 57",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/58.mp3",
+    "title" : "Thập Tam Xuân -Phần 58",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/59.mp3",
+    "title" : "Thập Tam Xuân -Phần 59",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/6.mp3",
+    "title" : "Thập Tam Xuân - Phần 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/60.mp3",
+    "title" : "Thập Tam Xuân -Phần 60",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/61.mp3",
+    "title" : "Thập Tam Xuân -Phần 61",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/62.mp3",
+    "title" : "Thập Tam Xuân -Phần 62",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/63.mp3",
+    "title" : "Thập Tam Xuân -Phần 63 (END)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/7.mp3",
+    "title" : "Thập Tam Xuân - Phần 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/8.mp3",
+    "title" : "Thập Tam Xuân - Phần 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thegiadanhmon/9.mp3",
+    "title" : "Thập Tam Xuân Phần 9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

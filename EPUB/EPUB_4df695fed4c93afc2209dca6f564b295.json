@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ke-sach-theo-duoi-phu-quan-sau-khi-song-lai-to-nhi-thieu_10715.html",
+    "title" : "Kế Sách Theo Đuổi Phu Quân Sau Khi Sống Lại - Tô Nhị Thiếu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tô Nhị Thiếu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 41774,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_4df695fed4c93afc2209dca6f564b295.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_4df695fed4c93afc2209dca6f564b295.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ke-sach-theo-duoi-phu-quan-sau-khi-song-lai/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 12930,
+    "title" : "Kế Sách Theo Đuổi Phu Quân Sau Khi Sống Lại // Phần 1 // MC Trần Vân // Ngôn Tình Cổ Đại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ke-sach-theo-duoi-phu-quan-sau-khi-song-lai/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9595,
+    "title" : "Kế Sách Theo Đuổi Phu Quân Sau Khi Sống Lại [Phần 2] MC Trần Vân // Ngôn Tình Cổ Đại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ke-sach-theo-duoi-phu-quan-sau-khi-song-lai/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7971,
+    "title" : "Kế Sách Theo Đuổi Phu Quân Sau Khi Sống Lại [Phần 3] MC Trần Vân || Ngôn Tình Cổ Đại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ke-sach-theo-duoi-phu-quan-sau-khi-song-lai/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11278,
+    "title" : "Kế Sách Theo Đuổi Phu Quân Sau Khi Sống Lại [Phần Cuối] MC Trần Vân Ngôn Tình Cổ Đại",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ke-sach-theo-duoi-phu-quan-sau-khi-song-lai/1.mp3",
+    "title" : "Kế Sách Theo Đuổi Phu Quân Sau Khi Sống Lại // Phần 1 // MC Trần Vân // Ngôn Tình Cổ Đại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-sach-theo-duoi-phu-quan-sau-khi-song-lai/2.mp3",
+    "title" : "Kế Sách Theo Đuổi Phu Quân Sau Khi Sống Lại [Phần 2] MC Trần Vân // Ngôn Tình Cổ Đại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-sach-theo-duoi-phu-quan-sau-khi-song-lai/3.mp3",
+    "title" : "Kế Sách Theo Đuổi Phu Quân Sau Khi Sống Lại [Phần 3] MC Trần Vân || Ngôn Tình Cổ Đại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-sach-theo-duoi-phu-quan-sau-khi-song-lai/4.mp3",
+    "title" : "Kế Sách Theo Đuổi Phu Quân Sau Khi Sống Lại [Phần Cuối] MC Trần Vân Ngôn Tình Cổ Đại",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

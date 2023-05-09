@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/audiobook-dung-bao-gio-noi-khong-bao-gio-phyllis-george-ky-nang-song_2827.html",
+    "title" : "Đừng Bao Giờ Nói Không Bao Giờ - Phyllis George",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phyllis George",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 21803,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_4032c099ba06cd2a8fc568f52887c6a3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_4032c099ba06cd2a8fc568f52887c6a3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dung-bao-gio-noi-khong-bao-gio.sna/01.DBGNKBG_B1_HayNoiCoVoiChinhMinh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3048,
+    "title" : "01.DBGNKBG B1 HayNoiCoVoiChinhMinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-bao-gio-noi-khong-bao-gio.sna/02.DBGNKBG_B2_DonNhanSuThayDoiNhuDonBangHuu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1729,
+    "title" : "02.DBGNKBG B2 DonNhanSuThayDoiNhuDonBangHuu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-bao-gio-noi-khong-bao-gio.sna/03.DBGNKBG_B3_ChapNhanMaoHiem.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1946,
+    "title" : "03.DBGNKBG B3 ChapNhanMaoHiem",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-bao-gio-noi-khong-bao-gio.sna/04.DBGNKBG_B4_TimKhoangTrongVaLapDay.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2170,
+    "title" : "04.DBGNKBG B4 TimKhoangTrongVaLapDay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-bao-gio-noi-khong-bao-gio.sna/05.DBGNKBG_B5_HayTinVaoBanNangCuaMinh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2160,
+    "title" : "05.DBGNKBG B5 HayTinVaoBanNangCuaMinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-bao-gio-noi-khong-bao-gio.sna/06.DBGNKBG_B6_GiuThaiDoPhongKhoangTrongChonLua.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1788,
+    "title" : "06.DBGNKBG B6 GiuThaiDoPhongKhoangTrongChonLua",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-bao-gio-noi-khong-bao-gio.sna/07.DBGNKBG_B7_CamNhanSucManhCuaSuTuTe.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1752,
+    "title" : "07.DBGNKBG B7 CamNhanSucManhCuaSuTuTe",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-bao-gio-noi-khong-bao-gio.sna/08.DBGNKBG_B8_DoiKhongHoanHao.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2357,
+    "title" : "08.DBGNKBG B8 DoiKhongHoanHao",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-bao-gio-noi-khong-bao-gio.sna/09.DBGNKBG_B9_GiuBinhTamVaTinhTri.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1920,
+    "title" : "09.DBGNKBG B9 GiuBinhTamVaTinhTri",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-bao-gio-noi-khong-bao-gio.sna/10.DBGNKBG_B10_BietCuoiMinh_HauTu_KhepLaiThemVaiDieuNua_HET.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2933,
+    "title" : "10.DBGNKBG B10 BietCuoiMinh HauTu KhepLaiThemVaiDieuNua HET",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dung-bao-gio-noi-khong-bao-gio.sna/01.DBGNKBG_B1_HayNoiCoVoiChinhMinh.mp3",
+    "title" : "01.DBGNKBG B1 HayNoiCoVoiChinhMinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-bao-gio-noi-khong-bao-gio.sna/02.DBGNKBG_B2_DonNhanSuThayDoiNhuDonBangHuu.mp3",
+    "title" : "02.DBGNKBG B2 DonNhanSuThayDoiNhuDonBangHuu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-bao-gio-noi-khong-bao-gio.sna/03.DBGNKBG_B3_ChapNhanMaoHiem.mp3",
+    "title" : "03.DBGNKBG B3 ChapNhanMaoHiem",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-bao-gio-noi-khong-bao-gio.sna/04.DBGNKBG_B4_TimKhoangTrongVaLapDay.mp3",
+    "title" : "04.DBGNKBG B4 TimKhoangTrongVaLapDay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-bao-gio-noi-khong-bao-gio.sna/05.DBGNKBG_B5_HayTinVaoBanNangCuaMinh.mp3",
+    "title" : "05.DBGNKBG B5 HayTinVaoBanNangCuaMinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-bao-gio-noi-khong-bao-gio.sna/06.DBGNKBG_B6_GiuThaiDoPhongKhoangTrongChonLua.mp3",
+    "title" : "06.DBGNKBG B6 GiuThaiDoPhongKhoangTrongChonLua",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-bao-gio-noi-khong-bao-gio.sna/07.DBGNKBG_B7_CamNhanSucManhCuaSuTuTe.mp3",
+    "title" : "07.DBGNKBG B7 CamNhanSucManhCuaSuTuTe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-bao-gio-noi-khong-bao-gio.sna/08.DBGNKBG_B8_DoiKhongHoanHao.mp3",
+    "title" : "08.DBGNKBG B8 DoiKhongHoanHao",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-bao-gio-noi-khong-bao-gio.sna/09.DBGNKBG_B9_GiuBinhTamVaTinhTri.mp3",
+    "title" : "09.DBGNKBG B9 GiuBinhTamVaTinhTri",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-bao-gio-noi-khong-bao-gio.sna/10.DBGNKBG_B10_BietCuoiMinh_HauTu_KhepLaiThemVaiDieuNua_HET.mp3",
+    "title" : "10.DBGNKBG B10 BietCuoiMinh HauTu KhepLaiThemVaiDieuNua HET",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

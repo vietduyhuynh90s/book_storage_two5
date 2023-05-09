@@ -1,0 +1,257 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/mot-thoi-cuong-say-nhat-tuy-kinh-nien-thuy-thien-thua_11879.html",
+    "title" : "Một Thời Cuồng Say (Nhất Túy Kinh Niên) - Thủy Thiên Thừa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thuỷ Thiên Thừa",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 96975,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_1c100b38fabc68eaeba1261c6d406f30.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_1c100b38fabc68eaeba1261c6d406f30.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/motthoicuongsay/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5448,
+    "title" : "Một Thời Cuồng Say H+ ( Tập 1 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/motthoicuongsay/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5427,
+    "title" : "Một Thời Cuồng Say ( Tập 10 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/motthoicuongsay/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5460,
+    "title" : "Một Thời Cuồng Say ( Tập 11 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/motthoicuongsay/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5428,
+    "title" : "Một Thời Cuồng Say ( Tập 12 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/motthoicuongsay/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5464,
+    "title" : "Một Thời Cuồng Say ( Tập 13 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/motthoicuongsay/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5524,
+    "title" : "Một Thời Cuồng Say ( Tập 14 ) Châu Gia Thiện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/motthoicuongsay/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5451,
+    "title" : "Một Thời Cuồng Say ( Tập 15 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/motthoicuongsay/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5433,
+    "title" : "Một Thời Cuồng Say ( Tập 16 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/motthoicuongsay/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5422,
+    "title" : "Một Thời Cuồng Say ( Tập 17 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/motthoicuongsay/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4024,
+    "title" : "Một Thời Cuồng Say ( Tập Cuối ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/motthoicuongsay/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5485,
+    "title" : "Một Thời Cuồng Say ( Tập 2 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/motthoicuongsay/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5506,
+    "title" : "Một Thời Cuồng Say ( Tập 3 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/motthoicuongsay/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5479,
+    "title" : "Một Thời Cuồng Say ( Tập 4 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/motthoicuongsay/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5498,
+    "title" : "Một Thời Cuồng Say ( Tập 5 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/motthoicuongsay/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5453,
+    "title" : "Một Thời Cuồng Say ( Tập 6 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/motthoicuongsay/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5501,
+    "title" : "Một Thời Cuồng Say ( Tập 7 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/motthoicuongsay/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5514,
+    "title" : "Một Thời Cuồng Say ( Tập 8 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/motthoicuongsay/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5458,
+    "title" : "Một Thời Cuồng Say ( Tập 9 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/motthoicuongsay/1.mp3",
+    "title" : "Một Thời Cuồng Say H+ ( Tập 1 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/motthoicuongsay/10.mp3",
+    "title" : "Một Thời Cuồng Say ( Tập 10 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/motthoicuongsay/11.mp3",
+    "title" : "Một Thời Cuồng Say ( Tập 11 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/motthoicuongsay/12.mp3",
+    "title" : "Một Thời Cuồng Say ( Tập 12 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/motthoicuongsay/13.mp3",
+    "title" : "Một Thời Cuồng Say ( Tập 13 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/motthoicuongsay/14.mp3",
+    "title" : "Một Thời Cuồng Say ( Tập 14 ) Châu Gia Thiện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/motthoicuongsay/15.mp3",
+    "title" : "Một Thời Cuồng Say ( Tập 15 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/motthoicuongsay/16.mp3",
+    "title" : "Một Thời Cuồng Say ( Tập 16 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/motthoicuongsay/17.mp3",
+    "title" : "Một Thời Cuồng Say ( Tập 17 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/motthoicuongsay/18.mp3",
+    "title" : "Một Thời Cuồng Say ( Tập Cuối ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/motthoicuongsay/2.mp3",
+    "title" : "Một Thời Cuồng Say ( Tập 2 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/motthoicuongsay/3.mp3",
+    "title" : "Một Thời Cuồng Say ( Tập 3 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/motthoicuongsay/4.mp3",
+    "title" : "Một Thời Cuồng Say ( Tập 4 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/motthoicuongsay/5.mp3",
+    "title" : "Một Thời Cuồng Say ( Tập 5 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/motthoicuongsay/6.mp3",
+    "title" : "Một Thời Cuồng Say ( Tập 6 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/motthoicuongsay/7.mp3",
+    "title" : "Một Thời Cuồng Say ( Tập 7 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/motthoicuongsay/8.mp3",
+    "title" : "Một Thời Cuồng Say ( Tập 8 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/motthoicuongsay/9.mp3",
+    "title" : "Một Thời Cuồng Say ( Tập 9 ) Châu Gia Thiện [ Đam mỹ Channel ]",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

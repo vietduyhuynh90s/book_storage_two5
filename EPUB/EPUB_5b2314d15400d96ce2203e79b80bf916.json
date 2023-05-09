@@ -1,0 +1,197 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ban-chanh_15049.html",
+    "title" : "Bạn Chanh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Giả Oán Chúc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 73399,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_5b2314d15400d96ce2203e79b80bf916.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_5b2314d15400d96ce2203e79b80bf916.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ban-chanh/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4553,
+    "title" : "Giá Oản Chúc - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ban-chanh/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6818,
+    "title" : "Giá Oản Chúc - Phần 10 (C65-C72)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ban-chanh/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6140,
+    "title" : "Giá Oản Chúc - Phần 11 (C73-C79)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ban-chanh/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5682,
+    "title" : "Giá Oản Chúc - Phần 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ban-chanh/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5515,
+    "title" : "Giá Oản Chúc - Phần 13 - END",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ban-chanh/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5329,
+    "title" : "Giá Oản Chúc - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ban-chanh/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5475,
+    "title" : "Giá Oản Chúc - Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ban-chanh/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5662,
+    "title" : "Giá Oản Chúc - Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ban-chanh/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5617,
+    "title" : "Giá Oản Chúc - Phần 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ban-chanh/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5609,
+    "title" : "Giá Oản Chúc - Phần 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ban-chanh/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5718,
+    "title" : "Giá Oản Chúc - Phần 7 (C43-C49)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ban-chanh/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5538,
+    "title" : "Giá Oản Chúc - Phần 8 (C50-C56)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ban-chanh/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5743,
+    "title" : "9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ban-chanh/1.mp3",
+    "title" : "Giá Oản Chúc - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ban-chanh/10.mp3",
+    "title" : "Giá Oản Chúc - Phần 10 (C65-C72)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ban-chanh/11.mp3",
+    "title" : "Giá Oản Chúc - Phần 11 (C73-C79)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ban-chanh/12.mp3",
+    "title" : "Giá Oản Chúc - Phần 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ban-chanh/13.mp3",
+    "title" : "Giá Oản Chúc - Phần 13 - END",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ban-chanh/2.mp3",
+    "title" : "Giá Oản Chúc - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ban-chanh/3.mp3",
+    "title" : "Giá Oản Chúc - Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ban-chanh/4.mp3",
+    "title" : "Giá Oản Chúc - Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ban-chanh/5.mp3",
+    "title" : "Giá Oản Chúc - Phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ban-chanh/6.mp3",
+    "title" : "Giá Oản Chúc - Phần 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ban-chanh/7.mp3",
+    "title" : "Giá Oản Chúc - Phần 7 (C43-C49)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ban-chanh/8.mp3",
+    "title" : "Giá Oản Chúc - Phần 8 (C50-C56)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ban-chanh/9.mp3",
+    "title" : "9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ben-troi-ngan-mai-khuc-dao-hoa_14560.html",
+    "title" : "Bên Trời Ngân Mãi Khúc Đào Hoa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Châu Văn Văn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 44188,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_c75566e116937cfe55984585ddfc8617.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_c75566e116937cfe55984585ddfc8617.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ben-troi-ngan-mai-khuc-dao-hoa/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 15071,
+    "title" : "CHÂU VĂN VĂN -ĐỌC TRUYỆN - PHẦN 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ben-troi-ngan-mai-khuc-dao-hoa/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14529,
+    "title" : "CHÂU VĂN VĂN - ĐỌC TRUYỆN - PHẦN 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ben-troi-ngan-mai-khuc-dao-hoa/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14588,
+    "title" : "CHÂU VĂN VĂN - ĐỌC TRUYỆN - PHẦN 3 - HẾT-",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ben-troi-ngan-mai-khuc-dao-hoa/1.mp3",
+    "title" : "CHÂU VĂN VĂN -ĐỌC TRUYỆN - PHẦN 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ben-troi-ngan-mai-khuc-dao-hoa/2.mp3",
+    "title" : "CHÂU VĂN VĂN - ĐỌC TRUYỆN - PHẦN 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ben-troi-ngan-mai-khuc-dao-hoa/3.mp3",
+    "title" : "CHÂU VĂN VĂN - ĐỌC TRUYỆN - PHẦN 3 - HẾT-",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

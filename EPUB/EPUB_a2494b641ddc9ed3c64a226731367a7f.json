@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ai-an-thau-ngan-cho-dai-tiec-thuong_14312.html",
+    "title" : "Ái Ân Thâu Ngắn Cho Dài Tiếc Thương",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Bình Nguyên Lộc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 27428,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_a2494b641ddc9ed3c64a226731367a7f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_a2494b641ddc9ed3c64a226731367a7f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ai-an-thau-ngan-cho-dai-tiec-thuong/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3768,
+    "title" : "Tập 01 - Tiểu thuyết tuyệt hay #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-an-thau-ngan-cho-dai-tiec-thuong/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3083,
+    "title" : "Tập 02 - Tiểu thuyết tuyệt hay #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-an-thau-ngan-cho-dai-tiec-thuong/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2986,
+    "title" : "Tập 03 - Tiểu thuyết tuyệt hay #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-an-thau-ngan-cho-dai-tiec-thuong/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3096,
+    "title" : "Tập 04 - #mcdinhduy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-an-thau-ngan-cho-dai-tiec-thuong/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2758,
+    "title" : "Tập 05 - Chuyến đi hụt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-an-thau-ngan-cho-dai-tiec-thuong/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3408,
+    "title" : "Tập 06 - Tiểu thuyết tuyệt hay #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-an-thau-ngan-cho-dai-tiec-thuong/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3587,
+    "title" : "Tập 07 - Tiểu thuyết tuyệt hay #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-an-thau-ngan-cho-dai-tiec-thuong/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3225,
+    "title" : "Tập 08 - Tiểu thuyết tuyệt hay #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ai-an-thau-ngan-cho-dai-tiec-thuong/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1517,
+    "title" : "Tập 09 (HẾT)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ai-an-thau-ngan-cho-dai-tiec-thuong/1.mp3",
+    "title" : "Tập 01 - Tiểu thuyết tuyệt hay #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-an-thau-ngan-cho-dai-tiec-thuong/2.mp3",
+    "title" : "Tập 02 - Tiểu thuyết tuyệt hay #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-an-thau-ngan-cho-dai-tiec-thuong/3.mp3",
+    "title" : "Tập 03 - Tiểu thuyết tuyệt hay #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-an-thau-ngan-cho-dai-tiec-thuong/4.mp3",
+    "title" : "Tập 04 - #mcdinhduy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-an-thau-ngan-cho-dai-tiec-thuong/5.mp3",
+    "title" : "Tập 05 - Chuyến đi hụt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-an-thau-ngan-cho-dai-tiec-thuong/6.mp3",
+    "title" : "Tập 06 - Tiểu thuyết tuyệt hay #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-an-thau-ngan-cho-dai-tiec-thuong/7.mp3",
+    "title" : "Tập 07 - Tiểu thuyết tuyệt hay #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-an-thau-ngan-cho-dai-tiec-thuong/8.mp3",
+    "title" : "Tập 08 - Tiểu thuyết tuyệt hay #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-an-thau-ngan-cho-dai-tiec-thuong/9.mp3",
+    "title" : "Tập 09 (HẾT)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

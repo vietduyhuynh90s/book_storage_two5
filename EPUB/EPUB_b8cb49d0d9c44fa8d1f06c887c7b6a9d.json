@@ -1,0 +1,233 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tong-tai-thuc-dang-so_15078.html",
+    "title" : "Tổng Tài Thực Đáng Sợ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Cận Niên",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 121556,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_b8cb49d0d9c44fa8d1f06c887c7b6a9d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_b8cb49d0d9c44fa8d1f06c887c7b6a9d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tong-tai-thuc-dang-so/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8527,
+    "title" : "Truyện ngôn tình hiện đại hay, hấp dẫn từ đầu đến cuối",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-thuc-dang-so/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8474,
+    "title" : "Truyện ngôn tình hiện đại hay và mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-thuc-dang-so/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6426,
+    "title" : "Truyện ngôn tình hiện đại càng nghe càng hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-thuc-dang-so/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8376,
+    "title" : "Truyện ngôn tình hiện đại hay và vô cùng hấp dẫn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-thuc-dang-so/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6089,
+    "title" : "Truyện ngôn tình hiện đại hay, hấp dẫn đến từng chi tiết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-thuc-dang-so/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7288,
+    "title" : "Truyện ngôn tình hiện đại hay đến từng chi tiết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-thuc-dang-so/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8428,
+    "title" : "Truyện ngôn tình hay rất đáng để nghe",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-thuc-dang-so/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5050,
+    "title" : "Truyện ngôn tình hay và vô cùng ý nghĩa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-thuc-dang-so/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7361,
+    "title" : "Truyện ngôn tình hiện đại hay nhất nghe là mê luôn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-thuc-dang-so/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8037,
+    "title" : "Truyện ngôn tình hiện đại hay hàng đầu hiện nay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-thuc-dang-so/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7992,
+    "title" : "Truyện ngôn tình hiện đại hay nhất hiện nay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-thuc-dang-so/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7619,
+    "title" : "Truyện ngôn tình hiện đại hay nghe rất cảm động",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-thuc-dang-so/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8275,
+    "title" : "Truyện ngôn tình hiện đại hay nghe rất nghiền",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-thuc-dang-so/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6173,
+    "title" : "Truyện ngôn tình hay và đặc sắc nhất hiện nay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-thuc-dang-so/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8700,
+    "title" : "Truyện ngôn tình hiện đại hay rất đáng để nghe",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tong-tai-thuc-dang-so/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8741,
+    "title" : "Truyện ngôn tình hiện đại hay, đặc sắc nhất hiện nay",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tong-tai-thuc-dang-so/1.mp3",
+    "title" : "Truyện ngôn tình hiện đại hay, hấp dẫn từ đầu đến cuối",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-thuc-dang-so/10.mp3",
+    "title" : "Truyện ngôn tình hiện đại hay và mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-thuc-dang-so/11.mp3",
+    "title" : "Truyện ngôn tình hiện đại càng nghe càng hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-thuc-dang-so/12.mp3",
+    "title" : "Truyện ngôn tình hiện đại hay và vô cùng hấp dẫn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-thuc-dang-so/13.mp3",
+    "title" : "Truyện ngôn tình hiện đại hay, hấp dẫn đến từng chi tiết",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-thuc-dang-so/14.mp3",
+    "title" : "Truyện ngôn tình hiện đại hay đến từng chi tiết",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-thuc-dang-so/15.mp3",
+    "title" : "Truyện ngôn tình hay rất đáng để nghe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-thuc-dang-so/16.mp3",
+    "title" : "Truyện ngôn tình hay và vô cùng ý nghĩa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-thuc-dang-so/2.mp3",
+    "title" : "Truyện ngôn tình hiện đại hay nhất nghe là mê luôn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-thuc-dang-so/3.mp3",
+    "title" : "Truyện ngôn tình hiện đại hay hàng đầu hiện nay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-thuc-dang-so/4.mp3",
+    "title" : "Truyện ngôn tình hiện đại hay nhất hiện nay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-thuc-dang-so/5.mp3",
+    "title" : "Truyện ngôn tình hiện đại hay nghe rất cảm động",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-thuc-dang-so/6.mp3",
+    "title" : "Truyện ngôn tình hiện đại hay nghe rất nghiền",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-thuc-dang-so/7.mp3",
+    "title" : "Truyện ngôn tình hay và đặc sắc nhất hiện nay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-thuc-dang-so/8.mp3",
+    "title" : "Truyện ngôn tình hiện đại hay rất đáng để nghe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tong-tai-thuc-dang-so/9.mp3",
+    "title" : "Truyện ngôn tình hiện đại hay, đặc sắc nhất hiện nay",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,461 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/la-mai-nuong-te-phong-quan_10036.html",
+    "title" : "Lã Mai Nương - Tề Phong Quân.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tề Phong Quân",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 164600,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_c5190779445cb3a7670462ce444ddc62.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_c5190779445cb3a7670462ce444ddc62.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 584,
+    "title" : "1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4219,
+    "title" : "10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3422,
+    "title" : "11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3378,
+    "title" : "12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3839,
+    "title" : "13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2770,
+    "title" : "14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4165,
+    "title" : "15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5772,
+    "title" : "16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6529,
+    "title" : "17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7076,
+    "title" : "18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3877,
+    "title" : "19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 786,
+    "title" : "2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1170,
+    "title" : "20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4881,
+    "title" : "21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4881,
+    "title" : "22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3526,
+    "title" : "23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3767,
+    "title" : "24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2102,
+    "title" : "25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3086,
+    "title" : "26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2896,
+    "title" : "27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7282,
+    "title" : "28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10694,
+    "title" : "29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2335,
+    "title" : "3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9618,
+    "title" : "30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10680,
+    "title" : "31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7364,
+    "title" : "32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9349,
+    "title" : "33",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9275,
+    "title" : "34",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3047,
+    "title" : "35",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3769,
+    "title" : "4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2255,
+    "title" : "5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4886,
+    "title" : "6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3324,
+    "title" : "7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2012,
+    "title" : "8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5984,
+    "title" : "Unknown",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/1.mp3",
+    "title" : "1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/10.mp3",
+    "title" : "10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/11.mp3",
+    "title" : "11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/12.mp3",
+    "title" : "12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/13.mp3",
+    "title" : "13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/14.mp3",
+    "title" : "14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/15.mp3",
+    "title" : "15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/16.mp3",
+    "title" : "16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/17.mp3",
+    "title" : "17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/18.mp3",
+    "title" : "18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/19.mp3",
+    "title" : "19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/2.mp3",
+    "title" : "2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/20.mp3",
+    "title" : "20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/21.mp3",
+    "title" : "21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/22.mp3",
+    "title" : "22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/23.mp3",
+    "title" : "23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/24.mp3",
+    "title" : "24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/25.mp3",
+    "title" : "25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/26.mp3",
+    "title" : "26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/27.mp3",
+    "title" : "27",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/28.mp3",
+    "title" : "28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/29.mp3",
+    "title" : "29",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/3.mp3",
+    "title" : "3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/30.mp3",
+    "title" : "30",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/31.mp3",
+    "title" : "31",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/32.mp3",
+    "title" : "32",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/33.mp3",
+    "title" : "33",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/34.mp3",
+    "title" : "34",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/35.mp3",
+    "title" : "35",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/4.mp3",
+    "title" : "4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/5.mp3",
+    "title" : "5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/6.mp3",
+    "title" : "6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/7.mp3",
+    "title" : "7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/8.mp3",
+    "title" : "8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Lmn/9.mp3",
+    "title" : "Unknown",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

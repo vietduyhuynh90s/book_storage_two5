@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ngoan-do-anh_15332.html",
+    "title" : "Ngoan, Dỗ Anh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Dạ Tử Tân",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 26498,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_bbbbb4a6f5e63d45218f11faac0ad11b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_bbbbb4a6f5e63d45218f11faac0ad11b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ngoan-do-anh/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4426,
+    "title" : "Vợ yêu theo đuổi tổng tài giả nghèo| Truyện ngôn tình sủng cực hay| Tuyệt phẩm ngôn tình hiện đại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoan-do-anh/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3431,
+    "title" : "[P2] Vợ yêu theo đuổi tổng tài giả nghèo| Sao anh trốn em mãi thế| Truyện ngôn tình sủng hiện đại HE",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoan-do-anh/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4139,
+    "title" : "[P3] Vợ yêu theo đuổi tổng tài giả nghèo| Đừng động vào người phụ nữ của tôi| Truyện ngôn tình hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoan-do-anh/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3918,
+    "title" : "[P4] Vợ yêu theo đuổi tổng tài giả nghèo| Siêu phẩm ngôn tình hiện đại, sủng ngọt, nữ cường cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoan-do-anh/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3654,
+    "title" : "[P5] Vợ yêu theo đuổi tổng tài giả nghèo| Cho phép anh hôn em| Siêu phẩm ngôn tình hiện đại, sủng,HE",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoan-do-anh/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3662,
+    "title" : "[P6] Vợ yêu theo đuổi tổng tài giả nghèo|Bạn gái tôi chính là tiểu phú bà| Truyện ngôn tình sủng HE",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoan-do-anh/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3268,
+    "title" : "[Tập cuối cực hay] Vợ yêu theo đuổi tổng tài giả nghèo| Truyện ngôn tình sủng hiện đại cực hay",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ngoan-do-anh/1.mp3",
+    "title" : "Vợ yêu theo đuổi tổng tài giả nghèo| Truyện ngôn tình sủng cực hay| Tuyệt phẩm ngôn tình hiện đại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoan-do-anh/2.mp3",
+    "title" : "[P2] Vợ yêu theo đuổi tổng tài giả nghèo| Sao anh trốn em mãi thế| Truyện ngôn tình sủng hiện đại HE",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoan-do-anh/3.mp3",
+    "title" : "[P3] Vợ yêu theo đuổi tổng tài giả nghèo| Đừng động vào người phụ nữ của tôi| Truyện ngôn tình hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoan-do-anh/4.mp3",
+    "title" : "[P4] Vợ yêu theo đuổi tổng tài giả nghèo| Siêu phẩm ngôn tình hiện đại, sủng ngọt, nữ cường cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoan-do-anh/5.mp3",
+    "title" : "[P5] Vợ yêu theo đuổi tổng tài giả nghèo| Cho phép anh hôn em| Siêu phẩm ngôn tình hiện đại, sủng,HE",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoan-do-anh/6.mp3",
+    "title" : "[P6] Vợ yêu theo đuổi tổng tài giả nghèo|Bạn gái tôi chính là tiểu phú bà| Truyện ngôn tình sủng HE",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoan-do-anh/7.mp3",
+    "title" : "[Tập cuối cực hay] Vợ yêu theo đuổi tổng tài giả nghèo| Truyện ngôn tình sủng hiện đại cực hay",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

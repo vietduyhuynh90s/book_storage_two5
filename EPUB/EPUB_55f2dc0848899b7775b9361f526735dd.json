@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/lam-giau-mot-cach-khoa-hoc_5116.html",
+    "title" : "Làm Giàu Một Cách Khoa Học",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Wallace D. Wattles",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 7170,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_55f2dc0848899b7775b9361f526735dd.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_55f2dc0848899b7775b9361f526735dd.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/lam-giau-mot-cach-khoa-hoc.sna/00.Gioithieu_LamGiauMotCachKhoaHoc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 454,
+    "title" : "00.Gioithieu LamGiauMotCachKhoaHoc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-giau-mot-cach-khoa-hoc.sna/01.P01_LamGiauMotCachKhoaHoc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1595,
+    "title" : "01.P01 LamGiauMotCachKhoaHoc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-giau-mot-cach-khoa-hoc.sna/02.P02_LamGiauMotCachKhoaHoc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1748,
+    "title" : "02.P02 LamGiauMotCachKhoaHoc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-giau-mot-cach-khoa-hoc.sna/03.P03_LamGiauMotCachKhoaHoc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1710,
+    "title" : "03.P03 LamGiauMotCachKhoaHoc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-giau-mot-cach-khoa-hoc.sna/04.P04_Het_LamGiauMotCachKhoaHoc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1663,
+    "title" : "04.P04 Het LamGiauMotCachKhoaHoc",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/lam-giau-mot-cach-khoa-hoc.sna/00.Gioithieu_LamGiauMotCachKhoaHoc.mp3",
+    "title" : "00.Gioithieu LamGiauMotCachKhoaHoc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-giau-mot-cach-khoa-hoc.sna/01.P01_LamGiauMotCachKhoaHoc.mp3",
+    "title" : "01.P01 LamGiauMotCachKhoaHoc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-giau-mot-cach-khoa-hoc.sna/02.P02_LamGiauMotCachKhoaHoc.mp3",
+    "title" : "02.P02 LamGiauMotCachKhoaHoc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-giau-mot-cach-khoa-hoc.sna/03.P03_LamGiauMotCachKhoaHoc.mp3",
+    "title" : "03.P03 LamGiauMotCachKhoaHoc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-giau-mot-cach-khoa-hoc.sna/04.P04_Het_LamGiauMotCachKhoaHoc.mp3",
+    "title" : "04.P04 Het LamGiauMotCachKhoaHoc",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/am-duong-dao-su_15641.html",
+    "title" : "Âm Dương Đạo Sư",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hàn Bảo",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 25037,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_2790e306d42e93e133c08c6d4e1fa11d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_2790e306d42e93e133c08c6d4e1fa11d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/am-duong-dao-nhan/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3915,
+    "title" : "Truyện ma pháp sư : Âm Dương đạo sư Tập 1 | Quàng A Tũn diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-duong-dao-nhan/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3729,
+    "title" : "Truyện ma pháp sư : Âm Dương đạo sư Tập 2 | Quàng A Tũn diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-duong-dao-nhan/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3892,
+    "title" : "Truyện ma pháp sư : Âm Dương đạo sư Tập 3 | Quàng A Tũn diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-duong-dao-nhan/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3945,
+    "title" : "Truyện ma pháp sư : Âm Dương đạo sư Tập 4 | Quàng A Tũn diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-duong-dao-nhan/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3817,
+    "title" : "Truyện ma pháp sư : Âm Dương đạo sư Tập 5 | Quàng A Tũn diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-duong-dao-nhan/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3109,
+    "title" : "Truyện ma pháp sư : Âm Dương đạo sư Tập 6 | Quàng A Tũn diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-duong-dao-nhan/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2630,
+    "title" : "Truyện ma pháp sư : Âm Dương đạo sư Tập 7 Kết | Quàng A Tũn diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/am-duong-dao-nhan/1.mp3",
+    "title" : "Truyện ma pháp sư : Âm Dương đạo sư Tập 1 | Quàng A Tũn diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-duong-dao-nhan/2.mp3",
+    "title" : "Truyện ma pháp sư : Âm Dương đạo sư Tập 2 | Quàng A Tũn diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-duong-dao-nhan/3.mp3",
+    "title" : "Truyện ma pháp sư : Âm Dương đạo sư Tập 3 | Quàng A Tũn diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-duong-dao-nhan/4.mp3",
+    "title" : "Truyện ma pháp sư : Âm Dương đạo sư Tập 4 | Quàng A Tũn diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-duong-dao-nhan/5.mp3",
+    "title" : "Truyện ma pháp sư : Âm Dương đạo sư Tập 5 | Quàng A Tũn diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-duong-dao-nhan/6.mp3",
+    "title" : "Truyện ma pháp sư : Âm Dương đạo sư Tập 6 | Quàng A Tũn diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-duong-dao-nhan/7.mp3",
+    "title" : "Truyện ma pháp sư : Âm Dương đạo sư Tập 7 Kết | Quàng A Tũn diễn đọc",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

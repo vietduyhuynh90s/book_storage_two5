@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cong-chua-anh-yeu-em-windy_11845.html",
+    "title" : "Công Chúa! Anh Yêu Em.. - Windy",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Windy",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 21878,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_e192003a68382202371c0b121b5258b2.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_e192003a68382202371c0b121b5258b2.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/congchuaanhyeuem/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7459,
+    "title" : "Truyện ngắn hay chọn lọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/congchuaanhyeuem/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6959,
+    "title" : "Tập 2 | Đọc truyện ngắn tình yêu hay nhất hiện nay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/congchuaanhyeuem/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7460,
+    "title" : "Tập 3 (Hết) | Truyện tình yêu hay và cảm động",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/congchuaanhyeuem/1.mp3",
+    "title" : "Truyện ngắn hay chọn lọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/congchuaanhyeuem/2.mp3",
+    "title" : "Tập 2 | Đọc truyện ngắn tình yêu hay nhất hiện nay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/congchuaanhyeuem/3.mp3",
+    "title" : "Tập 3 (Hết) | Truyện tình yêu hay và cảm động",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

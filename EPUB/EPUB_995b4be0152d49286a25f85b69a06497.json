@@ -1,0 +1,269 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/robinson-crusoe-lac-tren-hoang-dao_10363.html",
+    "title" : "Robinson Crusoe Lạc Trên Hoang Đảo",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Daniel Defoe",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 24528,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_995b4be0152d49286a25f85b69a06497.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_995b4be0152d49286a25f85b69a06497.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/robinson-crusoe-lac-tren-hoang-dao/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1345,
+    "title" : "1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/robinson-crusoe-lac-tren-hoang-dao/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1680,
+    "title" : "10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/robinson-crusoe-lac-tren-hoang-dao/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 916,
+    "title" : "11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/robinson-crusoe-lac-tren-hoang-dao/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1588,
+    "title" : "12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/robinson-crusoe-lac-tren-hoang-dao/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1160,
+    "title" : "13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/robinson-crusoe-lac-tren-hoang-dao/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1760,
+    "title" : "14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/robinson-crusoe-lac-tren-hoang-dao/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1573,
+    "title" : "15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/robinson-crusoe-lac-tren-hoang-dao/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1529,
+    "title" : "16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/robinson-crusoe-lac-tren-hoang-dao/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 654,
+    "title" : "17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/robinson-crusoe-lac-tren-hoang-dao/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1515,
+    "title" : "18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/robinson-crusoe-lac-tren-hoang-dao/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 213,
+    "title" : "19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/robinson-crusoe-lac-tren-hoang-dao/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1178,
+    "title" : "2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/robinson-crusoe-lac-tren-hoang-dao/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1408,
+    "title" : "3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/robinson-crusoe-lac-tren-hoang-dao/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1763,
+    "title" : "4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/robinson-crusoe-lac-tren-hoang-dao/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1397,
+    "title" : "5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/robinson-crusoe-lac-tren-hoang-dao/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1053,
+    "title" : "6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/robinson-crusoe-lac-tren-hoang-dao/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1710,
+    "title" : "7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/robinson-crusoe-lac-tren-hoang-dao/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1355,
+    "title" : "8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/robinson-crusoe-lac-tren-hoang-dao/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 731,
+    "title" : "9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/robinson-crusoe-lac-tren-hoang-dao/1.mp3",
+    "title" : "1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/robinson-crusoe-lac-tren-hoang-dao/10.mp3",
+    "title" : "10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/robinson-crusoe-lac-tren-hoang-dao/11.mp3",
+    "title" : "11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/robinson-crusoe-lac-tren-hoang-dao/12.mp3",
+    "title" : "12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/robinson-crusoe-lac-tren-hoang-dao/13.mp3",
+    "title" : "13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/robinson-crusoe-lac-tren-hoang-dao/14.mp3",
+    "title" : "14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/robinson-crusoe-lac-tren-hoang-dao/15.mp3",
+    "title" : "15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/robinson-crusoe-lac-tren-hoang-dao/16.mp3",
+    "title" : "16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/robinson-crusoe-lac-tren-hoang-dao/17.mp3",
+    "title" : "17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/robinson-crusoe-lac-tren-hoang-dao/18.mp3",
+    "title" : "18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/robinson-crusoe-lac-tren-hoang-dao/19.mp3",
+    "title" : "19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/robinson-crusoe-lac-tren-hoang-dao/2.mp3",
+    "title" : "2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/robinson-crusoe-lac-tren-hoang-dao/3.mp3",
+    "title" : "3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/robinson-crusoe-lac-tren-hoang-dao/4.mp3",
+    "title" : "4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/robinson-crusoe-lac-tren-hoang-dao/5.mp3",
+    "title" : "5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/robinson-crusoe-lac-tren-hoang-dao/6.mp3",
+    "title" : "6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/robinson-crusoe-lac-tren-hoang-dao/7.mp3",
+    "title" : "7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/robinson-crusoe-lac-tren-hoang-dao/8.mp3",
+    "title" : "8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/robinson-crusoe-lac-tren-hoang-dao/9.mp3",
+    "title" : "9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

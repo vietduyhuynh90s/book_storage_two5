@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nu-tu-si-denis-diderot_10184.html",
+    "title" : "Nữ Tu Sĩ - Denis Diderot",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Denis Diderot",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 25054,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_df1a2c9b5c0197eac75a4000e0afdd18.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_df1a2c9b5c0197eac75a4000e0afdd18.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nutusi_201903/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3760,
+    "title" : "Tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nutusi_201903/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3775,
+    "title" : "Tập 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nutusi_201903/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5410,
+    "title" : "Tập 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nutusi_201903/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3295,
+    "title" : "Tập 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nutusi_201903/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2700,
+    "title" : "Tập 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nutusi_201903/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2242,
+    "title" : "Tập 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nutusi_201903/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2029,
+    "title" : "Tập 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nutusi_201903/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1843,
+    "title" : "Tập 8 End",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nutusi_201903/1.mp3",
+    "title" : "Tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nutusi_201903/2.mp3",
+    "title" : "Tập 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nutusi_201903/3.mp3",
+    "title" : "Tập 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nutusi_201903/4.mp3",
+    "title" : "Tập 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nutusi_201903/5.mp3",
+    "title" : "Tập 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nutusi_201903/6.mp3",
+    "title" : "Tập 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nutusi_201903/7.mp3",
+    "title" : "Tập 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nutusi_201903/8.mp3",
+    "title" : "Tập 8 End",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

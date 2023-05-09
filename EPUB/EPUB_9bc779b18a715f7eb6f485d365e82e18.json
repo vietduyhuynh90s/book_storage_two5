@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ngay-nguoi-thuong-mot-nguoi-thuong-khac_19192.html",
+    "title" : "Ngày Người Thương Một Người Thương Khác",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trí",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 13464,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_9bc779b18a715f7eb6f485d365e82e18.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_9bc779b18a715f7eb6f485d365e82e18.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ngay-nguoi-1/ngay-nguoi-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "ngay-nguoi-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngay-nguoi-1/ngay-nguoi-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "ngay-nguoi-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngay-nguoi-1/ngay-nguoi-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "ngay-nguoi-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngay-nguoi-1/ngay-nguoi-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2664,
+    "title" : "ngay-nguoi-4",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ngay-nguoi-1/ngay-nguoi-1.mp3",
+    "title" : "ngay-nguoi-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngay-nguoi-1/ngay-nguoi-2.mp3",
+    "title" : "ngay-nguoi-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngay-nguoi-1/ngay-nguoi-3.mp3",
+    "title" : "ngay-nguoi-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngay-nguoi-1/ngay-nguoi-4.mp3",
+    "title" : "ngay-nguoi-4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

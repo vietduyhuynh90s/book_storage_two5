@@ -1,0 +1,353 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/doc-quyen-chiem-huu-dinh-mac_10158.html",
+    "title" : "Độc Quyền Chiếm Hữu - Đinh Mặc.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đinh Mặc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 91758,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_a781fd213472b6a2c5badba8072971b7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_a781fd213472b6a2c5badba8072971b7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/docquyenchiemhuu/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3228,
+    "title" : "Audio Truyện Ngôn Tình | Độc Quyền Chiếm Hữu (Phần 1) [Kho Truyện Hay]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/docquyenchiemhuu/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2820,
+    "title" : "Audio Truyện Ngôn Tình | Độc Quyền Chiếm Hữu (Phần 10) [Kho Truyện Hay]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/docquyenchiemhuu/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3463,
+    "title" : "Audio Truyện Ngôn Tình | Độc Quyền Chiếm Hữu (Phần 11) [Kho Truyện Hay]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/docquyenchiemhuu/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3563,
+    "title" : "Audio Truyện Ngôn Tình | Độc Quyền Chiếm Hữu (Phần 12) [Kho Truyện Hay]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/docquyenchiemhuu/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3763,
+    "title" : "Audio Truyện Ngôn Tình | Độc Quyền Chiếm Hữu (Phần 13) [Kho Truyện Hay]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/docquyenchiemhuu/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4281,
+    "title" : "Audio Truyện Ngôn Tình | Độc Quyền Chiếm Hữu (Phần 14) [Kho Truyện Hay]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/docquyenchiemhuu/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3040,
+    "title" : "Audio Truyện Ngôn Tình | Độc Quyền Chiếm Hữu (Phần 15) [Kho Truyện Hay]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/docquyenchiemhuu/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4014,
+    "title" : "Audio Truyện Ngôn Tình | Độc Quyền Chiếm Hữu (Phần 16) [Kho Truyện Hay]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/docquyenchiemhuu/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3477,
+    "title" : "Audio Truyện Ngôn Tình | Độc Quyền Chiếm Hữu (Phần 17) [Kho Truyện Hay]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/docquyenchiemhuu/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3901,
+    "title" : "Audio Truyện Ngôn Tình | Độc Quyền Chiếm Hữu (Phần 18) [Kho Truyện Hay]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/docquyenchiemhuu/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3060,
+    "title" : "Audio Truyện Ngôn Tình | Độc Quyền Chiếm Hữu (Phần 19) [Kho Truyện Hay]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/docquyenchiemhuu/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3351,
+    "title" : "Audio Truyện Ngôn Tình | Độc Quyền Chiếm Hữu (Phần 2) [Kho Truyện Hay]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/docquyenchiemhuu/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3651,
+    "title" : "Audio Truyện Ngôn Tình | Độc Quyền Chiếm Hữu (Phần 20) [Kho Truyện Hay]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/docquyenchiemhuu/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4216,
+    "title" : "Audio Truyện Ngôn Tình | Độc Quyền Chiếm Hữu (Phần 21) [Kho Truyện Hay]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/docquyenchiemhuu/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4262,
+    "title" : "Audio Truyện Ngôn Tình | Độc Quyền Chiếm Hữu (Phần 22) [Kho Truyện Hay]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/docquyenchiemhuu/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4515,
+    "title" : "Audio Truyện Ngôn Tình | Độc Quyền Chiếm Hữu (Phần 23) [Kho Truyện Hay]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/docquyenchiemhuu/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4139,
+    "title" : "Audio Truyện Ngôn Tình | Độc Quyền Chiếm Hữu (Phần 24) [Kho Truyện Hay]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/docquyenchiemhuu/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3557,
+    "title" : "Audio Truyện Ngôn Tình | Độc Quyền Chiếm Hữu (Phần 25) [Kho Truyện Hay]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/docquyenchiemhuu/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4195,
+    "title" : "Audio Truyện Ngôn Tình | Độc Quyền Chiếm Hữu (Phần Cuối) [Kho Truyện Hay]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/docquyenchiemhuu/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3143,
+    "title" : "Audio Truyện Ngôn Tình | Độc Quyền Chiếm Hữu (Phần 3) [Kho Truyện Hay]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/docquyenchiemhuu/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3366,
+    "title" : "Audio Truyện Ngôn Tình | Độc Quyền Chiếm Hữu (Phần 4) [Kho Truyện Hay]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/docquyenchiemhuu/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3068,
+    "title" : "Audio Truyện Ngôn Tình | Độc Quyền Chiếm Hữu (Phần 5) [Kho Truyện Hay]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/docquyenchiemhuu/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2700,
+    "title" : "Audio Truyện Ngôn Tình | Độc Quyền Chiếm Hữu (Phần 6) [Kho Truyện Hay]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/docquyenchiemhuu/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2930,
+    "title" : "Audio Truyện Ngôn Tình | Độc Quyền Chiếm Hữu (Phần 7) [Kho Truyện Hay]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/docquyenchiemhuu/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3223,
+    "title" : "Audio Truyện Ngôn Tình | Độc Quyền Chiếm Hữu (Phần 8) [Kho Truyện Hay]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/docquyenchiemhuu/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2832,
+    "title" : "Audio Truyện Ngôn Tình | Độc Quyền Chiếm Hữu (Phần 9) [Kho Truyện Hay]",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/docquyenchiemhuu/1.mp3",
+    "title" : "Audio Truyện Ngôn Tình | Độc Quyền Chiếm Hữu (Phần 1) [Kho Truyện Hay]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/docquyenchiemhuu/10.mp3",
+    "title" : "Audio Truyện Ngôn Tình | Độc Quyền Chiếm Hữu (Phần 10) [Kho Truyện Hay]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/docquyenchiemhuu/11.mp3",
+    "title" : "Audio Truyện Ngôn Tình | Độc Quyền Chiếm Hữu (Phần 11) [Kho Truyện Hay]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/docquyenchiemhuu/12.mp3",
+    "title" : "Audio Truyện Ngôn Tình | Độc Quyền Chiếm Hữu (Phần 12) [Kho Truyện Hay]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/docquyenchiemhuu/13.mp3",
+    "title" : "Audio Truyện Ngôn Tình | Độc Quyền Chiếm Hữu (Phần 13) [Kho Truyện Hay]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/docquyenchiemhuu/14.mp3",
+    "title" : "Audio Truyện Ngôn Tình | Độc Quyền Chiếm Hữu (Phần 14) [Kho Truyện Hay]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/docquyenchiemhuu/15.mp3",
+    "title" : "Audio Truyện Ngôn Tình | Độc Quyền Chiếm Hữu (Phần 15) [Kho Truyện Hay]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/docquyenchiemhuu/16.mp3",
+    "title" : "Audio Truyện Ngôn Tình | Độc Quyền Chiếm Hữu (Phần 16) [Kho Truyện Hay]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/docquyenchiemhuu/17.mp3",
+    "title" : "Audio Truyện Ngôn Tình | Độc Quyền Chiếm Hữu (Phần 17) [Kho Truyện Hay]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/docquyenchiemhuu/18.mp3",
+    "title" : "Audio Truyện Ngôn Tình | Độc Quyền Chiếm Hữu (Phần 18) [Kho Truyện Hay]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/docquyenchiemhuu/19.mp3",
+    "title" : "Audio Truyện Ngôn Tình | Độc Quyền Chiếm Hữu (Phần 19) [Kho Truyện Hay]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/docquyenchiemhuu/2.mp3",
+    "title" : "Audio Truyện Ngôn Tình | Độc Quyền Chiếm Hữu (Phần 2) [Kho Truyện Hay]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/docquyenchiemhuu/20.mp3",
+    "title" : "Audio Truyện Ngôn Tình | Độc Quyền Chiếm Hữu (Phần 20) [Kho Truyện Hay]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/docquyenchiemhuu/21.mp3",
+    "title" : "Audio Truyện Ngôn Tình | Độc Quyền Chiếm Hữu (Phần 21) [Kho Truyện Hay]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/docquyenchiemhuu/22.mp3",
+    "title" : "Audio Truyện Ngôn Tình | Độc Quyền Chiếm Hữu (Phần 22) [Kho Truyện Hay]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/docquyenchiemhuu/23.mp3",
+    "title" : "Audio Truyện Ngôn Tình | Độc Quyền Chiếm Hữu (Phần 23) [Kho Truyện Hay]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/docquyenchiemhuu/24.mp3",
+    "title" : "Audio Truyện Ngôn Tình | Độc Quyền Chiếm Hữu (Phần 24) [Kho Truyện Hay]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/docquyenchiemhuu/25.mp3",
+    "title" : "Audio Truyện Ngôn Tình | Độc Quyền Chiếm Hữu (Phần 25) [Kho Truyện Hay]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/docquyenchiemhuu/26.mp3",
+    "title" : "Audio Truyện Ngôn Tình | Độc Quyền Chiếm Hữu (Phần Cuối) [Kho Truyện Hay]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/docquyenchiemhuu/3.mp3",
+    "title" : "Audio Truyện Ngôn Tình | Độc Quyền Chiếm Hữu (Phần 3) [Kho Truyện Hay]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/docquyenchiemhuu/4.mp3",
+    "title" : "Audio Truyện Ngôn Tình | Độc Quyền Chiếm Hữu (Phần 4) [Kho Truyện Hay]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/docquyenchiemhuu/5.mp3",
+    "title" : "Audio Truyện Ngôn Tình | Độc Quyền Chiếm Hữu (Phần 5) [Kho Truyện Hay]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/docquyenchiemhuu/6.mp3",
+    "title" : "Audio Truyện Ngôn Tình | Độc Quyền Chiếm Hữu (Phần 6) [Kho Truyện Hay]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/docquyenchiemhuu/7.mp3",
+    "title" : "Audio Truyện Ngôn Tình | Độc Quyền Chiếm Hữu (Phần 7) [Kho Truyện Hay]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/docquyenchiemhuu/8.mp3",
+    "title" : "Audio Truyện Ngôn Tình | Độc Quyền Chiếm Hữu (Phần 8) [Kho Truyện Hay]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/docquyenchiemhuu/9.mp3",
+    "title" : "Audio Truyện Ngôn Tình | Độc Quyền Chiếm Hữu (Phần 9) [Kho Truyện Hay]",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

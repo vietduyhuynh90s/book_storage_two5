@@ -1,0 +1,197 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/no-tinh_15722.html",
+    "title" : "Nợ Tình",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Agatha Christie",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 15198,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_02fe2c6f5a0ddbacbfdcdc5196bf56a3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_02fe2c6f5a0ddbacbfdcdc5196bf56a3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/notinhchuong12va13agathachristiengocnhu/N%E1%BB%A3%20t%C3%ACnh%20Ch%C6%B0%C6%A1ng%2001%20Tr%C3%AD%20nh%E1%BB%9B%20c%E1%BB%A7a%20lo%C3%A0i%20voi%20Agatha%20Christie%20Hercule%20Poirot.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1530,
+    "title" : "Nợ tình Chương 1 Trí nhớ của loài voi Agatha Christie Hercule Poirot",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/notinhchuong12va13agathachristiengocnhu/N%E1%BB%A3%20t%C3%ACnh%20Ch%C6%B0%C6%A1ng%2002%20Agatha%20Christie%20Hercule%20Poirot.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1065,
+    "title" : "Nợ tình Chương 2 Agatha Christie Hercule Poirot",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/notinhchuong12va13agathachristiengocnhu/N%E1%BB%A3%20t%C3%ACnh%20Ch%C6%B0%C6%A1ng%2003%20Agatha%20Christie%20Hercule%20Poirot.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 820,
+    "title" : "Nợ tình Chương 3 Agatha Christie Hercule Poirot",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/notinhchuong12va13agathachristiengocnhu/N%E1%BB%A3%20t%C3%ACnh%20Ch%C6%B0%C6%A1ng%2004%20Agatha%20Christie%20Ngoc%20Nhu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 834,
+    "title" : "Nợ tình Chương 4 Agatha Christie Ngoc Nhu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/notinhchuong12va13agathachristiengocnhu/N%E1%BB%A3%20t%C3%ACnh%20Ch%C6%B0%C6%A1ng%2005%20Agatha%20Christie%20Ngoc%20Nhu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1145,
+    "title" : "Nợ tình Chương 5 Agatha Christie Ngoc Nhu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/notinhchuong12va13agathachristiengocnhu/N%E1%BB%A3%20t%C3%ACnh%20Ch%C6%B0%C6%A1ng%2006%20Agatha%20Christie%20Ngoc%20Nhu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 980,
+    "title" : "Nợ tình Chương 6 Agatha Christie Ngoc Nhu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/notinhchuong12va13agathachristiengocnhu/N%E1%BB%A3%20t%C3%ACnh%20Ch%C6%B0%C6%A1ng%2007%20v%C3%A0%2008%20Agatha%20Christie%20Ngoc%20Nhu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1608,
+    "title" : "Nợ tình Chương 7 và 8 Agatha Christie Ngoc Nhu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/notinhchuong12va13agathachristiengocnhu/N%E1%BB%A3%20t%C3%ACnh%20Ch%C6%B0%C6%A1ng%2009%20Agatha%20Christie%20Ngoc%20Nhu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1143,
+    "title" : "Nợ tình Chương 9 Agatha Christie Ngoc Nhu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/notinhchuong12va13agathachristiengocnhu/N%E1%BB%A3%20t%C3%ACnh%20Ch%C6%B0%C6%A1ng%2010%20v%C3%A0%2011%20Agatha%20Christie%20Ngoc%20Nhu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1405,
+    "title" : "Nợ tình Chương10 và 11 Agatha Christie Ngoc Nhu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/notinhchuong12va13agathachristiengocnhu/N%E1%BB%A3%20t%C3%ACnh%20Ch%C6%B0%C6%A1ng%2012%20v%C3%A0%2013%20Agatha%20Christie%20Ngoc%20Nhu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1784,
+    "title" : "Nợ tình Chương12 và 13 Agatha Christie Ngoc Nhu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/notinhchuong12va13agathachristiengocnhu/N%E1%BB%A3%20t%C3%ACnh%20Ch%C6%B0%C6%A1ng%2014%20v%C3%A0%2015%20Agatha%20Christie%20Ng%E1%BB%8Dc%20Nh%C6%B0.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 947,
+    "title" : "Nợ tình Chương14 và 15 Agatha Christie Ngọc Như",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/notinhchuong12va13agathachristiengocnhu/N%E1%BB%A3%20t%C3%ACnh%20Ch%C6%B0%C6%A1ng%2016%20v%C3%A0%2017%20Agatha%20Christie%20Ng%E1%BB%8Dc%20Nh%C6%B0.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 826,
+    "title" : "Nợ tình Chương 16 và 17 Agatha Christie Ngọc Như",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/notinhchuong12va13agathachristiengocnhu/N%E1%BB%A3%20t%C3%ACnh%20Ch%C6%B0%C6%A1ng%2018%20v%C3%A0%2019%20Agatha%20Christie%20Ng%E1%BB%8Dc%20Nh%C6%B0.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1111,
+    "title" : "Nợ tình Chương 18 và 19 Agatha Christie Ngọc Như",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/notinhchuong12va13agathachristiengocnhu/N%E1%BB%A3%20t%C3%ACnh%20Ch%C6%B0%C6%A1ng%2001%20Tr%C3%AD%20nh%E1%BB%9B%20c%E1%BB%A7a%20lo%C3%A0i%20voi%20Agatha%20Christie%20Hercule%20Poirot.mp3",
+    "title" : "Nợ tình Chương 1 Trí nhớ của loài voi Agatha Christie Hercule Poirot",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/notinhchuong12va13agathachristiengocnhu/N%E1%BB%A3%20t%C3%ACnh%20Ch%C6%B0%C6%A1ng%2002%20Agatha%20Christie%20Hercule%20Poirot.mp3",
+    "title" : "Nợ tình Chương 2 Agatha Christie Hercule Poirot",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/notinhchuong12va13agathachristiengocnhu/N%E1%BB%A3%20t%C3%ACnh%20Ch%C6%B0%C6%A1ng%2003%20Agatha%20Christie%20Hercule%20Poirot.mp3",
+    "title" : "Nợ tình Chương 3 Agatha Christie Hercule Poirot",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/notinhchuong12va13agathachristiengocnhu/N%E1%BB%A3%20t%C3%ACnh%20Ch%C6%B0%C6%A1ng%2004%20Agatha%20Christie%20Ngoc%20Nhu.mp3",
+    "title" : "Nợ tình Chương 4 Agatha Christie Ngoc Nhu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/notinhchuong12va13agathachristiengocnhu/N%E1%BB%A3%20t%C3%ACnh%20Ch%C6%B0%C6%A1ng%2005%20Agatha%20Christie%20Ngoc%20Nhu.mp3",
+    "title" : "Nợ tình Chương 5 Agatha Christie Ngoc Nhu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/notinhchuong12va13agathachristiengocnhu/N%E1%BB%A3%20t%C3%ACnh%20Ch%C6%B0%C6%A1ng%2006%20Agatha%20Christie%20Ngoc%20Nhu.mp3",
+    "title" : "Nợ tình Chương 6 Agatha Christie Ngoc Nhu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/notinhchuong12va13agathachristiengocnhu/N%E1%BB%A3%20t%C3%ACnh%20Ch%C6%B0%C6%A1ng%2007%20v%C3%A0%2008%20Agatha%20Christie%20Ngoc%20Nhu.mp3",
+    "title" : "Nợ tình Chương 7 và 8 Agatha Christie Ngoc Nhu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/notinhchuong12va13agathachristiengocnhu/N%E1%BB%A3%20t%C3%ACnh%20Ch%C6%B0%C6%A1ng%2009%20Agatha%20Christie%20Ngoc%20Nhu.mp3",
+    "title" : "Nợ tình Chương 9 Agatha Christie Ngoc Nhu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/notinhchuong12va13agathachristiengocnhu/N%E1%BB%A3%20t%C3%ACnh%20Ch%C6%B0%C6%A1ng%2010%20v%C3%A0%2011%20Agatha%20Christie%20Ngoc%20Nhu.mp3",
+    "title" : "Nợ tình Chương10 và 11 Agatha Christie Ngoc Nhu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/notinhchuong12va13agathachristiengocnhu/N%E1%BB%A3%20t%C3%ACnh%20Ch%C6%B0%C6%A1ng%2012%20v%C3%A0%2013%20Agatha%20Christie%20Ngoc%20Nhu.mp3",
+    "title" : "Nợ tình Chương12 và 13 Agatha Christie Ngoc Nhu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/notinhchuong12va13agathachristiengocnhu/N%E1%BB%A3%20t%C3%ACnh%20Ch%C6%B0%C6%A1ng%2014%20v%C3%A0%2015%20Agatha%20Christie%20Ng%E1%BB%8Dc%20Nh%C6%B0.mp3",
+    "title" : "Nợ tình Chương14 và 15 Agatha Christie Ngọc Như",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/notinhchuong12va13agathachristiengocnhu/N%E1%BB%A3%20t%C3%ACnh%20Ch%C6%B0%C6%A1ng%2016%20v%C3%A0%2017%20Agatha%20Christie%20Ng%E1%BB%8Dc%20Nh%C6%B0.mp3",
+    "title" : "Nợ tình Chương 16 và 17 Agatha Christie Ngọc Như",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/notinhchuong12va13agathachristiengocnhu/N%E1%BB%A3%20t%C3%ACnh%20Ch%C6%B0%C6%A1ng%2018%20v%C3%A0%2019%20Agatha%20Christie%20Ng%E1%BB%8Dc%20Nh%C6%B0.mp3",
+    "title" : "Nợ tình Chương 18 và 19 Agatha Christie Ngọc Như",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

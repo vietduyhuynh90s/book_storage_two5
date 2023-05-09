@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tan-no-hac-nhan_11792.html",
+    "title" : "Tàn Nô - Hắc Nhan",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hắc Nhan",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 30112,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_0cc3c0d719698ca06a974664c3620f6e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_0cc3c0d719698ca06a974664c3620f6e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tan-no/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3538,
+    "title" : "Trần Vân Studio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tan-no/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4973,
+    "title" : "Truyện Ngôn Tình Cổ Đại Trung Quốc Hay Chọn Lọc [Trần Vân Studio]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tan-no/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7019,
+    "title" : "Tàn Nô P3 ll Truyện Ngôn Tình Cổ Đại Hay Mới Nhất [Trần Vân Studio]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tan-no/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9298,
+    "title" : "Truyện Ngôn Tình Cổ Đại Hay Chọn Lọc [Trần Vân Studio]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tan-no/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5284,
+    "title" : "Trần Vân Studio",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tan-no/1.mp3",
+    "title" : "Trần Vân Studio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tan-no/2.mp3",
+    "title" : "Truyện Ngôn Tình Cổ Đại Trung Quốc Hay Chọn Lọc [Trần Vân Studio]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tan-no/3.mp3",
+    "title" : "Tàn Nô P3 ll Truyện Ngôn Tình Cổ Đại Hay Mới Nhất [Trần Vân Studio]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tan-no/4.mp3",
+    "title" : "Truyện Ngôn Tình Cổ Đại Hay Chọn Lọc [Trần Vân Studio]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tan-no/5.mp3",
+    "title" : "Trần Vân Studio",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

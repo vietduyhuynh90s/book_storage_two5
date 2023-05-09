@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/thien-kim-dai-chien-cuu-nguyet-hi_10356.html",
+    "title" : "Thiên Kim Đại Chiến - Cửu Nguyệt Hi",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Cửu Nguyệt Hi",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 76263,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_cb568038e2190a6b84bda894025c6126.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_cb568038e2190a6b84bda894025c6126.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/thien-kim-dai-chien/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 16017,
+    "title" : "Truyện ngôn tình hay nghe mà thích hơn xem phim",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-kim-dai-chien/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14624,
+    "title" : "Truyện ngôn tình hay & đặc sắc nhất thế giới ngôn tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-kim-dai-chien/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 15093,
+    "title" : "Truyện ngôn tình hay chỉ dành cho người biết nghe",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-kim-dai-chien/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 15795,
+    "title" : "Truyện ngôn tình hay nhất [DÀNH CHO NGƯỜI BIẾT NGHE TRUYỆN NT]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-kim-dai-chien/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14734,
+    "title" : "Truyện ngôn tình hay SÂU SẮC & CÁI KẾT TUYỆT VỜI]",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/thien-kim-dai-chien/1.mp3",
+    "title" : "Truyện ngôn tình hay nghe mà thích hơn xem phim",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-kim-dai-chien/2.mp3",
+    "title" : "Truyện ngôn tình hay & đặc sắc nhất thế giới ngôn tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-kim-dai-chien/3.mp3",
+    "title" : "Truyện ngôn tình hay chỉ dành cho người biết nghe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-kim-dai-chien/4.mp3",
+    "title" : "Truyện ngôn tình hay nhất [DÀNH CHO NGƯỜI BIẾT NGHE TRUYỆN NT]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-kim-dai-chien/5.mp3",
+    "title" : "Truyện ngôn tình hay SÂU SẮC & CÁI KẾT TUYỆT VỜI]",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

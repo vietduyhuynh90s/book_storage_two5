@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nha-chua_14311.html",
+    "title" : "Nhà Chứa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Thụy Long",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 18065,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_ec54eff27eeaf97afa1b3ce0df658728.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_ec54eff27eeaf97afa1b3ce0df658728.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nha-chua/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3596,
+    "title" : "Tập 01 - Tiểu thuyết hiện thực rất hay do #mchongnhung diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nha-chua/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3581,
+    "title" : "Tập 02 - Tiểu thuyết rất hay do #mchongnhung diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nha-chua/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3187,
+    "title" : "Tập 03 - Tiểu thuyết rất hay do #mchongnhung diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nha-chua/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3065,
+    "title" : "Tập 04 - #mchongnhung diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nha-chua/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2965,
+    "title" : "Tập 05 - Tiểu thuyết hiện thực rất hay do #mchongnhung diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nha-chua/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1671,
+    "title" : "Tập 06 (HẾT) - Tiểu thuyết hiện thực rất hay do #mchongnhung diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nha-chua/1.mp3",
+    "title" : "Tập 01 - Tiểu thuyết hiện thực rất hay do #mchongnhung diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nha-chua/2.mp3",
+    "title" : "Tập 02 - Tiểu thuyết rất hay do #mchongnhung diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nha-chua/3.mp3",
+    "title" : "Tập 03 - Tiểu thuyết rất hay do #mchongnhung diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nha-chua/4.mp3",
+    "title" : "Tập 04 - #mchongnhung diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nha-chua/5.mp3",
+    "title" : "Tập 05 - Tiểu thuyết hiện thực rất hay do #mchongnhung diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nha-chua/6.mp3",
+    "title" : "Tập 06 (HẾT) - Tiểu thuyết hiện thực rất hay do #mchongnhung diễn đọc",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

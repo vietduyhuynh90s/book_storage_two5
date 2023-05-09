@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/lay-nham-tong-tai-lanh-khoc-ngan-thien_10679.html",
+    "title" : "Lấy Nhầm Tổng Tài Lãnh Khốc - Ngạn Thiến",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ngạn Thiến",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 61086,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_e5795cf68c219f775649a555e551f98d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_e5795cf68c219f775649a555e551f98d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/lay-nham-tong-tai-lanh-khoc/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7092,
+    "title" : "Truyện ngôn tình audio hay được chọn lọc mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lay-nham-tong-tai-lanh-khoc/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5871,
+    "title" : "Lấy Nhầm Tổng Tài Lãnh Khốc [Phần 2] Truyện ngôn tình hay nghe rồi mới biết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lay-nham-tong-tai-lanh-khoc/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8382,
+    "title" : "Truyện ngôn tình hay Nghe mà như đang xem phim",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lay-nham-tong-tai-lanh-khoc/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8019,
+    "title" : "Lấy Nhầm Tổng Tài Lãnh Khốc [Phần 4] Truyện ngôn tình audio hay trên cả tuyệt vời",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lay-nham-tong-tai-lanh-khoc/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10514,
+    "title" : "Lấy Nhầm Tổng Tài Lãnh Khốc [Phần 5] Truyện ngôn tình audio hay và cảm động nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lay-nham-tong-tai-lanh-khoc/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9187,
+    "title" : "Lấy Nhầm Tổng Tài Lãnh Khốc [Phần 6] Truyện ngôn tình hiện đại hay trên cả tuyệt vời",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lay-nham-tong-tai-lanh-khoc/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 12021,
+    "title" : "Lấy Nhầm Tổng Tài Lãnh Khốc [Phần cuối] Truyện ngôn tình audio hay và kết kết thúc ngọt ngào",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/lay-nham-tong-tai-lanh-khoc/1.mp3",
+    "title" : "Truyện ngôn tình audio hay được chọn lọc mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lay-nham-tong-tai-lanh-khoc/2.mp3",
+    "title" : "Lấy Nhầm Tổng Tài Lãnh Khốc [Phần 2] Truyện ngôn tình hay nghe rồi mới biết",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lay-nham-tong-tai-lanh-khoc/3.mp3",
+    "title" : "Truyện ngôn tình hay Nghe mà như đang xem phim",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lay-nham-tong-tai-lanh-khoc/4.mp3",
+    "title" : "Lấy Nhầm Tổng Tài Lãnh Khốc [Phần 4] Truyện ngôn tình audio hay trên cả tuyệt vời",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lay-nham-tong-tai-lanh-khoc/5.mp3",
+    "title" : "Lấy Nhầm Tổng Tài Lãnh Khốc [Phần 5] Truyện ngôn tình audio hay và cảm động nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lay-nham-tong-tai-lanh-khoc/6.mp3",
+    "title" : "Lấy Nhầm Tổng Tài Lãnh Khốc [Phần 6] Truyện ngôn tình hiện đại hay trên cả tuyệt vời",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lay-nham-tong-tai-lanh-khoc/7.mp3",
+    "title" : "Lấy Nhầm Tổng Tài Lãnh Khốc [Phần cuối] Truyện ngôn tình audio hay và kết kết thúc ngọt ngào",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

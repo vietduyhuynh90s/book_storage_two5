@@ -1,0 +1,2057 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nguoc-ve-thoi-minh-lam-vuong-gia_15169.html",
+    "title" : "Ngược Về Thời Minh Làm Vương Gia",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyệt Quan",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 579711,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_f0248a8534122aa26cfc37df17654698.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_f0248a8534122aa26cfc37df17654698.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3852,
+    "title" : "1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3251,
+    "title" : "10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/100.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2989,
+    "title" : "100",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/101.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2908,
+    "title" : "101",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/102.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3375,
+    "title" : "102",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/103.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3321,
+    "title" : "103",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/104.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3612,
+    "title" : "104",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/105.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3518,
+    "title" : "105",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/106.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3360,
+    "title" : "106",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/107.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3329,
+    "title" : "107",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/108.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3124,
+    "title" : "108",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/109.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3615,
+    "title" : "109",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3972,
+    "title" : "11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/110.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3492,
+    "title" : "110",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/111.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3293,
+    "title" : "111",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/112.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3174,
+    "title" : "112",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/113.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3170,
+    "title" : "113",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/114.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2674,
+    "title" : "114",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/115.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3450,
+    "title" : "115",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/116.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2594,
+    "title" : "116",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/117.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3539,
+    "title" : "117",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/118.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3395,
+    "title" : "118",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/119.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2841,
+    "title" : "119",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3509,
+    "title" : "12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/120.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3365,
+    "title" : "120",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/121.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3205,
+    "title" : "121",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/122.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3575,
+    "title" : "122",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/123.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3345,
+    "title" : "123",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/124.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3356,
+    "title" : "124",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/125.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2460,
+    "title" : "125",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/126.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2750,
+    "title" : "126",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/127.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3390,
+    "title" : "127",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/128.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2881,
+    "title" : "128",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/129.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2580,
+    "title" : "129",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4408,
+    "title" : "13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/130.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3266,
+    "title" : "130",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/131.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3261,
+    "title" : "131",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/132.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3052,
+    "title" : "132",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/133.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3031,
+    "title" : "133",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/134.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3455,
+    "title" : "134",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/135.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3000,
+    "title" : "135",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/136.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3320,
+    "title" : "136",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/137.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3480,
+    "title" : "137",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/138.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3236,
+    "title" : "XUYÊN KHÔNG |-NGƯỢC VỀ MINH TRIỀU-| #146 :Uy Của Quan Hoạn / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/139.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3121,
+    "title" : "XUYÊN KHÔNG |-NGƯỢC VỀ MINH TRIỀU-|#147 :Bình Thê Thẹn Thùng/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3578,
+    "title" : "14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/140.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2220,
+    "title" : "140",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/141.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3810,
+    "title" : "141",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/142.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "142",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/143.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2985,
+    "title" : "143",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/144.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2905,
+    "title" : "144",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/145.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3076,
+    "title" : "145",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/146.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2430,
+    "title" : "XUYÊN KHÔNG |-NGƯỢC VỀ MINH TRIỀU-| # 154/ Mc.KhánhDuy diễn đọc hay lắm..",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/147.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2521,
+    "title" : "XUYÊN KHÔNG |-NGƯỢC VỀ MINH TRIỀU-| # 155 : Lừa Hôn/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/148.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3000,
+    "title" : "XUYÊN KHÔNG |-NGƯỢC VỀ MINH TRIỀU-| #156 : Công chúa Xuất Gia / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/149.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2761,
+    "title" : "XUYÊN KHÔNG |-NGƯỢC VỀ MINH TRIỀU-| #157 / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3172,
+    "title" : "15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/150.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2960,
+    "title" : "XUYÊN KHÔNG |-NGƯỢC VỀ MINH TRIỀU-| #158: Ảm Gia / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/151.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3005,
+    "title" : "XUYÊN KHÔNG |-NGƯỢC VỀ MINH TRIỀU-| #159: 2 Gã Ăn Mày / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/152.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3665,
+    "title" : "XUYÊN KHÔNG |-NGƯỢC VỀ MINH TRIỀU-| # 160: Phi Thang Tien Gioi/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/153.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2640,
+    "title" : "XUYÊN KHÔNG |-NGƯỢC VỀ MINH TRIỀU-| #161: Lấy Thần Diệt Thần / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/154.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3565,
+    "title" : "XUYÊN KHÔNG |-NGƯỢC VỀ MINH TRIỀU-| #162: Vụ Mưu Phản Nực CƯời / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/155.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3147,
+    "title" : "XUYÊN KHÔNG |-NGƯỢC VỀ MINH TRIỀU-| #163 :Tiểu Nhân Và Quan Bẩn / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/156.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3030,
+    "title" : "XUYÊN KHÔNG |-NGƯỢC VỀ MINH TRIỀU-| #164: Tứ Tặc Bá Châu / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/157.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2739,
+    "title" : "XUYÊN KHÔNG |-NGƯỢC VỀ MINH TRIỀU-| #165 :Dân Biến Cố An / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/158.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3392,
+    "title" : "XUYÊN KHÔNG |-NGƯỢC VỀ MINH TRIỀU-| # 166: Trương Trung Mắc Bẫy / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/159.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3432,
+    "title" : "XUYÊN KHÔNG |-NGƯỢC VỀ MINH TRIỀU-| #167: Bắt Mã Tặc / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3520,
+    "title" : "16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/160.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3491,
+    "title" : "XUYÊN KHÔNG |-NGƯỢC VỀ MINH TRIỀU-| #168: Chiêu An Mã Tặc / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/161.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2956,
+    "title" : "XUYÊN KHÔNG |-NGƯỢC VỀ MINH TRIỀU-| # 169: Diệt Sạch Tứ Hại / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/162.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3608,
+    "title" : "XUYÊN KHÔNG |-NGƯỢC VỀ MINH TRIỀU-|#170:Chỉ Trích Hoàng Đế / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/163.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3443,
+    "title" : "XUYÊN KHÔNG |-NGƯỢC VỀ MINH TRIỀU-| #171 : Khởi Sự/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/164.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3506,
+    "title" : "XUYÊN KHÔNG |-NGƯỢC VỀ MINH TRIỀU-| #172 : Chiêu Đầu Tiên / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/165.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6274,
+    "title" : "XUYÊN KHÔNG |-NGƯỢC VỀ MINH TRIỀU-| # 173 +174 / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/166.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6240,
+    "title" : "XUYÊN KHÔNG |-NGƯỢC VỀ MINH TRIỀU-| # 175+ 176 / Mc.KhánhDuy diễn đọc hay lắm...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/167.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3758,
+    "title" : "NGƯỢC VỀ MINH TRIỀU -|Tập 177 : Lưu Cẩn Đền Tội |Do Khánh Duy Đọc..rất hay 😱😱😱",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/168.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3537,
+    "title" : "NGƯỢC VỀ MINH TRIỀU -|Tập |Do Khánh Duy Đọc..rất hay 😱😱😱",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3647,
+    "title" : "17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4154,
+    "title" : "18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3715,
+    "title" : "19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3671,
+    "title" : "2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3865,
+    "title" : "20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7722,
+    "title" : "21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7265,
+    "title" : "22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6814,
+    "title" : "23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6315,
+    "title" : "24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4896,
+    "title" : "25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6316,
+    "title" : "26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6361,
+    "title" : "27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3149,
+    "title" : "28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2719,
+    "title" : "29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3558,
+    "title" : "3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2816,
+    "title" : "30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2777,
+    "title" : "31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3726,
+    "title" : "32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3043,
+    "title" : "33",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2682,
+    "title" : "34",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3528,
+    "title" : "35",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3155,
+    "title" : "36",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3259,
+    "title" : "37",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2710,
+    "title" : "38",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3048,
+    "title" : "39",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3702,
+    "title" : "4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2813,
+    "title" : "40",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3698,
+    "title" : "41",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3812,
+    "title" : "42",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3063,
+    "title" : "43",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2836,
+    "title" : "44",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3040,
+    "title" : "45",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2915,
+    "title" : "46",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3366,
+    "title" : "47",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2797,
+    "title" : "48",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4054,
+    "title" : "49",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3610,
+    "title" : "5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2922,
+    "title" : "50",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3433,
+    "title" : "51",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3188,
+    "title" : "52",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2606,
+    "title" : "53",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/54.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3741,
+    "title" : "54",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/55.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3514,
+    "title" : "55",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/56.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4264,
+    "title" : "56",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/57.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3270,
+    "title" : "57",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/58.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6020,
+    "title" : "58",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/59.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3061,
+    "title" : "59",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3282,
+    "title" : "6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/60.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3070,
+    "title" : "60",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/61.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2931,
+    "title" : "61",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/62.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3390,
+    "title" : "62",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/63.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2860,
+    "title" : "63",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/64.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3223,
+    "title" : "64",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/65.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3510,
+    "title" : "65",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/66.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3047,
+    "title" : "66",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/67.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3573,
+    "title" : "67",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/68.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3936,
+    "title" : "68",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/69.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2804,
+    "title" : "69",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3080,
+    "title" : "7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/70.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3251,
+    "title" : "70",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/71.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2942,
+    "title" : "71",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/72.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3464,
+    "title" : "72",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/73.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3805,
+    "title" : "73",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/74.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3537,
+    "title" : "74",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/75.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3851,
+    "title" : "75",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/76.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3668,
+    "title" : "76",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/77.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3329,
+    "title" : "77",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/78.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3230,
+    "title" : "78",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/79.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3340,
+    "title" : "79",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3889,
+    "title" : "8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/80.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3099,
+    "title" : "80",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/81.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3636,
+    "title" : "81",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/82.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3170,
+    "title" : "82",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3265,
+    "title" : "83",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/84.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3020,
+    "title" : "84",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/85.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3475,
+    "title" : "85",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/86.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3576,
+    "title" : "86",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/87.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3884,
+    "title" : "87",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/88.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3289,
+    "title" : "88",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/89.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2738,
+    "title" : "89",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3594,
+    "title" : "9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/90.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3784,
+    "title" : "90",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/91.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3378,
+    "title" : "91",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/92.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3141,
+    "title" : "92",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/93.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2825,
+    "title" : "93",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/94.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2936,
+    "title" : "94",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/95.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2617,
+    "title" : "95",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/96.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2367,
+    "title" : "96",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/97.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3087,
+    "title" : "97",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/98.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2998,
+    "title" : "98",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/99.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3324,
+    "title" : "99",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/1.mp3",
+    "title" : "1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/10.mp3",
+    "title" : "10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/100.mp3",
+    "title" : "100",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/101.mp3",
+    "title" : "101",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/102.mp3",
+    "title" : "102",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/103.mp3",
+    "title" : "103",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/104.mp3",
+    "title" : "104",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/105.mp3",
+    "title" : "105",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/106.mp3",
+    "title" : "106",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/107.mp3",
+    "title" : "107",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/108.mp3",
+    "title" : "108",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/109.mp3",
+    "title" : "109",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/11.mp3",
+    "title" : "11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/110.mp3",
+    "title" : "110",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/111.mp3",
+    "title" : "111",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/112.mp3",
+    "title" : "112",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/113.mp3",
+    "title" : "113",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/114.mp3",
+    "title" : "114",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/115.mp3",
+    "title" : "115",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/116.mp3",
+    "title" : "116",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/117.mp3",
+    "title" : "117",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/118.mp3",
+    "title" : "118",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/119.mp3",
+    "title" : "119",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/12.mp3",
+    "title" : "12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/120.mp3",
+    "title" : "120",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/121.mp3",
+    "title" : "121",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/122.mp3",
+    "title" : "122",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/123.mp3",
+    "title" : "123",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/124.mp3",
+    "title" : "124",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/125.mp3",
+    "title" : "125",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/126.mp3",
+    "title" : "126",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/127.mp3",
+    "title" : "127",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/128.mp3",
+    "title" : "128",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/129.mp3",
+    "title" : "129",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/13.mp3",
+    "title" : "13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/130.mp3",
+    "title" : "130",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/131.mp3",
+    "title" : "131",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/132.mp3",
+    "title" : "132",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/133.mp3",
+    "title" : "133",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/134.mp3",
+    "title" : "134",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/135.mp3",
+    "title" : "135",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/136.mp3",
+    "title" : "136",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/137.mp3",
+    "title" : "137",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/138.mp3",
+    "title" : "XUYÊN KHÔNG |-NGƯỢC VỀ MINH TRIỀU-| #146 :Uy Của Quan Hoạn / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/139.mp3",
+    "title" : "XUYÊN KHÔNG |-NGƯỢC VỀ MINH TRIỀU-|#147 :Bình Thê Thẹn Thùng/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/14.mp3",
+    "title" : "14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/140.mp3",
+    "title" : "140",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/141.mp3",
+    "title" : "141",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/142.mp3",
+    "title" : "142",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/143.mp3",
+    "title" : "143",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/144.mp3",
+    "title" : "144",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/145.mp3",
+    "title" : "145",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/146.mp3",
+    "title" : "XUYÊN KHÔNG |-NGƯỢC VỀ MINH TRIỀU-| # 154/ Mc.KhánhDuy diễn đọc hay lắm..",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/147.mp3",
+    "title" : "XUYÊN KHÔNG |-NGƯỢC VỀ MINH TRIỀU-| # 155 : Lừa Hôn/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/148.mp3",
+    "title" : "XUYÊN KHÔNG |-NGƯỢC VỀ MINH TRIỀU-| #156 : Công chúa Xuất Gia / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/149.mp3",
+    "title" : "XUYÊN KHÔNG |-NGƯỢC VỀ MINH TRIỀU-| #157 / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/15.mp3",
+    "title" : "15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/150.mp3",
+    "title" : "XUYÊN KHÔNG |-NGƯỢC VỀ MINH TRIỀU-| #158: Ảm Gia / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/151.mp3",
+    "title" : "XUYÊN KHÔNG |-NGƯỢC VỀ MINH TRIỀU-| #159: 2 Gã Ăn Mày / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/152.mp3",
+    "title" : "XUYÊN KHÔNG |-NGƯỢC VỀ MINH TRIỀU-| # 160: Phi Thang Tien Gioi/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/153.mp3",
+    "title" : "XUYÊN KHÔNG |-NGƯỢC VỀ MINH TRIỀU-| #161: Lấy Thần Diệt Thần / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/154.mp3",
+    "title" : "XUYÊN KHÔNG |-NGƯỢC VỀ MINH TRIỀU-| #162: Vụ Mưu Phản Nực CƯời / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/155.mp3",
+    "title" : "XUYÊN KHÔNG |-NGƯỢC VỀ MINH TRIỀU-| #163 :Tiểu Nhân Và Quan Bẩn / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/156.mp3",
+    "title" : "XUYÊN KHÔNG |-NGƯỢC VỀ MINH TRIỀU-| #164: Tứ Tặc Bá Châu / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/157.mp3",
+    "title" : "XUYÊN KHÔNG |-NGƯỢC VỀ MINH TRIỀU-| #165 :Dân Biến Cố An / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/158.mp3",
+    "title" : "XUYÊN KHÔNG |-NGƯỢC VỀ MINH TRIỀU-| # 166: Trương Trung Mắc Bẫy / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/159.mp3",
+    "title" : "XUYÊN KHÔNG |-NGƯỢC VỀ MINH TRIỀU-| #167: Bắt Mã Tặc / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/16.mp3",
+    "title" : "16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/160.mp3",
+    "title" : "XUYÊN KHÔNG |-NGƯỢC VỀ MINH TRIỀU-| #168: Chiêu An Mã Tặc / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/161.mp3",
+    "title" : "XUYÊN KHÔNG |-NGƯỢC VỀ MINH TRIỀU-| # 169: Diệt Sạch Tứ Hại / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/162.mp3",
+    "title" : "XUYÊN KHÔNG |-NGƯỢC VỀ MINH TRIỀU-|#170:Chỉ Trích Hoàng Đế / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/163.mp3",
+    "title" : "XUYÊN KHÔNG |-NGƯỢC VỀ MINH TRIỀU-| #171 : Khởi Sự/ Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/164.mp3",
+    "title" : "XUYÊN KHÔNG |-NGƯỢC VỀ MINH TRIỀU-| #172 : Chiêu Đầu Tiên / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/165.mp3",
+    "title" : "XUYÊN KHÔNG |-NGƯỢC VỀ MINH TRIỀU-| # 173 +174 / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/166.mp3",
+    "title" : "XUYÊN KHÔNG |-NGƯỢC VỀ MINH TRIỀU-| # 175+ 176 / Mc.KhánhDuy diễn đọc hay lắm...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/167.mp3",
+    "title" : "NGƯỢC VỀ MINH TRIỀU -|Tập 177 : Lưu Cẩn Đền Tội |Do Khánh Duy Đọc..rất hay 😱😱😱",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/168.mp3",
+    "title" : "NGƯỢC VỀ MINH TRIỀU -|Tập |Do Khánh Duy Đọc..rất hay 😱😱😱",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/17.mp3",
+    "title" : "17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/18.mp3",
+    "title" : "18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/19.mp3",
+    "title" : "19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/2.mp3",
+    "title" : "2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/20.mp3",
+    "title" : "20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/21.mp3",
+    "title" : "21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/22.mp3",
+    "title" : "22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/23.mp3",
+    "title" : "23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/24.mp3",
+    "title" : "24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/25.mp3",
+    "title" : "25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/26.mp3",
+    "title" : "26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/27.mp3",
+    "title" : "27",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/28.mp3",
+    "title" : "28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/29.mp3",
+    "title" : "29",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/3.mp3",
+    "title" : "3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/30.mp3",
+    "title" : "30",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/31.mp3",
+    "title" : "31",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/32.mp3",
+    "title" : "32",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/33.mp3",
+    "title" : "33",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/34.mp3",
+    "title" : "34",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/35.mp3",
+    "title" : "35",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/36.mp3",
+    "title" : "36",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/37.mp3",
+    "title" : "37",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/38.mp3",
+    "title" : "38",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/39.mp3",
+    "title" : "39",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/4.mp3",
+    "title" : "4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/40.mp3",
+    "title" : "40",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/41.mp3",
+    "title" : "41",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/42.mp3",
+    "title" : "42",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/43.mp3",
+    "title" : "43",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/44.mp3",
+    "title" : "44",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/45.mp3",
+    "title" : "45",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/46.mp3",
+    "title" : "46",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/47.mp3",
+    "title" : "47",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/48.mp3",
+    "title" : "48",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/49.mp3",
+    "title" : "49",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/5.mp3",
+    "title" : "5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/50.mp3",
+    "title" : "50",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/51.mp3",
+    "title" : "51",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/52.mp3",
+    "title" : "52",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/53.mp3",
+    "title" : "53",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/54.mp3",
+    "title" : "54",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/55.mp3",
+    "title" : "55",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/56.mp3",
+    "title" : "56",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/57.mp3",
+    "title" : "57",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/58.mp3",
+    "title" : "58",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/59.mp3",
+    "title" : "59",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/6.mp3",
+    "title" : "6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/60.mp3",
+    "title" : "60",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/61.mp3",
+    "title" : "61",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/62.mp3",
+    "title" : "62",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/63.mp3",
+    "title" : "63",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/64.mp3",
+    "title" : "64",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/65.mp3",
+    "title" : "65",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/66.mp3",
+    "title" : "66",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/67.mp3",
+    "title" : "67",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/68.mp3",
+    "title" : "68",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/69.mp3",
+    "title" : "69",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/7.mp3",
+    "title" : "7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/70.mp3",
+    "title" : "70",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/71.mp3",
+    "title" : "71",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/72.mp3",
+    "title" : "72",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/73.mp3",
+    "title" : "73",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/74.mp3",
+    "title" : "74",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/75.mp3",
+    "title" : "75",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/76.mp3",
+    "title" : "76",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/77.mp3",
+    "title" : "77",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/78.mp3",
+    "title" : "78",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/79.mp3",
+    "title" : "79",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/8.mp3",
+    "title" : "8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/80.mp3",
+    "title" : "80",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/81.mp3",
+    "title" : "81",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/82.mp3",
+    "title" : "82",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/83.mp3",
+    "title" : "83",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/84.mp3",
+    "title" : "84",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/85.mp3",
+    "title" : "85",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/86.mp3",
+    "title" : "86",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/87.mp3",
+    "title" : "87",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/88.mp3",
+    "title" : "88",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/89.mp3",
+    "title" : "89",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/9.mp3",
+    "title" : "9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/90.mp3",
+    "title" : "90",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/91.mp3",
+    "title" : "91",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/92.mp3",
+    "title" : "92",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/93.mp3",
+    "title" : "93",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/94.mp3",
+    "title" : "94",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/95.mp3",
+    "title" : "95",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/96.mp3",
+    "title" : "96",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/97.mp3",
+    "title" : "97",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/98.mp3",
+    "title" : "98",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoc-ve-minh-trieu/99.mp3",
+    "title" : "99",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

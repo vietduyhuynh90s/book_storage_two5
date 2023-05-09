@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/den-toi-cho-ac-nghiep-khuyet-danh_11169.html",
+    "title" : "Đền Tội Cho Ác Nghiệp - Khuyết Danh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Khuyết Danh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 18819,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_9cffc08e6c759fed0bfcf30c43c02b42.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_9cffc08e6c759fed0bfcf30c43c02b42.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_dtcan/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10273,
+    "title" : "Truyện Ma Có Thật Đình Soạn Kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_dtcan/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8546,
+    "title" : "Truyện Ma Có Thật Đình Soạn Kể",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_dtcan/1.mp3",
+    "title" : "Truyện Ma Có Thật Đình Soạn Kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_dtcan/2.mp3",
+    "title" : "Truyện Ma Có Thật Đình Soạn Kể",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

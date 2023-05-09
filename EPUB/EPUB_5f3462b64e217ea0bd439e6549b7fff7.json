@@ -1,0 +1,4805 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dau-la-dai-luc-2-tuyet-the-duong-mon-duong-gia-tam-thieu_10542.html",
+    "title" : "Đấu La Đại Lục 2: Tuyệt Thế Đường Môn - Đường Gia Tam Thiếu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đường Gia Tam Thiếu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 1106025,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_5f3462b64e217ea0bd439e6549b7fff7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_5f3462b64e217ea0bd439e6549b7fff7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1849,
+    "title" : "Thần giới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1802,
+    "title" : "Lớp trưởng Hoắc Vũ Hạo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/100.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2311,
+    "title" : "Tử Vong Chi Thủ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/101.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2004,
+    "title" : "Chấn Thiên Phủ Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/102.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1931,
+    "title" : "Bản Thể Tông",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/103.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3837,
+    "title" : "Đoàn Chiến Điên Cuồng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/104.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3736,
+    "title" : "Tam Túc Kim Thiềm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/105.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1961,
+    "title" : "Tam Thạch Bạo Phát",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/106.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1928,
+    "title" : "Tuyệt Học Đường Môn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/107.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1868,
+    "title" : "Mộng Hồng Trần",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/108.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1877,
+    "title" : "Hồn Đế Bạch Hổ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/109.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1913,
+    "title" : "Hắc Phượng Hoàng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1957,
+    "title" : "Từ Tam Thạch và Giang Nam Nam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/110.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1825,
+    "title" : "Hắc Phượng Hoàng Biến Dị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/111.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1909,
+    "title" : "Vũ Hồn Dung Hợp Kỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/112.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1923,
+    "title" : "Quang Nghê Thường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/113.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1890,
+    "title" : "Phần Thưởng Quán Quân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/114.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1763,
+    "title" : "Hải Thần Các",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/115.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1905,
+    "title" : "Sử Lai Khắc Thất Quái",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/116.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1933,
+    "title" : "Con Đường Tu Luyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/117.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1914,
+    "title" : "Đường Môn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/118.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1806,
+    "title" : "Thi Đấu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/119.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1825,
+    "title" : "Tông Chủ Bản Thể Tông",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1833,
+    "title" : "Huyền Thủy Đan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/120.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1874,
+    "title" : "Độc Bất Tử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/121.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1914,
+    "title" : "1 | Tông Chủ Minh Đức Đường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/122.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1701,
+    "title" : "2 | Vào Hải Thần Các",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/123.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1875,
+    "title" : "1 | Ám Kim Khủng Trảo Hùng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/124.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1652,
+    "title" : "2 | Hồn Cốt Bàn Tay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/125.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1864,
+    "title" : "1 | Ám Kim Khủng Trảo Hữu Trưởng Cốt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/126.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1449,
+    "title" : "2 | Hắc Ám Lam Ngân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/127.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1833,
+    "title" : "1 | Tinh Đấu Đại Sâm Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/128.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1688,
+    "title" : "2 | Hồn Thú Thích Hợp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/129.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1814,
+    "title" : "1 | Đế Hoàng Thụy Thú",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1971,
+    "title" : "Thiên Mộng nhất chỉ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/130.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1769,
+    "title" : "2 | Vận Mệnh Chi Nhãn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/131.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1810,
+    "title" : "1 | Tầm Nhìn Mới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/132.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1831,
+    "title" : "2 | Thí Nghiệm Cực Hạn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/133.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1803,
+    "title" : "1 | Vận Mệnh Chi Quang",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/134.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1792,
+    "title" : "2 | Hồn Hoàn Vạn Năm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/135.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1744,
+    "title" : "1 | Ma Luyện Cực Hạn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/136.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1715,
+    "title" : "2 | Huy Hoàng Đường Môn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/137.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3530,
+    "title" : "Đấu La 2 | Tập 121 | Tạm Biệt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/138.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3232,
+    "title" : "Đấu La 2 | Tập 122 | Hồn Đạo Khí Mới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/139.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3798,
+    "title" : "Đấu La 2 | Tập 123 | Nhập Học",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2001,
+    "title" : "Khảo hạch tân sinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/140.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3670,
+    "title" : "Đấu La 2 | Tập 124 | Quật Tử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/141.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3664,
+    "title" : "Đấu La 2 | Tập 125 | Quật Tử Thần Bí",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/142.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3692,
+    "title" : "Đấu La 2 | Tập 126 | Ngân Nguyệt Lang Vương",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/143.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3966,
+    "title" : "Đấu La 2 | Tập 127 | Vũ Hạo Trọng Thương",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/144.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3697,
+    "title" : "Đấu La 2 | Tập 128 | Vũ Hạo Bị Bắt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/145.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3597,
+    "title" : "Hoàng Gia Nhật Nguyệt - MC Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/146.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3612,
+    "title" : "Kim Khí Nhân Thần - MC Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/147.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3617,
+    "title" : "Tuyết Đế - MC Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/148.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3664,
+    "title" : "Đấu Trí Nguy Hiểm - MC Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/149.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3604,
+    "title" : "Thống Nhất Giang Hồ - MC Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1968,
+    "title" : "Khảo hạch tân sinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/150.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3695,
+    "title" : "Kiếm Si Quý Tuyệt Trần - MC Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/151.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4175,
+    "title" : "Hãn Hải Vô Nhai - MC Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/152.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3580,
+    "title" : "Thánh Linh Giáo - MC Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/153.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3606,
+    "title" : "Quang Minh Nữ Thần Điệp - MC Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/154.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3529,
+    "title" : "Tâm Linh Phong Bạo - MC Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/155.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3430,
+    "title" : "Quang Nữ Thần - MC Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/156.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3365,
+    "title" : "Hạo Thiên Tông - MC Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/157.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3470,
+    "title" : "Hàn Băng Ngọc Tủy Sàng - MC Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/158.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3687,
+    "title" : "Đồng Tâm Hiệp Lực - MC Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/159.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3609,
+    "title" : "Hồn Linh Xuất Hiện - MC Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2260,
+    "title" : "Song Khống",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/160.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3733,
+    "title" : "Tuyết Đế Tam Tuyệt - MC Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/161.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4008,
+    "title" : "Hồn Đạo Khí Hình Người - MC Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/162.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3474,
+    "title" : "Hạt Hổ Đấu La - MC Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/163.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3641,
+    "title" : "Hắc Bạch Song Thánh Long - MC Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/164.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3627,
+    "title" : "Vương Thu Nhi Xuất Hiện - MC Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/165.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3312,
+    "title" : "Đại Hội Duyên Hải Thần - MC Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/166.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1837,
+    "title" : "Sét đánh vào tim - MC Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/167.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3668,
+    "title" : "Duyên Định - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/168.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3657,
+    "title" : "Áp Chế - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/169.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3646,
+    "title" : "Nữ Thần Bên Cạnh - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1985,
+    "title" : "Đông, Vũ hồn dung hợp kỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/170.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3635,
+    "title" : "170",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/171.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3608,
+    "title" : "Thất Quái Hội Tụ - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/172.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3772,
+    "title" : "Hoàng Kim Chân Thân - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/173.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3456,
+    "title" : "Cướp Hồn Hoàn - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/174.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3979,
+    "title" : "Tà Hồn Sư - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/175.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3682,
+    "title" : "Vận Mệnh Long Ngâm - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/176.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3606,
+    "title" : "Đồng Sinh Cộng Tử - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/177.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4106,
+    "title" : "Hồn Hoàn Thứ Năm - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/178.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3826,
+    "title" : "Đường Môn Xuất Chiến - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/179.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4041,
+    "title" : "Đường Môn Lớn Mạnh - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1920,
+    "title" : "Hạo Đông dung hợp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/180.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3799,
+    "title" : "Vương Đông Nhi - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/181.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3612,
+    "title" : "Vũ Hạo vs Thu Nhi - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/182.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3737,
+    "title" : "Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/183.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3704,
+    "title" : "Lạc Nhật Sâm Lâm - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/184.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3616,
+    "title" : "Bích Lân Hoa - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/185.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3517,
+    "title" : "Nhân Gian Tiên Cảnh - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/186.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3648,
+    "title" : "Khảo Nghiệm Gian Nan - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/187.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3608,
+    "title" : "Tiên Tổ Đường Tam - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/188.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4003,
+    "title" : "Thời Khắc Sinh Tử - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/189.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3723,
+    "title" : "Đông Nhi Kiên Cường - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1846,
+    "title" : "Ba vũ hồn dung hợp kỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/190.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3446,
+    "title" : "Cố Gắng Khôi Phục - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/191.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3407,
+    "title" : "191",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/192.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1870,
+    "title" : "Minh Đô Dự Thi - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/193.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1996,
+    "title" : "193",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/194.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1814,
+    "title" : "Đường Nhã - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/195.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1908,
+    "title" : "Đường Nhã Xuất Hiện - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/196.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1888,
+    "title" : "Thánh Linh Giáo - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/197.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2005,
+    "title" : "Khách Hàng Lớn - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/198.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1876,
+    "title" : "Công Chúa Cửu Cửu - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/199.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1798,
+    "title" : "Bí Mật Của Bối Bối - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1965,
+    "title" : "Thiên Mộng Băng Tằm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1904,
+    "title" : "Con đường hoàng kim",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/200.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2022,
+    "title" : "Trước Giờ Thi Đấu - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/201.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2136,
+    "title" : "Trận Đấu Đầu Tiên - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/202.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1727,
+    "title" : "Nhật Nguyệt Chiến Đội - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/203.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1751,
+    "title" : "Vũ Hạo Dự Thi - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/204.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1955,
+    "title" : "Tuyết Nữ Xuất Chiến - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/205.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1849,
+    "title" : "Vũ Hạo Vs Nam Thu Thu - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/206.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1818,
+    "title" : "Mẫu Thân Của Nam Thu Thu - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/207.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1842,
+    "title" : "Thánh Linh Chiến Đội - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/208.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1883,
+    "title" : "Sử Lai Khắc Xuất Chiến - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/209.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1933,
+    "title" : "Thất Vị Nhất Thể Tổ Hợp Kỹ - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1609,
+    "title" : "Rực rỡ & Điêu tàn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/210.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2024,
+    "title" : "Tiến Bộ Của Sử Lai Khắc Chiến Đội - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/211.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2025,
+    "title" : "Đại Tái Dưới Lòng Đất - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/212.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3721,
+    "title" : "Thiên Tài Hồn Đạo Sư - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/213.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3931,
+    "title" : "Chiến Thuật Bỏ Cuộc - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/214.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3812,
+    "title" : "Hồn Kỹ Thứ Năm Của Đông Nhi - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/215.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3645,
+    "title" : "Sự Đáng Sợ Của Tiếu Hồng Trần - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/216.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3656,
+    "title" : "Thức Tỉnh Vương Đông Nhi - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/217.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3353,
+    "title" : "Nhóm Bảng Khắc Đao - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/218.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3573,
+    "title" : "218",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/219.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3730,
+    "title" : "Đôi Mắt Sợ Hãi - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2195,
+    "title" : "Thất Bảo Lưu Ly Tháp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/220.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3776,
+    "title" : "Phá Minh Ngọc Tông - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/221.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3970,
+    "title" : "Huyết Ngưng Đao Khắc Cao Đại Lâu - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/222.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3750,
+    "title" : "Vương Thu Nhi Mạnh Mẽ - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/223.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3800,
+    "title" : "Đe Dọa Cường Địch - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/224.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3735,
+    "title" : "Lục Cường Hồn Đạo Sư Tranh Tài - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/225.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3794,
+    "title" : "Khống Chi Thuẫn Tái Quyết Trưởng - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/226.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3398,
+    "title" : "Vũ Hồn Thứ Ba Của Vũ Hạo - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/227.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4156,
+    "title" : "Thế Giới Vong Linh - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/228.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3799,
+    "title" : "Bát Cường Rút Thăm - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/229.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3410,
+    "title" : "Bát Cường Thi Đấu - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1817,
+    "title" : "Thất Bảo Vs Linh Mâu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/230.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3655,
+    "title" : "Hoàng Kim Long Nữ - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/231.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3745,
+    "title" : "Lam Điện Bá Vương Long Huyết Mạch - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/232.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3663,
+    "title" : "Bản Thể Tông - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/233.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3692,
+    "title" : "Huyền Minh Chi Vực - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/234.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3771,
+    "title" : "Đường Môn Đoàn Chiến Tuyết Ma Tông - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/235.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3772,
+    "title" : "Bộc Phát Dành Thắng Lợi - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/236.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3756,
+    "title" : "Thế Cục Bế Tắc - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/237.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3614,
+    "title" : "Song Long Quyết Đấu - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/238.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3778,
+    "title" : "Hoàng Long Phá Tà - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/239.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3602,
+    "title" : "Thánh Linh Tông Đường Nhã - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1865,
+    "title" : "Huynh Đệ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/240.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3514,
+    "title" : "Tứ Đại Tà Hồn Sư - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/241.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3682,
+    "title" : "Tử Kim Biến Thân - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/242.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3853,
+    "title" : "Tử Kim Điệp Long Biến - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/243.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3675,
+    "title" : "Quật Tử - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/244.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3660,
+    "title" : "Nhật Nguyệt Thần Châm - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/245.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3732,
+    "title" : "Hoàng Kim Điệp Long - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/246.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3610,
+    "title" : "Pháo Đài Hoàng Cung - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/247.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3796,
+    "title" : "247",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/248.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3709,
+    "title" : "Tiến Vào Chung Kết - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/249.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3686,
+    "title" : "Kinh Khủng Nổ Lớn - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1801,
+    "title" : "Cừu nhân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/250.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3907,
+    "title" : "Nghi Thức Tế Lễ - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/251.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3541,
+    "title" : "Càn Khôn Vấn Tình Cốc - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/252.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3276,
+    "title" : "Thiên Mộng Lĩnh Vực - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/253.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3692,
+    "title" : "Cứu Phụ Thân - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/254.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3580,
+    "title" : "Sáng Lập Kỳ Tích - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/255.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3671,
+    "title" : "Ta Yêu Nàng - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/256.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3539,
+    "title" : "Đông Nhi thua cuộc - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/257.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3554,
+    "title" : "Vũ Hạo Bế Quan - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/258.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3903,
+    "title" : "Nhiệm Vụ Bắt Đầu - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/259.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3645,
+    "title" : "Nhật Thăng Thành - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1864,
+    "title" : "Hạo - Đông chiến thắng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/260.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3241,
+    "title" : "Kế Hoạch Hoàn Mỹ - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/261.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3394,
+    "title" : "Mã Tiểu Đào - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/262.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3631,
+    "title" : "Bắt Đầu Hành Động - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/263.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3440,
+    "title" : "Toàn Bộ Bộc Phát - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/264.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2482,
+    "title" : "Nam Thu Thu Gặp Mẹ - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/265.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3947,
+    "title" : "Thiên La Địa Võng - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/266.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3379,
+    "title" : "Tình Yêu Của Thu Nhi - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/267.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3386,
+    "title" : "Đế Hoàng Thụy Thú - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/268.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3295,
+    "title" : "Thức Tỉnh - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/269.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3365,
+    "title" : "Tà Nhãn Chi Nộ - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1851,
+    "title" : "Trận chung kết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/270.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3739,
+    "title" : "Thú Triều - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/271.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3415,
+    "title" : "Hoàng Kim Thụ - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/272.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3377,
+    "title" : "Thao Thiết Hàng Lâm - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/273.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2602,
+    "title" : "Hồn Đạo Xạ Tuyến - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/274.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3468,
+    "title" : "Vạn Yêu Vương - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/275.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3768,
+    "title" : "Hung Thú Xuất Chiến - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/276.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3335,
+    "title" : "Vong Linh Đại Quân - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/277.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3482,
+    "title" : "Thần Thú Điên Cuồng - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/278.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3717,
+    "title" : "Thuyết Phục Thần Thú - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/279.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3377,
+    "title" : "Long Vương Trảo - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1828,
+    "title" : "U Minh Bạch Hổ Vs Hoàng Kim Lộ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/280.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3064,
+    "title" : "Truyện Linh Pháp - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/281.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3331,
+    "title" : "Đến Lạc Nhật Sâm Lâm - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/282.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3651,
+    "title" : "Đông Nhi Ta Tới Rồi - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/283.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3879,
+    "title" : "Đông Nhi Tỉnh Lại - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/284.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3386,
+    "title" : "Vũ Hạo Xung Quân - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/285.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3153,
+    "title" : "Đệ Đệ Của Vũ Hạo - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/286.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3692,
+    "title" : "Thức Tỉnh Đới Lạc Lê - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/287.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3604,
+    "title" : "Bạch Hổ Nguy Hiểm - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/288.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3610,
+    "title" : "288",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/289.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3405,
+    "title" : "Quật Tử Nguyên Soái - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1932,
+    "title" : "Quán quân lớp tân sinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/290.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3370,
+    "title" : "Đông Nhi Xuất Hiện - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/291.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2915,
+    "title" : "Ta Là Đường Vũ Đồng - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/292.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1737,
+    "title" : "Nàng Là Đông Nhi - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/293.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3400,
+    "title" : "Thiên Long Mã - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/294.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3597,
+    "title" : "Bi Kịch Hoàng Kim Đại Mạo - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/295.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3459,
+    "title" : "Vì Đông Nhi Mà Nướng Cá - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/296.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3458,
+    "title" : "Gặp Công Tước Bạch Hổ - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/297.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3538,
+    "title" : "Dung Hợp Với Vũ Đồng - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/298.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2873,
+    "title" : "Tâm Tình Của Vũ Hạo - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/299.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3402,
+    "title" : "Nguy Hiểm Sau Lưng - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1922,
+    "title" : "Hồn hoàn trăm vạn năm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1704,
+    "title" : "Phần thưởng quán quân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/300.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3349,
+    "title" : "Lửa Cháy Thiên La - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/301.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3155,
+    "title" : "Tu La Vũ Hạo - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/302.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3539,
+    "title" : "Nghênh Đón Tử Thần - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/303.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3683,
+    "title" : "Tử Thần Đấu La - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/304.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3381,
+    "title" : "Vũ Hạo Gặp Nạn - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/305.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3152,
+    "title" : "Thức Tỉnh Vũ Đồng - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/306.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3732,
+    "title" : "Học Viện Hồn Đạo Sư Đoàn - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/307.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3559,
+    "title" : "Hồn Hạch Dung Hợp - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/308.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3718,
+    "title" : "Địa Long Môn - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/309.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3705,
+    "title" : "Huyền Băng Tủy Vạn Năm - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1916,
+    "title" : "Hai khối Hồn cốt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/310.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1315,
+    "title" : "Huyền Băng Tủy Vạn Năm - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/311.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3483,
+    "title" : "Hỏa Phượng Hoàng Hồn Đạo Sư Đoàn - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/312.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3456,
+    "title" : "Quất Tử - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/313.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3674,
+    "title" : "313",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/314.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3326,
+    "title" : "314",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/315.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3528,
+    "title" : "315",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/316.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3115,
+    "title" : "316",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/317.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3684,
+    "title" : "317",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/318.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3682,
+    "title" : "318",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/319.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3815,
+    "title" : "319",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1824,
+    "title" : "Ứng chiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/320.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3272,
+    "title" : "320",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/321.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3380,
+    "title" : "321",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/322.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3868,
+    "title" : "322",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/323.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3658,
+    "title" : "323",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/324.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3715,
+    "title" : "324",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/325.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3888,
+    "title" : "325",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/326.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3686,
+    "title" : "326",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/327.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3514,
+    "title" : "327",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/328.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3792,
+    "title" : "328",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/329.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3700,
+    "title" : "329",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2012,
+    "title" : "Màu xám thức tỉnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/330.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3606,
+    "title" : "330",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/331.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3438,
+    "title" : "331",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/332.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2921,
+    "title" : "332",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/333.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3587,
+    "title" : "Long Vũ Đao Pháp - Giọng Đọc Bình Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/334.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3788,
+    "title" : "334",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/335.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "335",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/336.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3671,
+    "title" : "336",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/337.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3376,
+    "title" : "337",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/338.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3576,
+    "title" : "338",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/339.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3674,
+    "title" : "339",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2216,
+    "title" : "Hồn Đạo Khí",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/340.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3704,
+    "title" : "340",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/341.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3747,
+    "title" : "341",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/342.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3409,
+    "title" : "342",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/343.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3731,
+    "title" : "343",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/344.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3156,
+    "title" : "344",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/345.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3822,
+    "title" : "345",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/346.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3620,
+    "title" : "346",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/347.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3612,
+    "title" : "347",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/348.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3225,
+    "title" : "348",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/349.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3597,
+    "title" : "349",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3844,
+    "title" : "Tam Đại Thiên Vương tại cực Bắc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/350.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3270,
+    "title" : "350",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/351.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3645,
+    "title" : "351",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/352.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3579,
+    "title" : "352",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/353.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3705,
+    "title" : "353",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/354.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1701,
+    "title" : "354",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/355.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1872,
+    "title" : "355",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/356.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1917,
+    "title" : "356",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/357.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1883,
+    "title" : "357",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/358.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1917,
+    "title" : "358",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/359.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2049,
+    "title" : "359",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1973,
+    "title" : "Thiên Mộng Băng Đế",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/360.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1999,
+    "title" : "360",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/361.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2043,
+    "title" : "361",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/362.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2036,
+    "title" : "362",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/363.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2004,
+    "title" : "363",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/364.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2105,
+    "title" : "364",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/365.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2012,
+    "title" : "365",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/366.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1851,
+    "title" : "366",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/367.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3822,
+    "title" : "367",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/368.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2056,
+    "title" : "368",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/369.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1925,
+    "title" : "369",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2029,
+    "title" : "Băng Đế",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/370.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2032,
+    "title" : "370",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/371.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2043,
+    "title" : "371",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/372.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2024,
+    "title" : "372",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/373.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1972,
+    "title" : "373",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/374.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2007,
+    "title" : "374",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/375.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1972,
+    "title" : "375",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/376.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3267,
+    "title" : "376",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/377.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1972,
+    "title" : "377",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/378.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2004,
+    "title" : "378",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/379.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1964,
+    "title" : "379",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1889,
+    "title" : "Đau đớn cực hạn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/380.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1992,
+    "title" : "380",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/381.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1919,
+    "title" : "381",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/382.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2067,
+    "title" : "382",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/383.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2041,
+    "title" : "383",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/384.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1995,
+    "title" : "384",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/385.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2227,
+    "title" : "385",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/386.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2104,
+    "title" : "386",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/387.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2005,
+    "title" : "387",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/388.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1951,
+    "title" : "388",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/389.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2092,
+    "title" : "389",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1925,
+    "title" : "Hồn Hoàn Màu Đỏ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/390.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2033,
+    "title" : "390",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/391.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2062,
+    "title" : "391",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/392.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2103,
+    "title" : "392",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/393.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2081,
+    "title" : "393",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/394.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2022,
+    "title" : "394",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/395.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1916,
+    "title" : "395",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/396.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2192,
+    "title" : "396",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/397.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1616,
+    "title" : "397",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1876,
+    "title" : "Phích Lịch Bối Bối",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3698,
+    "title" : "Hồn kỹ thứ hai của linh mâu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1735,
+    "title" : "Đấu La Đại Lục phần 2 Tập 41- Huy chương Hồn Đạo Sư cấp 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1920,
+    "title" : "Uy hiếp chí mạng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2156,
+    "title" : "Băng Đế Ngao",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1928,
+    "title" : "Tiên tổ Đường Tam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2064,
+    "title" : "Điệp thần chảm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1937,
+    "title" : "Băng Hoàng hộ thể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3637,
+    "title" : "Hải Thần Các",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1844,
+    "title" : "Hồn Đạo Sư",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2103,
+    "title" : "Hoàng Kim Chi Mang Tả Tí Cốt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2801,
+    "title" : "Con đường tu luyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1934,
+    "title" : "Sinh Tử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2025,
+    "title" : "Tốc Độ Sinh Tử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1875,
+    "title" : "Đấu vòng tròn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2025,
+    "title" : "Hỏa diễm cuồng ma",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/54.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1862,
+    "title" : "Vĩnh Đông Chi Vực",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/55.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1953,
+    "title" : "Đại Loạn Chiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/56.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2029,
+    "title" : "Cực hạn đan binh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/57.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1979,
+    "title" : "Sử Lai Khắc chiến đội",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/58.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2193,
+    "title" : "Hỗn độn chiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/59.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1907,
+    "title" : "Thắng lợi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2133,
+    "title" : "Học viện đệ nhất Đại lục",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/60.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1995,
+    "title" : "Nhiệm vụ Giám sát đoàn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/61.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1893,
+    "title" : "Sử Lai Khắc Giám sát đoàn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/62.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2396,
+    "title" : "Tà Hồn Sư",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/63.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2324,
+    "title" : "Công tước Bạch Hổ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/64.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1884,
+    "title" : "Sứ giả của tử thần",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/65.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2040,
+    "title" : "Vong linh ma pháp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/66.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1986,
+    "title" : "Vũ hồn thứ ba",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/67.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1946,
+    "title" : "Siêu cấp đâu la",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/68.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2063,
+    "title" : "Đấu hồn đại tái",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/69.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2026,
+    "title" : "Hồn sư hệ phụ trợ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2191,
+    "title" : "Lão sư quái vật",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/70.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1406,
+    "title" : "Hòa Thái Đầu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/71.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3736,
+    "title" : "Vĩnh hằng chi ngự",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/72.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1841,
+    "title" : "Từ Tam Thạch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/73.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1781,
+    "title" : "Ẩn giấu thực lực",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/74.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2452,
+    "title" : "Khắc đao pháp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/75.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1713,
+    "title" : "75",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/76.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1984,
+    "title" : "Thiên kích mâu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/77.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2203,
+    "title" : "Hủy Diệt Chi Nguyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/78.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2068,
+    "title" : "Sử Lai Khắc thần bí",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/79.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2091,
+    "title" : "Cuộc chiến then chốt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1815,
+    "title" : "Hồ Điệp vũ hồn đẹp nhất đại lục",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/80.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1955,
+    "title" : "Huyền Vũ giác tỉnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/81.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1936,
+    "title" : "Oanh liệt đại pháo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/82.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1738,
+    "title" : "Quyết chiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2009,
+    "title" : "Quyết chiến ! Ba đấu ba",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/84.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3892,
+    "title" : "Vĩnh Đông Chi Vực",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/85.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1986,
+    "title" : "Thập Đại Hung Thú",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/86.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1984,
+    "title" : "Cuộc chiến của Phong Hào Đấu La",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/87.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1982,
+    "title" : "87",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/88.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1978,
+    "title" : "Đấu Giá Hội Đỉnh Cấp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/89.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2050,
+    "title" : "Cực Phẩm và Công Chúa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1808,
+    "title" : "Quang Minh Nữ Thần Điệp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/90.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1986,
+    "title" : "Phôi thai Hồn Thú mười vạn năm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/91.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2007,
+    "title" : "Đấu Linh chiến đội",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/92.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2038,
+    "title" : "Trận đấu Sử Lai Khắc Vs Đấu Linh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/93.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1926,
+    "title" : "Tiến vào Bán kết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/94.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2076,
+    "title" : "Tập 93 - Sinh Linh Nhãn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/95.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1972,
+    "title" : "Tập 95 - Trận Bán Kết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/96.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1905,
+    "title" : "Tập 96 - Công chúa xuất chiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/97.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1961,
+    "title" : "Hồn Đạo Khí Phòng Ngự Tuyệt Đối",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/98.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1930,
+    "title" : "Vũ Hồn Dung Hợp Kỹ Thứ 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/99.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2155,
+    "title" : "Thiên Đế Chuy",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/1.mp3",
+    "title" : "Thần giới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/10.mp3",
+    "title" : "Lớp trưởng Hoắc Vũ Hạo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/100.mp3",
+    "title" : "Tử Vong Chi Thủ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/101.mp3",
+    "title" : "Chấn Thiên Phủ Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/102.mp3",
+    "title" : "Bản Thể Tông",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/103.mp3",
+    "title" : "Đoàn Chiến Điên Cuồng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/104.mp3",
+    "title" : "Tam Túc Kim Thiềm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/105.mp3",
+    "title" : "Tam Thạch Bạo Phát",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/106.mp3",
+    "title" : "Tuyệt Học Đường Môn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/107.mp3",
+    "title" : "Mộng Hồng Trần",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/108.mp3",
+    "title" : "Hồn Đế Bạch Hổ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/109.mp3",
+    "title" : "Hắc Phượng Hoàng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/11.mp3",
+    "title" : "Từ Tam Thạch và Giang Nam Nam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/110.mp3",
+    "title" : "Hắc Phượng Hoàng Biến Dị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/111.mp3",
+    "title" : "Vũ Hồn Dung Hợp Kỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/112.mp3",
+    "title" : "Quang Nghê Thường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/113.mp3",
+    "title" : "Phần Thưởng Quán Quân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/114.mp3",
+    "title" : "Hải Thần Các",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/115.mp3",
+    "title" : "Sử Lai Khắc Thất Quái",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/116.mp3",
+    "title" : "Con Đường Tu Luyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/117.mp3",
+    "title" : "Đường Môn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/118.mp3",
+    "title" : "Thi Đấu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/119.mp3",
+    "title" : "Tông Chủ Bản Thể Tông",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/12.mp3",
+    "title" : "Huyền Thủy Đan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/120.mp3",
+    "title" : "Độc Bất Tử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/121.mp3",
+    "title" : "1 | Tông Chủ Minh Đức Đường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/122.mp3",
+    "title" : "2 | Vào Hải Thần Các",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/123.mp3",
+    "title" : "1 | Ám Kim Khủng Trảo Hùng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/124.mp3",
+    "title" : "2 | Hồn Cốt Bàn Tay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/125.mp3",
+    "title" : "1 | Ám Kim Khủng Trảo Hữu Trưởng Cốt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/126.mp3",
+    "title" : "2 | Hắc Ám Lam Ngân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/127.mp3",
+    "title" : "1 | Tinh Đấu Đại Sâm Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/128.mp3",
+    "title" : "2 | Hồn Thú Thích Hợp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/129.mp3",
+    "title" : "1 | Đế Hoàng Thụy Thú",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/13.mp3",
+    "title" : "Thiên Mộng nhất chỉ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/130.mp3",
+    "title" : "2 | Vận Mệnh Chi Nhãn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/131.mp3",
+    "title" : "1 | Tầm Nhìn Mới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/132.mp3",
+    "title" : "2 | Thí Nghiệm Cực Hạn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/133.mp3",
+    "title" : "1 | Vận Mệnh Chi Quang",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/134.mp3",
+    "title" : "2 | Hồn Hoàn Vạn Năm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/135.mp3",
+    "title" : "1 | Ma Luyện Cực Hạn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/136.mp3",
+    "title" : "2 | Huy Hoàng Đường Môn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/137.mp3",
+    "title" : "Đấu La 2 | Tập 121 | Tạm Biệt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/138.mp3",
+    "title" : "Đấu La 2 | Tập 122 | Hồn Đạo Khí Mới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/139.mp3",
+    "title" : "Đấu La 2 | Tập 123 | Nhập Học",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/14.mp3",
+    "title" : "Khảo hạch tân sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/140.mp3",
+    "title" : "Đấu La 2 | Tập 124 | Quật Tử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/141.mp3",
+    "title" : "Đấu La 2 | Tập 125 | Quật Tử Thần Bí",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/142.mp3",
+    "title" : "Đấu La 2 | Tập 126 | Ngân Nguyệt Lang Vương",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/143.mp3",
+    "title" : "Đấu La 2 | Tập 127 | Vũ Hạo Trọng Thương",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/144.mp3",
+    "title" : "Đấu La 2 | Tập 128 | Vũ Hạo Bị Bắt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/145.mp3",
+    "title" : "Hoàng Gia Nhật Nguyệt - MC Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/146.mp3",
+    "title" : "Kim Khí Nhân Thần - MC Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/147.mp3",
+    "title" : "Tuyết Đế - MC Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/148.mp3",
+    "title" : "Đấu Trí Nguy Hiểm - MC Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/149.mp3",
+    "title" : "Thống Nhất Giang Hồ - MC Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/15.mp3",
+    "title" : "Khảo hạch tân sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/150.mp3",
+    "title" : "Kiếm Si Quý Tuyệt Trần - MC Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/151.mp3",
+    "title" : "Hãn Hải Vô Nhai - MC Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/152.mp3",
+    "title" : "Thánh Linh Giáo - MC Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/153.mp3",
+    "title" : "Quang Minh Nữ Thần Điệp - MC Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/154.mp3",
+    "title" : "Tâm Linh Phong Bạo - MC Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/155.mp3",
+    "title" : "Quang Nữ Thần - MC Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/156.mp3",
+    "title" : "Hạo Thiên Tông - MC Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/157.mp3",
+    "title" : "Hàn Băng Ngọc Tủy Sàng - MC Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/158.mp3",
+    "title" : "Đồng Tâm Hiệp Lực - MC Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/159.mp3",
+    "title" : "Hồn Linh Xuất Hiện - MC Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/16.mp3",
+    "title" : "Song Khống",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/160.mp3",
+    "title" : "Tuyết Đế Tam Tuyệt - MC Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/161.mp3",
+    "title" : "Hồn Đạo Khí Hình Người - MC Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/162.mp3",
+    "title" : "Hạt Hổ Đấu La - MC Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/163.mp3",
+    "title" : "Hắc Bạch Song Thánh Long - MC Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/164.mp3",
+    "title" : "Vương Thu Nhi Xuất Hiện - MC Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/165.mp3",
+    "title" : "Đại Hội Duyên Hải Thần - MC Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/166.mp3",
+    "title" : "Sét đánh vào tim - MC Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/167.mp3",
+    "title" : "Duyên Định - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/168.mp3",
+    "title" : "Áp Chế - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/169.mp3",
+    "title" : "Nữ Thần Bên Cạnh - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/17.mp3",
+    "title" : "Đông, Vũ hồn dung hợp kỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/170.mp3",
+    "title" : "170",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/171.mp3",
+    "title" : "Thất Quái Hội Tụ - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/172.mp3",
+    "title" : "Hoàng Kim Chân Thân - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/173.mp3",
+    "title" : "Cướp Hồn Hoàn - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/174.mp3",
+    "title" : "Tà Hồn Sư - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/175.mp3",
+    "title" : "Vận Mệnh Long Ngâm - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/176.mp3",
+    "title" : "Đồng Sinh Cộng Tử - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/177.mp3",
+    "title" : "Hồn Hoàn Thứ Năm - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/178.mp3",
+    "title" : "Đường Môn Xuất Chiến - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/179.mp3",
+    "title" : "Đường Môn Lớn Mạnh - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/18.mp3",
+    "title" : "Hạo Đông dung hợp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/180.mp3",
+    "title" : "Vương Đông Nhi - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/181.mp3",
+    "title" : "Vũ Hạo vs Thu Nhi - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/182.mp3",
+    "title" : "Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/183.mp3",
+    "title" : "Lạc Nhật Sâm Lâm - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/184.mp3",
+    "title" : "Bích Lân Hoa - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/185.mp3",
+    "title" : "Nhân Gian Tiên Cảnh - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/186.mp3",
+    "title" : "Khảo Nghiệm Gian Nan - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/187.mp3",
+    "title" : "Tiên Tổ Đường Tam - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/188.mp3",
+    "title" : "Thời Khắc Sinh Tử - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/189.mp3",
+    "title" : "Đông Nhi Kiên Cường - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/19.mp3",
+    "title" : "Ba vũ hồn dung hợp kỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/190.mp3",
+    "title" : "Cố Gắng Khôi Phục - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/191.mp3",
+    "title" : "191",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/192.mp3",
+    "title" : "Minh Đô Dự Thi - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/193.mp3",
+    "title" : "193",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/194.mp3",
+    "title" : "Đường Nhã - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/195.mp3",
+    "title" : "Đường Nhã Xuất Hiện - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/196.mp3",
+    "title" : "Thánh Linh Giáo - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/197.mp3",
+    "title" : "Khách Hàng Lớn - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/198.mp3",
+    "title" : "Công Chúa Cửu Cửu - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/199.mp3",
+    "title" : "Bí Mật Của Bối Bối - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/2.mp3",
+    "title" : "Thiên Mộng Băng Tằm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/20.mp3",
+    "title" : "Con đường hoàng kim",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/200.mp3",
+    "title" : "Trước Giờ Thi Đấu - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/201.mp3",
+    "title" : "Trận Đấu Đầu Tiên - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/202.mp3",
+    "title" : "Nhật Nguyệt Chiến Đội - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/203.mp3",
+    "title" : "Vũ Hạo Dự Thi - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/204.mp3",
+    "title" : "Tuyết Nữ Xuất Chiến - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/205.mp3",
+    "title" : "Vũ Hạo Vs Nam Thu Thu - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/206.mp3",
+    "title" : "Mẫu Thân Của Nam Thu Thu - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/207.mp3",
+    "title" : "Thánh Linh Chiến Đội - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/208.mp3",
+    "title" : "Sử Lai Khắc Xuất Chiến - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/209.mp3",
+    "title" : "Thất Vị Nhất Thể Tổ Hợp Kỹ - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/21.mp3",
+    "title" : "Rực rỡ & Điêu tàn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/210.mp3",
+    "title" : "Tiến Bộ Của Sử Lai Khắc Chiến Đội - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/211.mp3",
+    "title" : "Đại Tái Dưới Lòng Đất - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/212.mp3",
+    "title" : "Thiên Tài Hồn Đạo Sư - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/213.mp3",
+    "title" : "Chiến Thuật Bỏ Cuộc - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/214.mp3",
+    "title" : "Hồn Kỹ Thứ Năm Của Đông Nhi - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/215.mp3",
+    "title" : "Sự Đáng Sợ Của Tiếu Hồng Trần - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/216.mp3",
+    "title" : "Thức Tỉnh Vương Đông Nhi - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/217.mp3",
+    "title" : "Nhóm Bảng Khắc Đao - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/218.mp3",
+    "title" : "218",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/219.mp3",
+    "title" : "Đôi Mắt Sợ Hãi - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/22.mp3",
+    "title" : "Thất Bảo Lưu Ly Tháp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/220.mp3",
+    "title" : "Phá Minh Ngọc Tông - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/221.mp3",
+    "title" : "Huyết Ngưng Đao Khắc Cao Đại Lâu - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/222.mp3",
+    "title" : "Vương Thu Nhi Mạnh Mẽ - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/223.mp3",
+    "title" : "Đe Dọa Cường Địch - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/224.mp3",
+    "title" : "Lục Cường Hồn Đạo Sư Tranh Tài - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/225.mp3",
+    "title" : "Khống Chi Thuẫn Tái Quyết Trưởng - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/226.mp3",
+    "title" : "Vũ Hồn Thứ Ba Của Vũ Hạo - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/227.mp3",
+    "title" : "Thế Giới Vong Linh - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/228.mp3",
+    "title" : "Bát Cường Rút Thăm - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/229.mp3",
+    "title" : "Bát Cường Thi Đấu - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/23.mp3",
+    "title" : "Thất Bảo Vs Linh Mâu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/230.mp3",
+    "title" : "Hoàng Kim Long Nữ - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/231.mp3",
+    "title" : "Lam Điện Bá Vương Long Huyết Mạch - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/232.mp3",
+    "title" : "Bản Thể Tông - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/233.mp3",
+    "title" : "Huyền Minh Chi Vực - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/234.mp3",
+    "title" : "Đường Môn Đoàn Chiến Tuyết Ma Tông - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/235.mp3",
+    "title" : "Bộc Phát Dành Thắng Lợi - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/236.mp3",
+    "title" : "Thế Cục Bế Tắc - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/237.mp3",
+    "title" : "Song Long Quyết Đấu - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/238.mp3",
+    "title" : "Hoàng Long Phá Tà - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/239.mp3",
+    "title" : "Thánh Linh Tông Đường Nhã - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/24.mp3",
+    "title" : "Huynh Đệ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/240.mp3",
+    "title" : "Tứ Đại Tà Hồn Sư - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/241.mp3",
+    "title" : "Tử Kim Biến Thân - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/242.mp3",
+    "title" : "Tử Kim Điệp Long Biến - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/243.mp3",
+    "title" : "Quật Tử - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/244.mp3",
+    "title" : "Nhật Nguyệt Thần Châm - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/245.mp3",
+    "title" : "Hoàng Kim Điệp Long - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/246.mp3",
+    "title" : "Pháo Đài Hoàng Cung - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/247.mp3",
+    "title" : "247",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/248.mp3",
+    "title" : "Tiến Vào Chung Kết - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/249.mp3",
+    "title" : "Kinh Khủng Nổ Lớn - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/25.mp3",
+    "title" : "Cừu nhân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/250.mp3",
+    "title" : "Nghi Thức Tế Lễ - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/251.mp3",
+    "title" : "Càn Khôn Vấn Tình Cốc - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/252.mp3",
+    "title" : "Thiên Mộng Lĩnh Vực - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/253.mp3",
+    "title" : "Cứu Phụ Thân - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/254.mp3",
+    "title" : "Sáng Lập Kỳ Tích - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/255.mp3",
+    "title" : "Ta Yêu Nàng - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/256.mp3",
+    "title" : "Đông Nhi thua cuộc - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/257.mp3",
+    "title" : "Vũ Hạo Bế Quan - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/258.mp3",
+    "title" : "Nhiệm Vụ Bắt Đầu - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/259.mp3",
+    "title" : "Nhật Thăng Thành - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/26.mp3",
+    "title" : "Hạo - Đông chiến thắng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/260.mp3",
+    "title" : "Kế Hoạch Hoàn Mỹ - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/261.mp3",
+    "title" : "Mã Tiểu Đào - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/262.mp3",
+    "title" : "Bắt Đầu Hành Động - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/263.mp3",
+    "title" : "Toàn Bộ Bộc Phát - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/264.mp3",
+    "title" : "Nam Thu Thu Gặp Mẹ - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/265.mp3",
+    "title" : "Thiên La Địa Võng - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/266.mp3",
+    "title" : "Tình Yêu Của Thu Nhi - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/267.mp3",
+    "title" : "Đế Hoàng Thụy Thú - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/268.mp3",
+    "title" : "Thức Tỉnh - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/269.mp3",
+    "title" : "Tà Nhãn Chi Nộ - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/27.mp3",
+    "title" : "Trận chung kết",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/270.mp3",
+    "title" : "Thú Triều - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/271.mp3",
+    "title" : "Hoàng Kim Thụ - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/272.mp3",
+    "title" : "Thao Thiết Hàng Lâm - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/273.mp3",
+    "title" : "Hồn Đạo Xạ Tuyến - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/274.mp3",
+    "title" : "Vạn Yêu Vương - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/275.mp3",
+    "title" : "Hung Thú Xuất Chiến - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/276.mp3",
+    "title" : "Vong Linh Đại Quân - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/277.mp3",
+    "title" : "Thần Thú Điên Cuồng - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/278.mp3",
+    "title" : "Thuyết Phục Thần Thú - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/279.mp3",
+    "title" : "Long Vương Trảo - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/28.mp3",
+    "title" : "U Minh Bạch Hổ Vs Hoàng Kim Lộ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/280.mp3",
+    "title" : "Truyện Linh Pháp - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/281.mp3",
+    "title" : "Đến Lạc Nhật Sâm Lâm - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/282.mp3",
+    "title" : "Đông Nhi Ta Tới Rồi - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/283.mp3",
+    "title" : "Đông Nhi Tỉnh Lại - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/284.mp3",
+    "title" : "Vũ Hạo Xung Quân - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/285.mp3",
+    "title" : "Đệ Đệ Của Vũ Hạo - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/286.mp3",
+    "title" : "Thức Tỉnh Đới Lạc Lê - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/287.mp3",
+    "title" : "Bạch Hổ Nguy Hiểm - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/288.mp3",
+    "title" : "288",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/289.mp3",
+    "title" : "Quật Tử Nguyên Soái - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/29.mp3",
+    "title" : "Quán quân lớp tân sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/290.mp3",
+    "title" : "Đông Nhi Xuất Hiện - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/291.mp3",
+    "title" : "Ta Là Đường Vũ Đồng - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/292.mp3",
+    "title" : "Nàng Là Đông Nhi - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/293.mp3",
+    "title" : "Thiên Long Mã - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/294.mp3",
+    "title" : "Bi Kịch Hoàng Kim Đại Mạo - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/295.mp3",
+    "title" : "Vì Đông Nhi Mà Nướng Cá - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/296.mp3",
+    "title" : "Gặp Công Tước Bạch Hổ - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/297.mp3",
+    "title" : "Dung Hợp Với Vũ Đồng - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/298.mp3",
+    "title" : "Tâm Tình Của Vũ Hạo - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/299.mp3",
+    "title" : "Nguy Hiểm Sau Lưng - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/3.mp3",
+    "title" : "Hồn hoàn trăm vạn năm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/30.mp3",
+    "title" : "Phần thưởng quán quân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/300.mp3",
+    "title" : "Lửa Cháy Thiên La - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/301.mp3",
+    "title" : "Tu La Vũ Hạo - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/302.mp3",
+    "title" : "Nghênh Đón Tử Thần - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/303.mp3",
+    "title" : "Tử Thần Đấu La - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/304.mp3",
+    "title" : "Vũ Hạo Gặp Nạn - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/305.mp3",
+    "title" : "Thức Tỉnh Vũ Đồng - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/306.mp3",
+    "title" : "Học Viện Hồn Đạo Sư Đoàn - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/307.mp3",
+    "title" : "Hồn Hạch Dung Hợp - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/308.mp3",
+    "title" : "Địa Long Môn - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/309.mp3",
+    "title" : "Huyền Băng Tủy Vạn Năm - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/31.mp3",
+    "title" : "Hai khối Hồn cốt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/310.mp3",
+    "title" : "Huyền Băng Tủy Vạn Năm - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/311.mp3",
+    "title" : "Hỏa Phượng Hoàng Hồn Đạo Sư Đoàn - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/312.mp3",
+    "title" : "Quất Tử - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/313.mp3",
+    "title" : "313",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/314.mp3",
+    "title" : "314",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/315.mp3",
+    "title" : "315",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/316.mp3",
+    "title" : "316",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/317.mp3",
+    "title" : "317",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/318.mp3",
+    "title" : "318",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/319.mp3",
+    "title" : "319",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/32.mp3",
+    "title" : "Ứng chiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/320.mp3",
+    "title" : "320",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/321.mp3",
+    "title" : "321",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/322.mp3",
+    "title" : "322",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/323.mp3",
+    "title" : "323",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/324.mp3",
+    "title" : "324",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/325.mp3",
+    "title" : "325",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/326.mp3",
+    "title" : "326",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/327.mp3",
+    "title" : "327",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/328.mp3",
+    "title" : "328",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/329.mp3",
+    "title" : "329",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/33.mp3",
+    "title" : "Màu xám thức tỉnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/330.mp3",
+    "title" : "330",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/331.mp3",
+    "title" : "331",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/332.mp3",
+    "title" : "332",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/333.mp3",
+    "title" : "Long Vũ Đao Pháp - Giọng Đọc Bình Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/334.mp3",
+    "title" : "334",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/335.mp3",
+    "title" : "335",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/336.mp3",
+    "title" : "336",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/337.mp3",
+    "title" : "337",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/338.mp3",
+    "title" : "338",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/339.mp3",
+    "title" : "339",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/34.mp3",
+    "title" : "Hồn Đạo Khí",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/340.mp3",
+    "title" : "340",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/341.mp3",
+    "title" : "341",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/342.mp3",
+    "title" : "342",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/343.mp3",
+    "title" : "343",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/344.mp3",
+    "title" : "344",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/345.mp3",
+    "title" : "345",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/346.mp3",
+    "title" : "346",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/347.mp3",
+    "title" : "347",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/348.mp3",
+    "title" : "348",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/349.mp3",
+    "title" : "349",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/35.mp3",
+    "title" : "Tam Đại Thiên Vương tại cực Bắc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/350.mp3",
+    "title" : "350",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/351.mp3",
+    "title" : "351",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/352.mp3",
+    "title" : "352",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/353.mp3",
+    "title" : "353",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/354.mp3",
+    "title" : "354",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/355.mp3",
+    "title" : "355",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/356.mp3",
+    "title" : "356",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/357.mp3",
+    "title" : "357",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/358.mp3",
+    "title" : "358",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/359.mp3",
+    "title" : "359",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/36.mp3",
+    "title" : "Thiên Mộng Băng Đế",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/360.mp3",
+    "title" : "360",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/361.mp3",
+    "title" : "361",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/362.mp3",
+    "title" : "362",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/363.mp3",
+    "title" : "363",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/364.mp3",
+    "title" : "364",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/365.mp3",
+    "title" : "365",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/366.mp3",
+    "title" : "366",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/367.mp3",
+    "title" : "367",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/368.mp3",
+    "title" : "368",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/369.mp3",
+    "title" : "369",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/37.mp3",
+    "title" : "Băng Đế",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/370.mp3",
+    "title" : "370",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/371.mp3",
+    "title" : "371",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/372.mp3",
+    "title" : "372",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/373.mp3",
+    "title" : "373",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/374.mp3",
+    "title" : "374",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/375.mp3",
+    "title" : "375",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/376.mp3",
+    "title" : "376",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/377.mp3",
+    "title" : "377",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/378.mp3",
+    "title" : "378",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/379.mp3",
+    "title" : "379",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/38.mp3",
+    "title" : "Đau đớn cực hạn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/380.mp3",
+    "title" : "380",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/381.mp3",
+    "title" : "381",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/382.mp3",
+    "title" : "382",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/383.mp3",
+    "title" : "383",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/384.mp3",
+    "title" : "384",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/385.mp3",
+    "title" : "385",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/386.mp3",
+    "title" : "386",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/387.mp3",
+    "title" : "387",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/388.mp3",
+    "title" : "388",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/389.mp3",
+    "title" : "389",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/39.mp3",
+    "title" : "Hồn Hoàn Màu Đỏ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/390.mp3",
+    "title" : "390",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/391.mp3",
+    "title" : "391",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/392.mp3",
+    "title" : "392",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/393.mp3",
+    "title" : "393",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/394.mp3",
+    "title" : "394",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/395.mp3",
+    "title" : "395",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/396.mp3",
+    "title" : "396",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/397.mp3",
+    "title" : "397",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/4.mp3",
+    "title" : "Phích Lịch Bối Bối",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/40.mp3",
+    "title" : "Hồn kỹ thứ hai của linh mâu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/41.mp3",
+    "title" : "Đấu La Đại Lục phần 2 Tập 41- Huy chương Hồn Đạo Sư cấp 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/42.mp3",
+    "title" : "Uy hiếp chí mạng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/43.mp3",
+    "title" : "Băng Đế Ngao",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/44.mp3",
+    "title" : "Tiên tổ Đường Tam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/45.mp3",
+    "title" : "Điệp thần chảm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/46.mp3",
+    "title" : "Băng Hoàng hộ thể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/47.mp3",
+    "title" : "Hải Thần Các",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/48.mp3",
+    "title" : "Hồn Đạo Sư",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/49.mp3",
+    "title" : "Hoàng Kim Chi Mang Tả Tí Cốt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/5.mp3",
+    "title" : "Con đường tu luyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/50.mp3",
+    "title" : "Sinh Tử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/51.mp3",
+    "title" : "Tốc Độ Sinh Tử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/52.mp3",
+    "title" : "Đấu vòng tròn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/53.mp3",
+    "title" : "Hỏa diễm cuồng ma",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/54.mp3",
+    "title" : "Vĩnh Đông Chi Vực",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/55.mp3",
+    "title" : "Đại Loạn Chiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/56.mp3",
+    "title" : "Cực hạn đan binh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/57.mp3",
+    "title" : "Sử Lai Khắc chiến đội",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/58.mp3",
+    "title" : "Hỗn độn chiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/59.mp3",
+    "title" : "Thắng lợi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/6.mp3",
+    "title" : "Học viện đệ nhất Đại lục",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/60.mp3",
+    "title" : "Nhiệm vụ Giám sát đoàn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/61.mp3",
+    "title" : "Sử Lai Khắc Giám sát đoàn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/62.mp3",
+    "title" : "Tà Hồn Sư",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/63.mp3",
+    "title" : "Công tước Bạch Hổ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/64.mp3",
+    "title" : "Sứ giả của tử thần",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/65.mp3",
+    "title" : "Vong linh ma pháp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/66.mp3",
+    "title" : "Vũ hồn thứ ba",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/67.mp3",
+    "title" : "Siêu cấp đâu la",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/68.mp3",
+    "title" : "Đấu hồn đại tái",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/69.mp3",
+    "title" : "Hồn sư hệ phụ trợ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/7.mp3",
+    "title" : "Lão sư quái vật",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/70.mp3",
+    "title" : "Hòa Thái Đầu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/71.mp3",
+    "title" : "Vĩnh hằng chi ngự",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/72.mp3",
+    "title" : "Từ Tam Thạch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/73.mp3",
+    "title" : "Ẩn giấu thực lực",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/74.mp3",
+    "title" : "Khắc đao pháp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/75.mp3",
+    "title" : "75",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/76.mp3",
+    "title" : "Thiên kích mâu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/77.mp3",
+    "title" : "Hủy Diệt Chi Nguyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/78.mp3",
+    "title" : "Sử Lai Khắc thần bí",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/79.mp3",
+    "title" : "Cuộc chiến then chốt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/8.mp3",
+    "title" : "Hồ Điệp vũ hồn đẹp nhất đại lục",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/80.mp3",
+    "title" : "Huyền Vũ giác tỉnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/81.mp3",
+    "title" : "Oanh liệt đại pháo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/82.mp3",
+    "title" : "Quyết chiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/83.mp3",
+    "title" : "Quyết chiến ! Ba đấu ba",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/84.mp3",
+    "title" : "Vĩnh Đông Chi Vực",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/85.mp3",
+    "title" : "Thập Đại Hung Thú",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/86.mp3",
+    "title" : "Cuộc chiến của Phong Hào Đấu La",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/87.mp3",
+    "title" : "87",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/88.mp3",
+    "title" : "Đấu Giá Hội Đỉnh Cấp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/89.mp3",
+    "title" : "Cực Phẩm và Công Chúa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/9.mp3",
+    "title" : "Quang Minh Nữ Thần Điệp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/90.mp3",
+    "title" : "Phôi thai Hồn Thú mười vạn năm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/91.mp3",
+    "title" : "Đấu Linh chiến đội",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/92.mp3",
+    "title" : "Trận đấu Sử Lai Khắc Vs Đấu Linh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/93.mp3",
+    "title" : "Tiến vào Bán kết",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/94.mp3",
+    "title" : "Tập 93 - Sinh Linh Nhãn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/95.mp3",
+    "title" : "Tập 95 - Trận Bán Kết",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/96.mp3",
+    "title" : "Tập 96 - Công chúa xuất chiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/97.mp3",
+    "title" : "Hồn Đạo Khí Phòng Ngự Tuyệt Đối",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/98.mp3",
+    "title" : "Vũ Hồn Dung Hợp Kỹ Thứ 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_35/99.mp3",
+    "title" : "Thiên Đế Chuy",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

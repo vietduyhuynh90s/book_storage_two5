@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/no-ti-isaura-bernardo-guimaraes_11445.html",
+    "title" : "Nô Tì Isaura - Bernardo Guimarães",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Bernardo Guimarães",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 19112,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_fccdbb9274e353ac4a1d8977c75753fa.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_fccdbb9274e353ac4a1d8977c75753fa.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Nt/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5247,
+    "title" : "Nô tỳ Isaura - Bernardo Guimaraes - Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Nt/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5729,
+    "title" : "Nô tỳ Isaura - Bernardo Guimaraes - Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Nt/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4720,
+    "title" : "Nô tỳ Isaura - Bernardo Guimaraes - Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Nt/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3416,
+    "title" : "Nô tỳ Isaura - Bernardo Guimaraes - Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Nt/1.mp3",
+    "title" : "Nô tỳ Isaura - Bernardo Guimaraes - Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Nt/2.mp3",
+    "title" : "Nô tỳ Isaura - Bernardo Guimaraes - Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Nt/3.mp3",
+    "title" : "Nô tỳ Isaura - Bernardo Guimaraes - Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Nt/4.mp3",
+    "title" : "Nô tỳ Isaura - Bernardo Guimaraes - Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

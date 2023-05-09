@@ -1,0 +1,1121 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/phong-bep-am-duong_14523.html",
+    "title" : "Phòng Bếp Âm Dương",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ngô Bán Tiên",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 340852,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_3790dd19f310244334c16196e0e17c5e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_3790dd19f310244334c16196e0e17c5e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/phong-bep-am-duong/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3694,
+    "title" : "Tập 1: Ta là đạo sĩ đầu bếp | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4273,
+    "title" : "Tập 10 : Món ăn giảm cân | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4124,
+    "title" : "Tập 11: Rơi vào bẫy | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4007,
+    "title" : "Tập 12: Lão Quách bắn cương thi | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3810,
+    "title" : "Tập 13: Ác Sát và Thần Thụ | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3787,
+    "title" : "Tập 14: Nữ Quỷ Nấu Ăn | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3739,
+    "title" : "Tập 15: Hồng Môn Yến | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3683,
+    "title" : "Tập 16: Quả Báo Thiệu Gia | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3668,
+    "title" : "Tập 17: Kẻ Trộm Thực Đơn | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3887,
+    "title" : "Tập 18: Bí Mật Khâu Gia | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3810,
+    "title" : "Tập 19 : Karaoke ôm bắt Quỷ | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3946,
+    "title" : "Tập 2 : Con ma thần vòng | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3371,
+    "title" : "Tập 20 : Không Chồng Mà Chửa | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3753,
+    "title" : "Tập 21 : Đại Chiến Nhà Tang Lễ | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4028,
+    "title" : "Tập 22 : Cô Gái Bị Hủy Dung | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3969,
+    "title" : "Tập 23 : Chữa Bệnh Trong Phòng Tối | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3630,
+    "title" : "Tập 24 : Nửa Đêm Khiêu Chiến | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3611,
+    "title" : "Tập 25 : Bạch Trưởng Lão | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3768,
+    "title" : "Tập 26 : Ta Có 1 Đứa Con Gái??? | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3571,
+    "title" : "Tập 27 : Trùng Mẫu Tham Ăn | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3441,
+    "title" : "Tập 28 : Súng bắn pháp sư | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3564,
+    "title" : "Tập 29 : Quỷ Trành Nhật Bản | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3406,
+    "title" : "Tập 3 : Con phố Âm Phủ | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3920,
+    "title" : "Tập 30 : Phong thủy Âm tông | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3811,
+    "title" : "Tập 31 : Kèo độ triệu đô | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3850,
+    "title" : "Tập 32 : Lão Ngoan Đồng Lạ Lùng | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3817,
+    "title" : "Tập 33 : Đại trận gọi hồn | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3738,
+    "title" : "Tập 34 : Vòng xoáy gọi Quỷ | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3766,
+    "title" : "Tập 35 : Đại hội bát môn | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3896,
+    "title" : "Tập 36 : Kì tích | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3826,
+    "title" : "Tập 37 : Chiến thắng vang dội | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4000,
+    "title" : "Tập 38 : Phần thưởng | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3863,
+    "title" : "Tập 39 : Nhiệm vụ của Âm ty | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3721,
+    "title" : "Tập 4 : Món ăn giảm cân | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4062,
+    "title" : "Tập 40 : Thần thú Thao Thiết | Phòng bếp âm dương | Truyện ma dài kì Quàng A Tũn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3892,
+    "title" : "41",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3787,
+    "title" : "42",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3566,
+    "title" : "43",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3722,
+    "title" : "44",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3807,
+    "title" : "45",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3966,
+    "title" : "46",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3585,
+    "title" : "47",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3959,
+    "title" : "48",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3538,
+    "title" : "49",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3992,
+    "title" : "Tập 5 : Thiên lôi đánh bách quỷ | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4038,
+    "title" : "50",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3785,
+    "title" : "51",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3967,
+    "title" : "52",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3595,
+    "title" : "53",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/54.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3617,
+    "title" : "54",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/55.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3736,
+    "title" : "55",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/56.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4126,
+    "title" : "56",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/57.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3749,
+    "title" : "57",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/58.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3819,
+    "title" : "58",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/59.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3573,
+    "title" : "59",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3985,
+    "title" : "Tập 6 : Cương Thi Trong Âm Huyệt | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/60.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3578,
+    "title" : "60",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/61.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3728,
+    "title" : "61",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/62.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4135,
+    "title" : "62",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/63.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3779,
+    "title" : "63",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/64.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3807,
+    "title" : "64",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/65.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3860,
+    "title" : "65",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/66.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3788,
+    "title" : "66",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/67.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3632,
+    "title" : "67",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/68.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3661,
+    "title" : "68",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/69.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3751,
+    "title" : "69",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3829,
+    "title" : "Tập 7 : Tỉ Thí Nấu Ăn | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/70.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3722,
+    "title" : "70",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/71.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3777,
+    "title" : "71",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/72.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3754,
+    "title" : "72",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/73.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3798,
+    "title" : "73",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/74.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3828,
+    "title" : "74",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/75.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3748,
+    "title" : "75",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/76.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3768,
+    "title" : "76",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/77.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3643,
+    "title" : "77",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/78.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4003,
+    "title" : "78",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/79.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3560,
+    "title" : "79",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3727,
+    "title" : "Tập 8 : Cô nàng ngực CUP D | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/80.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3842,
+    "title" : "80",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/81.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3788,
+    "title" : "81",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/82.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3734,
+    "title" : "82",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3626,
+    "title" : "83",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/84.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3795,
+    "title" : "84",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/85.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3626,
+    "title" : "85",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/86.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3978,
+    "title" : "86",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/87.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3789,
+    "title" : "87",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/88.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3720,
+    "title" : "88",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/89.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3734,
+    "title" : "89",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4142,
+    "title" : "Tập 9 : Âm Sơn Môn giở trò | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/90.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3588,
+    "title" : "90",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/phong-bep-am-duong/1.mp3",
+    "title" : "Tập 1: Ta là đạo sĩ đầu bếp | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/10.mp3",
+    "title" : "Tập 10 : Món ăn giảm cân | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/11.mp3",
+    "title" : "Tập 11: Rơi vào bẫy | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/12.mp3",
+    "title" : "Tập 12: Lão Quách bắn cương thi | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/13.mp3",
+    "title" : "Tập 13: Ác Sát và Thần Thụ | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/14.mp3",
+    "title" : "Tập 14: Nữ Quỷ Nấu Ăn | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/15.mp3",
+    "title" : "Tập 15: Hồng Môn Yến | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/16.mp3",
+    "title" : "Tập 16: Quả Báo Thiệu Gia | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/17.mp3",
+    "title" : "Tập 17: Kẻ Trộm Thực Đơn | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/18.mp3",
+    "title" : "Tập 18: Bí Mật Khâu Gia | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/19.mp3",
+    "title" : "Tập 19 : Karaoke ôm bắt Quỷ | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/2.mp3",
+    "title" : "Tập 2 : Con ma thần vòng | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/20.mp3",
+    "title" : "Tập 20 : Không Chồng Mà Chửa | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/21.mp3",
+    "title" : "Tập 21 : Đại Chiến Nhà Tang Lễ | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/22.mp3",
+    "title" : "Tập 22 : Cô Gái Bị Hủy Dung | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/23.mp3",
+    "title" : "Tập 23 : Chữa Bệnh Trong Phòng Tối | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/24.mp3",
+    "title" : "Tập 24 : Nửa Đêm Khiêu Chiến | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/25.mp3",
+    "title" : "Tập 25 : Bạch Trưởng Lão | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/26.mp3",
+    "title" : "Tập 26 : Ta Có 1 Đứa Con Gái??? | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/27.mp3",
+    "title" : "Tập 27 : Trùng Mẫu Tham Ăn | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/28.mp3",
+    "title" : "Tập 28 : Súng bắn pháp sư | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/29.mp3",
+    "title" : "Tập 29 : Quỷ Trành Nhật Bản | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/3.mp3",
+    "title" : "Tập 3 : Con phố Âm Phủ | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/30.mp3",
+    "title" : "Tập 30 : Phong thủy Âm tông | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/31.mp3",
+    "title" : "Tập 31 : Kèo độ triệu đô | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/32.mp3",
+    "title" : "Tập 32 : Lão Ngoan Đồng Lạ Lùng | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/33.mp3",
+    "title" : "Tập 33 : Đại trận gọi hồn | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/34.mp3",
+    "title" : "Tập 34 : Vòng xoáy gọi Quỷ | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/35.mp3",
+    "title" : "Tập 35 : Đại hội bát môn | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/36.mp3",
+    "title" : "Tập 36 : Kì tích | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/37.mp3",
+    "title" : "Tập 37 : Chiến thắng vang dội | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/38.mp3",
+    "title" : "Tập 38 : Phần thưởng | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/39.mp3",
+    "title" : "Tập 39 : Nhiệm vụ của Âm ty | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/4.mp3",
+    "title" : "Tập 4 : Món ăn giảm cân | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/40.mp3",
+    "title" : "Tập 40 : Thần thú Thao Thiết | Phòng bếp âm dương | Truyện ma dài kì Quàng A Tũn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/41.mp3",
+    "title" : "41",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/42.mp3",
+    "title" : "42",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/43.mp3",
+    "title" : "43",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/44.mp3",
+    "title" : "44",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/45.mp3",
+    "title" : "45",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/46.mp3",
+    "title" : "46",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/47.mp3",
+    "title" : "47",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/48.mp3",
+    "title" : "48",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/49.mp3",
+    "title" : "49",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/5.mp3",
+    "title" : "Tập 5 : Thiên lôi đánh bách quỷ | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/50.mp3",
+    "title" : "50",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/51.mp3",
+    "title" : "51",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/52.mp3",
+    "title" : "52",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/53.mp3",
+    "title" : "53",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/54.mp3",
+    "title" : "54",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/55.mp3",
+    "title" : "55",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/56.mp3",
+    "title" : "56",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/57.mp3",
+    "title" : "57",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/58.mp3",
+    "title" : "58",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/59.mp3",
+    "title" : "59",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/6.mp3",
+    "title" : "Tập 6 : Cương Thi Trong Âm Huyệt | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/60.mp3",
+    "title" : "60",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/61.mp3",
+    "title" : "61",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/62.mp3",
+    "title" : "62",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/63.mp3",
+    "title" : "63",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/64.mp3",
+    "title" : "64",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/65.mp3",
+    "title" : "65",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/66.mp3",
+    "title" : "66",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/67.mp3",
+    "title" : "67",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/68.mp3",
+    "title" : "68",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/69.mp3",
+    "title" : "69",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/7.mp3",
+    "title" : "Tập 7 : Tỉ Thí Nấu Ăn | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/70.mp3",
+    "title" : "70",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/71.mp3",
+    "title" : "71",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/72.mp3",
+    "title" : "72",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/73.mp3",
+    "title" : "73",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/74.mp3",
+    "title" : "74",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/75.mp3",
+    "title" : "75",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/76.mp3",
+    "title" : "76",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/77.mp3",
+    "title" : "77",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/78.mp3",
+    "title" : "78",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/79.mp3",
+    "title" : "79",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/8.mp3",
+    "title" : "Tập 8 : Cô nàng ngực CUP D | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/80.mp3",
+    "title" : "80",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/81.mp3",
+    "title" : "81",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/82.mp3",
+    "title" : "82",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/83.mp3",
+    "title" : "83",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/84.mp3",
+    "title" : "84",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/85.mp3",
+    "title" : "85",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/86.mp3",
+    "title" : "86",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/87.mp3",
+    "title" : "87",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/88.mp3",
+    "title" : "88",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/89.mp3",
+    "title" : "89",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/9.mp3",
+    "title" : "Tập 9 : Âm Sơn Môn giở trò | Phòng bếp âm dương Truyện ma dài kì Quàng A Tũn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-bep-am-duong/90.mp3",
+    "title" : "90",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

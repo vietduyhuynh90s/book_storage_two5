@@ -1,0 +1,197 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chien-tranh-va-hoa-binh_18693.html",
+    "title" : "Chiến Tranh và Hòa Bình",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lev Nikolayevich Tolstoy",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 269010,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_c4aeaa047263f9c04cd9167cac2ceb97.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_c4aeaa047263f9c04cd9167cac2ceb97.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chien-tranh-5/chien-tranh-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 22321,
+    "title" : "chien-tranh-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chien-tranh-5/chien-tranh-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 18138,
+    "title" : "chien-tranh-10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chien-tranh-5/chien-tranh-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 21642,
+    "title" : "chien-tranh-11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chien-tranh-5/chien-tranh-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 19281,
+    "title" : "chien-tranh-12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chien-tranh-5/chien-tranh-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 18530,
+    "title" : "chien-tranh-13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chien-tranh-5/chien-tranh-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 23200,
+    "title" : "chien-tranh-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chien-tranh-5/chien-tranh-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 20651,
+    "title" : "chien-tranh-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chien-tranh-5/chien-tranh-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 22202,
+    "title" : "chien-tranh-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chien-tranh-5/chien-tranh-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 23620,
+    "title" : "chien-tranh-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chien-tranh-5/chien-tranh-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 22922,
+    "title" : "chien-tranh-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chien-tranh-5/chien-tranh-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 18384,
+    "title" : "chien-tranh-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chien-tranh-5/chien-tranh-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 19422,
+    "title" : "chien-tranh-8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chien-tranh-5/chien-tranh-9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 18697,
+    "title" : "chien-tranh-9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chien-tranh-5/chien-tranh-1.mp3",
+    "title" : "chien-tranh-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chien-tranh-5/chien-tranh-10.mp3",
+    "title" : "chien-tranh-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chien-tranh-5/chien-tranh-11.mp3",
+    "title" : "chien-tranh-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chien-tranh-5/chien-tranh-12.mp3",
+    "title" : "chien-tranh-12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chien-tranh-5/chien-tranh-13.mp3",
+    "title" : "chien-tranh-13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chien-tranh-5/chien-tranh-2.mp3",
+    "title" : "chien-tranh-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chien-tranh-5/chien-tranh-3.mp3",
+    "title" : "chien-tranh-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chien-tranh-5/chien-tranh-4.mp3",
+    "title" : "chien-tranh-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chien-tranh-5/chien-tranh-5.mp3",
+    "title" : "chien-tranh-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chien-tranh-5/chien-tranh-6.mp3",
+    "title" : "chien-tranh-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chien-tranh-5/chien-tranh-7.mp3",
+    "title" : "chien-tranh-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chien-tranh-5/chien-tranh-8.mp3",
+    "title" : "chien-tranh-8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chien-tranh-5/chien-tranh-9.mp3",
+    "title" : "chien-tranh-9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

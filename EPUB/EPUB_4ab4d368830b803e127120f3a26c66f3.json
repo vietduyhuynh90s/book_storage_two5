@@ -1,0 +1,497 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/anne-toc-do-duoi-chai-nha-xanh_13708.html",
+    "title" : "Anne Tóc Đỏ Dưới Chái Nhà Xanh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lucy Maud Montgomery",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 42398,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_4ab4d368830b803e127120f3a26c66f3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_4ab4d368830b803e127120f3a26c66f3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1138,
+    "title" : "Chương 1 - Bà Rachel Lynde bất ngờ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1022,
+    "title" : "Chương 10 - Lời xin lỗi của Anne",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 708,
+    "title" : "Chương 11 - Ấn tượng của Anne về trường học chủ nhật",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 843,
+    "title" : "Chương 12 - Một lời thề và lời hứa trang trọng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 738,
+    "title" : "Chương 13 - Niềm vui của kỳ vọng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1234,
+    "title" : "Chương 14 - Lời thú nhận của Anne",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2030,
+    "title" : "Chương 15 - Vụ rắc rối ở trường học",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1541,
+    "title" : "Chương 16 - Diana được mời tới uống trà và kết cục bi kịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 816,
+    "title" : "Chương 17 - Một thú vui mới trong đời",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1318,
+    "title" : "Chương 18 - Anne đến cứu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1711,
+    "title" : "Chương 19 - Buổi hòa nhạc, thảm họa và lời thú nhận",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1934,
+    "title" : "Chương 2 - Ông Matthew Cuthbert bất ngờ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 968,
+    "title" : "Chương 20 - Mặt trái của tưởng tượng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1525,
+    "title" : "Khởi đầu mới về hương vị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 635,
+    "title" : "Chương 22 - Anne được mời đi dùng trà",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 979,
+    "title" : "Chương 23 - Anne gặp tai họa trong vấn đề danh dự",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 657,
+    "title" : "Chương 24 - Cô Stacy và học trò tổ chức hòa nhạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1492,
+    "title" : "Chương 25 - Ông Mathew không chịu nhượng bộ về chuyện tay áo phồng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1062,
+    "title" : "Chương 26 - Thành lập câu lạc bộ kể chuyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1097,
+    "title" : "Chương 27 - Sự phù phiếm và giận dữ của tâm hồn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1181,
+    "title" : "Chương 28 - Tiểu thư hoa loa kèn bất hạnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1271,
+    "title" : "Chương 29 - Một kỷ nguyên trong đời Anne",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 911,
+    "title" : "Chương 3 - Bà Marilla Cuthbert ngạc nhiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1761,
+    "title" : "Chương 30 - Thành lập lớp Queen",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1031,
+    "title" : "Chương 31 - Nơi sông suối gặp nhau",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1123,
+    "title" : "Chương 32 - Danh sách trúng tuyển",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1458,
+    "title" : "Chương 33 - Buổi hòa nhạc ở khách sạn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1097,
+    "title" : "Chương 34 - Cô gái trường Queen",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 699,
+    "title" : "Chương 35 - Mùa đông ở trường Queen",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 901,
+    "title" : "Chương 36 - Vinh quang và mơ mộng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1122,
+    "title" : "Chương 37 - Lưỡi hái mang tên tử thần",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1329,
+    "title" : "Chương 38 (Chương cuối) - Khúc rẽ trên đường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 909,
+    "title" : "Chương 4 - Buổi sáng ở Chái Nhà Xanh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 779,
+    "title" : "Chương 5 - Câu chuyện của Anne",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 766,
+    "title" : "Chương 6 - Bà Marilla quyết định",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 478,
+    "title" : "Chương 7 - Anne cầu kinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1158,
+    "title" : "Chương 8 - Bắt đầu quá trình nuôi dạy Anne",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 976,
+    "title" : "Chương 9 - Bà Rachel Lynde thật sự hãi hùng",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/1.mp3",
+    "title" : "Chương 1 - Bà Rachel Lynde bất ngờ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/10.mp3",
+    "title" : "Chương 10 - Lời xin lỗi của Anne",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/11.mp3",
+    "title" : "Chương 11 - Ấn tượng của Anne về trường học chủ nhật",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/12.mp3",
+    "title" : "Chương 12 - Một lời thề và lời hứa trang trọng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/13.mp3",
+    "title" : "Chương 13 - Niềm vui của kỳ vọng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/14.mp3",
+    "title" : "Chương 14 - Lời thú nhận của Anne",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/15.mp3",
+    "title" : "Chương 15 - Vụ rắc rối ở trường học",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/16.mp3",
+    "title" : "Chương 16 - Diana được mời tới uống trà và kết cục bi kịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/17.mp3",
+    "title" : "Chương 17 - Một thú vui mới trong đời",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/18.mp3",
+    "title" : "Chương 18 - Anne đến cứu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/19.mp3",
+    "title" : "Chương 19 - Buổi hòa nhạc, thảm họa và lời thú nhận",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/2.mp3",
+    "title" : "Chương 2 - Ông Matthew Cuthbert bất ngờ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/20.mp3",
+    "title" : "Chương 20 - Mặt trái của tưởng tượng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/21.mp3",
+    "title" : "Khởi đầu mới về hương vị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/22.mp3",
+    "title" : "Chương 22 - Anne được mời đi dùng trà",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/23.mp3",
+    "title" : "Chương 23 - Anne gặp tai họa trong vấn đề danh dự",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/24.mp3",
+    "title" : "Chương 24 - Cô Stacy và học trò tổ chức hòa nhạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/25.mp3",
+    "title" : "Chương 25 - Ông Mathew không chịu nhượng bộ về chuyện tay áo phồng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/26.mp3",
+    "title" : "Chương 26 - Thành lập câu lạc bộ kể chuyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/27.mp3",
+    "title" : "Chương 27 - Sự phù phiếm và giận dữ của tâm hồn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/28.mp3",
+    "title" : "Chương 28 - Tiểu thư hoa loa kèn bất hạnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/29.mp3",
+    "title" : "Chương 29 - Một kỷ nguyên trong đời Anne",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/3.mp3",
+    "title" : "Chương 3 - Bà Marilla Cuthbert ngạc nhiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/30.mp3",
+    "title" : "Chương 30 - Thành lập lớp Queen",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/31.mp3",
+    "title" : "Chương 31 - Nơi sông suối gặp nhau",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/32.mp3",
+    "title" : "Chương 32 - Danh sách trúng tuyển",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/33.mp3",
+    "title" : "Chương 33 - Buổi hòa nhạc ở khách sạn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/34.mp3",
+    "title" : "Chương 34 - Cô gái trường Queen",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/35.mp3",
+    "title" : "Chương 35 - Mùa đông ở trường Queen",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/36.mp3",
+    "title" : "Chương 36 - Vinh quang và mơ mộng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/37.mp3",
+    "title" : "Chương 37 - Lưỡi hái mang tên tử thần",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/38.mp3",
+    "title" : "Chương 38 (Chương cuối) - Khúc rẽ trên đường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/4.mp3",
+    "title" : "Chương 4 - Buổi sáng ở Chái Nhà Xanh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/5.mp3",
+    "title" : "Chương 5 - Câu chuyện của Anne",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/6.mp3",
+    "title" : "Chương 6 - Bà Marilla quyết định",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/7.mp3",
+    "title" : "Chương 7 - Anne cầu kinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/8.mp3",
+    "title" : "Chương 8 - Bắt đầu quá trình nuôi dạy Anne",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anne-toc-do-duoi-chai-nha-xanh/9.mp3",
+    "title" : "Chương 9 - Bà Rachel Lynde thật sự hãi hùng",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

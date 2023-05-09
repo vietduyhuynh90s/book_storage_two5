@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/con-cho-nho-mang-gio-hoa-hong-nguyen-nhat-anh_5036.html",
+    "title" : "Con Chó Nhỏ Mang Giỏ Hoa Hồng - Nguyễn Nhật Ánh.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Nhật Ánh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 12640,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_16623166ba1a2b99d23216cd57399846.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_16623166ba1a2b99d23216cd57399846.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/con-cho-nho-mang-gio-hoa-hong-nguyen-nhat-anh.sna/con-cho-nho-mang-gio-hoa-hong-nguyen-nhat-anh_p1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2049,
+    "title" : "con-cho-nho-mang-gio-hoa-hong-nguyen-nhat-anh p1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-cho-nho-mang-gio-hoa-hong-nguyen-nhat-anh.sna/con-cho-nho-mang-gio-hoa-hong-nguyen-nhat-anh_p2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1894,
+    "title" : "con-cho-nho-mang-gio-hoa-hong-nguyen-nhat-anh p2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-cho-nho-mang-gio-hoa-hong-nguyen-nhat-anh.sna/con-cho-nho-mang-gio-hoa-hong-nguyen-nhat-anh_p3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1961,
+    "title" : "con-cho-nho-mang-gio-hoa-hong-nguyen-nhat-anh p3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-cho-nho-mang-gio-hoa-hong-nguyen-nhat-anh.sna/con-cho-nho-mang-gio-hoa-hong-nguyen-nhat-anh_p4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2186,
+    "title" : "con-cho-nho-mang-gio-hoa-hong-nguyen-nhat-anh p4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-cho-nho-mang-gio-hoa-hong-nguyen-nhat-anh.sna/con-cho-nho-mang-gio-hoa-hong-nguyen-nhat-anh_p5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2257,
+    "title" : "con-cho-nho-mang-gio-hoa-hong-nguyen-nhat-anh p5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-cho-nho-mang-gio-hoa-hong-nguyen-nhat-anh.sna/con-cho-nho-mang-gio-hoa-hong-nguyen-nhat-anh_p6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2293,
+    "title" : "con-cho-nho-mang-gio-hoa-hong-nguyen-nhat-anh p6",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/con-cho-nho-mang-gio-hoa-hong-nguyen-nhat-anh.sna/con-cho-nho-mang-gio-hoa-hong-nguyen-nhat-anh_p1.mp3",
+    "title" : "con-cho-nho-mang-gio-hoa-hong-nguyen-nhat-anh p1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-cho-nho-mang-gio-hoa-hong-nguyen-nhat-anh.sna/con-cho-nho-mang-gio-hoa-hong-nguyen-nhat-anh_p2.mp3",
+    "title" : "con-cho-nho-mang-gio-hoa-hong-nguyen-nhat-anh p2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-cho-nho-mang-gio-hoa-hong-nguyen-nhat-anh.sna/con-cho-nho-mang-gio-hoa-hong-nguyen-nhat-anh_p3.mp3",
+    "title" : "con-cho-nho-mang-gio-hoa-hong-nguyen-nhat-anh p3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-cho-nho-mang-gio-hoa-hong-nguyen-nhat-anh.sna/con-cho-nho-mang-gio-hoa-hong-nguyen-nhat-anh_p4.mp3",
+    "title" : "con-cho-nho-mang-gio-hoa-hong-nguyen-nhat-anh p4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-cho-nho-mang-gio-hoa-hong-nguyen-nhat-anh.sna/con-cho-nho-mang-gio-hoa-hong-nguyen-nhat-anh_p5.mp3",
+    "title" : "con-cho-nho-mang-gio-hoa-hong-nguyen-nhat-anh p5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-cho-nho-mang-gio-hoa-hong-nguyen-nhat-anh.sna/con-cho-nho-mang-gio-hoa-hong-nguyen-nhat-anh_p6.mp3",
+    "title" : "con-cho-nho-mang-gio-hoa-hong-nguyen-nhat-anh p6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

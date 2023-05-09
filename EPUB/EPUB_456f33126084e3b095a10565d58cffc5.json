@@ -1,0 +1,209 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/danh-cho-nhung-tam-hon-bat-hanh_16981.html",
+    "title" : "Dành Cho Những Tâm Hồn Bất Hạnh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jack Canfield",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 7360,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_456f33126084e3b095a10565d58cffc5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_456f33126084e3b095a10565d58cffc5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnCss10-danhChoNhungTamHonBatHanh_331/01-con_se_lam_cho_me.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 980,
+    "title" : "Con sẽ làm cho mẹ một chiếc cầu vồng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss10-danhChoNhungTamHonBatHanh_331/02-hop_but_chi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 238,
+    "title" : "Chiếc hộp bút chì",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss10-danhChoNhungTamHonBatHanh_331/03-bong_hong_tang_me.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 648,
+    "title" : "Bông hồng tặng mẹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss10-danhChoNhungTamHonBatHanh_331/04-sinh_nhat_dep_nhat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 426,
+    "title" : "Sinh nhật đẹp nhất của bố",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss10-danhChoNhungTamHonBatHanh_331/05-bai_hoc_tu_nhung_dam_may.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 370,
+    "title" : "Bài học từ những đám mây",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss10-danhChoNhungTamHonBatHanh_331/06-de_moi_me_va_khac_biet.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 778,
+    "title" : "Để mới mẻ và khác biệt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss10-danhChoNhungTamHonBatHanh_331/07-su_sang_suot_cua_con.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 358,
+    "title" : "Sự sáng suốt của con",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss10-danhChoNhungTamHonBatHanh_331/08-di_san_song_cua_josep.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 780,
+    "title" : "Di sản sống của Joseph",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss10-danhChoNhungTamHonBatHanh_331/09-khi_ko_the_dien_ta_bang_.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 200,
+    "title" : "Khi không thể diễn tả bằng lời",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss10-danhChoNhungTamHonBatHanh_331/10-khu_vuon_cua_ashley.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 400,
+    "title" : "Khu vườn của Ashley",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss10-danhChoNhungTamHonBatHanh_331/11-dieu_y_nghia.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 560,
+    "title" : "Điều ý nghĩa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss10-danhChoNhungTamHonBatHanh_331/12-tinh_yeu_va_nuoc_la.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 816,
+    "title" : "Tình yêu và nước lã",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss10-danhChoNhungTamHonBatHanh_331/13-vi_cac_em_than_yeu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 320,
+    "title" : "Vì các em thân yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss10-danhChoNhungTamHonBatHanh_331/14-hoc_duong_cam.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 486,
+    "title" : "Học dương cầm",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnCss10-danhChoNhungTamHonBatHanh_331/01-con_se_lam_cho_me.mp3",
+    "title" : "Con sẽ làm cho mẹ một chiếc cầu vồng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss10-danhChoNhungTamHonBatHanh_331/02-hop_but_chi.mp3",
+    "title" : "Chiếc hộp bút chì",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss10-danhChoNhungTamHonBatHanh_331/03-bong_hong_tang_me.mp3",
+    "title" : "Bông hồng tặng mẹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss10-danhChoNhungTamHonBatHanh_331/04-sinh_nhat_dep_nhat.mp3",
+    "title" : "Sinh nhật đẹp nhất của bố",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss10-danhChoNhungTamHonBatHanh_331/05-bai_hoc_tu_nhung_dam_may.mp3",
+    "title" : "Bài học từ những đám mây",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss10-danhChoNhungTamHonBatHanh_331/06-de_moi_me_va_khac_biet.mp3",
+    "title" : "Để mới mẻ và khác biệt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss10-danhChoNhungTamHonBatHanh_331/07-su_sang_suot_cua_con.mp3",
+    "title" : "Sự sáng suốt của con",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss10-danhChoNhungTamHonBatHanh_331/08-di_san_song_cua_josep.mp3",
+    "title" : "Di sản sống của Joseph",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss10-danhChoNhungTamHonBatHanh_331/09-khi_ko_the_dien_ta_bang_.mp3",
+    "title" : "Khi không thể diễn tả bằng lời",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss10-danhChoNhungTamHonBatHanh_331/10-khu_vuon_cua_ashley.mp3",
+    "title" : "Khu vườn của Ashley",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss10-danhChoNhungTamHonBatHanh_331/11-dieu_y_nghia.mp3",
+    "title" : "Điều ý nghĩa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss10-danhChoNhungTamHonBatHanh_331/12-tinh_yeu_va_nuoc_la.mp3",
+    "title" : "Tình yêu và nước lã",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss10-danhChoNhungTamHonBatHanh_331/13-vi_cac_em_than_yeu.mp3",
+    "title" : "Vì các em thân yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnCss10-danhChoNhungTamHonBatHanh_331/14-hoc_duong_cam.mp3",
+    "title" : "Học dương cầm",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

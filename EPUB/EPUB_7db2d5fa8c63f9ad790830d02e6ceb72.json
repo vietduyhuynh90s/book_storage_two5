@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nua-chung-xuan_17491.html",
+    "title" : "Nửa Chừng Xuân",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Khái Hưng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 29851,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_7db2d5fa8c63f9ad790830d02e6ceb72.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_7db2d5fa8c63f9ad790830d02e6ceb72.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nua-chung-xuan-khaihung-sachnoiviet/Nua-Chung-Xuan-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2269,
+    "title" : "01. Nửa chừng xuân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nua-chung-xuan-khaihung-sachnoiviet/Nua-Chung-Xuan-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3195,
+    "title" : "02. Nửa chừng xuân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nua-chung-xuan-khaihung-sachnoiviet/Nua-Chung-Xuan-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2750,
+    "title" : "03. Nửa chừng xuân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nua-chung-xuan-khaihung-sachnoiviet/Nua-Chung-Xuan-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4857,
+    "title" : "04. Nửa chừng xuân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nua-chung-xuan-khaihung-sachnoiviet/Nua-Chung-Xuan-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3380,
+    "title" : "05. Nửa chừng xuân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nua-chung-xuan-khaihung-sachnoiviet/Nua-Chung-Xuan-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3135,
+    "title" : "06. Nửa chừng xuân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nua-chung-xuan-khaihung-sachnoiviet/Nua-Chung-Xuan-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3685,
+    "title" : "07. Nửa chừng xuân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nua-chung-xuan-khaihung-sachnoiviet/Nua-Chung-Xuan-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4299,
+    "title" : "08. Nửa chừng xuân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nua-chung-xuan-khaihung-sachnoiviet/Nua-Chung-Xuan-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2281,
+    "title" : "09. Nửa chừng xuân (Hết)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nua-chung-xuan-khaihung-sachnoiviet/Nua-Chung-Xuan-01.mp3",
+    "title" : "01. Nửa chừng xuân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nua-chung-xuan-khaihung-sachnoiviet/Nua-Chung-Xuan-02.mp3",
+    "title" : "02. Nửa chừng xuân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nua-chung-xuan-khaihung-sachnoiviet/Nua-Chung-Xuan-03.mp3",
+    "title" : "03. Nửa chừng xuân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nua-chung-xuan-khaihung-sachnoiviet/Nua-Chung-Xuan-04.mp3",
+    "title" : "04. Nửa chừng xuân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nua-chung-xuan-khaihung-sachnoiviet/Nua-Chung-Xuan-05.mp3",
+    "title" : "05. Nửa chừng xuân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nua-chung-xuan-khaihung-sachnoiviet/Nua-Chung-Xuan-06.mp3",
+    "title" : "06. Nửa chừng xuân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nua-chung-xuan-khaihung-sachnoiviet/Nua-Chung-Xuan-07.mp3",
+    "title" : "07. Nửa chừng xuân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nua-chung-xuan-khaihung-sachnoiviet/Nua-Chung-Xuan-08.mp3",
+    "title" : "08. Nửa chừng xuân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nua-chung-xuan-khaihung-sachnoiviet/Nua-Chung-Xuan-09.mp3",
+    "title" : "09. Nửa chừng xuân (Hết)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

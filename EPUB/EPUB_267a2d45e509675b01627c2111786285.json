@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nam-thang-ben-nhau-sinh-thoi-twentine_10450.html",
+    "title" : "Năm Tháng Bên Nhau (Sinh Thời) - Twentine",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Twentine",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 49151,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_267a2d45e509675b01627c2111786285.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_267a2d45e509675b01627c2111786285.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sinh-thoi/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7922,
+    "title" : "Sinh Thời ( NĂM THÁNG BÊN NHAU)- Truyện ngôn tình hay đáng nghe –P1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sinh-thoi/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6543,
+    "title" : "Sinh Thời ( NĂM THÁNG BÊN NHAU)- Truyện ngôn tình hay đáng nghe –P2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sinh-thoi/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6677,
+    "title" : "Sinh Thời ( NĂM THÁNG BÊN NHAU)- Truyện ngôn tình hay đáng nghe –P3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sinh-thoi/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7299,
+    "title" : "Sinh Thời ( NĂM THÁNG BÊN NHAU)- Truyện ngôn tình hay đáng nghe –P4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sinh-thoi/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6775,
+    "title" : "Sinh Thời ( NĂM THÁNG BÊN NHAU)- Truyện ngôn tình hay đáng nghe –P5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sinh-thoi/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6358,
+    "title" : "Sinh Thời ( NĂM THÁNG BÊN NHAU)- Truyện ngôn tình hay đáng nghe –P6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sinh-thoi/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7577,
+    "title" : "Sinh Thời ( NĂM THÁNG BÊN NHAU)- Truyện ngôn tình hay đáng nghe –P7 Hết",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sinh-thoi/1.mp3",
+    "title" : "Sinh Thời ( NĂM THÁNG BÊN NHAU)- Truyện ngôn tình hay đáng nghe –P1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sinh-thoi/2.mp3",
+    "title" : "Sinh Thời ( NĂM THÁNG BÊN NHAU)- Truyện ngôn tình hay đáng nghe –P2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sinh-thoi/3.mp3",
+    "title" : "Sinh Thời ( NĂM THÁNG BÊN NHAU)- Truyện ngôn tình hay đáng nghe –P3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sinh-thoi/4.mp3",
+    "title" : "Sinh Thời ( NĂM THÁNG BÊN NHAU)- Truyện ngôn tình hay đáng nghe –P4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sinh-thoi/5.mp3",
+    "title" : "Sinh Thời ( NĂM THÁNG BÊN NHAU)- Truyện ngôn tình hay đáng nghe –P5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sinh-thoi/6.mp3",
+    "title" : "Sinh Thời ( NĂM THÁNG BÊN NHAU)- Truyện ngôn tình hay đáng nghe –P6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sinh-thoi/7.mp3",
+    "title" : "Sinh Thời ( NĂM THÁNG BÊN NHAU)- Truyện ngôn tình hay đáng nghe –P7 Hết",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

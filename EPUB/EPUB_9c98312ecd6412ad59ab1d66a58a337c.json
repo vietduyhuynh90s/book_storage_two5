@@ -1,0 +1,221 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ba-dieu-bi-an_15677.html",
+    "title" : "Ba Điều Bí Ẩn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Agatha Christie",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 18499,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_9c98312ecd6412ad59ab1d66a58a337c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_9c98312ecd6412ad59ab1d66a58a337c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/06badieubiantap1chuong11va12agathachristie/01Ba%20%C4%91i%E1%BB%81u%20b%C3%AD%20%E1%BA%A9n%20T%E1%BA%ADp%201%20Ch%C6%B0%C6%A1ng%201%20v%C3%A0%202%20Agatha%20Christie.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1244,
+    "title" : "Ba điều bí ẩn Tập 1 Chương 1 và 2 Agatha Christie",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/06badieubiantap1chuong11va12agathachristie/02Ba%20%C4%91i%E1%BB%81u%20b%C3%AD%20%E1%BA%A9n%20T%E1%BA%ADp%201%20Ch%C6%B0%C6%A1ng%203%20v%C3%A0%204%20Agatha%20Christie.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1080,
+    "title" : "Ba điều bí ẩn Tập 1 Chương 3 và 4 Agatha Christie",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/06badieubiantap1chuong11va12agathachristie/03Ba%20%C4%91i%E1%BB%81u%20b%C3%AD%20%E1%BA%A9n%20T%E1%BA%ADp%201%20Ch%C6%B0%C6%A1ng%205%20v%C3%A0%206%20Agatha%20Christie.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1466,
+    "title" : "Ba điều bí ẩn Tập 1 Chương 5 và 6 Agatha Christie",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/06badieubiantap1chuong11va12agathachristie/04Ba%20%C4%91i%E1%BB%81u%20b%C3%AD%20%E1%BA%A9n%20T%E1%BA%ADp%201%20Ch%C6%B0%C6%A1ng%207%20v%C3%A0%208%20Agatha%20Christie.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1794,
+    "title" : "Ba điều bí ẩn Tập 1 Chương 7 và 8 Agatha Christie",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/06badieubiantap1chuong11va12agathachristie/05Ba%20%C4%91i%E1%BB%81u%20b%C3%AD%20%E1%BA%A9n%20T%E1%BA%ADp%201%20Ch%C6%B0%C6%A1ng%209%20v%C3%A0%2010%20Agatha%20Christie.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 801,
+    "title" : "Ba điều bí ẩn Tập 1 Chương 9 và 10 Agatha Christie",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/06badieubiantap1chuong11va12agathachristie/06Ba%20%C4%91i%E1%BB%81u%20b%C3%AD%20%E1%BA%A9n%20T%E1%BA%ADp%201%20Ch%C6%B0%C6%A1ng%2011%20v%C3%A0%2012%20Agatha%20Christie.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1435,
+    "title" : "Ba điều bí ẩn Tập 1 Chương 11 và 12 Agatha Christie",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/06badieubiantap1chuong11va12agathachristie/07Ba%20%C4%91i%E1%BB%81u%20b%C3%AD%20%E1%BA%A9n%20T%E1%BA%ADp%202%20Ch%C6%B0%C6%A1ng%201%20v%C3%A0%202%20Agatha%20Christie.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1310,
+    "title" : "Ba điều bí ẩn Tập 2 Chương 1 và 2 Agatha Christie",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/06badieubiantap1chuong11va12agathachristie/08Ba%20%C4%91i%E1%BB%81u%20b%C3%AD%20%E1%BA%A9n%20T%E1%BA%ADp%202%20Ch%C6%B0%C6%A1ng%203%20v%C3%A0%204%20Agatha%20Christie.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 848,
+    "title" : "Ba điều bí ẩn Tập 2 Chương 3 và 4 Agatha Christie",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/06badieubiantap1chuong11va12agathachristie/09Ba%20%C4%91i%E1%BB%81u%20b%C3%AD%20%E1%BA%A9n%20T%E1%BA%ADp%202%20Ch%C6%B0%C6%A1ng%205%20v%C3%A0%206%20Agatha%20Christie.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1059,
+    "title" : "Ba điều bí ẩn Tập 2 Chương 5 và 6 Agatha Christie",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/06badieubiantap1chuong11va12agathachristie/10Ba%20%C4%91i%E1%BB%81u%20b%C3%AD%20%E1%BA%A9n%20T%E1%BA%ADp%202%20Ch%C6%B0%C6%A1ng%207%20v%C3%A0%208%20Agatha%20Christie.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1188,
+    "title" : "Ba điều bí ẩn Tập 2 Chương 7 và 8 Agatha Christie",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/06badieubiantap1chuong11va12agathachristie/11Ba%20%C4%91i%E1%BB%81u%20b%C3%AD%20%E1%BA%A9n%20T%E1%BA%ADp%202%20Ch%C6%B0%C6%A1ng%209%20v%C3%A0%2010%20Agatha%20Christie.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1226,
+    "title" : "Ba điều bí ẩn Tập 2 Chương 9 và 10 Agatha Christie",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/06badieubiantap1chuong11va12agathachristie/12Ba%20%C4%91i%E1%BB%81u%20b%C3%AD%20%E1%BA%A9n%20T%E1%BA%ADp%203%20Ch%C6%B0%C6%A1ng%201%20v%C3%A0%202%20Agatha%20Christie.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1199,
+    "title" : "Ba điều bí ẩn Tập 3 Chương 1 và 2 Agatha Christie",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/06badieubiantap1chuong11va12agathachristie/13Ba%20%C4%91i%E1%BB%81u%20b%C3%AD%20%E1%BA%A9n%20T%E1%BA%ADp%203%20Ch%C6%B0%C6%A1ng%203%20v%C3%A0%204%20Agatha%20Christie.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1566,
+    "title" : "Ba điều bí ẩn Tập 3 Chương 3 và 4 Agatha Christie",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/06badieubiantap1chuong11va12agathachristie/14Ba%20%C4%91i%E1%BB%81u%20b%C3%AD%20%E1%BA%A9n%20T%E1%BA%ADp%203%20Ch%C6%B0%C6%A1ng%205%20v%C3%A0%206%20Agatha%20Christie.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 962,
+    "title" : "Ba điều bí ẩn Tập 3 Chương 5 và 6 Agatha Christie",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/06badieubiantap1chuong11va12agathachristie/15Ba%20%C4%91i%E1%BB%81u%20b%C3%AD%20%E1%BA%A9n%20T%E1%BA%ADp%203%20Ch%C6%B0%C6%A1ng%207%20v%C3%A0%208%20Agatha%20Christie.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1321,
+    "title" : "Ba điều bí ẩn Tập 3 Chương 7 và 8 Agatha Christie",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/06badieubiantap1chuong11va12agathachristie/01Ba%20%C4%91i%E1%BB%81u%20b%C3%AD%20%E1%BA%A9n%20T%E1%BA%ADp%201%20Ch%C6%B0%C6%A1ng%201%20v%C3%A0%202%20Agatha%20Christie.mp3",
+    "title" : "Ba điều bí ẩn Tập 1 Chương 1 và 2 Agatha Christie",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/06badieubiantap1chuong11va12agathachristie/02Ba%20%C4%91i%E1%BB%81u%20b%C3%AD%20%E1%BA%A9n%20T%E1%BA%ADp%201%20Ch%C6%B0%C6%A1ng%203%20v%C3%A0%204%20Agatha%20Christie.mp3",
+    "title" : "Ba điều bí ẩn Tập 1 Chương 3 và 4 Agatha Christie",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/06badieubiantap1chuong11va12agathachristie/03Ba%20%C4%91i%E1%BB%81u%20b%C3%AD%20%E1%BA%A9n%20T%E1%BA%ADp%201%20Ch%C6%B0%C6%A1ng%205%20v%C3%A0%206%20Agatha%20Christie.mp3",
+    "title" : "Ba điều bí ẩn Tập 1 Chương 5 và 6 Agatha Christie",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/06badieubiantap1chuong11va12agathachristie/04Ba%20%C4%91i%E1%BB%81u%20b%C3%AD%20%E1%BA%A9n%20T%E1%BA%ADp%201%20Ch%C6%B0%C6%A1ng%207%20v%C3%A0%208%20Agatha%20Christie.mp3",
+    "title" : "Ba điều bí ẩn Tập 1 Chương 7 và 8 Agatha Christie",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/06badieubiantap1chuong11va12agathachristie/05Ba%20%C4%91i%E1%BB%81u%20b%C3%AD%20%E1%BA%A9n%20T%E1%BA%ADp%201%20Ch%C6%B0%C6%A1ng%209%20v%C3%A0%2010%20Agatha%20Christie.mp3",
+    "title" : "Ba điều bí ẩn Tập 1 Chương 9 và 10 Agatha Christie",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/06badieubiantap1chuong11va12agathachristie/06Ba%20%C4%91i%E1%BB%81u%20b%C3%AD%20%E1%BA%A9n%20T%E1%BA%ADp%201%20Ch%C6%B0%C6%A1ng%2011%20v%C3%A0%2012%20Agatha%20Christie.mp3",
+    "title" : "Ba điều bí ẩn Tập 1 Chương 11 và 12 Agatha Christie",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/06badieubiantap1chuong11va12agathachristie/07Ba%20%C4%91i%E1%BB%81u%20b%C3%AD%20%E1%BA%A9n%20T%E1%BA%ADp%202%20Ch%C6%B0%C6%A1ng%201%20v%C3%A0%202%20Agatha%20Christie.mp3",
+    "title" : "Ba điều bí ẩn Tập 2 Chương 1 và 2 Agatha Christie",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/06badieubiantap1chuong11va12agathachristie/08Ba%20%C4%91i%E1%BB%81u%20b%C3%AD%20%E1%BA%A9n%20T%E1%BA%ADp%202%20Ch%C6%B0%C6%A1ng%203%20v%C3%A0%204%20Agatha%20Christie.mp3",
+    "title" : "Ba điều bí ẩn Tập 2 Chương 3 và 4 Agatha Christie",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/06badieubiantap1chuong11va12agathachristie/09Ba%20%C4%91i%E1%BB%81u%20b%C3%AD%20%E1%BA%A9n%20T%E1%BA%ADp%202%20Ch%C6%B0%C6%A1ng%205%20v%C3%A0%206%20Agatha%20Christie.mp3",
+    "title" : "Ba điều bí ẩn Tập 2 Chương 5 và 6 Agatha Christie",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/06badieubiantap1chuong11va12agathachristie/10Ba%20%C4%91i%E1%BB%81u%20b%C3%AD%20%E1%BA%A9n%20T%E1%BA%ADp%202%20Ch%C6%B0%C6%A1ng%207%20v%C3%A0%208%20Agatha%20Christie.mp3",
+    "title" : "Ba điều bí ẩn Tập 2 Chương 7 và 8 Agatha Christie",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/06badieubiantap1chuong11va12agathachristie/11Ba%20%C4%91i%E1%BB%81u%20b%C3%AD%20%E1%BA%A9n%20T%E1%BA%ADp%202%20Ch%C6%B0%C6%A1ng%209%20v%C3%A0%2010%20Agatha%20Christie.mp3",
+    "title" : "Ba điều bí ẩn Tập 2 Chương 9 và 10 Agatha Christie",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/06badieubiantap1chuong11va12agathachristie/12Ba%20%C4%91i%E1%BB%81u%20b%C3%AD%20%E1%BA%A9n%20T%E1%BA%ADp%203%20Ch%C6%B0%C6%A1ng%201%20v%C3%A0%202%20Agatha%20Christie.mp3",
+    "title" : "Ba điều bí ẩn Tập 3 Chương 1 và 2 Agatha Christie",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/06badieubiantap1chuong11va12agathachristie/13Ba%20%C4%91i%E1%BB%81u%20b%C3%AD%20%E1%BA%A9n%20T%E1%BA%ADp%203%20Ch%C6%B0%C6%A1ng%203%20v%C3%A0%204%20Agatha%20Christie.mp3",
+    "title" : "Ba điều bí ẩn Tập 3 Chương 3 và 4 Agatha Christie",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/06badieubiantap1chuong11va12agathachristie/14Ba%20%C4%91i%E1%BB%81u%20b%C3%AD%20%E1%BA%A9n%20T%E1%BA%ADp%203%20Ch%C6%B0%C6%A1ng%205%20v%C3%A0%206%20Agatha%20Christie.mp3",
+    "title" : "Ba điều bí ẩn Tập 3 Chương 5 và 6 Agatha Christie",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/06badieubiantap1chuong11va12agathachristie/15Ba%20%C4%91i%E1%BB%81u%20b%C3%AD%20%E1%BA%A9n%20T%E1%BA%ADp%203%20Ch%C6%B0%C6%A1ng%207%20v%C3%A0%208%20Agatha%20Christie.mp3",
+    "title" : "Ba điều bí ẩn Tập 3 Chương 7 và 8 Agatha Christie",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,641 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/that-gia_15639.html",
+    "title" : "Thất Gia",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Priest",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 83563,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_cb83c75014b70b8c611514ae9ffcaeea.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_cb83c75014b70b8c611514ae9ffcaeea.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/that-gia/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1313,
+    "title" : "Tác giả: Priest - Chương 1: Bảy kiếp phù du",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/that-gia/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 927,
+    "title" : "Tác giả: Priest - Chương 10: Sở vị tạo hóa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/that-gia/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1192,
+    "title" : "Tác giả: Priest - Chương 11: Có qua có lại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/that-gia/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1027,
+    "title" : "Tác giả: Priest - Chương 12: Mình đồng da sắt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/that-gia/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1200,
+    "title" : "Tác giả: Priest - Chương 13: Ô Khê huynh đệ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/that-gia/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1149,
+    "title" : "Tác giả: Priest - Chương 14: Năm mới gần kề",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/that-gia/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 959,
+    "title" : "Tác giả: Priest - Chương 15: Bên dòng Vọng Nguyệt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/that-gia/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1168,
+    "title" : "Tác giả: Priest - Chương 16: Mỹ nhân dưới trăng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/that-gia/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1134,
+    "title" : "Tác giả: Priest - Chương 17: Dạ hành thích khách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/that-gia/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1158,
+    "title" : "Tác giả: Priest - Chương 18: Vương phủ nghiêm ngặc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/that-gia/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1090,
+    "title" : "Tác giả: Priest - Chương 19: Mưa gió nổi lên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/that-gia/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1097,
+    "title" : "Tác giả: Priest - Chương 2: Không ngờ trở lại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/that-gia/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1204,
+    "title" : "Tác giả: Priest - Chương 20: Lời nói thật lòng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/that-gia/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2192,
+    "title" : "Tác giả: Priest - Chương 21+22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/that-gia/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2575,
+    "title" : "Tác giả: Priest - Chương 23+24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/that-gia/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2123,
+    "title" : "Tác giả: Priest - Chương 25+26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/that-gia/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1959,
+    "title" : "Tác giả: Priest - Chương 27+28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/that-gia/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1884,
+    "title" : "Tác giả: Priest - Chương 29+30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/that-gia/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2249,
+    "title" : "Tác giả: Priest - Chương 31+32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/that-gia/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2023,
+    "title" : "Tác giả: Priest - Chương 33+34",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/that-gia/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2126,
+    "title" : "Tác giả: Priest - Chương 35+36",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/that-gia/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2202,
+    "title" : "Tác giả: Priest - Chương 37+38",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/that-gia/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1024,
+    "title" : "Tác giả: Priest - Chương 3: Tái ngộ cố nhân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/that-gia/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2001,
+    "title" : "Tác giả: Priest - Chương 39+40",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/that-gia/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2074,
+    "title" : "Tác giả: Priest - Chương 41+42",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/that-gia/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2334,
+    "title" : "Tác giả: Priest - Chương 43+44",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/that-gia/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1935,
+    "title" : "Tác giả: Priest - Chương 45+46",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/that-gia/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2141,
+    "title" : "Tác giả: Priest - Chương 47+48",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/that-gia/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1983,
+    "title" : "Tác giả: Priest - Chương 49+50",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/that-gia/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2062,
+    "title" : "Tác giả: Priest - Chương 51+52",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/that-gia/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1836,
+    "title" : "Tác giả: Priest - Chương 53+54",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/that-gia/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2189,
+    "title" : "Tác giả: Priest - Chương 55+56",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/that-gia/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1926,
+    "title" : "Tác giả: Priest - Chương 57+58",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/that-gia/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1192,
+    "title" : "Tác giả: Priest - Chương 4: Phù sinh vinh hoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/that-gia/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2150,
+    "title" : "Tác giả: Priest - Chương 59+60",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/that-gia/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2053,
+    "title" : "Tác giả: Priest - Chương 61+62",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/that-gia/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1939,
+    "title" : "Tác giả: Priest - Chương 63+64",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/that-gia/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1947,
+    "title" : "Tác giả: Priest - Chương 65+66",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/that-gia/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1881,
+    "title" : "Tác giả: Priest - Chương 67+68",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/that-gia/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1918,
+    "title" : "Tác giả: Priest - Chương 69+70",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/that-gia/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2211,
+    "title" : "Tác giả: Priest - Chương 71+72",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/that-gia/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1722,
+    "title" : "Tác giả: Priest - Chương 73+74",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/that-gia/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2454,
+    "title" : "Tác giả: Priest - Chương 75+76 Hoàn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/that-gia/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2030,
+    "title" : "Tác giả: Priest - Phiên ngoại 1+2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/that-gia/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1008,
+    "title" : "Tác giả: Priest - Chương 5: Hư tình giả ý",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/that-gia/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 932,
+    "title" : "Tác giả: Priest - Phiên ngoại 3+4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/that-gia/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1110,
+    "title" : "Tác giả: Priest - Chương 6: Vu đồng Nam Cương",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/that-gia/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1230,
+    "title" : "Tác giả: Priest - Chương 7: Một hồi náo nhiệt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/that-gia/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1047,
+    "title" : "Tác giả: Priest - Chương 8: Quay đầu thoảng thốt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/that-gia/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1283,
+    "title" : "Tác giả: Priest - Chương 9: Vô cùng quan trọng",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/that-gia/1.mp3",
+    "title" : "Tác giả: Priest - Chương 1: Bảy kiếp phù du",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/that-gia/10.mp3",
+    "title" : "Tác giả: Priest - Chương 10: Sở vị tạo hóa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/that-gia/11.mp3",
+    "title" : "Tác giả: Priest - Chương 11: Có qua có lại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/that-gia/12.mp3",
+    "title" : "Tác giả: Priest - Chương 12: Mình đồng da sắt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/that-gia/13.mp3",
+    "title" : "Tác giả: Priest - Chương 13: Ô Khê huynh đệ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/that-gia/14.mp3",
+    "title" : "Tác giả: Priest - Chương 14: Năm mới gần kề",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/that-gia/15.mp3",
+    "title" : "Tác giả: Priest - Chương 15: Bên dòng Vọng Nguyệt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/that-gia/16.mp3",
+    "title" : "Tác giả: Priest - Chương 16: Mỹ nhân dưới trăng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/that-gia/17.mp3",
+    "title" : "Tác giả: Priest - Chương 17: Dạ hành thích khách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/that-gia/18.mp3",
+    "title" : "Tác giả: Priest - Chương 18: Vương phủ nghiêm ngặc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/that-gia/19.mp3",
+    "title" : "Tác giả: Priest - Chương 19: Mưa gió nổi lên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/that-gia/2.mp3",
+    "title" : "Tác giả: Priest - Chương 2: Không ngờ trở lại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/that-gia/20.mp3",
+    "title" : "Tác giả: Priest - Chương 20: Lời nói thật lòng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/that-gia/21.mp3",
+    "title" : "Tác giả: Priest - Chương 21+22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/that-gia/22.mp3",
+    "title" : "Tác giả: Priest - Chương 23+24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/that-gia/23.mp3",
+    "title" : "Tác giả: Priest - Chương 25+26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/that-gia/24.mp3",
+    "title" : "Tác giả: Priest - Chương 27+28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/that-gia/25.mp3",
+    "title" : "Tác giả: Priest - Chương 29+30",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/that-gia/26.mp3",
+    "title" : "Tác giả: Priest - Chương 31+32",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/that-gia/27.mp3",
+    "title" : "Tác giả: Priest - Chương 33+34",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/that-gia/28.mp3",
+    "title" : "Tác giả: Priest - Chương 35+36",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/that-gia/29.mp3",
+    "title" : "Tác giả: Priest - Chương 37+38",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/that-gia/3.mp3",
+    "title" : "Tác giả: Priest - Chương 3: Tái ngộ cố nhân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/that-gia/30.mp3",
+    "title" : "Tác giả: Priest - Chương 39+40",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/that-gia/31.mp3",
+    "title" : "Tác giả: Priest - Chương 41+42",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/that-gia/32.mp3",
+    "title" : "Tác giả: Priest - Chương 43+44",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/that-gia/33.mp3",
+    "title" : "Tác giả: Priest - Chương 45+46",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/that-gia/34.mp3",
+    "title" : "Tác giả: Priest - Chương 47+48",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/that-gia/35.mp3",
+    "title" : "Tác giả: Priest - Chương 49+50",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/that-gia/36.mp3",
+    "title" : "Tác giả: Priest - Chương 51+52",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/that-gia/37.mp3",
+    "title" : "Tác giả: Priest - Chương 53+54",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/that-gia/38.mp3",
+    "title" : "Tác giả: Priest - Chương 55+56",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/that-gia/39.mp3",
+    "title" : "Tác giả: Priest - Chương 57+58",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/that-gia/4.mp3",
+    "title" : "Tác giả: Priest - Chương 4: Phù sinh vinh hoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/that-gia/40.mp3",
+    "title" : "Tác giả: Priest - Chương 59+60",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/that-gia/41.mp3",
+    "title" : "Tác giả: Priest - Chương 61+62",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/that-gia/42.mp3",
+    "title" : "Tác giả: Priest - Chương 63+64",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/that-gia/43.mp3",
+    "title" : "Tác giả: Priest - Chương 65+66",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/that-gia/44.mp3",
+    "title" : "Tác giả: Priest - Chương 67+68",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/that-gia/45.mp3",
+    "title" : "Tác giả: Priest - Chương 69+70",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/that-gia/46.mp3",
+    "title" : "Tác giả: Priest - Chương 71+72",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/that-gia/47.mp3",
+    "title" : "Tác giả: Priest - Chương 73+74",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/that-gia/48.mp3",
+    "title" : "Tác giả: Priest - Chương 75+76 Hoàn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/that-gia/49.mp3",
+    "title" : "Tác giả: Priest - Phiên ngoại 1+2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/that-gia/5.mp3",
+    "title" : "Tác giả: Priest - Chương 5: Hư tình giả ý",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/that-gia/50.mp3",
+    "title" : "Tác giả: Priest - Phiên ngoại 3+4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/that-gia/6.mp3",
+    "title" : "Tác giả: Priest - Chương 6: Vu đồng Nam Cương",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/that-gia/7.mp3",
+    "title" : "Tác giả: Priest - Chương 7: Một hồi náo nhiệt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/that-gia/8.mp3",
+    "title" : "Tác giả: Priest - Chương 8: Quay đầu thoảng thốt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/that-gia/9.mp3",
+    "title" : "Tác giả: Priest - Chương 9: Vô cùng quan trọng",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

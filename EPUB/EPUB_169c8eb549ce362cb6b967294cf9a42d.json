@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/lam-it-duoc-nhieu_17064.html",
+    "title" : "Làm Ít Được Nhiều",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Chin-Ning Chu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 12513,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_169c8eb549ce362cb6b967294cf9a42d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_169c8eb549ce362cb6b967294cf9a42d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/Sachnoi.vn-lamItDuocNhieu/LamItDuocNhieu00.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 637,
+    "title" : "Phần 0",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-lamItDuocNhieu/LamItDuocNhieu01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 952,
+    "title" : "Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-lamItDuocNhieu/LamItDuocNhieu02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1650,
+    "title" : "Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-lamItDuocNhieu/LamItDuocNhieu03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 941,
+    "title" : "Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-lamItDuocNhieu/LamItDuocNhieu04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 878,
+    "title" : "Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-lamItDuocNhieu/LamItDuocNhieu05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 870,
+    "title" : "Phần 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-lamItDuocNhieu/LamItDuocNhieu06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2581,
+    "title" : "Phần 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-lamItDuocNhieu/LamItDuocNhieu07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1021,
+    "title" : "Phần 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-lamItDuocNhieu/LamItDuocNhieu08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1049,
+    "title" : "Phần 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-lamItDuocNhieu/LamItDuocNhieu09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 471,
+    "title" : "Phần 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-lamItDuocNhieu/LamItDuocNhieu10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1463,
+    "title" : "Phần 10",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/Sachnoi.vn-lamItDuocNhieu/LamItDuocNhieu00.mp3",
+    "title" : "Phần 0",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-lamItDuocNhieu/LamItDuocNhieu01.mp3",
+    "title" : "Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-lamItDuocNhieu/LamItDuocNhieu02.mp3",
+    "title" : "Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-lamItDuocNhieu/LamItDuocNhieu03.mp3",
+    "title" : "Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-lamItDuocNhieu/LamItDuocNhieu04.mp3",
+    "title" : "Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-lamItDuocNhieu/LamItDuocNhieu05.mp3",
+    "title" : "Phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-lamItDuocNhieu/LamItDuocNhieu06.mp3",
+    "title" : "Phần 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-lamItDuocNhieu/LamItDuocNhieu07.mp3",
+    "title" : "Phần 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-lamItDuocNhieu/LamItDuocNhieu08.mp3",
+    "title" : "Phần 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-lamItDuocNhieu/LamItDuocNhieu09.mp3",
+    "title" : "Phần 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-lamItDuocNhieu/LamItDuocNhieu10.mp3",
+    "title" : "Phần 10",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nang-bich-nguyet_15690.html",
+    "title" : "Nàng Bích Nguyệt",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Hồng Dung",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 16643,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_0e9c908e9e70961ebe57d23f332964b8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_0e9c908e9e70961ebe57d23f332964b8.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/NangBichNguyet/NangBichNguyet_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4993,
+    "title" : "NangBichNguyet 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/NangBichNguyet/NangBichNguyet_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5945,
+    "title" : "NangBichNguyet 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/NangBichNguyet/NangBichNguyet_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5705,
+    "title" : "NangBichNguyet 03",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/NangBichNguyet/NangBichNguyet_01.mp3",
+    "title" : "NangBichNguyet 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/NangBichNguyet/NangBichNguyet_02.mp3",
+    "title" : "NangBichNguyet 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/NangBichNguyet/NangBichNguyet_03.mp3",
+    "title" : "NangBichNguyet 03",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

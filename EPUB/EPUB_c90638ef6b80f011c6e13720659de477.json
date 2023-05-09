@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/boss-den-toi-dung-chay-meo-luoi-ngu-ngay_10444.html",
+    "title" : "Boss Đen Tối Đừng Chạy - Mèo Lười Ngủ Ngày",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Mèo Lười Ngủ Ngày",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 40266,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_c90638ef6b80f011c6e13720659de477.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_c90638ef6b80f011c6e13720659de477.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/boss-den-toi-dung-chay/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4071,
+    "title" : "BOSS Đen Tối! Đừng Chạy, Tác giả Mèo Lười Ngủ Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/boss-den-toi-dung-chay/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3794,
+    "title" : "Truyện Ngôn Tình BOSS Đen Tối! Đừng Chạy [Phần 2] quá ư là hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/boss-den-toi-dung-chay/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4243,
+    "title" : "BOSS Đen Tối! Đừng Chạy [Phần 3] Diến biến tiếp theo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/boss-den-toi-dung-chay/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4634,
+    "title" : "Truyện Ngôn Tình Audio Mới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/boss-den-toi-dung-chay/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5456,
+    "title" : "BOSS Đen Tối! Đừng Chạy [Phần 5] Đại Boss muốn kết hôn..",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/boss-den-toi-dung-chay/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5247,
+    "title" : "BOSS Đen Tối! Đừng Chạy [Phần 6] Tiêu Đại sa bẫy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/boss-den-toi-dung-chay/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4254,
+    "title" : "BOSS Đen Tối! Đừng Chạy [Phần 7] tình huống bất ngờ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/boss-den-toi-dung-chay/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4112,
+    "title" : "BOSS Đen Tối! Đừng Chạy [Phần 8] Giúp đỡ Tiêu Đại Boss",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/boss-den-toi-dung-chay/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4455,
+    "title" : "BOSS Đen Tối! Đừng Chạy [Phần 9 HẾT] Khép lại câu chuyện",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/boss-den-toi-dung-chay/1.mp3",
+    "title" : "BOSS Đen Tối! Đừng Chạy, Tác giả Mèo Lười Ngủ Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/boss-den-toi-dung-chay/2.mp3",
+    "title" : "Truyện Ngôn Tình BOSS Đen Tối! Đừng Chạy [Phần 2] quá ư là hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/boss-den-toi-dung-chay/3.mp3",
+    "title" : "BOSS Đen Tối! Đừng Chạy [Phần 3] Diến biến tiếp theo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/boss-den-toi-dung-chay/4.mp3",
+    "title" : "Truyện Ngôn Tình Audio Mới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/boss-den-toi-dung-chay/5.mp3",
+    "title" : "BOSS Đen Tối! Đừng Chạy [Phần 5] Đại Boss muốn kết hôn..",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/boss-den-toi-dung-chay/6.mp3",
+    "title" : "BOSS Đen Tối! Đừng Chạy [Phần 6] Tiêu Đại sa bẫy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/boss-den-toi-dung-chay/7.mp3",
+    "title" : "BOSS Đen Tối! Đừng Chạy [Phần 7] tình huống bất ngờ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/boss-den-toi-dung-chay/8.mp3",
+    "title" : "BOSS Đen Tối! Đừng Chạy [Phần 8] Giúp đỡ Tiêu Đại Boss",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/boss-den-toi-dung-chay/9.mp3",
+    "title" : "BOSS Đen Tối! Đừng Chạy [Phần 9 HẾT] Khép lại câu chuyện",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

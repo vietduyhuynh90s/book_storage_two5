@@ -1,0 +1,209 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/trung-sinh-chi-cuu-trien-thi-bat-dai-nga_11702.html",
+    "title" : "Trùng Sinh Chi Cưu Triền - Thì Bất Đãi Ngã",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thì Bất Đãi Ngã",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 51008,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_859e6becc663bc62e3fa82cf6ba4e68f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_859e6becc663bc62e3fa82cf6ba4e68f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/trong-sinh-chi-cuu-trien/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3752,
+    "title" : "Tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-chi-cuu-trien/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3680,
+    "title" : "Tập 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-chi-cuu-trien/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3655,
+    "title" : "Tập 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-chi-cuu-trien/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3880,
+    "title" : "Tập 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-chi-cuu-trien/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3425,
+    "title" : "Tập 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-chi-cuu-trien/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2975,
+    "title" : "Tập 14 (H+) (Tập Cuối)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-chi-cuu-trien/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3748,
+    "title" : "Tập 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-chi-cuu-trien/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3715,
+    "title" : "Tập 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-chi-cuu-trien/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3612,
+    "title" : "Tập 4 (H+)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-chi-cuu-trien/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3722,
+    "title" : "Tập 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-chi-cuu-trien/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3815,
+    "title" : "Tập 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-chi-cuu-trien/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3815,
+    "title" : "Tập 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-chi-cuu-trien/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3616,
+    "title" : "Tập 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-chi-cuu-trien/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3598,
+    "title" : "Tập 9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/trong-sinh-chi-cuu-trien/1.mp3",
+    "title" : "Tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-chi-cuu-trien/10.mp3",
+    "title" : "Tập 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-chi-cuu-trien/11.mp3",
+    "title" : "Tập 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-chi-cuu-trien/12.mp3",
+    "title" : "Tập 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-chi-cuu-trien/13.mp3",
+    "title" : "Tập 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-chi-cuu-trien/14.mp3",
+    "title" : "Tập 14 (H+) (Tập Cuối)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-chi-cuu-trien/2.mp3",
+    "title" : "Tập 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-chi-cuu-trien/3.mp3",
+    "title" : "Tập 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-chi-cuu-trien/4.mp3",
+    "title" : "Tập 4 (H+)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-chi-cuu-trien/5.mp3",
+    "title" : "Tập 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-chi-cuu-trien/6.mp3",
+    "title" : "Tập 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-chi-cuu-trien/7.mp3",
+    "title" : "Tập 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-chi-cuu-trien/8.mp3",
+    "title" : "Tập 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-sinh-chi-cuu-trien/9.mp3",
+    "title" : "Tập 9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

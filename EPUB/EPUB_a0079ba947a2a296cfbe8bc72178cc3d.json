@@ -1,0 +1,281 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nguyen-gia-thuong-cau_15350.html",
+    "title" : "Nguyện Giả Thượng Câu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Minh Dã",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 82072,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_a0079ba947a2a296cfbe8bc72178cc3d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_a0079ba947a2a296cfbe8bc72178cc3d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nguyen-gia-thuong-cau/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3613,
+    "title" : "[BÁCH HỢP] NGUYỆN GIẢ THƯỢNG CÂU (TẬP 1) || phát hành chiều 3,5,7 hàng tuần!!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyen-gia-thuong-cau/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3355,
+    "title" : "[BÁCH HỢP] NGUYỆN GIẢ THƯỢNG CÂU (TẬP 10) || phát hành chiều 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyen-gia-thuong-cau/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4511,
+    "title" : "[BÁCH HỢP] (H) NGUYỆN GIẢ THƯỢNG CÂU (TẬP 11) || phát hành chiều 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyen-gia-thuong-cau/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4927,
+    "title" : "[BÁCH HỢP] NGUYỆN GIẢ THƯỢNG CÂU (TẬP 12) || phát hành chiều 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyen-gia-thuong-cau/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3168,
+    "title" : "[BÁCH HỢP] NGUYỆN GIẢ THƯỢNG CÂU (TẬP 13) || phát hành chiều 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyen-gia-thuong-cau/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3850,
+    "title" : "[BÁCH HỢP] (H nhẹ) NGUYỆN GIẢ THƯỢNG CÂU (TẬP 14) || phát hành chiều 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyen-gia-thuong-cau/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4462,
+    "title" : "[BÁCH HỢP] NGUYỆN GIẢ THƯỢNG CÂU (TẬP 15) || phát hành chiều 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyen-gia-thuong-cau/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3850,
+    "title" : "[BÁCH HỢP] NGUYỆN GIẢ THƯỢNG CÂU (TẬP 16) || phát hành chiều 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyen-gia-thuong-cau/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4768,
+    "title" : "[BÁCH HỢP] NGUYỆN GIẢ THƯỢNG CÂU (TẬP 17) || phát hành chiều 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyen-gia-thuong-cau/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4710,
+    "title" : "[BÁCH HỢP] NGUYỆN GIẢ THƯỢNG CÂU (TẬP 18) || phát hành chiều 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyen-gia-thuong-cau/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4731,
+    "title" : "[BÁCH HỢP] NGUYỆN GIẢ THƯỢNG CÂU (TẬP 19) || phát hành chiều 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyen-gia-thuong-cau/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4281,
+    "title" : "[BÁCH HỢP] NGUYỆN GIẢ THƯỢNG CÂU (TẬP 3) || phát hành chiều 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyen-gia-thuong-cau/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2002,
+    "title" : "[BÁCH HỢP AUDIO] NGUYỆN GIẢ THƯỢNG CÂU ( TẬP 20) || KẾT HOÀN!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyen-gia-thuong-cau/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3746,
+    "title" : "[BÁCH HỢP] NGUYỆN GIẢ THƯỢNG CÂU (TẬP 3) || phát hành chiều 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyen-gia-thuong-cau/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2753,
+    "title" : "[BÁCH HỢP] NGUYỆN GIẢ THƯỢNG CÂU (TẬP 4) || phát hành chiều 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyen-gia-thuong-cau/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4371,
+    "title" : "[BÁCH HỢP] NGUYỆN GIẢ THƯỢNG CÂU (TẬP 5) || phát hành chiều 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyen-gia-thuong-cau/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4991,
+    "title" : "[BÁCH HỢP] NGUYỆN GIẢ THƯỢNG CÂU (TẬP 6) || phát hành chiều 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyen-gia-thuong-cau/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3391,
+    "title" : "[BÁCH HỢP] NGUYỆN GIẢ THƯỢNG CÂU (TẬP 7) || phát hành chiều 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyen-gia-thuong-cau/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5637,
+    "title" : "[BÁCH HỢP] NGUYỆN GIẢ THƯỢNG CÂU (TẬP 8) || phát hành chiều 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguyen-gia-thuong-cau/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4955,
+    "title" : "[BÁCH HỢP] (H) NGUYỆN GIẢ THƯỢNG CÂU (TẬP 9) || phát hành chiều 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nguyen-gia-thuong-cau/1.mp3",
+    "title" : "[BÁCH HỢP] NGUYỆN GIẢ THƯỢNG CÂU (TẬP 1) || phát hành chiều 3,5,7 hàng tuần!!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyen-gia-thuong-cau/10.mp3",
+    "title" : "[BÁCH HỢP] NGUYỆN GIẢ THƯỢNG CÂU (TẬP 10) || phát hành chiều 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyen-gia-thuong-cau/11.mp3",
+    "title" : "[BÁCH HỢP] (H) NGUYỆN GIẢ THƯỢNG CÂU (TẬP 11) || phát hành chiều 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyen-gia-thuong-cau/12.mp3",
+    "title" : "[BÁCH HỢP] NGUYỆN GIẢ THƯỢNG CÂU (TẬP 12) || phát hành chiều 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyen-gia-thuong-cau/13.mp3",
+    "title" : "[BÁCH HỢP] NGUYỆN GIẢ THƯỢNG CÂU (TẬP 13) || phát hành chiều 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyen-gia-thuong-cau/14.mp3",
+    "title" : "[BÁCH HỢP] (H nhẹ) NGUYỆN GIẢ THƯỢNG CÂU (TẬP 14) || phát hành chiều 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyen-gia-thuong-cau/15.mp3",
+    "title" : "[BÁCH HỢP] NGUYỆN GIẢ THƯỢNG CÂU (TẬP 15) || phát hành chiều 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyen-gia-thuong-cau/16.mp3",
+    "title" : "[BÁCH HỢP] NGUYỆN GIẢ THƯỢNG CÂU (TẬP 16) || phát hành chiều 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyen-gia-thuong-cau/17.mp3",
+    "title" : "[BÁCH HỢP] NGUYỆN GIẢ THƯỢNG CÂU (TẬP 17) || phát hành chiều 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyen-gia-thuong-cau/18.mp3",
+    "title" : "[BÁCH HỢP] NGUYỆN GIẢ THƯỢNG CÂU (TẬP 18) || phát hành chiều 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyen-gia-thuong-cau/19.mp3",
+    "title" : "[BÁCH HỢP] NGUYỆN GIẢ THƯỢNG CÂU (TẬP 19) || phát hành chiều 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyen-gia-thuong-cau/2.mp3",
+    "title" : "[BÁCH HỢP] NGUYỆN GIẢ THƯỢNG CÂU (TẬP 3) || phát hành chiều 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyen-gia-thuong-cau/20.mp3",
+    "title" : "[BÁCH HỢP AUDIO] NGUYỆN GIẢ THƯỢNG CÂU ( TẬP 20) || KẾT HOÀN!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyen-gia-thuong-cau/3.mp3",
+    "title" : "[BÁCH HỢP] NGUYỆN GIẢ THƯỢNG CÂU (TẬP 3) || phát hành chiều 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyen-gia-thuong-cau/4.mp3",
+    "title" : "[BÁCH HỢP] NGUYỆN GIẢ THƯỢNG CÂU (TẬP 4) || phát hành chiều 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyen-gia-thuong-cau/5.mp3",
+    "title" : "[BÁCH HỢP] NGUYỆN GIẢ THƯỢNG CÂU (TẬP 5) || phát hành chiều 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyen-gia-thuong-cau/6.mp3",
+    "title" : "[BÁCH HỢP] NGUYỆN GIẢ THƯỢNG CÂU (TẬP 6) || phát hành chiều 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyen-gia-thuong-cau/7.mp3",
+    "title" : "[BÁCH HỢP] NGUYỆN GIẢ THƯỢNG CÂU (TẬP 7) || phát hành chiều 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyen-gia-thuong-cau/8.mp3",
+    "title" : "[BÁCH HỢP] NGUYỆN GIẢ THƯỢNG CÂU (TẬP 8) || phát hành chiều 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguyen-gia-thuong-cau/9.mp3",
+    "title" : "[BÁCH HỢP] (H) NGUYỆN GIẢ THƯỢNG CÂU (TẬP 9) || phát hành chiều 3,5,7 hàng tuần!",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

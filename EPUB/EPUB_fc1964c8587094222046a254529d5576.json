@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dong-thoai-den_18631.html",
+    "title" : "Đồng Thoại Đen",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Otsuichi - Hirotaka Adachi",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 29208,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_fc1964c8587094222046a254529d5576.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_fc1964c8587094222046a254529d5576.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dong-thoai-den-05/%C4%90%E1%BB%93ng%20tho%E1%BA%A1i%20%C4%91en_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6779,
+    "title" : "Đồng thoại đen 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dong-thoai-den-05/%C4%90%E1%BB%93ng%20tho%E1%BA%A1i%20%C4%91en_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5464,
+    "title" : "Đồng thoại đen 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dong-thoai-den-05/%C4%90%E1%BB%93ng%20tho%E1%BA%A1i%20%C4%91en_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4818,
+    "title" : "Đồng thoại đen 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dong-thoai-den-05/%C4%90%E1%BB%93ng%20tho%E1%BA%A1i%20%C4%91en_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4979,
+    "title" : "Đồng thoại đen 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dong-thoai-den-05/%C4%90%E1%BB%93ng%20tho%E1%BA%A1i%20%C4%91en_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7168,
+    "title" : "Đồng thoại đen 05",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dong-thoai-den-05/%C4%90%E1%BB%93ng%20tho%E1%BA%A1i%20%C4%91en_01.mp3",
+    "title" : "Đồng thoại đen 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dong-thoai-den-05/%C4%90%E1%BB%93ng%20tho%E1%BA%A1i%20%C4%91en_02.mp3",
+    "title" : "Đồng thoại đen 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dong-thoai-den-05/%C4%90%E1%BB%93ng%20tho%E1%BA%A1i%20%C4%91en_03.mp3",
+    "title" : "Đồng thoại đen 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dong-thoai-den-05/%C4%90%E1%BB%93ng%20tho%E1%BA%A1i%20%C4%91en_04.mp3",
+    "title" : "Đồng thoại đen 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dong-thoai-den-05/%C4%90%E1%BB%93ng%20tho%E1%BA%A1i%20%C4%91en_05.mp3",
+    "title" : "Đồng thoại đen 05",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

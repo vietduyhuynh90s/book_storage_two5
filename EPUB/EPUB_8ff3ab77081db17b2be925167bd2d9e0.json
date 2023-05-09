@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nghiep-bao-hai-nhi-truong-le_11216.html",
+    "title" : "Nghiệp Báo Hài Nhi - Trường Lê",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trường Lê",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 37859,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_8ff3ab77081db17b2be925167bd2d9e0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_8ff3ab77081db17b2be925167bd2d9e0.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_nbhn/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5269,
+    "title" : "Truyện Ma Có Thật Đình Soạn Kể Sợ Và Hãi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_nbhn/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4910,
+    "title" : "[SIÊU PHẨM 2019] NGHIỆP BÁO HÀI NHI - Truyện Ma Có Thật Đình Soạn Kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_nbhn/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3879,
+    "title" : "[SIÊU PHẨM 2019] NGHIỆP BÁO HÀI NHI - Truyện Ma Có Thật Đình Soạn Kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_nbhn/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3802,
+    "title" : "[SIÊU PHẨM 2019] NGHIỆP BÁO HÀI NHI - Truyện Ma Có Thật Đình Soạn Kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_nbhn/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3908,
+    "title" : "[SIÊU PHẨM 2019] NGHIỆP BÁO HÀI NHI - Truyện Ma Có Thật Đình Soạn Kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_nbhn/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3410,
+    "title" : "Truyện Ma Có Thật Đình Soạn Kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_nbhn/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3873,
+    "title" : "Truyện Ma Có Thật Đình Soạn Kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_nbhn/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4031,
+    "title" : "Truyện Ma Có Thật Đình Soạn Kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_nbhn/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4777,
+    "title" : "[SIÊU PHẨM 2019] NGHIỆP BÁO HÀI NHI - Truyện Ma Có Thật Đình Soạn Kể",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_nbhn/1.mp3",
+    "title" : "Truyện Ma Có Thật Đình Soạn Kể Sợ Và Hãi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_nbhn/2.mp3",
+    "title" : "[SIÊU PHẨM 2019] NGHIỆP BÁO HÀI NHI - Truyện Ma Có Thật Đình Soạn Kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_nbhn/3.mp3",
+    "title" : "[SIÊU PHẨM 2019] NGHIỆP BÁO HÀI NHI - Truyện Ma Có Thật Đình Soạn Kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_nbhn/4.mp3",
+    "title" : "[SIÊU PHẨM 2019] NGHIỆP BÁO HÀI NHI - Truyện Ma Có Thật Đình Soạn Kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_nbhn/5.mp3",
+    "title" : "[SIÊU PHẨM 2019] NGHIỆP BÁO HÀI NHI - Truyện Ma Có Thật Đình Soạn Kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_nbhn/6.mp3",
+    "title" : "Truyện Ma Có Thật Đình Soạn Kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_nbhn/7.mp3",
+    "title" : "Truyện Ma Có Thật Đình Soạn Kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_nbhn/8.mp3",
+    "title" : "Truyện Ma Có Thật Đình Soạn Kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_nbhn/9.mp3",
+    "title" : "[SIÊU PHẨM 2019] NGHIỆP BÁO HÀI NHI - Truyện Ma Có Thật Đình Soạn Kể",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

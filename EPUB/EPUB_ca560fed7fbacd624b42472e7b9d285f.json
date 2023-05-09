@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/phuc-the-tu-bao-gian-anh_11485.html",
+    "title" : "Phúc Thê Tụ Bảo - Giản Anh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Giản Anh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 50056,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_ca560fed7fbacd624b42472e7b9d285f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_ca560fed7fbacd624b42472e7b9d285f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/thaituphibotron/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8341,
+    "title" : "Truyện ngôn tình xuyên không hay Phúc thê tụ Bảo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thaituphibotron/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8336,
+    "title" : "Truyện ngôn tình xuyên không mới hay nhất Phúc thê tụ bảo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thaituphibotron/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8310,
+    "title" : "truyện ngôn tình xuyên không càng nghe càng hấp dẫn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thaituphibotron/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8401,
+    "title" : "Truyện ngôn tình hay cực kỳ nha",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thaituphibotron/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8590,
+    "title" : "Truyện ngôn tình xuyên không hay cực nha",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thaituphibotron/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8078,
+    "title" : "Truyện ngôn tình hài hay cực nha",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/thaituphibotron/1.mp3",
+    "title" : "Truyện ngôn tình xuyên không hay Phúc thê tụ Bảo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thaituphibotron/2.mp3",
+    "title" : "Truyện ngôn tình xuyên không mới hay nhất Phúc thê tụ bảo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thaituphibotron/3.mp3",
+    "title" : "truyện ngôn tình xuyên không càng nghe càng hấp dẫn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thaituphibotron/4.mp3",
+    "title" : "Truyện ngôn tình hay cực kỳ nha",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thaituphibotron/5.mp3",
+    "title" : "Truyện ngôn tình xuyên không hay cực nha",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thaituphibotron/6.mp3",
+    "title" : "Truyện ngôn tình hài hay cực nha",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

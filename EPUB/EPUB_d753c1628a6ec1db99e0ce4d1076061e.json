@@ -1,0 +1,293 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/vuong-phi-cua-bao-vuong_15519.html",
+    "title" : "Vương Phi của Bạo Vương",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhược Nhi Phi Phi",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 98829,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_d753c1628a6ec1db99e0ce4d1076061e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_d753c1628a6ec1db99e0ce4d1076061e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vuong-phi-cua-bao-vuong/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 72,
+    "title" : "(Truyện xuyên không) Vương phi của bạo vương (giới thiệu) | Hay và hấp dẫn nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuong-phi-cua-bao-vuong/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4673,
+    "title" : "(Truyện xuyên không) Vương phi của bạo vương (phần 9) | Hay và hấp dẫn nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuong-phi-cua-bao-vuong/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4709,
+    "title" : "(Truyện xuyên không) Vương phi của bạo vương (phần 10) | Hay và hấp dẫn nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuong-phi-cua-bao-vuong/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4691,
+    "title" : "(Truyện xuyên không) Vương phi của bạo vương (phần 11) | Hay và hấp dẫn nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuong-phi-cua-bao-vuong/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4769,
+    "title" : "(Truyện xuyên không) Vương phi của bạo vương (phần 12) | Hay và hấp dẫn nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuong-phi-cua-bao-vuong/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5069,
+    "title" : "(Truyện xuyên không) Vương phi của bạo vương (phần 13) | Hay và hấp dẫn nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuong-phi-cua-bao-vuong/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5042,
+    "title" : "(Truyện xuyên không) Vương phi của bạo vương (phần 14) | Hay và hấp dẫn nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuong-phi-cua-bao-vuong/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4930,
+    "title" : "(Truyện xuyên không) Vương phi của bạo vương (phần 15) | Hay và hấp dẫn nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuong-phi-cua-bao-vuong/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5050,
+    "title" : "(Truyện xuyên không) Vương phi của bạo vương (phần 16) | Hay và hấp dẫn nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuong-phi-cua-bao-vuong/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4974,
+    "title" : "(Truyện xuyên không) Vương phi của bạo vương (phần 17) | Hay và hấp dẫn nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuong-phi-cua-bao-vuong/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5115,
+    "title" : "(Truyện xuyên không) Vương phi của bạo vương (phần 18) | Hay và hấp dẫn nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuong-phi-cua-bao-vuong/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4499,
+    "title" : "(Truyện xuyên không) Vương phi của bạo vương (phần 1) | Hay và hấp dẫn nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuong-phi-cua-bao-vuong/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5318,
+    "title" : "(Truyện xuyên không) Vương phi của bạo vương (phần 19) | Hay và hấp dẫn nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuong-phi-cua-bao-vuong/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7272,
+    "title" : "ngoại truyện) |Hay và hấp dẫn nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuong-phi-cua-bao-vuong/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4821,
+    "title" : "(Truyện xuyên không) Vương phi của bạo vương (phần 2) | Hay và hấp dẫn nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuong-phi-cua-bao-vuong/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4759,
+    "title" : "(Truyện xuyên không) Vương phi của bạo vương (phần 3) | Hay và hấp dẫn nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuong-phi-cua-bao-vuong/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4517,
+    "title" : "(Truyện xuyên không) Vương phi của bạo vương (phần 4) | Hay và hấp dẫn nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuong-phi-cua-bao-vuong/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4755,
+    "title" : "(Truyện xuyên không) Vương phi của bạo vương (phần 5) | Hay và hấp dẫn nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuong-phi-cua-bao-vuong/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4362,
+    "title" : "(Truyện xuyên không) Vương phi của bạo vương (phần 6) | Hay và hấp dẫn nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuong-phi-cua-bao-vuong/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4699,
+    "title" : "(Truyện xuyên không) Vương phi của bạo vương (phần 7) | Hay và hấp dẫn nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuong-phi-cua-bao-vuong/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4733,
+    "title" : "(Truyện xuyên không) Vương phi của bạo vương (phần 8) | Hay và hấp dẫn nhất",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vuong-phi-cua-bao-vuong/1.mp3",
+    "title" : "(Truyện xuyên không) Vương phi của bạo vương (giới thiệu) | Hay và hấp dẫn nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuong-phi-cua-bao-vuong/10.mp3",
+    "title" : "(Truyện xuyên không) Vương phi của bạo vương (phần 9) | Hay và hấp dẫn nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuong-phi-cua-bao-vuong/11.mp3",
+    "title" : "(Truyện xuyên không) Vương phi của bạo vương (phần 10) | Hay và hấp dẫn nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuong-phi-cua-bao-vuong/12.mp3",
+    "title" : "(Truyện xuyên không) Vương phi của bạo vương (phần 11) | Hay và hấp dẫn nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuong-phi-cua-bao-vuong/13.mp3",
+    "title" : "(Truyện xuyên không) Vương phi của bạo vương (phần 12) | Hay và hấp dẫn nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuong-phi-cua-bao-vuong/14.mp3",
+    "title" : "(Truyện xuyên không) Vương phi của bạo vương (phần 13) | Hay và hấp dẫn nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuong-phi-cua-bao-vuong/15.mp3",
+    "title" : "(Truyện xuyên không) Vương phi của bạo vương (phần 14) | Hay và hấp dẫn nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuong-phi-cua-bao-vuong/16.mp3",
+    "title" : "(Truyện xuyên không) Vương phi của bạo vương (phần 15) | Hay và hấp dẫn nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuong-phi-cua-bao-vuong/17.mp3",
+    "title" : "(Truyện xuyên không) Vương phi của bạo vương (phần 16) | Hay và hấp dẫn nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuong-phi-cua-bao-vuong/18.mp3",
+    "title" : "(Truyện xuyên không) Vương phi của bạo vương (phần 17) | Hay và hấp dẫn nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuong-phi-cua-bao-vuong/19.mp3",
+    "title" : "(Truyện xuyên không) Vương phi của bạo vương (phần 18) | Hay và hấp dẫn nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuong-phi-cua-bao-vuong/2.mp3",
+    "title" : "(Truyện xuyên không) Vương phi của bạo vương (phần 1) | Hay và hấp dẫn nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuong-phi-cua-bao-vuong/20.mp3",
+    "title" : "(Truyện xuyên không) Vương phi của bạo vương (phần 19) | Hay và hấp dẫn nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuong-phi-cua-bao-vuong/21.mp3",
+    "title" : "ngoại truyện) |Hay và hấp dẫn nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuong-phi-cua-bao-vuong/3.mp3",
+    "title" : "(Truyện xuyên không) Vương phi của bạo vương (phần 2) | Hay và hấp dẫn nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuong-phi-cua-bao-vuong/4.mp3",
+    "title" : "(Truyện xuyên không) Vương phi của bạo vương (phần 3) | Hay và hấp dẫn nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuong-phi-cua-bao-vuong/5.mp3",
+    "title" : "(Truyện xuyên không) Vương phi của bạo vương (phần 4) | Hay và hấp dẫn nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuong-phi-cua-bao-vuong/6.mp3",
+    "title" : "(Truyện xuyên không) Vương phi của bạo vương (phần 5) | Hay và hấp dẫn nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuong-phi-cua-bao-vuong/7.mp3",
+    "title" : "(Truyện xuyên không) Vương phi của bạo vương (phần 6) | Hay và hấp dẫn nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuong-phi-cua-bao-vuong/8.mp3",
+    "title" : "(Truyện xuyên không) Vương phi của bạo vương (phần 7) | Hay và hấp dẫn nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuong-phi-cua-bao-vuong/9.mp3",
+    "title" : "(Truyện xuyên không) Vương phi của bạo vương (phần 8) | Hay và hấp dẫn nhất",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

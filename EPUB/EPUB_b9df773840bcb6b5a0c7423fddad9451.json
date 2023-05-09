@@ -1,0 +1,557 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bao-cat-james-rollins_9794.html",
+    "title" : "Bão Cát - James Rollins.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "James Rollins",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 73172,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_b9df773840bcb6b5a0c7423fddad9451.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_b9df773840bcb6b5a0c7423fddad9451.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bao-cat/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1787,
+    "title" : "1/43 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-cat/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1293,
+    "title" : "10/43 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-cat/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1366,
+    "title" : "11/43 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-cat/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1209,
+    "title" : "12/43 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-cat/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1553,
+    "title" : "13/43 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-cat/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1529,
+    "title" : "14/43 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-cat/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1681,
+    "title" : "15/43 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-cat/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1603,
+    "title" : "16/43 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-cat/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1716,
+    "title" : "17/46 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-cat/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1886,
+    "title" : "18/43 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-cat/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1752,
+    "title" : "19/43 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-cat/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1859,
+    "title" : "2/43 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-cat/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1675,
+    "title" : "20/43 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-cat/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1749,
+    "title" : "21/43 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-cat/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1345,
+    "title" : "22/43 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-cat/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1368,
+    "title" : "23/43 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-cat/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1616,
+    "title" : "24/43 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-cat/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1521,
+    "title" : "25/43 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-cat/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1783,
+    "title" : "26/43 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-cat/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1783,
+    "title" : "27/43 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-cat/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1572,
+    "title" : "28/43 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-cat/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1776,
+    "title" : "29/43 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-cat/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1964,
+    "title" : "3/43 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-cat/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2039,
+    "title" : "30/43 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-cat/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2228,
+    "title" : "31/43 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-cat/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1459,
+    "title" : "32/43 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-cat/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1372,
+    "title" : "33/43 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-cat/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1634,
+    "title" : "34/43 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-cat/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1495,
+    "title" : "35/43 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-cat/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1998,
+    "title" : "36/43 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-cat/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1964,
+    "title" : "37/43 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-cat/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1902,
+    "title" : "38/43 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-cat/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1713,
+    "title" : "39/43 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-cat/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2148,
+    "title" : "4/43 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-cat/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1250,
+    "title" : "40/43 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-cat/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1488,
+    "title" : "41/43 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-cat/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2157,
+    "title" : "42/43 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-cat/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2147,
+    "title" : "43/43 (Hết) l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-cat/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1910,
+    "title" : "5/43 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-cat/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2317,
+    "title" : "6/43 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-cat/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1325,
+    "title" : "7/43 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-cat/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1638,
+    "title" : "8/43 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-cat/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1602,
+    "title" : "9/43 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bao-cat/1.mp3",
+    "title" : "1/43 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-cat/10.mp3",
+    "title" : "10/43 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-cat/11.mp3",
+    "title" : "11/43 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-cat/12.mp3",
+    "title" : "12/43 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-cat/13.mp3",
+    "title" : "13/43 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-cat/14.mp3",
+    "title" : "14/43 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-cat/15.mp3",
+    "title" : "15/43 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-cat/16.mp3",
+    "title" : "16/43 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-cat/17.mp3",
+    "title" : "17/46 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-cat/18.mp3",
+    "title" : "18/43 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-cat/19.mp3",
+    "title" : "19/43 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-cat/2.mp3",
+    "title" : "2/43 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-cat/20.mp3",
+    "title" : "20/43 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-cat/21.mp3",
+    "title" : "21/43 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-cat/22.mp3",
+    "title" : "22/43 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-cat/23.mp3",
+    "title" : "23/43 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-cat/24.mp3",
+    "title" : "24/43 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-cat/25.mp3",
+    "title" : "25/43 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-cat/26.mp3",
+    "title" : "26/43 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-cat/27.mp3",
+    "title" : "27/43 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-cat/28.mp3",
+    "title" : "28/43 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-cat/29.mp3",
+    "title" : "29/43 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-cat/3.mp3",
+    "title" : "3/43 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-cat/30.mp3",
+    "title" : "30/43 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-cat/31.mp3",
+    "title" : "31/43 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-cat/32.mp3",
+    "title" : "32/43 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-cat/33.mp3",
+    "title" : "33/43 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-cat/34.mp3",
+    "title" : "34/43 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-cat/35.mp3",
+    "title" : "35/43 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-cat/36.mp3",
+    "title" : "36/43 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-cat/37.mp3",
+    "title" : "37/43 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-cat/38.mp3",
+    "title" : "38/43 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-cat/39.mp3",
+    "title" : "39/43 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-cat/4.mp3",
+    "title" : "4/43 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-cat/40.mp3",
+    "title" : "40/43 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-cat/41.mp3",
+    "title" : "41/43 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-cat/42.mp3",
+    "title" : "42/43 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-cat/43.mp3",
+    "title" : "43/43 (Hết) l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-cat/5.mp3",
+    "title" : "5/43 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-cat/6.mp3",
+    "title" : "6/43 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-cat/7.mp3",
+    "title" : "7/43 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-cat/8.mp3",
+    "title" : "8/43 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-cat/9.mp3",
+    "title" : "9/43 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

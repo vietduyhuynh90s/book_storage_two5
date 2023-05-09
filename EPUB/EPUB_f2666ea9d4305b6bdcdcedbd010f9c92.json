@@ -1,0 +1,3557 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tam-thon-nhan-gian_19104.html",
+    "title" : "Tam Thốn Nhân Gian",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhĩ Căn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 870897,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_f2666ea9d4305b6bdcdcedbd010f9c92.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_f2666ea9d4305b6bdcdcedbd010f9c92.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3761,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 01. Chương 1-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3661,
+    "title" : "Tam Thốn Nhân Gian. Tác giả Nhĩ Căn Tập 10. Chương 38-42",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/100.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3141,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 100 || Chương 467- 471 || Bản dịch.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/101.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3001,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 101 || Chương 472-476 || Bản dịch.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/102.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2981,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 102 || Chương 477- 481 || Bản dịch.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/103.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3101,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 103 || Chương 482- 486 || Bản dịch.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/104.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3121,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 104 || Chương 487- 491 || Bản dịch.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/105.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2981,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 105 || Chương 492- 496 || Bản dịch.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/106.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3001,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 106 || Chương 497- 501 || Bản dịch.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/107.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3061,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 107 || Chương 502-506 || Bản dịch.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/108.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2981,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 108 || Chương 507-511 || Bản dịch.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/109.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3021,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 109 || Chương 512- 516 || Bản dịch.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3681,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn Tập 11. Chương 43-47",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/110.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3001,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 110 || Chương 517- 521 || Bản dịch.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/111.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3021,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 111 || Chương 522- 526 || Bản dịch.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/112.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3141,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 112 || Chương 527- 531 || Bản dịch.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/113.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3021,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 113 || Chương 532-536 || Bản dịch.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/114.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3141,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 114 || Chương 537- 541 || Bản dịch.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/115.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3061,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 115 || Chương 542- 546 || Bản dịch.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/116.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3121,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 116 || Chương 547- 551|| Bản dịch.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/117.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3401,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 117 || Chương 552- 556 || Bản dịch.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/118.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3301,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 118 || Chương 557-561|| Bản dịch.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/119.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3361,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 119 || Chương 562- 566 || Bản dịch.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3441,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 12. Chương 48-51",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/120.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3361,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 120 || Chương 567-571 || Bản dịch.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/121.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3241,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 121 || Chương 572-576 || Bản dịch.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/122.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3381,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 122 || Chương 577-581 || Bản dịch.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/123.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3381,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 123 || Chương 582- 586 || Bản dịch.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/124.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3181,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 124 || Chương 587- 591 || Bản dịch.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/125.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3241,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 125 || Chương 592- 596 || Bản dịch.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/126.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3241,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 126 || Chương 597- 601 || Bản dịch.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/127.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3081,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 127 || Chương 602-606 || Bản dịch.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/128.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3121,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 128 || Chương 607- 611 || Bản dịch.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/129.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3181,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 129 || Chương 612- 616 || Bản dịch.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3221,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 13. Chương 53-56",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/130.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3241,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 130 || Chương 617- 621 || Bản dịch.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/131.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3381,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 131 || Chương 622- 626 || Bản dịch.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/132.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3261,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 132 || Chương 627- 631 || Bản dịch.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/133.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3341,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 133 || Chương 632- 636 || Bản dịch.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/134.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3021,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 134 || Chương 637- 641 || Bản dịch.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/135.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3301,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 135 || Chương 642-646 || Bản dịch.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/136.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3281,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 136 || Chương 647- 651 || Bản dịch.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/137.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3241,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 137 || Chương 652-656 || Bản dịch.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/138.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3101,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 138 || Chương 657- 661 || Bản dịch.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/139.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3261,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 139 || Chương 662- 666 || Bản dịch.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3361,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian.Tác giả Nhĩ Căn. Tập 14. Chương 57-61",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/140.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3001,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 140 || Chương 667- 671 || Bản dịch.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/141.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3201,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 141 || Chương 672- 676 || Bản dịch.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/142.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3161,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 142 || Chương 677- 681 || Bản dịch.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/143.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3281,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 143 || Chương 682- 686 || Bản dịch.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/144.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3021,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 144 || Chương 687- 691 || Bản dịch.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/145.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2921,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 145 || Chương 692- 696 || Bản dịch.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/146.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3201,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 146 || Chương 697- 701 || Bản dịch.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/147.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2861,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 147 || Chương 702- 706 || Bản dịch.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/148.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2941,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 148 || Chương 707- 711 || Bản dịch.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/149.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3141,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 149 || Chương 712- 716 || Bản dịch.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2901,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 15. Chương 62-65",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/150.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3081,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 150 || Chương 717- 721 || Bản dịch.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/151.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3061,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 151 || Chương 722- 726 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/152.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3021,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 152 || Chương 727- 731 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/153.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3161,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 153 || Chương 732- 736 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/154.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2961,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 154 || Chương 737- 741 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/155.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3001,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 155 || Chương 742- 746 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/156.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2961,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 156 || Chương 747- 751 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/157.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3081,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 157 || Chương 752- 756 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/158.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2981,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 158 || Chương 757- 761 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/159.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3481,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 159 || Chương 762- 766 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3481,
+    "title" : "Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 16. Chương 66- 70",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/160.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2921,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 160 || Chương 767-771 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/161.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3201,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 161 || Chương 772-776 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/162.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3101,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 162 || Chương 777- 781 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/163.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2941,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 163 || Chương 782- 786 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/164.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3021,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 164 || Chương 787- 791 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/165.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2801,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 165 || Chương 792-796 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/166.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2761,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 166 || Chương 797- 801 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/167.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2781,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 167 || Chương 802-806 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/168.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2741,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 168 || Chương 807-811 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/169.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2741,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 169 || Chương 812- 816 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3321,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 17. Chương 71-75",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/170.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2801,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 170 || Chương 817- 821 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/171.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2901,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 171 || Chương 822- 826 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/172.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2841,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 172 || Chương 827- 831 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/173.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2901,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 173 || Chương 832- 836 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/174.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2821,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 174 || Chương 837- 841 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/175.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2541,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 175 || Chương 842- 846 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/176.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2841,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 176 || Chương 847- 851 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/177.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2921,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 177|| Chương 852-856 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/178.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2881,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 178 || Chương 857- 861 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/179.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2801,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 179 || Chương 862- 866 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3321,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 18. Chương 76-80",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/180.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2601,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 180 || Chương 867- 871 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/181.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2901,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 181 || Chương 872- 876 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/182.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2621,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 182 || Chương 877- 881 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/183.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2521,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 183 || Chương 882-886 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/184.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2861,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 184 || Chương 887- 891 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/185.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2781,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 185 || Chương 892-896 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/186.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2601,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 186 || Chương 897- 901 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/187.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2421,
+    "title" : "Tập 187 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 902-906 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/188.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2481,
+    "title" : "Tập 188 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 907- 911 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/189.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2781,
+    "title" : "Tập 189 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 912- 916 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3501,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 19. Chương 82-86",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/190.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2581,
+    "title" : "Tập 190 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 917- 921 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/191.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2741,
+    "title" : "Tập 191|| Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 922- 926 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/192.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2841,
+    "title" : "Tập 192 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 927- 931|| Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/193.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2581,
+    "title" : "Tập 193 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 932- 936 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/194.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2741,
+    "title" : "Tập 194 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 937- 941 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/195.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2621,
+    "title" : "Tập 195 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 942- 946 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/196.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2601,
+    "title" : "Tập 196 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 947- 951 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/197.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2641,
+    "title" : "Tập 197 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 952- 956 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/198.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2601,
+    "title" : "Tập 198 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 957- 961 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/199.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2541,
+    "title" : "Tập 199 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 962- 967 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3661,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 02. Chương 4-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3181,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 20. Chương 87-91",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/200.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2601,
+    "title" : "Tập 200 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 967- 971 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/201.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2821,
+    "title" : "Tập 201 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 972- 976 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/202.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2681,
+    "title" : "Tập 202 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 977- 981 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/203.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2801,
+    "title" : "Tập 203 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 982- 986 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/204.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2661,
+    "title" : "Tập 204 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 987- 991 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/205.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2861,
+    "title" : "Tập 205 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 992- 996 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/206.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2721,
+    "title" : "Tập 206 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 997- 1001 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/207.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2741,
+    "title" : "Tập 207 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1002- 1006 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/208.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2801,
+    "title" : "Tập 208 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1007- 1011 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/209.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2601,
+    "title" : "Tập 209 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1012- 1016 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3081,
+    "title" : "Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 21. Chương 92-95",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/210.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2761,
+    "title" : "Tập 210 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1017- 1021 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/211.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2841,
+    "title" : "Tập 211 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1022- 1026 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/212.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2701,
+    "title" : "Tập 212 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1027- 1031 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/213.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2781,
+    "title" : "Tập 213 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1032- 1036 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/214.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2661,
+    "title" : "Tập 214 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1037- 1041 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/215.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2901,
+    "title" : "Tập 215 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1042- 1046 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/216.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2861,
+    "title" : "Tập 216 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 10427- 1051 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/217.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2861,
+    "title" : "Tập 217 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1052- 1056 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/218.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2881,
+    "title" : "Tập 218 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1057- 1061 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/219.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3141,
+    "title" : "Tập 219 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1062- 1067 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3121,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 22. Chương 96-100",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/220.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2861,
+    "title" : "Tập 220 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1067- 1071 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/221.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3021,
+    "title" : "Tập 221 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1072- 076 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/222.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2881,
+    "title" : "Tập 222 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1077- 1082 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/223.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3321,
+    "title" : "Tập 223 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1082- 1086 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/224.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3021,
+    "title" : "Tập 224 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1087- 1091 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/225.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2921,
+    "title" : "Tập 225 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1092- 1096 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/226.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2861,
+    "title" : "Tập 226 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1097- 1101 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/227.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2961,
+    "title" : "Tập 227 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1102- 1106 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/228.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3001,
+    "title" : "Tập 228 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1107- 1111 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/229.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2941,
+    "title" : "Tập 229 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1112- 1116 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3121,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 23. Chương 101-105",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/230.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2901,
+    "title" : "Tập 230 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1117- 1121 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/231.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3001,
+    "title" : "Tập 231 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1122- 1126 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/232.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3041,
+    "title" : "Tập 232 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1127- 1131 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/233.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2801,
+    "title" : "Tập 233 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1132- 1136 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/234.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2741,
+    "title" : "Tập 234 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1137- 1141 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/235.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2741,
+    "title" : "Tập 235 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1142- 1146 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/236.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2741,
+    "title" : "Tập 236 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1147- 1151 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/237.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2821,
+    "title" : "Tập 237 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1152- 1156 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/238.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2861,
+    "title" : "Tập 238 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1157- 1161 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/239.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2881,
+    "title" : "Tập 239 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1162- 1166 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3481,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 24. Chương 106-111",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/240.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2661,
+    "title" : "Tập 240 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1166- 1171 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/241.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2941,
+    "title" : "Tập 241 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1172- 1176 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/242.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2881,
+    "title" : "Tập 242 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1177- 1181 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/243.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3021,
+    "title" : "Tập 243 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1182- 1186 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/244.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2901,
+    "title" : "Tập 244 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1187- 1191 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/245.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2801,
+    "title" : "Tập 245 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1192- 1196 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/246.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2721,
+    "title" : "Tập 246 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1197- 1201 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/247.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2981,
+    "title" : "Tập 247 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1202- 1206 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/248.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3001,
+    "title" : "Tập 248 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1207- 1211 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/249.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2841,
+    "title" : "Tập 249 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1212- 1216 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2961,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 25. Chương 112-116",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/250.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2941,
+    "title" : "Tập 250 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1217- 1221 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/251.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3001,
+    "title" : "Tập 251 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1222- 1226 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/252.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2761,
+    "title" : "Tập 252 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1227- 1231 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/253.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2781,
+    "title" : "Tập 253 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1232- 1236 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/254.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3021,
+    "title" : "Tập 254 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1237- 1241 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/255.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2761,
+    "title" : "Tập 255 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1242- 1246 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/256.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2701,
+    "title" : "Tập 256 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1247- 1251 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/257.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2721,
+    "title" : "Tập 257 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1252- 1256 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/258.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2821,
+    "title" : "Tập 258 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1257- 1261 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/259.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2761,
+    "title" : "Tập 259 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1262- 1266 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3321,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 26. Chương 117-121",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/260.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2841,
+    "title" : "Tập 260 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1267- 1271 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/261.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2601,
+    "title" : "Tập 261 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1272- 1276 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/262.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2601,
+    "title" : "Tập 262 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1277- 1281 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/263.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2601,
+    "title" : "Tập 263 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1282- 1186 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/264.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2821,
+    "title" : "Tập 264 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1287- 1291 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/265.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2861,
+    "title" : "Tập 265 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1292- 1296 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/266.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2821,
+    "title" : "Tập 266 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1297- 1301 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/267.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2641,
+    "title" : "Tập 267 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1302- 1306 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/268.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2881,
+    "title" : "Tập 268 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1307- 1311 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/269.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2601,
+    "title" : "Tập 269 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1312- 1316 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3021,
+    "title" : "[Giọng đọc Tạ Hói]Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 27. Chương 122-125",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/270.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2701,
+    "title" : "Tập 270 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1317- 1321 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/271.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2761,
+    "title" : "Tập 271 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1322- 1326 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/272.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2761,
+    "title" : "Tập 272 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1327- 1331 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/273.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2761,
+    "title" : "Tập 273 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1332- 1336 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/274.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2641,
+    "title" : "Tập 274 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1337- 1341 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/275.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2521,
+    "title" : "Tập 275 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1342- 1346 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/276.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2541,
+    "title" : "Tập 276 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1347- 1351 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/277.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2581,
+    "title" : "Tập 277 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1352- 1356 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/278.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2561,
+    "title" : "Tập 278 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1357- 1361 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/279.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2541,
+    "title" : "Tập 279 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1362- 1367 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2741,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 28. Chương 126-129",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/280.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2561,
+    "title" : "Tập 280 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1367- 1371 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/281.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3001,
+    "title" : "Tập 281 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1372- 1377 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/282.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2961,
+    "title" : "Tập 282 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1378- 1383 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/283.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3321,
+    "title" : "Tập 283 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1384- 1390 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/284.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2981,
+    "title" : "Tập 284 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1391- 1396 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/285.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2841,
+    "title" : "Tập 285 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1397- 1402 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/286.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3221,
+    "title" : "Tập 286 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1403- 1409 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/287.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2981,
+    "title" : "Tập 287 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1410- 1415 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/288.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3281,
+    "title" : "Tập 288 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1416- 1422 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/289.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3501,
+    "title" : "Tập 289 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1423- 1429 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2821,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 29. Chương 130-133",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/290.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3181,
+    "title" : "Tập 290 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1430- 1436 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/291.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3381,
+    "title" : "Tập 291 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1437- 1444 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/292.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3421,
+    "title" : "Tập 292 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1445- 1451 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/293.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3561,
+    "title" : "Tập 293- Hết || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1452- 1457 || Bản dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3801,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 03. Chương 08-11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2801,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 30. Chương 134-137",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2901,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 31.  Chương 138-141",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2641,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 32. Chương 142-145",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2801,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 33. Chương 146- 149",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2741,
+    "title" : "[Giọng đọc Tạ Hói]Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 34. Chương 150- 153",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2841,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 35. Chương 154- 157",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2981,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 36. Chương 158- 161",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2721,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 37. Chương 161- 165",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2821,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 38. Chương 166- 169",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3281,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 39. Chương 170- 174",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4095,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 04. Chương 12-16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2741,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 40. Chương 175- 178",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2821,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 41. Chương 179- 182",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2841,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 42. Chương 183- 186",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2801,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 43. Chương 187- 190",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2941,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 44. Chương 191- 194",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2841,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 45. Chương 195- 198",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3201,
+    "title" : "[Giọng đọc Tạ Hói]Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 46. Chương 199- 203",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2921,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 47. Chương 204- 208",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3021,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 48. Chương 199- 213",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3021,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 49. Chương 214- 218",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3621,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 05. Chương 16-20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3021,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 50. Chương 219- 223",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3001,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 51. Chương 224- 228",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3001,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 52. Chương 229- 233",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3041,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 53. Chương 234- 238",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/54.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3001,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 54. Chương 239- 243",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/55.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2941,
+    "title" : "Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 55. Chương 244- 248",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/56.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3141,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 56. Chương 249- 253",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/57.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3021,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 57. Chương 254- 258",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/58.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2661,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 58. Chương 259-262",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/59.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3161,
+    "title" : "Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 59. Chương 263- 267",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3361,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 06. Chương 21-24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/60.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3021,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 60. Chương 268- 272",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/61.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3021,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 61. Chương 273- 277",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/62.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2421,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 62. Chương 278- 281",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/63.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3141,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 63. Chương 282- 286",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/64.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3041,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 64. Chương 287- 291",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/65.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2961,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 65. Chương 292- 296",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/66.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2881,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 66. Chương 297-301",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/67.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3001,
+    "title" : "Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 67. Chương 302- 306",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/68.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2821,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 68. Chương 307- 311",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/69.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3021,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 69. Chương 312- 316",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3231,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 07. Chương 25-28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/70.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3061,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 70. Chương 317- 321",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/71.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2861,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 71. Chương 322- 326",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/72.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2941,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 72. Chương 327- 331",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/73.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2781,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 73. Chương 332- 336",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/74.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2861,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 74. Chương 337- 341",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/75.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2741,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 75. Chương 342- 346",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/76.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2961,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 76. Chương 347- 351",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/77.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2821,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 77. Chương 352- 356",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/78.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2781,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 78. Chương 357- 361",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/79.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2921,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 79. Chương 362- 366",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3781,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn . Tập 08. Chương 29-33",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/80.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2961,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 80. Chương 367- 371",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/81.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2841,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 81. Chương 372- 376",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/82.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2941,
+    "title" : "381",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2841,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 83. Chương 382- 386",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/84.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3081,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 84. Chương 387- 391",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/85.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3141,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 85. Chương 392- 396",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/86.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3221,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 86. Chương 397- 401",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/87.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3141,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 87. Chương 402- 406",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/88.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3401,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 88. Chương 407- 411",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/89.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3081,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 89. Chương 412- 416",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3481,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 09. Chương 34-37",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/90.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2941,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 90. Chương 417- 421",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/91.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2841,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 91. Chương 422- 426",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/92.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2941,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 92. Chương 427- 431",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/93.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3001,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 93. Chương 432- 436",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/94.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3101,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 94. Chương 437- 441",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/95.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2861,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 95. Chương 442- 446",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/96.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2861,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 96. Chương 447- 451",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/97.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2941,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 97. Chương 452- 456",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/98.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2981,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 98 || Chương 457- 461 || Bản dịch.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/99.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3021,
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 99 || Chương 462- 466 || Bản dịch.",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/1.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 01. Chương 1-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/10.mp3",
+    "title" : "Tam Thốn Nhân Gian. Tác giả Nhĩ Căn Tập 10. Chương 38-42",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/100.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 100 || Chương 467- 471 || Bản dịch.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/101.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 101 || Chương 472-476 || Bản dịch.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/102.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 102 || Chương 477- 481 || Bản dịch.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/103.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 103 || Chương 482- 486 || Bản dịch.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/104.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 104 || Chương 487- 491 || Bản dịch.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/105.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 105 || Chương 492- 496 || Bản dịch.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/106.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 106 || Chương 497- 501 || Bản dịch.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/107.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 107 || Chương 502-506 || Bản dịch.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/108.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 108 || Chương 507-511 || Bản dịch.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/109.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 109 || Chương 512- 516 || Bản dịch.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/11.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn Tập 11. Chương 43-47",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/110.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 110 || Chương 517- 521 || Bản dịch.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/111.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 111 || Chương 522- 526 || Bản dịch.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/112.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 112 || Chương 527- 531 || Bản dịch.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/113.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 113 || Chương 532-536 || Bản dịch.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/114.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 114 || Chương 537- 541 || Bản dịch.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/115.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 115 || Chương 542- 546 || Bản dịch.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/116.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 116 || Chương 547- 551|| Bản dịch.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/117.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 117 || Chương 552- 556 || Bản dịch.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/118.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 118 || Chương 557-561|| Bản dịch.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/119.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 119 || Chương 562- 566 || Bản dịch.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/12.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 12. Chương 48-51",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/120.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 120 || Chương 567-571 || Bản dịch.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/121.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 121 || Chương 572-576 || Bản dịch.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/122.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 122 || Chương 577-581 || Bản dịch.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/123.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 123 || Chương 582- 586 || Bản dịch.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/124.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 124 || Chương 587- 591 || Bản dịch.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/125.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 125 || Chương 592- 596 || Bản dịch.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/126.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 126 || Chương 597- 601 || Bản dịch.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/127.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 127 || Chương 602-606 || Bản dịch.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/128.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 128 || Chương 607- 611 || Bản dịch.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/129.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 129 || Chương 612- 616 || Bản dịch.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/13.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 13. Chương 53-56",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/130.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 130 || Chương 617- 621 || Bản dịch.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/131.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 131 || Chương 622- 626 || Bản dịch.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/132.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 132 || Chương 627- 631 || Bản dịch.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/133.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 133 || Chương 632- 636 || Bản dịch.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/134.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 134 || Chương 637- 641 || Bản dịch.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/135.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 135 || Chương 642-646 || Bản dịch.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/136.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 136 || Chương 647- 651 || Bản dịch.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/137.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 137 || Chương 652-656 || Bản dịch.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/138.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 138 || Chương 657- 661 || Bản dịch.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/139.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 139 || Chương 662- 666 || Bản dịch.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/14.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian.Tác giả Nhĩ Căn. Tập 14. Chương 57-61",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/140.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 140 || Chương 667- 671 || Bản dịch.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/141.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 141 || Chương 672- 676 || Bản dịch.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/142.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 142 || Chương 677- 681 || Bản dịch.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/143.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 143 || Chương 682- 686 || Bản dịch.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/144.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 144 || Chương 687- 691 || Bản dịch.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/145.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 145 || Chương 692- 696 || Bản dịch.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/146.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 146 || Chương 697- 701 || Bản dịch.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/147.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 147 || Chương 702- 706 || Bản dịch.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/148.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 148 || Chương 707- 711 || Bản dịch.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/149.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 149 || Chương 712- 716 || Bản dịch.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/15.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 15. Chương 62-65",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/150.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 150 || Chương 717- 721 || Bản dịch.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/151.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 151 || Chương 722- 726 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/152.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 152 || Chương 727- 731 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/153.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 153 || Chương 732- 736 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/154.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 154 || Chương 737- 741 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/155.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 155 || Chương 742- 746 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/156.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 156 || Chương 747- 751 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/157.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 157 || Chương 752- 756 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/158.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 158 || Chương 757- 761 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/159.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 159 || Chương 762- 766 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/16.mp3",
+    "title" : "Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 16. Chương 66- 70",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/160.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 160 || Chương 767-771 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/161.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 161 || Chương 772-776 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/162.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 162 || Chương 777- 781 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/163.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 163 || Chương 782- 786 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/164.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 164 || Chương 787- 791 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/165.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 165 || Chương 792-796 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/166.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 166 || Chương 797- 801 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/167.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 167 || Chương 802-806 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/168.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 168 || Chương 807-811 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/169.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 169 || Chương 812- 816 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/17.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 17. Chương 71-75",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/170.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 170 || Chương 817- 821 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/171.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 171 || Chương 822- 826 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/172.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 172 || Chương 827- 831 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/173.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 173 || Chương 832- 836 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/174.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 174 || Chương 837- 841 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/175.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 175 || Chương 842- 846 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/176.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 176 || Chương 847- 851 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/177.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 177|| Chương 852-856 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/178.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 178 || Chương 857- 861 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/179.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 179 || Chương 862- 866 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/18.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 18. Chương 76-80",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/180.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 180 || Chương 867- 871 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/181.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 181 || Chương 872- 876 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/182.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 182 || Chương 877- 881 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/183.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 183 || Chương 882-886 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/184.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 184 || Chương 887- 891 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/185.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 185 || Chương 892-896 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/186.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 186 || Chương 897- 901 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/187.mp3",
+    "title" : "Tập 187 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 902-906 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/188.mp3",
+    "title" : "Tập 188 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 907- 911 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/189.mp3",
+    "title" : "Tập 189 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 912- 916 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/19.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 19. Chương 82-86",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/190.mp3",
+    "title" : "Tập 190 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 917- 921 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/191.mp3",
+    "title" : "Tập 191|| Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 922- 926 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/192.mp3",
+    "title" : "Tập 192 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 927- 931|| Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/193.mp3",
+    "title" : "Tập 193 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 932- 936 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/194.mp3",
+    "title" : "Tập 194 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 937- 941 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/195.mp3",
+    "title" : "Tập 195 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 942- 946 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/196.mp3",
+    "title" : "Tập 196 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 947- 951 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/197.mp3",
+    "title" : "Tập 197 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 952- 956 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/198.mp3",
+    "title" : "Tập 198 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 957- 961 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/199.mp3",
+    "title" : "Tập 199 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 962- 967 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/2.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 02. Chương 4-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/20.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 20. Chương 87-91",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/200.mp3",
+    "title" : "Tập 200 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 967- 971 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/201.mp3",
+    "title" : "Tập 201 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 972- 976 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/202.mp3",
+    "title" : "Tập 202 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 977- 981 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/203.mp3",
+    "title" : "Tập 203 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 982- 986 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/204.mp3",
+    "title" : "Tập 204 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 987- 991 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/205.mp3",
+    "title" : "Tập 205 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 992- 996 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/206.mp3",
+    "title" : "Tập 206 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 997- 1001 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/207.mp3",
+    "title" : "Tập 207 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1002- 1006 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/208.mp3",
+    "title" : "Tập 208 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1007- 1011 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/209.mp3",
+    "title" : "Tập 209 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1012- 1016 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/21.mp3",
+    "title" : "Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 21. Chương 92-95",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/210.mp3",
+    "title" : "Tập 210 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1017- 1021 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/211.mp3",
+    "title" : "Tập 211 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1022- 1026 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/212.mp3",
+    "title" : "Tập 212 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1027- 1031 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/213.mp3",
+    "title" : "Tập 213 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1032- 1036 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/214.mp3",
+    "title" : "Tập 214 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1037- 1041 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/215.mp3",
+    "title" : "Tập 215 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1042- 1046 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/216.mp3",
+    "title" : "Tập 216 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 10427- 1051 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/217.mp3",
+    "title" : "Tập 217 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1052- 1056 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/218.mp3",
+    "title" : "Tập 218 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1057- 1061 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/219.mp3",
+    "title" : "Tập 219 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1062- 1067 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/22.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 22. Chương 96-100",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/220.mp3",
+    "title" : "Tập 220 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1067- 1071 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/221.mp3",
+    "title" : "Tập 221 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1072- 076 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/222.mp3",
+    "title" : "Tập 222 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1077- 1082 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/223.mp3",
+    "title" : "Tập 223 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1082- 1086 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/224.mp3",
+    "title" : "Tập 224 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1087- 1091 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/225.mp3",
+    "title" : "Tập 225 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1092- 1096 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/226.mp3",
+    "title" : "Tập 226 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1097- 1101 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/227.mp3",
+    "title" : "Tập 227 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1102- 1106 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/228.mp3",
+    "title" : "Tập 228 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1107- 1111 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/229.mp3",
+    "title" : "Tập 229 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1112- 1116 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/23.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 23. Chương 101-105",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/230.mp3",
+    "title" : "Tập 230 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1117- 1121 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/231.mp3",
+    "title" : "Tập 231 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1122- 1126 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/232.mp3",
+    "title" : "Tập 232 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1127- 1131 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/233.mp3",
+    "title" : "Tập 233 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1132- 1136 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/234.mp3",
+    "title" : "Tập 234 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1137- 1141 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/235.mp3",
+    "title" : "Tập 235 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1142- 1146 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/236.mp3",
+    "title" : "Tập 236 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1147- 1151 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/237.mp3",
+    "title" : "Tập 237 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1152- 1156 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/238.mp3",
+    "title" : "Tập 238 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1157- 1161 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/239.mp3",
+    "title" : "Tập 239 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1162- 1166 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/24.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 24. Chương 106-111",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/240.mp3",
+    "title" : "Tập 240 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1166- 1171 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/241.mp3",
+    "title" : "Tập 241 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1172- 1176 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/242.mp3",
+    "title" : "Tập 242 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1177- 1181 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/243.mp3",
+    "title" : "Tập 243 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1182- 1186 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/244.mp3",
+    "title" : "Tập 244 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1187- 1191 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/245.mp3",
+    "title" : "Tập 245 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1192- 1196 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/246.mp3",
+    "title" : "Tập 246 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1197- 1201 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/247.mp3",
+    "title" : "Tập 247 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1202- 1206 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/248.mp3",
+    "title" : "Tập 248 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1207- 1211 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/249.mp3",
+    "title" : "Tập 249 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1212- 1216 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/25.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 25. Chương 112-116",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/250.mp3",
+    "title" : "Tập 250 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1217- 1221 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/251.mp3",
+    "title" : "Tập 251 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1222- 1226 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/252.mp3",
+    "title" : "Tập 252 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1227- 1231 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/253.mp3",
+    "title" : "Tập 253 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1232- 1236 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/254.mp3",
+    "title" : "Tập 254 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1237- 1241 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/255.mp3",
+    "title" : "Tập 255 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1242- 1246 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/256.mp3",
+    "title" : "Tập 256 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1247- 1251 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/257.mp3",
+    "title" : "Tập 257 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1252- 1256 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/258.mp3",
+    "title" : "Tập 258 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1257- 1261 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/259.mp3",
+    "title" : "Tập 259 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1262- 1266 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/26.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 26. Chương 117-121",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/260.mp3",
+    "title" : "Tập 260 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1267- 1271 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/261.mp3",
+    "title" : "Tập 261 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1272- 1276 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/262.mp3",
+    "title" : "Tập 262 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1277- 1281 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/263.mp3",
+    "title" : "Tập 263 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1282- 1186 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/264.mp3",
+    "title" : "Tập 264 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1287- 1291 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/265.mp3",
+    "title" : "Tập 265 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1292- 1296 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/266.mp3",
+    "title" : "Tập 266 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1297- 1301 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/267.mp3",
+    "title" : "Tập 267 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1302- 1306 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/268.mp3",
+    "title" : "Tập 268 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1307- 1311 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/269.mp3",
+    "title" : "Tập 269 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1312- 1316 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/27.mp3",
+    "title" : "[Giọng đọc Tạ Hói]Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 27. Chương 122-125",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/270.mp3",
+    "title" : "Tập 270 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1317- 1321 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/271.mp3",
+    "title" : "Tập 271 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1322- 1326 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/272.mp3",
+    "title" : "Tập 272 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1327- 1331 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/273.mp3",
+    "title" : "Tập 273 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1332- 1336 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/274.mp3",
+    "title" : "Tập 274 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1337- 1341 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/275.mp3",
+    "title" : "Tập 275 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1342- 1346 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/276.mp3",
+    "title" : "Tập 276 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1347- 1351 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/277.mp3",
+    "title" : "Tập 277 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1352- 1356 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/278.mp3",
+    "title" : "Tập 278 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1357- 1361 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/279.mp3",
+    "title" : "Tập 279 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1362- 1367 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/28.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 28. Chương 126-129",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/280.mp3",
+    "title" : "Tập 280 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1367- 1371 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/281.mp3",
+    "title" : "Tập 281 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1372- 1377 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/282.mp3",
+    "title" : "Tập 282 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1378- 1383 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/283.mp3",
+    "title" : "Tập 283 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1384- 1390 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/284.mp3",
+    "title" : "Tập 284 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1391- 1396 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/285.mp3",
+    "title" : "Tập 285 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1397- 1402 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/286.mp3",
+    "title" : "Tập 286 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1403- 1409 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/287.mp3",
+    "title" : "Tập 287 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1410- 1415 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/288.mp3",
+    "title" : "Tập 288 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1416- 1422 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/289.mp3",
+    "title" : "Tập 289 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1423- 1429 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/29.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 29. Chương 130-133",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/290.mp3",
+    "title" : "Tập 290 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1430- 1436 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/291.mp3",
+    "title" : "Tập 291 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1437- 1444 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/292.mp3",
+    "title" : "Tập 292 || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1445- 1451 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/293.mp3",
+    "title" : "Tập 293- Hết || Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Chương 1452- 1457 || Bản dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/3.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 03. Chương 08-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/30.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 30. Chương 134-137",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/31.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 31.  Chương 138-141",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/32.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 32. Chương 142-145",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/33.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 33. Chương 146- 149",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/34.mp3",
+    "title" : "[Giọng đọc Tạ Hói]Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 34. Chương 150- 153",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/35.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 35. Chương 154- 157",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/36.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 36. Chương 158- 161",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/37.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 37. Chương 161- 165",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/38.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 38. Chương 166- 169",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/39.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 39. Chương 170- 174",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/4.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 04. Chương 12-16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/40.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 40. Chương 175- 178",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/41.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 41. Chương 179- 182",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/42.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 42. Chương 183- 186",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/43.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 43. Chương 187- 190",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/44.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 44. Chương 191- 194",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/45.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 45. Chương 195- 198",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/46.mp3",
+    "title" : "[Giọng đọc Tạ Hói]Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 46. Chương 199- 203",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/47.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 47. Chương 204- 208",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/48.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 48. Chương 199- 213",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/49.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 49. Chương 214- 218",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/5.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 05. Chương 16-20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/50.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 50. Chương 219- 223",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/51.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 51. Chương 224- 228",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/52.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 52. Chương 229- 233",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/53.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 53. Chương 234- 238",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/54.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 54. Chương 239- 243",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/55.mp3",
+    "title" : "Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 55. Chương 244- 248",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/56.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 56. Chương 249- 253",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/57.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 57. Chương 254- 258",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/58.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 58. Chương 259-262",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/59.mp3",
+    "title" : "Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 59. Chương 263- 267",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/6.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 06. Chương 21-24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/60.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 60. Chương 268- 272",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/61.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 61. Chương 273- 277",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/62.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 62. Chương 278- 281",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/63.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 63. Chương 282- 286",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/64.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 64. Chương 287- 291",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/65.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 65. Chương 292- 296",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/66.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 66. Chương 297-301",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/67.mp3",
+    "title" : "Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 67. Chương 302- 306",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/68.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 68. Chương 307- 311",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/69.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 69. Chương 312- 316",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/7.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 07. Chương 25-28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/70.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 70. Chương 317- 321",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/71.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 71. Chương 322- 326",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/72.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 72. Chương 327- 331",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/73.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 73. Chương 332- 336",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/74.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 74. Chương 337- 341",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/75.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 75. Chương 342- 346",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/76.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 76. Chương 347- 351",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/77.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 77. Chương 352- 356",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/78.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 78. Chương 357- 361",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/79.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 79. Chương 362- 366",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/8.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn . Tập 08. Chương 29-33",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/80.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 80. Chương 367- 371",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/81.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 81. Chương 372- 376",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/82.mp3",
+    "title" : "381",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/83.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 83. Chương 382- 386",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/84.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 84. Chương 387- 391",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/85.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 85. Chương 392- 396",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/86.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 86. Chương 397- 401",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/87.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 87. Chương 402- 406",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/88.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 88. Chương 407- 411",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/89.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 89. Chương 412- 416",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/9.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 09. Chương 34-37",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/90.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 90. Chương 417- 421",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/91.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 91. Chương 422- 426",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/92.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 92. Chương 427- 431",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/93.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 93. Chương 432- 436",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/94.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 94. Chương 437- 441",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/95.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 95. Chương 442- 446",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/96.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 96. Chương 447- 451",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/97.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian. Tác giả Nhĩ Căn. Tập 97. Chương 452- 456",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/98.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 98 || Chương 457- 461 || Bản dịch.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-thon-nhan-gian/99.mp3",
+    "title" : "[Giọng đọc Tạ Hói] Tam Thốn Nhân Gian || Tác giả Nhĩ Căn || Tập 99 || Chương 462- 466 || Bản dịch.",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

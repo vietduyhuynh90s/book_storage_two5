@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nguoi-trong-giang-ho_15085.html",
+    "title" : "Người Trong Giang Hồ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Khuyết Danh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 31111,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_3c56cf189ffd36525e67673453ba3528.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_3c56cf189ffd36525e67673453ba3528.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nguoi-trong-giang-ho/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2375,
+    "title" : "Tập 01 - Truyện ký xã hội cực hay do #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-trong-giang-ho/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2617,
+    "title" : "Tập 10 - Bãi Vàng Phước Sơn - Thiên Đường Để ...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-trong-giang-ho/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2828,
+    "title" : "Tập 11 HẾT - Vàng đổi người",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-trong-giang-ho/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3056,
+    "title" : "Tập 02 - Sơn Vương Trương Văn Thoại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-trong-giang-ho/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3346,
+    "title" : "Tập 03 - Lý Long Thân - Ông vua không ngai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-trong-giang-ho/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2748,
+    "title" : "Tập 04 - Đại CaThay - Cuộc đời một ông trùm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-trong-giang-ho/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2816,
+    "title" : "Tập 05 - Lâm Chín Ngón - Thời hai tay ba đao",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-trong-giang-ho/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2430,
+    "title" : "Tập 06 - Hổ dữ về già ...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-trong-giang-ho/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3500,
+    "title" : "Tập 07 - Hùm xám miền Trung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-trong-giang-ho/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3078,
+    "title" : "Tập 08 - Nhị Ca Mất Số",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-trong-giang-ho/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2317,
+    "title" : "Tập 09 - Hải Bánh - Chìa Khóa Của Địa Ngục",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nguoi-trong-giang-ho/1.mp3",
+    "title" : "Tập 01 - Truyện ký xã hội cực hay do #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-trong-giang-ho/10.mp3",
+    "title" : "Tập 10 - Bãi Vàng Phước Sơn - Thiên Đường Để ...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-trong-giang-ho/11.mp3",
+    "title" : "Tập 11 HẾT - Vàng đổi người",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-trong-giang-ho/2.mp3",
+    "title" : "Tập 02 - Sơn Vương Trương Văn Thoại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-trong-giang-ho/3.mp3",
+    "title" : "Tập 03 - Lý Long Thân - Ông vua không ngai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-trong-giang-ho/4.mp3",
+    "title" : "Tập 04 - Đại CaThay - Cuộc đời một ông trùm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-trong-giang-ho/5.mp3",
+    "title" : "Tập 05 - Lâm Chín Ngón - Thời hai tay ba đao",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-trong-giang-ho/6.mp3",
+    "title" : "Tập 06 - Hổ dữ về già ...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-trong-giang-ho/7.mp3",
+    "title" : "Tập 07 - Hùm xám miền Trung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-trong-giang-ho/8.mp3",
+    "title" : "Tập 08 - Nhị Ca Mất Số",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-trong-giang-ho/9.mp3",
+    "title" : "Tập 09 - Hải Bánh - Chìa Khóa Của Địa Ngục",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

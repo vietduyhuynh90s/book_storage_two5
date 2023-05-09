@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/mat-day-tam-den_15447.html",
+    "title" : "Mặt Dày Tâm Đen",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Chin-Ning Chu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 41516,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_8dfb475190193d8d98c161c974b4fa8e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_8dfb475190193d8d98c161c974b4fa8e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/mat-day-tam-den/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Kho Sách Nói | Mặt Dày Tâm Đen | Audio Books Dạy Kinh Doanh Làm Giàu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-day-tam-den/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Kho Sách Nói | Mặt Dày Tâm Đen | Audio Books Dạy Kinh Doanh Làm Giàu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-day-tam-den/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Kho Sách Nói | Mặt Dày Tâm Đen | Audio Books Dạy Kinh Doanh Làm Giàu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-day-tam-den/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Kho Sách Nói | Mặt Dày Tâm Đen | Audio Books Dạy Kinh Doanh Làm Giàu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-day-tam-den/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Kho Sách Nói | Mặt Dày Tâm Đen | Audio Books Dạy Kinh Doanh Làm Giàu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-day-tam-den/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5516,
+    "title" : "Kho Sách Nói | Mặt Dày Tâm Đen | Audio Books Dạy Kinh Doanh Làm Giàu",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/mat-day-tam-den/1.mp3",
+    "title" : "Kho Sách Nói | Mặt Dày Tâm Đen | Audio Books Dạy Kinh Doanh Làm Giàu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-day-tam-den/2.mp3",
+    "title" : "Kho Sách Nói | Mặt Dày Tâm Đen | Audio Books Dạy Kinh Doanh Làm Giàu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-day-tam-den/3.mp3",
+    "title" : "Kho Sách Nói | Mặt Dày Tâm Đen | Audio Books Dạy Kinh Doanh Làm Giàu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-day-tam-den/4.mp3",
+    "title" : "Kho Sách Nói | Mặt Dày Tâm Đen | Audio Books Dạy Kinh Doanh Làm Giàu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-day-tam-den/5.mp3",
+    "title" : "Kho Sách Nói | Mặt Dày Tâm Đen | Audio Books Dạy Kinh Doanh Làm Giàu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-day-tam-den/6.mp3",
+    "title" : "Kho Sách Nói | Mặt Dày Tâm Đen | Audio Books Dạy Kinh Doanh Làm Giàu",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

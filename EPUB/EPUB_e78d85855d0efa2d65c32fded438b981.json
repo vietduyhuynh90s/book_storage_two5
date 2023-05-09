@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ao-anh-biet-thu-quy_16076.html",
+    "title" : "Ảo Ảnh Biệt Thự Quỷ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Minh Hoàng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 18794,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_e78d85855d0efa2d65c32fded438b981.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_e78d85855d0efa2d65c32fded438b981.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ao-anh-biet-thu-quy/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3702,
+    "title" : "Truyện Ma Có Thật Nếu Sợn Xin Đừng Nghe Ngọc Lâm Kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ao-anh-biet-thu-quy/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4147,
+    "title" : "Truyện Ma Có Thật Nếu Sợn Xin Đừng Nghe Ngọc Lâm Kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ao-anh-biet-thu-quy/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3822,
+    "title" : "Truyện ma có thật siêu rợn Ngọc Lâm kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ao-anh-biet-thu-quy/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7123,
+    "title" : "Truyện ma có thật rợn Ngọc Lâm Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ao-anh-biet-thu-quy/1.mp3",
+    "title" : "Truyện Ma Có Thật Nếu Sợn Xin Đừng Nghe Ngọc Lâm Kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ao-anh-biet-thu-quy/2.mp3",
+    "title" : "Truyện Ma Có Thật Nếu Sợn Xin Đừng Nghe Ngọc Lâm Kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ao-anh-biet-thu-quy/3.mp3",
+    "title" : "Truyện ma có thật siêu rợn Ngọc Lâm kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ao-anh-biet-thu-quy/4.mp3",
+    "title" : "Truyện ma có thật rợn Ngọc Lâm Diễn Đọc",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

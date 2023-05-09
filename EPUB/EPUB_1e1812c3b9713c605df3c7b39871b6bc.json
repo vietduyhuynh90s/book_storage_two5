@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/shock-tinh-kawi_10181.html",
+    "title" : "Shock Tình - Kawi",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Kawi",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 40451,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_1e1812c3b9713c605df3c7b39871b6bc.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_1e1812c3b9713c605df3c7b39871b6bc.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/shocktinh_201903/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5372,
+    "title" : "Truyện ngôn tình Teen cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/shocktinh_201903/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6003,
+    "title" : "SỐC TÌNH [Phần 2] – Kawi – Truyện ngôn tình teen hay nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/shocktinh_201903/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6127,
+    "title" : "Truyện ngôn tình hay nhất 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/shocktinh_201903/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6432,
+    "title" : "Kawi - Audio ngôn tình hot nhất 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/shocktinh_201903/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5167,
+    "title" : "SỐC TÌNH [Phần 5] – Kawi – Truyện ngôn tình teen hay và cảm động nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/shocktinh_201903/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5704,
+    "title" : "Kawi - Truyện ngôn tình hot nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/shocktinh_201903/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5646,
+    "title" : "Truyện ngôn tình đừng bỏ lỡ!",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/shocktinh_201903/1.mp3",
+    "title" : "Truyện ngôn tình Teen cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/shocktinh_201903/2.mp3",
+    "title" : "SỐC TÌNH [Phần 2] – Kawi – Truyện ngôn tình teen hay nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/shocktinh_201903/3.mp3",
+    "title" : "Truyện ngôn tình hay nhất 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/shocktinh_201903/4.mp3",
+    "title" : "Kawi - Audio ngôn tình hot nhất 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/shocktinh_201903/5.mp3",
+    "title" : "SỐC TÌNH [Phần 5] – Kawi – Truyện ngôn tình teen hay và cảm động nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/shocktinh_201903/6.mp3",
+    "title" : "Kawi - Truyện ngôn tình hot nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/shocktinh_201903/7.mp3",
+    "title" : "Truyện ngôn tình đừng bỏ lỡ!",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

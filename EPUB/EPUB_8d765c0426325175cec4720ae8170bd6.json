@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/may-khong-di-anh-vac-may-di_12143.html",
+    "title" : "Mày Không Đi Anh Vác Mày Đi",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Vân Jibi",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 61562,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_8d765c0426325175cec4720ae8170bd6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_8d765c0426325175cec4720ae8170bd6.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/may_khong_di_anh_vac_may_di/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9826,
+    "title" : "Truyện Ngắn Tình Yêu Cực Hay 2018 | Kim Thanh 3S",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/may_khong_di_anh_vac_may_di/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7310,
+    "title" : "Mày Không Đi Anh Vác Mày Đi [Tập 2] Giọng Đọc Chọn Lọc | Truyện Ngắn Hay | Kim Thanh 3S",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/may_khong_di_anh_vac_may_di/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9766,
+    "title" : "Mày Không Đi Anh Vác Mày Đi [Tập 3] Đọc Truyện Ngắn Hay Tuyển Chọn | Kim Thanh 3S",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/may_khong_di_anh_vac_may_di/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11454,
+    "title" : "Mày Không Đi Anh Vác Mày Đi [Tập 4] Truyện Ngắn Hay Nhất Về Tình Yêu | Kim Thanh 3S",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/may_khong_di_anh_vac_may_di/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 13061,
+    "title" : "Mày Không Đi Anh Vác Mày Đi [Tập 5] Truyện Ngắn Cực Hay và Lãng Mạn | Kim Thanh 3S",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/may_khong_di_anh_vac_may_di/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10145,
+    "title" : "Phần Cuối | Truyện Ngắn Hay | Kim Thanh 3S",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/may_khong_di_anh_vac_may_di/1.mp3",
+    "title" : "Truyện Ngắn Tình Yêu Cực Hay 2018 | Kim Thanh 3S",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/may_khong_di_anh_vac_may_di/2.mp3",
+    "title" : "Mày Không Đi Anh Vác Mày Đi [Tập 2] Giọng Đọc Chọn Lọc | Truyện Ngắn Hay | Kim Thanh 3S",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/may_khong_di_anh_vac_may_di/3.mp3",
+    "title" : "Mày Không Đi Anh Vác Mày Đi [Tập 3] Đọc Truyện Ngắn Hay Tuyển Chọn | Kim Thanh 3S",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/may_khong_di_anh_vac_may_di/4.mp3",
+    "title" : "Mày Không Đi Anh Vác Mày Đi [Tập 4] Truyện Ngắn Hay Nhất Về Tình Yêu | Kim Thanh 3S",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/may_khong_di_anh_vac_may_di/5.mp3",
+    "title" : "Mày Không Đi Anh Vác Mày Đi [Tập 5] Truyện Ngắn Cực Hay và Lãng Mạn | Kim Thanh 3S",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/may_khong_di_anh_vac_may_di/6.mp3",
+    "title" : "Phần Cuối | Truyện Ngắn Hay | Kim Thanh 3S",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

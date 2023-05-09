@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ket-thuc-ban-hang-don-quyet-dinh-brian-tracy_10548.html",
+    "title" : "Kết Thúc Bán Hàng: Đòn Quyết Định - Brian Tracy",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Brian Tracy",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 17240,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_28a44be1848f768a699be368260eccea.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_28a44be1848f768a699be368260eccea.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ket-thuc-ban-hang-don-quyet-dinh/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2090,
+    "title" : "01.Phat Trien Kha Nang BH Thuyet Phuc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ket-thuc-ban-hang-don-quyet-dinh/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2225,
+    "title" : "02.Phat Trien Kha Nang BH Thuyet Phuc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ket-thuc-ban-hang-don-quyet-dinh/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2345,
+    "title" : "03.Yeu To Tam Ly Trong Ket Thuc Ban Hang",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ket-thuc-ban-hang-don-quyet-dinh/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2085,
+    "title" : "04. Xu Ly Loi Tu Choi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ket-thuc-ban-hang-don-quyet-dinh/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2625,
+    "title" : "05.Nam Vung Thu Thuat Ket Thuc 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ket-thuc-ban-hang-don-quyet-dinh/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3005,
+    "title" : "06.Nam Vung Thu Thuat Ket Thuc 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ket-thuc-ban-hang-don-quyet-dinh/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2865,
+    "title" : "07.Gap Doi Nang Suat Gap Doi Thu Nhap",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ket-thuc-ban-hang-don-quyet-dinh/1.mp3",
+    "title" : "01.Phat Trien Kha Nang BH Thuyet Phuc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ket-thuc-ban-hang-don-quyet-dinh/2.mp3",
+    "title" : "02.Phat Trien Kha Nang BH Thuyet Phuc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ket-thuc-ban-hang-don-quyet-dinh/3.mp3",
+    "title" : "03.Yeu To Tam Ly Trong Ket Thuc Ban Hang",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ket-thuc-ban-hang-don-quyet-dinh/4.mp3",
+    "title" : "04. Xu Ly Loi Tu Choi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ket-thuc-ban-hang-don-quyet-dinh/5.mp3",
+    "title" : "05.Nam Vung Thu Thuat Ket Thuc 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ket-thuc-ban-hang-don-quyet-dinh/6.mp3",
+    "title" : "06.Nam Vung Thu Thuat Ket Thuc 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ket-thuc-ban-hang-don-quyet-dinh/7.mp3",
+    "title" : "07.Gap Doi Nang Suat Gap Doi Thu Nhap",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

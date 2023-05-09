@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/xau-phi_13304.html",
+    "title" : "Xấu Phi",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trinh Tử",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 15971,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_0deddf1b50e775192d4f3b60462c7635.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_0deddf1b50e775192d4f3b60462c7635.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/xau-phi/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8428,
+    "title" : "TRUYỆN NGÔN TÌNH CỔ ĐẠI CUNG ĐẤU THÚ VỊ - MC HUỆ LEO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xau-phi/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7543,
+    "title" : "TRUYỆN NGÔN TÌNH CỔ ĐẠI CUNG ĐẤU THÚ VỊ - MC HUỆ LEO",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/xau-phi/1.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH CỔ ĐẠI CUNG ĐẤU THÚ VỊ - MC HUỆ LEO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xau-phi/2.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH CỔ ĐẠI CUNG ĐẤU THÚ VỊ - MC HUỆ LEO",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

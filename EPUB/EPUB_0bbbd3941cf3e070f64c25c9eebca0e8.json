@@ -1,0 +1,521 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/sac-dep-kho-cuong_12170.html",
+    "title" : "Sắc Đẹp Khó Cưỡng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thánh yêu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 273976,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_0bbbd3941cf3e070f64c25c9eebca0e8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_0bbbd3941cf3e070f64c25c9eebca0e8.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5120,
+    "title" : "SẮC ĐẸP HỒNG NHAN [Tập 1] | Truyện Ngôn Tình Hay Nhất Gặp Lại Tình Nhân | Tuyệt Phẩm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6527,
+    "title" : "Đòi Lại Công Bằng | Truyện Ngôn Tình Hay Nhất SẮC ĐẸP HỒNG NHAN [Tập 10] | MC Vị Hy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6293,
+    "title" : "Tìm Em Trong Đêm | Truyện Ngôn Tình SẮC ĐẸP HỒNG NHAN Hay Nhất [Tập 11] | MC Vị Hy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5889,
+    "title" : "Cô Vợ Ngốc Nghếch | Truyện Ngôn Tình Hay Nhất Sắc Đẹp Hồng Nhan [Tập 12] | MC Vị Hy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7032,
+    "title" : "Căn Phòng Ảo Mộng | Truyện Ngôn Tình SẮC ĐẸP HỒNG NHAN [Tập 13] | NATNT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6208,
+    "title" : "[SIÊU PHẨM] Lời Tỏ Tình Qua Điện Thoại | Truyện Ngôn Tình Sắc Đẹp Hồng Nhan [Tập 14] #MC Vị Hy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6583,
+    "title" : "[HAY LẮM NHA] Người Quan Trọng Nhất Là Anh | Truyện Ngôn Tình Sắc Đẹp Hồng Nhan [Tập 15] | MC Vị Hy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6681,
+    "title" : "Trái Tim Anh Có Em | Truyện Ngôn Tình Sắc Đẹp Hồng Nhan [Tập 16] #Vihy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7425,
+    "title" : "Khóa Chặt Trái Tim Em | Truyện Ngôn Tình SẮC ĐẸP HỒNG NHAN Hay Lắm [Tập 17] | MC Vị Hy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7402,
+    "title" : "Đối Thủ Trong Tình Yêu | Truyện Ngôn Tình Sắc Đẹp Hồng Nhan [Tập 18] | MC Vị Hy Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7607,
+    "title" : "💘 Chỉ Cần Em Yêu Anh | Truyện Ngôn Tình SẮC ĐẸP HỒNG NHAN [Tập 19] | MC Vị Hy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4835,
+    "title" : "SẮC ĐẸP HỒNG NHAN [Tập 2] | Truyện Ngôn Tình Hay Phụ Nữ Không Nên Đùa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7305,
+    "title" : "Sắp Xếp Người Thứ Ba | Truyện Ngôn Tình Sắc Đẹp Hồng Nhan Hay Nhất [Tập 20] | MC Vị Hy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7360,
+    "title" : "Ấm Áp Là Nơi Có Anh | Truyện Ngôn Tình Sắc Đẹp Hồng Nhan [Tập 21] | Mc Vị Hy Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9023,
+    "title" : "Dấu Chấm Hết Của Cuộc Tình | Truyện Ngôn Tình Sắc Đẹp Hồng Nhan [Tập 22] | MC Vị Hy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7867,
+    "title" : "Bảo Bối Của Anh | Truyện Ngôn Tình Hiện Đại Hay Nhất Sắc Đẹp Hồng Nhan [Tập 23] | MC Vị Hy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8568,
+    "title" : "Ông Xã Ngọt Ngào | Truyện Ngôn Tình Sắc Đẹp Hồng Nhan [Tập 24] | MC Vị Hy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8329,
+    "title" : "Luôn Ở Trong Tim | Truyện Ngôn Tình Nhiều Cảm Xúc Sắc Đẹp Hồng Nhan [Tập 25] | MC Vị Hy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8345,
+    "title" : "Thế Giới Trở Nên Bừng Sáng | Truyện Ngôn Tình Sắc Đẹp Hồng Nhan [Tập 26] | MC Vị Hy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8755,
+    "title" : "Món Quà Đặc Biệt | Truyện Ngôn Tình Sắc Đẹp Hồng Nhan [Tập 27] | MC Vị Hy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8238,
+    "title" : "Trả Lại Tình Yêu Cho Anh | Truyện Ngôn Tình Sắc Đẹp Hồng Nhan Hay Và Ý Nghĩa [Tập 28] | Vị Hy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8121,
+    "title" : "Hình Bóng Người Yêu Cũ | Truyện Ngôn Tình Hay Sắc Đẹp Hồng Nhan [Tập 29] | MC Vị Hy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5155,
+    "title" : "SẮC ĐẸP HỒNG NHAN [Tập 3] | Người Anh Thương Nhất Câu Chuyện Ngôn Tình Hay | MC Vị Hy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7711,
+    "title" : "Tình Yêu Lạnh Lùng Của Anh | Truyện Ngôn Tình Sắc Đẹp Hồng Nhan [Tập 30] | MC Vị Hy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7831,
+    "title" : "Nối Dài Những Ước Mơ | Truyện Ngôn Tình Sắc Đẹp Hồng Nhan Hay Nhất 2019 | MC Vị Hy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7922,
+    "title" : "Anh Sẽ Chờ Em Quay Về | Truyện Ngôn Tình Sắc Đẹp Hồng Nhan [Tập 32] | MC Vị Hy Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7525,
+    "title" : "Đám Cưới Cô Vợ Hờ | Truyện Ngôn Tình Sắc Đẹp Hồng Nhan Hay Nhất 2019 [Tập 33] | MC Vị Hy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8008,
+    "title" : "Gặp Lại Người Từng Quen | Truyện Ngôn Tình Hay 2019 Sắc Đẹp Hồng Nhan [Tập 34] | MC Vị Hy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7552,
+    "title" : "Chỗ Dựa Cuối Cùng | Truyện Ngôn Tình Hay Và Ý Nghĩa Sắc Đẹp Hồng Nhan [Tập 35] | MC Vị Hy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3903,
+    "title" : "Người Bên Cạnh Là Ai [Tập 36] | Truyện Ngôn Tình Sắc Đẹp Hồng Nhan | MC Vị Hy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6295,
+    "title" : "Danh Dự & Tình Yêu | Truyện Ngôn Tình Hiện Đại Hay Nhất Sắc Đẹp Hồng Nhan [Tập 37] | MC Vị Hy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5819,
+    "title" : "Cả Nhà Đoàn Tụ [Tập 38] | Truyện Ngôn Tình Hay Nhất 2019 Sắc Đẹp Hồng Nhan | MC Vị Hy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6896,
+    "title" : "Tổng Tài Nghe Lời Vợ [Tập 39] | Truyện Ngôn Tình Sắc Đẹp Hồng Nhan | Mc Vị Hy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5273,
+    "title" : "[HAY TUYỆT] Náo Loạn Đêm Giao Thừa | Truyện Ngôn Tình SẮC ĐẸP HỒNG NHAN [Tập 4] | MC Vị Hy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6939,
+    "title" : "Đẳng Cấp Hôn Lễ Tổng Tài [Tập Cuối] | Truyện Ngôn Tình Sắc Đẹp Hồng Nhan | MC Vị Hy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5397,
+    "title" : "Tâm Sự Giấu Kín | Truyện Ngôn Tình 2019 SẮC ĐẸP HỒNG NHAN [Tập 5] | MC Vị Hy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4730,
+    "title" : "[Siêu Phẩm] Người Bạn Gái Đầu Tiên | Truyện Ngôn Tình 2019 SẮC ĐẸP HỒNG NHAN [ Tập 6]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5442,
+    "title" : "Mong Gặp Được Anh | Truyện Ngôn Tình Hay Nhất 2019 SẮC ĐẸP HỒNG NHAN [Tập 7] | MC Vị Hy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5608,
+    "title" : "Người Yêu Kết Hôn | Tuyệt Phẩm Truyện Ngôn Tình 2019 SẮC ĐẸP HỒNG NHAN [Tập 8]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6457,
+    "title" : "Lời Tỏ Tình Bất Thành | Truyện Ngôn Tình Cảm Động 2019 SẮC ĐẸP HỒNG NHAN [Tập 9] | MC Vị Hy",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/1.mp3",
+    "title" : "SẮC ĐẸP HỒNG NHAN [Tập 1] | Truyện Ngôn Tình Hay Nhất Gặp Lại Tình Nhân | Tuyệt Phẩm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/10.mp3",
+    "title" : "Đòi Lại Công Bằng | Truyện Ngôn Tình Hay Nhất SẮC ĐẸP HỒNG NHAN [Tập 10] | MC Vị Hy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/11.mp3",
+    "title" : "Tìm Em Trong Đêm | Truyện Ngôn Tình SẮC ĐẸP HỒNG NHAN Hay Nhất [Tập 11] | MC Vị Hy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/12.mp3",
+    "title" : "Cô Vợ Ngốc Nghếch | Truyện Ngôn Tình Hay Nhất Sắc Đẹp Hồng Nhan [Tập 12] | MC Vị Hy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/13.mp3",
+    "title" : "Căn Phòng Ảo Mộng | Truyện Ngôn Tình SẮC ĐẸP HỒNG NHAN [Tập 13] | NATNT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/14.mp3",
+    "title" : "[SIÊU PHẨM] Lời Tỏ Tình Qua Điện Thoại | Truyện Ngôn Tình Sắc Đẹp Hồng Nhan [Tập 14] #MC Vị Hy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/15.mp3",
+    "title" : "[HAY LẮM NHA] Người Quan Trọng Nhất Là Anh | Truyện Ngôn Tình Sắc Đẹp Hồng Nhan [Tập 15] | MC Vị Hy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/16.mp3",
+    "title" : "Trái Tim Anh Có Em | Truyện Ngôn Tình Sắc Đẹp Hồng Nhan [Tập 16] #Vihy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/17.mp3",
+    "title" : "Khóa Chặt Trái Tim Em | Truyện Ngôn Tình SẮC ĐẸP HỒNG NHAN Hay Lắm [Tập 17] | MC Vị Hy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/18.mp3",
+    "title" : "Đối Thủ Trong Tình Yêu | Truyện Ngôn Tình Sắc Đẹp Hồng Nhan [Tập 18] | MC Vị Hy Diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/19.mp3",
+    "title" : "💘 Chỉ Cần Em Yêu Anh | Truyện Ngôn Tình SẮC ĐẸP HỒNG NHAN [Tập 19] | MC Vị Hy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/2.mp3",
+    "title" : "SẮC ĐẸP HỒNG NHAN [Tập 2] | Truyện Ngôn Tình Hay Phụ Nữ Không Nên Đùa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/20.mp3",
+    "title" : "Sắp Xếp Người Thứ Ba | Truyện Ngôn Tình Sắc Đẹp Hồng Nhan Hay Nhất [Tập 20] | MC Vị Hy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/21.mp3",
+    "title" : "Ấm Áp Là Nơi Có Anh | Truyện Ngôn Tình Sắc Đẹp Hồng Nhan [Tập 21] | Mc Vị Hy Diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/22.mp3",
+    "title" : "Dấu Chấm Hết Của Cuộc Tình | Truyện Ngôn Tình Sắc Đẹp Hồng Nhan [Tập 22] | MC Vị Hy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/23.mp3",
+    "title" : "Bảo Bối Của Anh | Truyện Ngôn Tình Hiện Đại Hay Nhất Sắc Đẹp Hồng Nhan [Tập 23] | MC Vị Hy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/24.mp3",
+    "title" : "Ông Xã Ngọt Ngào | Truyện Ngôn Tình Sắc Đẹp Hồng Nhan [Tập 24] | MC Vị Hy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/25.mp3",
+    "title" : "Luôn Ở Trong Tim | Truyện Ngôn Tình Nhiều Cảm Xúc Sắc Đẹp Hồng Nhan [Tập 25] | MC Vị Hy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/26.mp3",
+    "title" : "Thế Giới Trở Nên Bừng Sáng | Truyện Ngôn Tình Sắc Đẹp Hồng Nhan [Tập 26] | MC Vị Hy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/27.mp3",
+    "title" : "Món Quà Đặc Biệt | Truyện Ngôn Tình Sắc Đẹp Hồng Nhan [Tập 27] | MC Vị Hy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/28.mp3",
+    "title" : "Trả Lại Tình Yêu Cho Anh | Truyện Ngôn Tình Sắc Đẹp Hồng Nhan Hay Và Ý Nghĩa [Tập 28] | Vị Hy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/29.mp3",
+    "title" : "Hình Bóng Người Yêu Cũ | Truyện Ngôn Tình Hay Sắc Đẹp Hồng Nhan [Tập 29] | MC Vị Hy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/3.mp3",
+    "title" : "SẮC ĐẸP HỒNG NHAN [Tập 3] | Người Anh Thương Nhất Câu Chuyện Ngôn Tình Hay | MC Vị Hy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/30.mp3",
+    "title" : "Tình Yêu Lạnh Lùng Của Anh | Truyện Ngôn Tình Sắc Đẹp Hồng Nhan [Tập 30] | MC Vị Hy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/31.mp3",
+    "title" : "Nối Dài Những Ước Mơ | Truyện Ngôn Tình Sắc Đẹp Hồng Nhan Hay Nhất 2019 | MC Vị Hy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/32.mp3",
+    "title" : "Anh Sẽ Chờ Em Quay Về | Truyện Ngôn Tình Sắc Đẹp Hồng Nhan [Tập 32] | MC Vị Hy Diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/33.mp3",
+    "title" : "Đám Cưới Cô Vợ Hờ | Truyện Ngôn Tình Sắc Đẹp Hồng Nhan Hay Nhất 2019 [Tập 33] | MC Vị Hy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/34.mp3",
+    "title" : "Gặp Lại Người Từng Quen | Truyện Ngôn Tình Hay 2019 Sắc Đẹp Hồng Nhan [Tập 34] | MC Vị Hy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/35.mp3",
+    "title" : "Chỗ Dựa Cuối Cùng | Truyện Ngôn Tình Hay Và Ý Nghĩa Sắc Đẹp Hồng Nhan [Tập 35] | MC Vị Hy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/36.mp3",
+    "title" : "Người Bên Cạnh Là Ai [Tập 36] | Truyện Ngôn Tình Sắc Đẹp Hồng Nhan | MC Vị Hy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/37.mp3",
+    "title" : "Danh Dự & Tình Yêu | Truyện Ngôn Tình Hiện Đại Hay Nhất Sắc Đẹp Hồng Nhan [Tập 37] | MC Vị Hy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/38.mp3",
+    "title" : "Cả Nhà Đoàn Tụ [Tập 38] | Truyện Ngôn Tình Hay Nhất 2019 Sắc Đẹp Hồng Nhan | MC Vị Hy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/39.mp3",
+    "title" : "Tổng Tài Nghe Lời Vợ [Tập 39] | Truyện Ngôn Tình Sắc Đẹp Hồng Nhan | Mc Vị Hy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/4.mp3",
+    "title" : "[HAY TUYỆT] Náo Loạn Đêm Giao Thừa | Truyện Ngôn Tình SẮC ĐẸP HỒNG NHAN [Tập 4] | MC Vị Hy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/40.mp3",
+    "title" : "Đẳng Cấp Hôn Lễ Tổng Tài [Tập Cuối] | Truyện Ngôn Tình Sắc Đẹp Hồng Nhan | MC Vị Hy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/5.mp3",
+    "title" : "Tâm Sự Giấu Kín | Truyện Ngôn Tình 2019 SẮC ĐẸP HỒNG NHAN [Tập 5] | MC Vị Hy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/6.mp3",
+    "title" : "[Siêu Phẩm] Người Bạn Gái Đầu Tiên | Truyện Ngôn Tình 2019 SẮC ĐẸP HỒNG NHAN [ Tập 6]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/7.mp3",
+    "title" : "Mong Gặp Được Anh | Truyện Ngôn Tình Hay Nhất 2019 SẮC ĐẸP HỒNG NHAN [Tập 7] | MC Vị Hy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/8.mp3",
+    "title" : "Người Yêu Kết Hôn | Tuyệt Phẩm Truyện Ngôn Tình 2019 SẮC ĐẸP HỒNG NHAN [Tập 8]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sac-dep-kho-cuong/9.mp3",
+    "title" : "Lời Tỏ Tình Bất Thành | Truyện Ngôn Tình Cảm Động 2019 SẮC ĐẸP HỒNG NHAN [Tập 9] | MC Vị Hy",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,365 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bay-nang-dau-nang-dau-thu-7-nha-ho-hoang_15645.html",
+    "title" : "Bảy Nàng Dâu (Nàng Dâu Thứ 7 Nhà Họ Hoàng)",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thiên Yết",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 89199,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_b62471d043afe131e681c965d82c748a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_b62471d043afe131e681c965d82c748a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bay-nang-dau_202010/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3258,
+    "title" : "Truyện ma mới nhất 2020 TG Thiên Yết Mc Đình Soạn Kể Sợ & Hãi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bay-nang-dau_202010/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3226,
+    "title" : "Tập 10] Bảy Nàng Dâu - Truyện ma mới nhất 2020 TG Thiên Yết Mc Đình Soạn Kể Sợ Thật",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bay-nang-dau_202010/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3033,
+    "title" : "Tập 11] Bảy Nàng Dâu - Truyện ma mới nhất 2020 TG Thiên Yết Mc Đình Soạn Kể Sợ Thật",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bay-nang-dau_202010/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3484,
+    "title" : "Tập 12] Bảy Nàng Dâu - Truyện ma mới nhất 2020 TG Thiên Yết Mc Đình Soạn Kể Sợ & Hãi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bay-nang-dau_202010/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3165,
+    "title" : "Tập 13] Bảy Nàng Dâu - Truyện ma mới nhất 2020 TG Thiên Yết Mc Đình Soạn Kể Sợ & Hãi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bay-nang-dau_202010/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3115,
+    "title" : "Tập 14] Bảy Nàng Dâu - Truyện ma mới nhất 2020 TG Thiên Yết Mc Đình Soạn Kể Sợ Thật",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bay-nang-dau_202010/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3107,
+    "title" : "Tập 15] Bảy Nàng Dâu - Truyện ma mới nhất 2020 TG Thiên Yết Mc Đình Soạn Kể Sợ Thật",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bay-nang-dau_202010/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3191,
+    "title" : "Tập 16] Bảy Nàng Dâu - Truyện ma mới nhất 2020 TG Thiên Yết Mc Đình Soạn Kể Sợ & Hãi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bay-nang-dau_202010/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3034,
+    "title" : "Tập 17] Bảy Nàng Dâu - Truyện ma mới nhất 2020 TG Thiên Yết Mc Đình Soạn Kể Sợ Thật",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bay-nang-dau_202010/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3202,
+    "title" : "Truyện ma mới nhất 2020 TG Thiên Yết Mc Đình Soạn Kể Sợ Thật",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bay-nang-dau_202010/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3114,
+    "title" : "Tập 19] Bảy Nàng Dâu - Truyện ma mới nhất 2020 TG Thiên Yết Mc Đình Soạn Kể Sợ Thật",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bay-nang-dau_202010/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3390,
+    "title" : "Tập 2] Bảy Nàng Dâu - Truyện ma mới nhất 2020 TG Thiên Yết Mc Đình Soạn Kể Sợ & Hãi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bay-nang-dau_202010/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3324,
+    "title" : "Tập 20] Bảy Nàng Dâu - Truyện ma mới nhất 2020 TG Thiên Yết Mc Đình Soạn Kể Sợ Thật",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bay-nang-dau_202010/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3361,
+    "title" : "Tập 21] Bảy Nàng Dâu - Truyện ma mới nhất 2020 TG Thiên Yết Mc Đình Soạn Kể Sợ Thật",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bay-nang-dau_202010/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3191,
+    "title" : "Tập 22] Bảy Nàng Dâu - Truyện ma mới nhất 2020 TG Thiên Yết Mc Đình Soạn Kể Sợ Thật",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bay-nang-dau_202010/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3349,
+    "title" : "Tập 23] Bảy Nàng Dâu - Truyện ma mới nhất 2020 TG Thiên Yết Mc Đình Soạn Kể Sợ Thật",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bay-nang-dau_202010/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3339,
+    "title" : "Tập 24] Bảy Nàng Dâu - Truyện ma mới nhất 2020 TG Thiên Yết Mc Đình Soạn Kể Sợ Thật",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bay-nang-dau_202010/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3153,
+    "title" : "Truyện ma mới nhất 2020 TG Thiên Yết Mc Đình Soạn Kể Sợ Thật",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bay-nang-dau_202010/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3254,
+    "title" : "Tập 26] Bảy Nàng Dâu - Truyện ma mới nhất 2020 TG Thiên Yết Mc Đình Soạn Kể Sợ Thật",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bay-nang-dau_202010/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5035,
+    "title" : "Tập 27 Kết] Bảy Nàng Dâu - Truyện ma mới nhất 2020 TG Thiên Yết Mc Đình Soạn Kể Sợ Thật",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bay-nang-dau_202010/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3270,
+    "title" : "Tập 3] Bảy Nàng Dâu - Truyện ma mới nhất 2020 TG Thiên Yết Mc Đình Soạn Kể Sợ & Hãi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bay-nang-dau_202010/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3305,
+    "title" : "Tập 4] Bảy Nàng Dâu - Truyện ma mới nhất 2020 TG Thiên Yết Mc Đình Soạn Kể Sợ & Hãi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bay-nang-dau_202010/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3258,
+    "title" : "Tập 5] Bảy Nàng Dâu - Truyện ma mới nhất 2020 TG Thiên Yết Mc Đình Soạn Kể Sợ Lắm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bay-nang-dau_202010/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3225,
+    "title" : "Tập 6] Bảy Nàng Dâu - Truyện ma mới nhất 2020 TG Thiên Yết Mc Đình Soạn Kể Sợ Thật",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bay-nang-dau_202010/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3217,
+    "title" : "Tập 7] Bảy Nàng Dâu - Truyện ma mới nhất 2020 TG Thiên Yết Mc Đình Soạn Kể Sợ Thật",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bay-nang-dau_202010/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3390,
+    "title" : "Tập 8] Bảy Nàng Dâu - Truyện ma mới nhất 2020 TG Thiên Yết Mc Đình Soạn Kể Sợ Thật",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bay-nang-dau_202010/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3209,
+    "title" : "Tập 9] Bảy Nàng Dâu - Truyện ma mới nhất 2020 TG Thiên Yết Mc Đình Soạn Kể Sợ Thật",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bay-nang-dau_202010/1.mp3",
+    "title" : "Truyện ma mới nhất 2020 TG Thiên Yết Mc Đình Soạn Kể Sợ & Hãi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bay-nang-dau_202010/10.mp3",
+    "title" : "Tập 10] Bảy Nàng Dâu - Truyện ma mới nhất 2020 TG Thiên Yết Mc Đình Soạn Kể Sợ Thật",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bay-nang-dau_202010/11.mp3",
+    "title" : "Tập 11] Bảy Nàng Dâu - Truyện ma mới nhất 2020 TG Thiên Yết Mc Đình Soạn Kể Sợ Thật",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bay-nang-dau_202010/12.mp3",
+    "title" : "Tập 12] Bảy Nàng Dâu - Truyện ma mới nhất 2020 TG Thiên Yết Mc Đình Soạn Kể Sợ & Hãi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bay-nang-dau_202010/13.mp3",
+    "title" : "Tập 13] Bảy Nàng Dâu - Truyện ma mới nhất 2020 TG Thiên Yết Mc Đình Soạn Kể Sợ & Hãi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bay-nang-dau_202010/14.mp3",
+    "title" : "Tập 14] Bảy Nàng Dâu - Truyện ma mới nhất 2020 TG Thiên Yết Mc Đình Soạn Kể Sợ Thật",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bay-nang-dau_202010/15.mp3",
+    "title" : "Tập 15] Bảy Nàng Dâu - Truyện ma mới nhất 2020 TG Thiên Yết Mc Đình Soạn Kể Sợ Thật",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bay-nang-dau_202010/16.mp3",
+    "title" : "Tập 16] Bảy Nàng Dâu - Truyện ma mới nhất 2020 TG Thiên Yết Mc Đình Soạn Kể Sợ & Hãi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bay-nang-dau_202010/17.mp3",
+    "title" : "Tập 17] Bảy Nàng Dâu - Truyện ma mới nhất 2020 TG Thiên Yết Mc Đình Soạn Kể Sợ Thật",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bay-nang-dau_202010/18.mp3",
+    "title" : "Truyện ma mới nhất 2020 TG Thiên Yết Mc Đình Soạn Kể Sợ Thật",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bay-nang-dau_202010/19.mp3",
+    "title" : "Tập 19] Bảy Nàng Dâu - Truyện ma mới nhất 2020 TG Thiên Yết Mc Đình Soạn Kể Sợ Thật",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bay-nang-dau_202010/2.mp3",
+    "title" : "Tập 2] Bảy Nàng Dâu - Truyện ma mới nhất 2020 TG Thiên Yết Mc Đình Soạn Kể Sợ & Hãi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bay-nang-dau_202010/20.mp3",
+    "title" : "Tập 20] Bảy Nàng Dâu - Truyện ma mới nhất 2020 TG Thiên Yết Mc Đình Soạn Kể Sợ Thật",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bay-nang-dau_202010/21.mp3",
+    "title" : "Tập 21] Bảy Nàng Dâu - Truyện ma mới nhất 2020 TG Thiên Yết Mc Đình Soạn Kể Sợ Thật",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bay-nang-dau_202010/22.mp3",
+    "title" : "Tập 22] Bảy Nàng Dâu - Truyện ma mới nhất 2020 TG Thiên Yết Mc Đình Soạn Kể Sợ Thật",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bay-nang-dau_202010/23.mp3",
+    "title" : "Tập 23] Bảy Nàng Dâu - Truyện ma mới nhất 2020 TG Thiên Yết Mc Đình Soạn Kể Sợ Thật",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bay-nang-dau_202010/24.mp3",
+    "title" : "Tập 24] Bảy Nàng Dâu - Truyện ma mới nhất 2020 TG Thiên Yết Mc Đình Soạn Kể Sợ Thật",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bay-nang-dau_202010/25.mp3",
+    "title" : "Truyện ma mới nhất 2020 TG Thiên Yết Mc Đình Soạn Kể Sợ Thật",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bay-nang-dau_202010/26.mp3",
+    "title" : "Tập 26] Bảy Nàng Dâu - Truyện ma mới nhất 2020 TG Thiên Yết Mc Đình Soạn Kể Sợ Thật",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bay-nang-dau_202010/27.mp3",
+    "title" : "Tập 27 Kết] Bảy Nàng Dâu - Truyện ma mới nhất 2020 TG Thiên Yết Mc Đình Soạn Kể Sợ Thật",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bay-nang-dau_202010/3.mp3",
+    "title" : "Tập 3] Bảy Nàng Dâu - Truyện ma mới nhất 2020 TG Thiên Yết Mc Đình Soạn Kể Sợ & Hãi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bay-nang-dau_202010/4.mp3",
+    "title" : "Tập 4] Bảy Nàng Dâu - Truyện ma mới nhất 2020 TG Thiên Yết Mc Đình Soạn Kể Sợ & Hãi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bay-nang-dau_202010/5.mp3",
+    "title" : "Tập 5] Bảy Nàng Dâu - Truyện ma mới nhất 2020 TG Thiên Yết Mc Đình Soạn Kể Sợ Lắm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bay-nang-dau_202010/6.mp3",
+    "title" : "Tập 6] Bảy Nàng Dâu - Truyện ma mới nhất 2020 TG Thiên Yết Mc Đình Soạn Kể Sợ Thật",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bay-nang-dau_202010/7.mp3",
+    "title" : "Tập 7] Bảy Nàng Dâu - Truyện ma mới nhất 2020 TG Thiên Yết Mc Đình Soạn Kể Sợ Thật",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bay-nang-dau_202010/8.mp3",
+    "title" : "Tập 8] Bảy Nàng Dâu - Truyện ma mới nhất 2020 TG Thiên Yết Mc Đình Soạn Kể Sợ Thật",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bay-nang-dau_202010/9.mp3",
+    "title" : "Tập 9] Bảy Nàng Dâu - Truyện ma mới nhất 2020 TG Thiên Yết Mc Đình Soạn Kể Sợ Thật",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

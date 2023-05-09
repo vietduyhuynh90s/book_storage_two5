@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/luat-cua-warren-buffett_19060.html",
+    "title" : "Luật của Warren Buffett",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jeremy C. Miller",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 15230,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_6f572b4d39d6bbdda52baf7c60ad7438.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_6f572b4d39d6bbdda52baf7c60ad7438.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/luat-cua-warren-buffett-sachnoi.cc/Lua%CC%A3%CC%82t%20cu%CC%89a%20Warren%20Buffett%20-%20sachnoi.cc%20-%2001.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5400,
+    "title" : "Luật của Warren Buffett - sachnoi.cc - 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luat-cua-warren-buffett-sachnoi.cc/Lua%CC%A3%CC%82t%20cu%CC%89a%20Warren%20Buffett%20-%20sachnoi.cc%20-%2002.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5400,
+    "title" : "Luật của Warren Buffett - sachnoi.cc - 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luat-cua-warren-buffett-sachnoi.cc/Lua%CC%A3%CC%82t%20cu%CC%89a%20Warren%20Buffett%20-%20sachnoi.cc%20-%2003.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4430,
+    "title" : "Luật của Warren Buffett - sachnoi.cc - 03",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/luat-cua-warren-buffett-sachnoi.cc/Lua%CC%A3%CC%82t%20cu%CC%89a%20Warren%20Buffett%20-%20sachnoi.cc%20-%2001.mp3",
+    "title" : "Luật của Warren Buffett - sachnoi.cc - 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luat-cua-warren-buffett-sachnoi.cc/Lua%CC%A3%CC%82t%20cu%CC%89a%20Warren%20Buffett%20-%20sachnoi.cc%20-%2002.mp3",
+    "title" : "Luật của Warren Buffett - sachnoi.cc - 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luat-cua-warren-buffett-sachnoi.cc/Lua%CC%A3%CC%82t%20cu%CC%89a%20Warren%20Buffett%20-%20sachnoi.cc%20-%2003.mp3",
+    "title" : "Luật của Warren Buffett - sachnoi.cc - 03",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
