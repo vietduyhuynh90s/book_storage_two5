@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/vu-an-bi-an-o-styles-tham-kich-o-styles_20296.html",
+    "title" : "Vụ Án Bí Ẩn Ở Styles (Thảm Kịch Ở Styles)",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Agatha Christie",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-11",
+    "duration" : 25126,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_a5d2cdfdf14263ff7e348fd901ec9ee5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_a5d2cdfdf14263ff7e348fd901ec9ee5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tham-kich-3/tham-kich-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5345,
+    "title" : "tham-kich-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tham-kich-3/tham-kich-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6505,
+    "title" : "tham-kich-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tham-kich-3/tham-kich-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7638,
+    "title" : "tham-kich-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tham-kich-3/tham-kich-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5638,
+    "title" : "tham-kich-4",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tham-kich-3/tham-kich-1.mp3",
+    "title" : "tham-kich-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tham-kich-3/tham-kich-2.mp3",
+    "title" : "tham-kich-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tham-kich-3/tham-kich-3.mp3",
+    "title" : "tham-kich-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tham-kich-3/tham-kich-4.mp3",
+    "title" : "tham-kich-4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
