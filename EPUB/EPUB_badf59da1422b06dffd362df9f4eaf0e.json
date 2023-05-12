@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nu-phu-phao-hoi-muon-doc-sung_15843.html",
+    "title" : "Nữ Phụ Pháo Hôi Muốn Độc Sủng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hoảng Nhiên Nhược Mộng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 11256,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_badf59da1422b06dffd362df9f4eaf0e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_badf59da1422b06dffd362df9f4eaf0e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nu-phu-phao-hoi-muon-doc-sung/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4285,
+    "title" : "XUYÊN KHÔNG NỮ PHỤ MUỐN ĐỘC SỦNG | Tập 1: Đêm Hoang Đường | Truyện Ngôn Tình MC Trần Vân Vị Hy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nu-phu-phao-hoi-muon-doc-sung/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3204,
+    "title" : "XUYÊN KHÔNG NỮ PHỤ MUỐN ĐỘC SỦNG | Tập 2: Sinh Con Cho Tôi | Truyện Ngôn Tình Xuyên Sách Mới Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nu-phu-phao-hoi-muon-doc-sung/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3767,
+    "title" : "Hết | Truyện Ngôn Tình Hay Mc Trần Vân & Vị Hy",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nu-phu-phao-hoi-muon-doc-sung/1.mp3",
+    "title" : "XUYÊN KHÔNG NỮ PHỤ MUỐN ĐỘC SỦNG | Tập 1: Đêm Hoang Đường | Truyện Ngôn Tình MC Trần Vân Vị Hy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nu-phu-phao-hoi-muon-doc-sung/2.mp3",
+    "title" : "XUYÊN KHÔNG NỮ PHỤ MUỐN ĐỘC SỦNG | Tập 2: Sinh Con Cho Tôi | Truyện Ngôn Tình Xuyên Sách Mới Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nu-phu-phao-hoi-muon-doc-sung/3.mp3",
+    "title" : "Hết | Truyện Ngôn Tình Hay Mc Trần Vân & Vị Hy",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
