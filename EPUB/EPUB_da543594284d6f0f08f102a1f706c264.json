@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chi-oi-anh-yeu-em_17076.html",
+    "title" : "Chị Ơi...Anh Yêu Em!",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Cusiu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 9351,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_da543594284d6f0f08f102a1f706c264.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_da543594284d6f0f08f102a1f706c264.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnChiOiAnhYeuEm/Chi_oi_anh_yeu_em_P1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 626,
+    "title" : "Chi oi anh yeu em P1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnChiOiAnhYeuEm/Chi_oi_anh_yeu_em_P2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 698,
+    "title" : "Chi oi anh yeu em P2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnChiOiAnhYeuEm/Chi_oi_anh_yeu_em_P3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 876,
+    "title" : "Chi oi anh yeu em P3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnChiOiAnhYeuEm/Chi_oi_anh_yeu_em_P4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1024,
+    "title" : "Chi oi anh yeu em P4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnChiOiAnhYeuEm/Chi_oi_anh_yeu_em_P5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 822,
+    "title" : "Chi oi anh yeu em P5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnChiOiAnhYeuEm/Chi_oi_anh_yeu_em_P6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1163,
+    "title" : "Chi oi anh yeu em P6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnChiOiAnhYeuEm/Chi_oi_anh_yeu_em_P7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 919,
+    "title" : "Chi oi anh yeu em P7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnChiOiAnhYeuEm/Chi_oi_anh_yeu_em_P8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1207,
+    "title" : "Chị ơi, anh yêu em (Phần 8) - bietyeu.info",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnChiOiAnhYeuEm/Chi_oi_anh_yeu_em_P9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 941,
+    "title" : "Chị ơi, anh yêu em! (Phần 9) - bietyeu.info",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnChiOiAnhYeuEm/Chi_oi_anh_yeu_em_Phancuoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1075,
+    "title" : "Chị ơi, anh yêu em (Phần cuối) - bietyeu.info",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnChiOiAnhYeuEm/Chi_oi_anh_yeu_em_P1.mp3",
+    "title" : "Chi oi anh yeu em P1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnChiOiAnhYeuEm/Chi_oi_anh_yeu_em_P2.mp3",
+    "title" : "Chi oi anh yeu em P2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnChiOiAnhYeuEm/Chi_oi_anh_yeu_em_P3.mp3",
+    "title" : "Chi oi anh yeu em P3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnChiOiAnhYeuEm/Chi_oi_anh_yeu_em_P4.mp3",
+    "title" : "Chi oi anh yeu em P4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnChiOiAnhYeuEm/Chi_oi_anh_yeu_em_P5.mp3",
+    "title" : "Chi oi anh yeu em P5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnChiOiAnhYeuEm/Chi_oi_anh_yeu_em_P6.mp3",
+    "title" : "Chi oi anh yeu em P6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnChiOiAnhYeuEm/Chi_oi_anh_yeu_em_P7.mp3",
+    "title" : "Chi oi anh yeu em P7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnChiOiAnhYeuEm/Chi_oi_anh_yeu_em_P8.mp3",
+    "title" : "Chị ơi, anh yêu em (Phần 8) - bietyeu.info",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnChiOiAnhYeuEm/Chi_oi_anh_yeu_em_P9.mp3",
+    "title" : "Chị ơi, anh yêu em! (Phần 9) - bietyeu.info",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnChiOiAnhYeuEm/Chi_oi_anh_yeu_em_Phancuoi.mp3",
+    "title" : "Chị ơi, anh yêu em (Phần cuối) - bietyeu.info",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

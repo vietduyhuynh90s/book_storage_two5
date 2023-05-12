@@ -1,0 +1,245 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/mo-kim-quyet-quy-mon-thien-su-thien-ha-ba-xuong_9586.html",
+    "title" : "Mô Kim Quyết: Quỷ Môn Thiên Sư - Thiên Hạ Bá Xướng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thiên Hạ Bá Xướng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 59541,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_c821c14fe27062ae29d11837391aa464.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_c821c14fe27062ae29d11837391aa464.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/mo-kim-quyet/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3515,
+    "title" : "Ma Thổi Đèn - Mô Kim Quyết - Quỷ Môn Thiên Sư | MC Nguyễn Thành",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mo-kim-quyet/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3296,
+    "title" : "10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mo-kim-quyet/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3314,
+    "title" : "11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mo-kim-quyet/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4337,
+    "title" : "12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mo-kim-quyet/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4467,
+    "title" : "13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mo-kim-quyet/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5000,
+    "title" : "14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mo-kim-quyet/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2202,
+    "title" : "15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mo-kim-quyet/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1333,
+    "title" : "16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mo-kim-quyet/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3145,
+    "title" : "17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mo-kim-quyet/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2332,
+    "title" : "Ma Thổi Đèn - Mô Kim Quyết - Quỷ Môn Thiên Sư | MC Nguyễn Thành",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mo-kim-quyet/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3483,
+    "title" : "Ma Thổi Đèn - Mô Kim Quyết - Quỷ Môn Thiên Sư | MC Nguyễn Thành",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mo-kim-quyet/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3551,
+    "title" : "Ma Thổi Đèn - Mô Kim Quyết - Quỷ Môn Thiên Sư | MC Nguyễn Thành",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mo-kim-quyet/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3047,
+    "title" : "Ma Thổi Đèn - Mô Kim Quyết - Quỷ Môn Thiên Sư | MC Nguyễn Thành",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mo-kim-quyet/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3409,
+    "title" : "Ma Thổi Đèn - Mô Kim Quyết - Quỷ Môn Thiên Sư | MC Nguyễn Thành",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mo-kim-quyet/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5633,
+    "title" : "Ma Thổi Đèn - Mô Kim Quyết - Quỷ Môn Thiên Sư | MC Nguyễn Thành",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mo-kim-quyet/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3847,
+    "title" : "8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mo-kim-quyet/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3630,
+    "title" : "9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/mo-kim-quyet/1.mp3",
+    "title" : "Ma Thổi Đèn - Mô Kim Quyết - Quỷ Môn Thiên Sư | MC Nguyễn Thành",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mo-kim-quyet/10.mp3",
+    "title" : "10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mo-kim-quyet/11.mp3",
+    "title" : "11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mo-kim-quyet/12.mp3",
+    "title" : "12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mo-kim-quyet/13.mp3",
+    "title" : "13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mo-kim-quyet/14.mp3",
+    "title" : "14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mo-kim-quyet/15.mp3",
+    "title" : "15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mo-kim-quyet/16.mp3",
+    "title" : "16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mo-kim-quyet/17.mp3",
+    "title" : "17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mo-kim-quyet/2.mp3",
+    "title" : "Ma Thổi Đèn - Mô Kim Quyết - Quỷ Môn Thiên Sư | MC Nguyễn Thành",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mo-kim-quyet/3.mp3",
+    "title" : "Ma Thổi Đèn - Mô Kim Quyết - Quỷ Môn Thiên Sư | MC Nguyễn Thành",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mo-kim-quyet/4.mp3",
+    "title" : "Ma Thổi Đèn - Mô Kim Quyết - Quỷ Môn Thiên Sư | MC Nguyễn Thành",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mo-kim-quyet/5.mp3",
+    "title" : "Ma Thổi Đèn - Mô Kim Quyết - Quỷ Môn Thiên Sư | MC Nguyễn Thành",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mo-kim-quyet/6.mp3",
+    "title" : "Ma Thổi Đèn - Mô Kim Quyết - Quỷ Môn Thiên Sư | MC Nguyễn Thành",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mo-kim-quyet/7.mp3",
+    "title" : "Ma Thổi Đèn - Mô Kim Quyết - Quỷ Môn Thiên Sư | MC Nguyễn Thành",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mo-kim-quyet/8.mp3",
+    "title" : "8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mo-kim-quyet/9.mp3",
+    "title" : "9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

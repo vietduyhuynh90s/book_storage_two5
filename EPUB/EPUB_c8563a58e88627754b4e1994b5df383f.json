@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/mo-kim-hieu-uy-cuu-u-tuong-quan-thien-ha-ba-xuong_8259.html",
+    "title" : "Mô Kim Hiệu Úy: Cửu U Tướng Quân - Thiên Hạ Bá Xướng.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thiên Hạ Bá Xướng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 18213,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_c8563a58e88627754b4e1994b5df383f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_c8563a58e88627754b4e1994b5df383f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/MoKimHieuUyCuuUTuongQuanThienHaBaXuong/01.mKimHiuy-CuUTngQun-ThinHBXngFull1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3431,
+    "title" : "01.Mô Kim Hiệu Úy - Cửu U Tướng Quân - Thiên Hạ Bá Xướng FULL (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/MoKimHieuUyCuuUTuongQuanThienHaBaXuong/02.mKimHiuy-CuUTngQun-ThinHBXngFull2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3211,
+    "title" : "02.Mô Kim Hiệu Úy - Cửu U Tướng Quân - Thiên Hạ Bá Xướng FULL (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/MoKimHieuUyCuuUTuongQuanThienHaBaXuong/03.mKimHiuy-CuUTngQun-ThinHBXngFull3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3100,
+    "title" : "03.Mô Kim Hiệu Úy - Cửu U Tướng Quân - Thiên Hạ Bá Xướng FULL (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/MoKimHieuUyCuuUTuongQuanThienHaBaXuong/04.mKimHiuy-CuUTngQun-ThinHBXngFull4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2899,
+    "title" : "04.Mô Kim Hiệu Úy - Cửu U Tướng Quân - Thiên Hạ Bá Xướng FULL (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/MoKimHieuUyCuuUTuongQuanThienHaBaXuong/05.mKimHiuy-CuUTngQun-ThinHBXngFull5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3328,
+    "title" : "05.Mô Kim Hiệu Úy - Cửu U Tướng Quân - Thiên Hạ Bá Xướng FULL (5)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/MoKimHieuUyCuuUTuongQuanThienHaBaXuong/06.mKimHiuy-CuUTngQun-ThinHBXngFull6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2244,
+    "title" : "06.Mô Kim Hiệu Úy - Cửu U Tướng Quân - Thiên Hạ Bá Xướng FULL (6)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/MoKimHieuUyCuuUTuongQuanThienHaBaXuong/01.mKimHiuy-CuUTngQun-ThinHBXngFull1.mp3",
+    "title" : "01.Mô Kim Hiệu Úy - Cửu U Tướng Quân - Thiên Hạ Bá Xướng FULL (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/MoKimHieuUyCuuUTuongQuanThienHaBaXuong/02.mKimHiuy-CuUTngQun-ThinHBXngFull2.mp3",
+    "title" : "02.Mô Kim Hiệu Úy - Cửu U Tướng Quân - Thiên Hạ Bá Xướng FULL (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/MoKimHieuUyCuuUTuongQuanThienHaBaXuong/03.mKimHiuy-CuUTngQun-ThinHBXngFull3.mp3",
+    "title" : "03.Mô Kim Hiệu Úy - Cửu U Tướng Quân - Thiên Hạ Bá Xướng FULL (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/MoKimHieuUyCuuUTuongQuanThienHaBaXuong/04.mKimHiuy-CuUTngQun-ThinHBXngFull4.mp3",
+    "title" : "04.Mô Kim Hiệu Úy - Cửu U Tướng Quân - Thiên Hạ Bá Xướng FULL (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/MoKimHieuUyCuuUTuongQuanThienHaBaXuong/05.mKimHiuy-CuUTngQun-ThinHBXngFull5.mp3",
+    "title" : "05.Mô Kim Hiệu Úy - Cửu U Tướng Quân - Thiên Hạ Bá Xướng FULL (5)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/MoKimHieuUyCuuUTuongQuanThienHaBaXuong/06.mKimHiuy-CuUTngQun-ThinHBXngFull6.mp3",
+    "title" : "06.Mô Kim Hiệu Úy - Cửu U Tướng Quân - Thiên Hạ Bá Xướng FULL (6)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

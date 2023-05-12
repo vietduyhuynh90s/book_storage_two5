@@ -1,0 +1,785 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nang-han-gap-mua-rao_14730.html",
+    "title" : "Nắng Hạn Gặp Mưa Rào",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Giai Nhân",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 236787,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_eb8ad8a6f0087c25789023984d776d64.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_eb8ad8a6f0087c25789023984d776d64.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4172,
+    "title" : "Nắng Hạn Gặp Mưa Rào Chap 01 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2074,
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 10 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5790,
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 11 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3786,
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 12 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3784,
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 13 | Audio Ngôn tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2662,
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 14 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4056,
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 15 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4330,
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 16 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3092,
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 17 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2736,
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 18 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4655,
+    "title" : "Năng Hạn Gặp Mưa Rào Tập 19 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4255,
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 02 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4102,
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 20 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2936,
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 21 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3043,
+    "title" : "Nắng Hạn gặp Mưa Rào Tập 22 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3332,
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 23 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2680,
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 24 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4667,
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 25 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2889,
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 26 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4220,
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 27 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4104,
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 28 | AUdio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4259,
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 29 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4273,
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 03 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4191,
+    "title" : "Năng Hạn Gặp Mưa Rào Tập 30 | Audio Ngôn Tình Đam Bach",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5248,
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 31 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5300,
+    "title" : "Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2848,
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 33 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4910,
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 34 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4028,
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 35 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6643,
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 36 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3800,
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 37 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4183,
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 38 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3882,
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 39 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4301,
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 04 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5181,
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 40 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3610,
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 41 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4143,
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 42 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6727,
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 43 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1207,
+    "title" : "(Audio Ngôn Tình Đam Bách)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2639,
+    "title" : "Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3594,
+    "title" : "Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3922,
+    "title" : "Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2365,
+    "title" : "Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2558,
+    "title" : "Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1780,
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 05 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3232,
+    "title" : "Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3440,
+    "title" : "Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3615,
+    "title" : "Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4986,
+    "title" : "Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/54.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3411,
+    "title" : "Audio Ngôn tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/55.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3414,
+    "title" : "Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/56.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3985,
+    "title" : "Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/57.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3357,
+    "title" : "Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/58.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3895,
+    "title" : "Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/59.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3477,
+    "title" : "Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5385,
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 06 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/60.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3566,
+    "title" : "Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/61.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3488,
+    "title" : "Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/62.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2621,
+    "title" : "Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4049,
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 07 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3984,
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 08 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3925,
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 09 | Audio Ngôn Tình Đam Bách",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/1.mp3",
+    "title" : "Nắng Hạn Gặp Mưa Rào Chap 01 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/10.mp3",
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 10 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/11.mp3",
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 11 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/12.mp3",
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 12 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/13.mp3",
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 13 | Audio Ngôn tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/14.mp3",
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 14 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/15.mp3",
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 15 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/16.mp3",
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 16 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/17.mp3",
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 17 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/18.mp3",
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 18 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/19.mp3",
+    "title" : "Năng Hạn Gặp Mưa Rào Tập 19 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/2.mp3",
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 02 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/20.mp3",
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 20 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/21.mp3",
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 21 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/22.mp3",
+    "title" : "Nắng Hạn gặp Mưa Rào Tập 22 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/23.mp3",
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 23 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/24.mp3",
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 24 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/25.mp3",
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 25 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/26.mp3",
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 26 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/27.mp3",
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 27 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/28.mp3",
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 28 | AUdio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/29.mp3",
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 29 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/3.mp3",
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 03 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/30.mp3",
+    "title" : "Năng Hạn Gặp Mưa Rào Tập 30 | Audio Ngôn Tình Đam Bach",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/31.mp3",
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 31 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/32.mp3",
+    "title" : "Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/33.mp3",
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 33 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/34.mp3",
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 34 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/35.mp3",
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 35 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/36.mp3",
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 36 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/37.mp3",
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 37 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/38.mp3",
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 38 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/39.mp3",
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 39 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/4.mp3",
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 04 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/40.mp3",
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 40 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/41.mp3",
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 41 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/42.mp3",
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 42 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/43.mp3",
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 43 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/44.mp3",
+    "title" : "(Audio Ngôn Tình Đam Bách)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/45.mp3",
+    "title" : "Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/46.mp3",
+    "title" : "Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/47.mp3",
+    "title" : "Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/48.mp3",
+    "title" : "Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/49.mp3",
+    "title" : "Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/5.mp3",
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 05 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/50.mp3",
+    "title" : "Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/51.mp3",
+    "title" : "Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/52.mp3",
+    "title" : "Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/53.mp3",
+    "title" : "Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/54.mp3",
+    "title" : "Audio Ngôn tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/55.mp3",
+    "title" : "Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/56.mp3",
+    "title" : "Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/57.mp3",
+    "title" : "Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/58.mp3",
+    "title" : "Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/59.mp3",
+    "title" : "Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/6.mp3",
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 06 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/60.mp3",
+    "title" : "Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/61.mp3",
+    "title" : "Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/62.mp3",
+    "title" : "Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/7.mp3",
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 07 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/8.mp3",
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 08 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nang-han-gap-mua-rao/9.mp3",
+    "title" : "Nắng Hạn Gặp Mưa Rào Tập 09 | Audio Ngôn Tình Đam Bách",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

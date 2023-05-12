@@ -1,0 +1,305 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/phap-su-truyen-ky_14713.html",
+    "title" : "Pháp Sư Truyền Kỳ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đoá Hoa Vô Thường",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 100814,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_b9c2cde02b5e961f9533c0da46f0536d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_b9c2cde02b5e961f9533c0da46f0536d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/phapsutruyenky/PhapSuTruyenKy.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4776,
+    "title" : "PhapSuTruyenKy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phapsutruyenky/PhapSuTruyenKy_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4025,
+    "title" : "PhapSuTruyenKy 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phapsutruyenky/PhapSuTruyenKy_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4673,
+    "title" : "PhapSuTruyenKy 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phapsutruyenky/PhapSuTruyenKy_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4408,
+    "title" : "PhapSuTruyenKy 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phapsutruyenky/PhapSuTruyenKy_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4182,
+    "title" : "PhapSuTruyenKy 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phapsutruyenky/PhapSuTruyenKy_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4064,
+    "title" : "PhapSuTruyenKy 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phapsutruyenky/PhapSuTruyenKy_Phan2_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4483,
+    "title" : "PhapSuTruyenKy Phan2 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phapsutruyenky/PhapSuTruyenKy_Phan2_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4192,
+    "title" : "PhapSuTruyenKy Phan2 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phapsutruyenky/PhapSuTruyenKy_Phan2_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3986,
+    "title" : "PhapSuTruyenKy Phan2 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phapsutruyenky/PhapSuTruyenKy_Phan2_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4519,
+    "title" : "PhapSuTruyenKy Phan2 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phapsutruyenky/PhapSuTruyenKy_Phan2_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8695,
+    "title" : "PhapSuTruyenKy Phan2 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phapsutruyenky/PhapSuTruyenKy_Phan3_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3887,
+    "title" : "PhapSuTruyenKy Phan3 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phapsutruyenky/PhapSuTruyenKy_Phan3_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4103,
+    "title" : "PhapSuTruyenKy Phan3 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phapsutruyenky/PhapSuTruyenKy_Phan3_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4106,
+    "title" : "PhapSuTruyenKy Phan3 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phapsutruyenky/PhapSuTruyenKy_Phan3_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4034,
+    "title" : "PhapSuTruyenKy Phan3 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phapsutruyenky/PhapSuTruyenKy_Phan3_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5986,
+    "title" : "PhapSuTruyenKy Phan3 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phapsutruyenky/PhapSuTruyenKy_Phan4_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4239,
+    "title" : "PhapSuTruyenKy Phan4 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phapsutruyenky/PhapSuTruyenKy_Phan4_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4090,
+    "title" : "PhapSuTruyenKy Phan4 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phapsutruyenky/PhapSuTruyenKy_Phan4_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3917,
+    "title" : "PhapSuTruyenKy Phan4 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phapsutruyenky/PhapSuTruyenKy_Phan4_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4014,
+    "title" : "PhapSuTruyenKy Phan4 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phapsutruyenky/PhapSuTruyenKy_Phan4_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5175,
+    "title" : "PhapSuTruyenKy Phan4 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phapsutruyenky/PhapSuTruyenKy_Phan5_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5260,
+    "title" : "PhapSuTruyenKy Phan5 01",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/phapsutruyenky/PhapSuTruyenKy.mp3",
+    "title" : "PhapSuTruyenKy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phapsutruyenky/PhapSuTruyenKy_02.mp3",
+    "title" : "PhapSuTruyenKy 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phapsutruyenky/PhapSuTruyenKy_03.mp3",
+    "title" : "PhapSuTruyenKy 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phapsutruyenky/PhapSuTruyenKy_04.mp3",
+    "title" : "PhapSuTruyenKy 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phapsutruyenky/PhapSuTruyenKy_05.mp3",
+    "title" : "PhapSuTruyenKy 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phapsutruyenky/PhapSuTruyenKy_06.mp3",
+    "title" : "PhapSuTruyenKy 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phapsutruyenky/PhapSuTruyenKy_Phan2_01.mp3",
+    "title" : "PhapSuTruyenKy Phan2 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phapsutruyenky/PhapSuTruyenKy_Phan2_02.mp3",
+    "title" : "PhapSuTruyenKy Phan2 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phapsutruyenky/PhapSuTruyenKy_Phan2_03.mp3",
+    "title" : "PhapSuTruyenKy Phan2 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phapsutruyenky/PhapSuTruyenKy_Phan2_04.mp3",
+    "title" : "PhapSuTruyenKy Phan2 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phapsutruyenky/PhapSuTruyenKy_Phan2_05.mp3",
+    "title" : "PhapSuTruyenKy Phan2 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phapsutruyenky/PhapSuTruyenKy_Phan3_01.mp3",
+    "title" : "PhapSuTruyenKy Phan3 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phapsutruyenky/PhapSuTruyenKy_Phan3_02.mp3",
+    "title" : "PhapSuTruyenKy Phan3 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phapsutruyenky/PhapSuTruyenKy_Phan3_03.mp3",
+    "title" : "PhapSuTruyenKy Phan3 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phapsutruyenky/PhapSuTruyenKy_Phan3_04.mp3",
+    "title" : "PhapSuTruyenKy Phan3 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phapsutruyenky/PhapSuTruyenKy_Phan3_05.mp3",
+    "title" : "PhapSuTruyenKy Phan3 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phapsutruyenky/PhapSuTruyenKy_Phan4_01.mp3",
+    "title" : "PhapSuTruyenKy Phan4 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phapsutruyenky/PhapSuTruyenKy_Phan4_02.mp3",
+    "title" : "PhapSuTruyenKy Phan4 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phapsutruyenky/PhapSuTruyenKy_Phan4_03.mp3",
+    "title" : "PhapSuTruyenKy Phan4 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phapsutruyenky/PhapSuTruyenKy_Phan4_04.mp3",
+    "title" : "PhapSuTruyenKy Phan4 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phapsutruyenky/PhapSuTruyenKy_Phan4_05.mp3",
+    "title" : "PhapSuTruyenKy Phan4 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phapsutruyenky/PhapSuTruyenKy_Phan5_01.mp3",
+    "title" : "PhapSuTruyenKy Phan5 01",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

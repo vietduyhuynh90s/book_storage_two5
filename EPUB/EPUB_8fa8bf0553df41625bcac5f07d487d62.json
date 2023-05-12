@@ -1,0 +1,365 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bao-cong-xu-an-nguyen-van-thuy_9002.html",
+    "title" : "Bao Công Xử Án - Nguyễn Văn Thủy",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Văn Thủy",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 57154,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_8fa8bf0553df41625bcac5f07d487d62.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_8fa8bf0553df41625bcac5f07d487d62.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/BaoCongXuAn11/BaoCongXuAn-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2086,
+    "title" : "BaoCongXuAn-01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BaoCongXuAn11/BaoCongXuAn-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 990,
+    "title" : "BaoCongXuAn-02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BaoCongXuAn11/BaoCongXuAn-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 601,
+    "title" : "BaoCongXuAn-03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BaoCongXuAn11/BaoCongXuAn-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1633,
+    "title" : "BaoCongXuAn-04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BaoCongXuAn11/BaoCongXuAn-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3527,
+    "title" : "BaoCongXuAn-05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BaoCongXuAn11/BaoCongXuAn-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2371,
+    "title" : "BaoCongXuAn-06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BaoCongXuAn11/BaoCongXuAn-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 579,
+    "title" : "BaoCongXuAn-07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BaoCongXuAn11/BaoCongXuAn-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1121,
+    "title" : "BaoCongXuAn-08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BaoCongXuAn11/BaoCongXuAn-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2489,
+    "title" : "BaoCongXuAn-09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BaoCongXuAn11/BaoCongXuAn-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 747,
+    "title" : "BaoCongXuAn-10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BaoCongXuAn11/BaoCongXuAn-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3551,
+    "title" : "BaoCongXuAn-11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BaoCongXuAn11/BaoCongXuAn-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1838,
+    "title" : "BaoCongXuAn-12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BaoCongXuAn11/BaoCongXuAn-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1508,
+    "title" : "BaoCongXuAn-13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BaoCongXuAn11/BaoCongXuAn-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3125,
+    "title" : "BaoCongXuAn-14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BaoCongXuAn11/BaoCongXuAn-15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 551,
+    "title" : "BaoCongXuAn-15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BaoCongXuAn11/BaoCongXuAn-16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1708,
+    "title" : "BaoCongXuAn-16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BaoCongXuAn11/BaoCongXuAn-17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1115,
+    "title" : "BaoCongXuAn-17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BaoCongXuAn11/BaoCongXuAn-18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2510,
+    "title" : "BaoCongXuAn-18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BaoCongXuAn11/BaoCongXuAn-19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2681,
+    "title" : "BaoCongXuAn-19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BaoCongXuAn11/BaoCongXuAn-20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2515,
+    "title" : "BaoCongXuAn-20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BaoCongXuAn11/BaoCongXuAn-21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2669,
+    "title" : "BaoCongXuAn-21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BaoCongXuAn11/BaoCongXuAn-22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2276,
+    "title" : "BaoCongXuAn-22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BaoCongXuAn11/BaoCongXuAn-23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1790,
+    "title" : "BaoCongXuAn-23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BaoCongXuAn11/BaoCongXuAn-24a.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4546,
+    "title" : "BaoCongXuAn-24a",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BaoCongXuAn11/BaoCongXuAn-24b.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3110,
+    "title" : "BaoCongXuAn-24b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BaoCongXuAn11/BaoCongXuAn-25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2932,
+    "title" : "BaoCongXuAn-25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BaoCongXuAn11/BaoCongXuAn-26end.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2585,
+    "title" : "BaoCongXuAn-26end",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/BaoCongXuAn11/BaoCongXuAn-01.mp3",
+    "title" : "BaoCongXuAn-01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BaoCongXuAn11/BaoCongXuAn-02.mp3",
+    "title" : "BaoCongXuAn-02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BaoCongXuAn11/BaoCongXuAn-03.mp3",
+    "title" : "BaoCongXuAn-03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BaoCongXuAn11/BaoCongXuAn-04.mp3",
+    "title" : "BaoCongXuAn-04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BaoCongXuAn11/BaoCongXuAn-05.mp3",
+    "title" : "BaoCongXuAn-05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BaoCongXuAn11/BaoCongXuAn-06.mp3",
+    "title" : "BaoCongXuAn-06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BaoCongXuAn11/BaoCongXuAn-07.mp3",
+    "title" : "BaoCongXuAn-07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BaoCongXuAn11/BaoCongXuAn-08.mp3",
+    "title" : "BaoCongXuAn-08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BaoCongXuAn11/BaoCongXuAn-09.mp3",
+    "title" : "BaoCongXuAn-09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BaoCongXuAn11/BaoCongXuAn-10.mp3",
+    "title" : "BaoCongXuAn-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BaoCongXuAn11/BaoCongXuAn-11.mp3",
+    "title" : "BaoCongXuAn-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BaoCongXuAn11/BaoCongXuAn-12.mp3",
+    "title" : "BaoCongXuAn-12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BaoCongXuAn11/BaoCongXuAn-13.mp3",
+    "title" : "BaoCongXuAn-13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BaoCongXuAn11/BaoCongXuAn-14.mp3",
+    "title" : "BaoCongXuAn-14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BaoCongXuAn11/BaoCongXuAn-15.mp3",
+    "title" : "BaoCongXuAn-15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BaoCongXuAn11/BaoCongXuAn-16.mp3",
+    "title" : "BaoCongXuAn-16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BaoCongXuAn11/BaoCongXuAn-17.mp3",
+    "title" : "BaoCongXuAn-17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BaoCongXuAn11/BaoCongXuAn-18.mp3",
+    "title" : "BaoCongXuAn-18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BaoCongXuAn11/BaoCongXuAn-19.mp3",
+    "title" : "BaoCongXuAn-19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BaoCongXuAn11/BaoCongXuAn-20.mp3",
+    "title" : "BaoCongXuAn-20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BaoCongXuAn11/BaoCongXuAn-21.mp3",
+    "title" : "BaoCongXuAn-21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BaoCongXuAn11/BaoCongXuAn-22.mp3",
+    "title" : "BaoCongXuAn-22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BaoCongXuAn11/BaoCongXuAn-23.mp3",
+    "title" : "BaoCongXuAn-23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BaoCongXuAn11/BaoCongXuAn-24a.mp3",
+    "title" : "BaoCongXuAn-24a",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BaoCongXuAn11/BaoCongXuAn-24b.mp3",
+    "title" : "BaoCongXuAn-24b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BaoCongXuAn11/BaoCongXuAn-25.mp3",
+    "title" : "BaoCongXuAn-25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BaoCongXuAn11/BaoCongXuAn-26end.mp3",
+    "title" : "BaoCongXuAn-26end",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,233 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ngoi-nha-quai-di_17860.html",
+    "title" : "Ngôi Nhà Quái Dị",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Agatha Christie",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 24733,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_10c70628fd784932c09f1c0e4c85978a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_10c70628fd784932c09f1c0e4c85978a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ngoi-nha-co-quai-11/ngoi%20nha%20co%20quai_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1204,
+    "title" : "ngoi nha co quai 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoi-nha-co-quai-11/ngoi%20nha%20co%20quai_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1137,
+    "title" : "ngoi nha co quai 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoi-nha-co-quai-11/ngoi%20nha%20co%20quai_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1161,
+    "title" : "ngoi nha co quai 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoi-nha-co-quai-11/ngoi%20nha%20co%20quai_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1396,
+    "title" : "ngoi nha co quai 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoi-nha-co-quai-11/ngoi%20nha%20co%20quai_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1376,
+    "title" : "ngoi nha co quai 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoi-nha-co-quai-11/ngoi%20nha%20co%20quai_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1933,
+    "title" : "ngoi nha co quai 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoi-nha-co-quai-11/ngoi%20nha%20co%20quai_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1441,
+    "title" : "ngoi nha co quai 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoi-nha-co-quai-11/ngoi%20nha%20co%20quai_08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1452,
+    "title" : "ngoi nha co quai 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoi-nha-co-quai-11/ngoi%20nha%20co%20quai_09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1135,
+    "title" : "ngoi nha co quai 09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoi-nha-co-quai-11/ngoi%20nha%20co%20quai_10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1746,
+    "title" : "ngoi nha co quai 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoi-nha-co-quai-11/ngoi%20nha%20co%20quai_11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2427,
+    "title" : "ngoi nha co quai 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoi-nha-co-quai-11/ngoi%20nha%20co%20quai_12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2086,
+    "title" : "ngoi nha co quai 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoi-nha-co-quai-11/ngoi%20nha%20co%20quai_13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1352,
+    "title" : "ngoi nha co quai 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoi-nha-co-quai-11/ngoi%20nha%20co%20quai_14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1525,
+    "title" : "ngoi nha co quai 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoi-nha-co-quai-11/ngoi%20nha%20co%20quai_15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1962,
+    "title" : "ngoi nha co quai 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoi-nha-co-quai-11/ngoi%20nha%20co%20quai_16%20%28END%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1400,
+    "title" : "ngoi nha co quai 16 (END)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ngoi-nha-co-quai-11/ngoi%20nha%20co%20quai_01.mp3",
+    "title" : "ngoi nha co quai 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoi-nha-co-quai-11/ngoi%20nha%20co%20quai_02.mp3",
+    "title" : "ngoi nha co quai 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoi-nha-co-quai-11/ngoi%20nha%20co%20quai_03.mp3",
+    "title" : "ngoi nha co quai 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoi-nha-co-quai-11/ngoi%20nha%20co%20quai_04.mp3",
+    "title" : "ngoi nha co quai 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoi-nha-co-quai-11/ngoi%20nha%20co%20quai_05.mp3",
+    "title" : "ngoi nha co quai 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoi-nha-co-quai-11/ngoi%20nha%20co%20quai_06.mp3",
+    "title" : "ngoi nha co quai 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoi-nha-co-quai-11/ngoi%20nha%20co%20quai_07.mp3",
+    "title" : "ngoi nha co quai 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoi-nha-co-quai-11/ngoi%20nha%20co%20quai_08.mp3",
+    "title" : "ngoi nha co quai 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoi-nha-co-quai-11/ngoi%20nha%20co%20quai_09.mp3",
+    "title" : "ngoi nha co quai 09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoi-nha-co-quai-11/ngoi%20nha%20co%20quai_10.mp3",
+    "title" : "ngoi nha co quai 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoi-nha-co-quai-11/ngoi%20nha%20co%20quai_11.mp3",
+    "title" : "ngoi nha co quai 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoi-nha-co-quai-11/ngoi%20nha%20co%20quai_12.mp3",
+    "title" : "ngoi nha co quai 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoi-nha-co-quai-11/ngoi%20nha%20co%20quai_13.mp3",
+    "title" : "ngoi nha co quai 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoi-nha-co-quai-11/ngoi%20nha%20co%20quai_14.mp3",
+    "title" : "ngoi nha co quai 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoi-nha-co-quai-11/ngoi%20nha%20co%20quai_15.mp3",
+    "title" : "ngoi nha co quai 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoi-nha-co-quai-11/ngoi%20nha%20co%20quai_16%20%28END%29.mp3",
+    "title" : "ngoi nha co quai 16 (END)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

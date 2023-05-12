@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/mien-tay-to-hoai_11913.html",
+    "title" : "Miền Tây - Tô Hoài",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tô Hoài",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 25897,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_1aba00199445b4d27de8dfbebc6b0b09.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_1aba00199445b4d27de8dfbebc6b0b09.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/mientay/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 13679,
+    "title" : "Tiểu Thuyết của Tô Hoài | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mientay/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 12218,
+    "title" : "Tiểu Thuyết của Tô Hoài | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/mientay/1.mp3",
+    "title" : "Tiểu Thuyết của Tô Hoài | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mientay/2.mp3",
+    "title" : "Tiểu Thuyết của Tô Hoài | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

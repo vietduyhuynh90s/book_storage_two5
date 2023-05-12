@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/am-binh-thay-tru-ta_16071.html",
+    "title" : "Âm Binh Thầy Trừ Tà",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Yamiyugi Atemu (Tống Mặt Than)",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 20371,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_83911bb6fb66e4af016dd923cbaa829e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_83911bb6fb66e4af016dd923cbaa829e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/am-binh-thay-tru-ta/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4588,
+    "title" : "Truyện Ma Có Thật Về Bùa Chú Hay Và Rợn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-binh-thay-tru-ta/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3938,
+    "title" : "Truyện Ma Có Thật Về Bùa Chú Hay Và Rợn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-binh-thay-tru-ta/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3770,
+    "title" : "Truyện Ma Có Thật Ngọc Lâm Kể Mà Rợn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-binh-thay-tru-ta/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8075,
+    "title" : "Truyện Ma Có Thật Ngọc Lâm Kể Rợn Lắm",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/am-binh-thay-tru-ta/1.mp3",
+    "title" : "Truyện Ma Có Thật Về Bùa Chú Hay Và Rợn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-binh-thay-tru-ta/2.mp3",
+    "title" : "Truyện Ma Có Thật Về Bùa Chú Hay Và Rợn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-binh-thay-tru-ta/3.mp3",
+    "title" : "Truyện Ma Có Thật Ngọc Lâm Kể Mà Rợn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-binh-thay-tru-ta/4.mp3",
+    "title" : "Truyện Ma Có Thật Ngọc Lâm Kể Rợn Lắm",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

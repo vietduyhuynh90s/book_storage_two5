@@ -1,0 +1,437 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/con-hui_14022.html",
+    "title" : "Con Hủi",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Helena Mniszek",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 60631,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_b4062361d9abf565ae780c1af29fb7fd.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_b4062361d9abf565ae780c1af29fb7fd.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 477,
+    "title" : "ConHui01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1874,
+    "title" : "ConHui02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1391,
+    "title" : "ConHui03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1304,
+    "title" : "ConHui04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1253,
+    "title" : "ConHui05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1498,
+    "title" : "ConHui06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1701,
+    "title" : "ConHui07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 940,
+    "title" : "ConHui08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2824,
+    "title" : "ConHui09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1943,
+    "title" : "ConHui10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1428,
+    "title" : "ConHui11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1817,
+    "title" : "ConHui12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2491,
+    "title" : "ConHui13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1582,
+    "title" : "ConHui14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1658,
+    "title" : "ConHui15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2291,
+    "title" : "ConHui16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2055,
+    "title" : "ConHui17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2491,
+    "title" : "ConHui18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2693,
+    "title" : "ConHui19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2396,
+    "title" : "ConHui20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1892,
+    "title" : "ConHui21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1990,
+    "title" : "ConHui22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1520,
+    "title" : "ConHui23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2484,
+    "title" : "ConHui24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1961,
+    "title" : "ConHui25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2396,
+    "title" : "ConHui26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1720,
+    "title" : "ConHui27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1965,
+    "title" : "ConHui28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1820,
+    "title" : "ConHui29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1450,
+    "title" : "ConHui30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1729,
+    "title" : "ConHui31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2135,
+    "title" : "ConHui32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1462,
+    "title" : "ConHui33",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui01.mp3",
+    "title" : "ConHui01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui02.mp3",
+    "title" : "ConHui02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui03.mp3",
+    "title" : "ConHui03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui04.mp3",
+    "title" : "ConHui04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui05.mp3",
+    "title" : "ConHui05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui06.mp3",
+    "title" : "ConHui06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui07.mp3",
+    "title" : "ConHui07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui08.mp3",
+    "title" : "ConHui08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui09.mp3",
+    "title" : "ConHui09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui10.mp3",
+    "title" : "ConHui10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui11.mp3",
+    "title" : "ConHui11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui12.mp3",
+    "title" : "ConHui12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui13.mp3",
+    "title" : "ConHui13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui14.mp3",
+    "title" : "ConHui14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui15.mp3",
+    "title" : "ConHui15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui16.mp3",
+    "title" : "ConHui16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui17.mp3",
+    "title" : "ConHui17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui18.mp3",
+    "title" : "ConHui18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui19.mp3",
+    "title" : "ConHui19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui20.mp3",
+    "title" : "ConHui20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui21.mp3",
+    "title" : "ConHui21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui22.mp3",
+    "title" : "ConHui22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui23.mp3",
+    "title" : "ConHui23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui24.mp3",
+    "title" : "ConHui24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui25.mp3",
+    "title" : "ConHui25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui26.mp3",
+    "title" : "ConHui26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui27.mp3",
+    "title" : "ConHui27",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui28.mp3",
+    "title" : "ConHui28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui29.mp3",
+    "title" : "ConHui29",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui30.mp3",
+    "title" : "ConHui30",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui31.mp3",
+    "title" : "ConHui31",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui32.mp3",
+    "title" : "ConHui32",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnConHui/ConHui33.mp3",
+    "title" : "ConHui33",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

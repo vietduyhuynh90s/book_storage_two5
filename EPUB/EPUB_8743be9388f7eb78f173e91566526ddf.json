@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/con-muon-lam-vo-ba-konokowu_11580.html",
+    "title" : "Con Muốn Làm Vợ Ba - KONOKOWU",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "KONOKOWU",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 17292,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_8743be9388f7eb78f173e91566526ddf.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_8743be9388f7eb78f173e91566526ddf.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/conmuonlamvoba/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7903,
+    "title" : "[Phần 1/2] Con Muốn Làm Vợ Ba | Truyện ngôn tình hay cảm động sâu sắc về tình yêu vĩnh cửu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/conmuonlamvoba/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9389,
+    "title" : "Truyện ngôn tình ngắn hay cảm động nhất về tình cảm sâu sắc",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/conmuonlamvoba/1.mp3",
+    "title" : "[Phần 1/2] Con Muốn Làm Vợ Ba | Truyện ngôn tình hay cảm động sâu sắc về tình yêu vĩnh cửu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/conmuonlamvoba/2.mp3",
+    "title" : "Truyện ngôn tình ngắn hay cảm động nhất về tình cảm sâu sắc",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

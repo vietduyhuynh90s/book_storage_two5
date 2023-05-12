@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/thu-mua-vo-truoc_12132.html",
+    "title" : "Thu Mua Vợ Trước",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đông Mật",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 22954,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_c5e869e4245eb190d41c9850d1e2fcdb.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_c5e869e4245eb190d41c9850d1e2fcdb.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/thumuavotruoc/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8014,
+    "title" : "Truyện ngôn tình mới hay và lôi cuốn nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thumuavotruoc/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7018,
+    "title" : "Truyện ngôn tình càng nghe càng hay tuyệt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thumuavotruoc/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7922,
+    "title" : "Thu Mua Vợ Trước [Phần cuối] Truyện ngôn tình audio hay hấp dẫn nhất quả đất",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/thumuavotruoc/1.mp3",
+    "title" : "Truyện ngôn tình mới hay và lôi cuốn nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thumuavotruoc/2.mp3",
+    "title" : "Truyện ngôn tình càng nghe càng hay tuyệt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thumuavotruoc/3.mp3",
+    "title" : "Thu Mua Vợ Trước [Phần cuối] Truyện ngôn tình audio hay hấp dẫn nhất quả đất",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cam-nang-phong-thuy-nha-o_20282.html",
+    "title" : "Cẩm Nang Phong Thủy Nhà Ở",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trần Di Khôi",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 35661,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_72786f48411d774802f6e8caba61a5c0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_72786f48411d774802f6e8caba61a5c0.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cam-nang-phong-thuy-nha-o.sna/CamNangPhongThuyNhaO.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4081,
+    "title" : "CamNangPhongThuyNhaO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cam-nang-phong-thuy-nha-o.sna/CamNangPhongThuyNhaOP01C01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3040,
+    "title" : "CamNangPhongThuyNhaOP01C01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cam-nang-phong-thuy-nha-o.sna/CamNangPhongThuyNhaOP01C0203.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1639,
+    "title" : "CamNangPhongThuyNhaOP01C0203",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cam-nang-phong-thuy-nha-o.sna/CamNangPhongThuyNhaOP01C04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2275,
+    "title" : "CamNangPhongThuyNhaOP01C04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cam-nang-phong-thuy-nha-o.sna/CamNangPhongThuyNhaOP01C05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4241,
+    "title" : "CamNangPhongThuyNhaOP01C05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cam-nang-phong-thuy-nha-o.sna/CamNangPhongThuyNhaOP02C01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5196,
+    "title" : "CamNangPhongThuyNhaOP02C01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cam-nang-phong-thuy-nha-o.sna/CamNangPhongThuyNhaOP02C0203.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4397,
+    "title" : "CamNangPhongThuyNhaOP02C0203",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cam-nang-phong-thuy-nha-o.sna/CamNangPhongThuyNhaOP02C040506.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1215,
+    "title" : "CamNangPhongThuyNhaOP02C040506",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cam-nang-phong-thuy-nha-o.sna/CamNangPhongThuyNhaOP03C01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2706,
+    "title" : "CamNangPhongThuyNhaOP03C01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cam-nang-phong-thuy-nha-o.sna/CamNangPhongThuyNhaOP03C0203.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2946,
+    "title" : "CamNangPhongThuyNhaOP03C0203",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cam-nang-phong-thuy-nha-o.sna/CamNangPhongThuyNhaOP03C0405.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3925,
+    "title" : "CamNangPhongThuyNhaOP03C0405",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cam-nang-phong-thuy-nha-o.sna/CamNangPhongThuyNhaO.mp3",
+    "title" : "CamNangPhongThuyNhaO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cam-nang-phong-thuy-nha-o.sna/CamNangPhongThuyNhaOP01C01.mp3",
+    "title" : "CamNangPhongThuyNhaOP01C01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cam-nang-phong-thuy-nha-o.sna/CamNangPhongThuyNhaOP01C0203.mp3",
+    "title" : "CamNangPhongThuyNhaOP01C0203",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cam-nang-phong-thuy-nha-o.sna/CamNangPhongThuyNhaOP01C04.mp3",
+    "title" : "CamNangPhongThuyNhaOP01C04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cam-nang-phong-thuy-nha-o.sna/CamNangPhongThuyNhaOP01C05.mp3",
+    "title" : "CamNangPhongThuyNhaOP01C05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cam-nang-phong-thuy-nha-o.sna/CamNangPhongThuyNhaOP02C01.mp3",
+    "title" : "CamNangPhongThuyNhaOP02C01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cam-nang-phong-thuy-nha-o.sna/CamNangPhongThuyNhaOP02C0203.mp3",
+    "title" : "CamNangPhongThuyNhaOP02C0203",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cam-nang-phong-thuy-nha-o.sna/CamNangPhongThuyNhaOP02C040506.mp3",
+    "title" : "CamNangPhongThuyNhaOP02C040506",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cam-nang-phong-thuy-nha-o.sna/CamNangPhongThuyNhaOP03C01.mp3",
+    "title" : "CamNangPhongThuyNhaOP03C01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cam-nang-phong-thuy-nha-o.sna/CamNangPhongThuyNhaOP03C0203.mp3",
+    "title" : "CamNangPhongThuyNhaOP03C0203",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cam-nang-phong-thuy-nha-o.sna/CamNangPhongThuyNhaOP03C0405.mp3",
+    "title" : "CamNangPhongThuyNhaOP03C0405",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

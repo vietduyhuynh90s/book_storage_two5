@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ngam-vinh-phong-ca-mach-thuong-le-hoa_9560.html",
+    "title" : "Ngâm Vịnh Phong Ca - Mạch Thượng Lê Hoa.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Mạch Thượng Lê Hoa",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 59436,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_8c528b5fbf5c19c3881b930331884f36.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_8c528b5fbf5c19c3881b930331884f36.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ngam-vinh-phong-ca/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9116,
+    "title" : "Audio Ngôn Tình Xuyên Không NGÂM VỊNH PHONG CA P1 MC Mây",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngam-vinh-phong-ca/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9646,
+    "title" : "Audio Ngôn Tình Xuyên Không NGÂM VỊNH PHONG CA P2 MC Mây",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngam-vinh-phong-ca/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8886,
+    "title" : "Audio Ngôn Tình Xuyên Không NGÂM VỊNH PHONG CA P3 MC Mây",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngam-vinh-phong-ca/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9683,
+    "title" : "Audio Ngôn Tình Xuyên Không NGÂM VỊNH PHONG CA P4 MC Mây",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngam-vinh-phong-ca/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7319,
+    "title" : "Audio Ngôn Tình Xuyên Không NGÂM VỊNH PHONG CA P5 MC Mây",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngam-vinh-phong-ca/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6831,
+    "title" : "Audio Ngôn Tình Xuyên Không NGÂM VỊNH PHONG CA P6 MC Mây",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngam-vinh-phong-ca/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7955,
+    "title" : "Audio Ngôn Tình Xuyên Không NGÂM VỊNH PHONG CA P7(End) MC Mây",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ngam-vinh-phong-ca/1.mp3",
+    "title" : "Audio Ngôn Tình Xuyên Không NGÂM VỊNH PHONG CA P1 MC Mây",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngam-vinh-phong-ca/2.mp3",
+    "title" : "Audio Ngôn Tình Xuyên Không NGÂM VỊNH PHONG CA P2 MC Mây",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngam-vinh-phong-ca/3.mp3",
+    "title" : "Audio Ngôn Tình Xuyên Không NGÂM VỊNH PHONG CA P3 MC Mây",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngam-vinh-phong-ca/4.mp3",
+    "title" : "Audio Ngôn Tình Xuyên Không NGÂM VỊNH PHONG CA P4 MC Mây",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngam-vinh-phong-ca/5.mp3",
+    "title" : "Audio Ngôn Tình Xuyên Không NGÂM VỊNH PHONG CA P5 MC Mây",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngam-vinh-phong-ca/6.mp3",
+    "title" : "Audio Ngôn Tình Xuyên Không NGÂM VỊNH PHONG CA P6 MC Mây",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngam-vinh-phong-ca/7.mp3",
+    "title" : "Audio Ngôn Tình Xuyên Không NGÂM VỊNH PHONG CA P7(End) MC Mây",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

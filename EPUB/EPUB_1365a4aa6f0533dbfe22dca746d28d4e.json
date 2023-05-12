@@ -1,0 +1,221 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nguon-goc-van-minh-nhan-loai_17074.html",
+    "title" : "Nguồn Gốc Văn Minh Nhân Loại",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "David M. Rohl",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 18389,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_1365a4aa6f0533dbfe22dca746d28d4e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_1365a4aa6f0533dbfe22dca746d28d4e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sachnoi.vn_nguonGocVanMinhNhanLoai-DavidM.Rohl/Civilisation01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1222,
+    "title" : "Civilisation01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn_nguonGocVanMinhNhanLoai-DavidM.Rohl/Civilisation02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1208,
+    "title" : "Civilisation02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn_nguonGocVanMinhNhanLoai-DavidM.Rohl/Civilisation03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1228,
+    "title" : "Civilisation03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn_nguonGocVanMinhNhanLoai-DavidM.Rohl/Civilisation04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1198,
+    "title" : "Civilisation04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn_nguonGocVanMinhNhanLoai-DavidM.Rohl/Civilisation05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1219,
+    "title" : "Civilisation05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn_nguonGocVanMinhNhanLoai-DavidM.Rohl/Civilisation06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1339,
+    "title" : "Civilisation06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn_nguonGocVanMinhNhanLoai-DavidM.Rohl/Civilisation07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1186,
+    "title" : "Civilisation07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn_nguonGocVanMinhNhanLoai-DavidM.Rohl/Civilisation08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1191,
+    "title" : "Civilisation08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn_nguonGocVanMinhNhanLoai-DavidM.Rohl/Civilisation09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1238,
+    "title" : "Civilisation09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn_nguonGocVanMinhNhanLoai-DavidM.Rohl/Civilisation10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1204,
+    "title" : "Civilisation10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn_nguonGocVanMinhNhanLoai-DavidM.Rohl/Civilisation11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1211,
+    "title" : "Civilisation11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn_nguonGocVanMinhNhanLoai-DavidM.Rohl/Civilisation12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1249,
+    "title" : "Civilisation12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn_nguonGocVanMinhNhanLoai-DavidM.Rohl/Civilisation13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1233,
+    "title" : "Civilisation13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn_nguonGocVanMinhNhanLoai-DavidM.Rohl/Civilisation14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1232,
+    "title" : "Civilisation14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn_nguonGocVanMinhNhanLoai-DavidM.Rohl/Civilisation15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1231,
+    "title" : "Civilisation15",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sachnoi.vn_nguonGocVanMinhNhanLoai-DavidM.Rohl/Civilisation01.mp3",
+    "title" : "Civilisation01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn_nguonGocVanMinhNhanLoai-DavidM.Rohl/Civilisation02.mp3",
+    "title" : "Civilisation02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn_nguonGocVanMinhNhanLoai-DavidM.Rohl/Civilisation03.mp3",
+    "title" : "Civilisation03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn_nguonGocVanMinhNhanLoai-DavidM.Rohl/Civilisation04.mp3",
+    "title" : "Civilisation04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn_nguonGocVanMinhNhanLoai-DavidM.Rohl/Civilisation05.mp3",
+    "title" : "Civilisation05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn_nguonGocVanMinhNhanLoai-DavidM.Rohl/Civilisation06.mp3",
+    "title" : "Civilisation06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn_nguonGocVanMinhNhanLoai-DavidM.Rohl/Civilisation07.mp3",
+    "title" : "Civilisation07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn_nguonGocVanMinhNhanLoai-DavidM.Rohl/Civilisation08.mp3",
+    "title" : "Civilisation08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn_nguonGocVanMinhNhanLoai-DavidM.Rohl/Civilisation09.mp3",
+    "title" : "Civilisation09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn_nguonGocVanMinhNhanLoai-DavidM.Rohl/Civilisation10.mp3",
+    "title" : "Civilisation10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn_nguonGocVanMinhNhanLoai-DavidM.Rohl/Civilisation11.mp3",
+    "title" : "Civilisation11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn_nguonGocVanMinhNhanLoai-DavidM.Rohl/Civilisation12.mp3",
+    "title" : "Civilisation12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn_nguonGocVanMinhNhanLoai-DavidM.Rohl/Civilisation13.mp3",
+    "title" : "Civilisation13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn_nguonGocVanMinhNhanLoai-DavidM.Rohl/Civilisation14.mp3",
+    "title" : "Civilisation14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn_nguonGocVanMinhNhanLoai-DavidM.Rohl/Civilisation15.mp3",
+    "title" : "Civilisation15",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
