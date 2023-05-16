@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bac-si-zhivago_14749.html",
+    "title" : "Bác Sĩ Zhivago",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Boris Pasternak",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 89341,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_e190a8e15e6896b3e0676534e27155d1.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_e190a8e15e6896b3e0676534e27155d1.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bac-si-1/bac-si-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 18500,
+    "title" : "bac-si-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bac-si-1/bac-si-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 17150,
+    "title" : "bac-si-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bac-si-1/bac-si-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 18193,
+    "title" : "bac-si-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bac-si-1/bac-si-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 18033,
+    "title" : "bac-si-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bac-si-1/bac-si-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 17465,
+    "title" : "bac-si-5",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bac-si-1/bac-si-1.mp3",
+    "title" : "bac-si-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bac-si-1/bac-si-2.mp3",
+    "title" : "bac-si-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bac-si-1/bac-si-3.mp3",
+    "title" : "bac-si-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bac-si-1/bac-si-4.mp3",
+    "title" : "bac-si-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bac-si-1/bac-si-5.mp3",
+    "title" : "bac-si-5",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

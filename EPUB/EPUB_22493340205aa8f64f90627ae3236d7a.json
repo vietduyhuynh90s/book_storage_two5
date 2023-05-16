@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chi-yeu-minh-sesshoumaru-nguyet-hoa-nhu-suong_2486.html",
+    "title" : "Chỉ Yêu Mình Sesshoumaru - Nguyệt Hoa Như Sương",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyệt Hoa Như Sương",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 17510,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_22493340205aa8f64f90627ae3236d7a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_22493340205aa8f64f90627ae3236d7a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chi-yeu-minh-sesshoumaru/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7414,
+    "title" : "1/2 - Ngôn tình xuyên không đặc sắc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chi-yeu-minh-sesshoumaru/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10096,
+    "title" : "2/2 - Ngôn tình xuyên không đặc sắc",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chi-yeu-minh-sesshoumaru/1.mp3",
+    "title" : "1/2 - Ngôn tình xuyên không đặc sắc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chi-yeu-minh-sesshoumaru/2.mp3",
+    "title" : "2/2 - Ngôn tình xuyên không đặc sắc",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

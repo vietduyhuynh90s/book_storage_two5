@@ -1,0 +1,341 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cung-khuynh_14154.html",
+    "title" : "Cung Khuynh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Minh Dã",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 97400,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_4065da2fd531d7355920c74f2a9da4e0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_4065da2fd531d7355920c74f2a9da4e0.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cung-khuynh-2/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3972,
+    "title" : "[BÁCH HỢP]CUNG KHUYNH 2(chap 1_5)|| phát hành 2,4,6...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cung-khuynh-2/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3691,
+    "title" : "[BÁCH HỢP]CUNG KHUYNH 2(CHAP 41_45)|| phát hành 2,4,6...hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cung-khuynh-2/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4694,
+    "title" : "H+[BÁCH HỢP]CUNG KHUYNH 2(CHAP 46_50)|| phát hành 2,4,6...HÀNG TUẦN.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cung-khuynh-2/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3391,
+    "title" : "[BÁCH HỢP]CUNG KHUYNH 2(51_55)|| phát hành 2,4,6...hàng tuần",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cung-khuynh-2/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4253,
+    "title" : "[BÁCH HỢP]CUNG KHUYNH 2(56_60)|| phát hành 2,4,6...hàng tuần..",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cung-khuynh-2/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3469,
+    "title" : "[BÁCH HỢP]CUNG KHUYNH 2(61_65)|| phát hành 2,4,6...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cung-khuynh-2/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3972,
+    "title" : "[BÁCH HỢP]CUNG KHUYNH 2(66_68)+(phiên ngoại Hàn Vũ 1_3)|| phát hành 2,4,6...hàng tuần",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cung-khuynh-2/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4005,
+    "title" : "[BÁCH HỢP]CUNG KHUYNH 2(phiên ngoại Hàn Vũ 4)+(chap 69_75)|| phát hành 2,4,6...hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cung-khuynh-2/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3552,
+    "title" : "[BÁCH HỢP]CUNG KHUYNH 2(76_80)|| phát hành 2,4,6...hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cung-khuynh-2/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3275,
+    "title" : "[BÁCH HỢP]CUNG KHUYNH 2(81_85)|| phát hành 2,4,6...hàng tuần..",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cung-khuynh-2/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3055,
+    "title" : "[BÁCH HỢP]CUNG KHUYNH 2(86_90)|| phát hành 2,4,6...hàng tuần...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cung-khuynh-2/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4278,
+    "title" : "[BÁCH HỢP]CUNG KHUYNH 2(chap 6_10)|| phát hành 2,4,6...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cung-khuynh-2/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6516,
+    "title" : "[BÁCH HỢP]CUNG KHUYNH 2(91_100)|| phát hành 2,4,6...mấy chap này buồn quá các nàng ạ 😞!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cung-khuynh-2/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4122,
+    "title" : "[BÁCH HỢP]CUNG KHUYNH 2(101_106)|| phát hành 2,4,6...hết buồn rồi nha các nàng...☺☺",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cung-khuynh-2/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4309,
+    "title" : "[HE+HOÀN][BÁCH HỢP]CUNG KHUYNH 2(107_113)|| phát hành 2,4,6...hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cung-khuynh-2/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4894,
+    "title" : "[BÁCH HỢP]CUNG KHUYNH 2(phiên ngoại)|| phát hành 2,4,6...||DVCA VÀ VMKHÊ_LLĂNG VÀ LTNHƯỢC...!!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cung-khuynh-2/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3200,
+    "title" : "[BÁCH HỢP]CUNG KHUYNH 2(phiên ngoại)|| phát hành 2,4,6...||TẦN MẶC DƯƠNG VÀ ÂU MẪN ÁI!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cung-khuynh-2/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3181,
+    "title" : "[BÁCH HỢP]CUNG KHUYNH 2(phiên ngoại)|| TTBĂNG VÀ TUYENCA_HÀN VŨ VÀ TUYENCA...||KẾT THÚC||",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cung-khuynh-2/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4333,
+    "title" : "[BÁCH HỢP]CUNG KHUYNH 2(CHAP 11_15)|| phát hành 2,4,6...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cung-khuynh-2/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5025,
+    "title" : "[BÁCH HỢP]CUNG KHUYNH 2(CHAP 16_20)|| phát hành 2,4,6...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cung-khuynh-2/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3239,
+    "title" : "[BÁCH HỢP]CUNG KHUYNH 2(CHAP 21_25)|| phát hành 2,4,6...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cung-khuynh-2/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3598,
+    "title" : "[BÁCH HỢP]CUNG KHUYNH 2(chap 26_30)|| phát hành 2,4,6...hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cung-khuynh-2/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2746,
+    "title" : "[BÁCH HỢP]CUNG KHUYNH 2(CHAP 31-35)phần 1|| phát hành 2,4,6...hàng tuần...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cung-khuynh-2/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2133,
+    "title" : "[BÁCH HỢP]CUNG KHUYNH 2(chap 31_35)phần 2|| phát hành 2,4,6...hàng tuần",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cung-khuynh-2/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4497,
+    "title" : "[BÁCH HỢP]CUNG KHUYNH 2(CHAP 36_40)|| phát hành 2,4,6...HÀNG TUẦN!",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cung-khuynh-2/1.mp3",
+    "title" : "[BÁCH HỢP]CUNG KHUYNH 2(chap 1_5)|| phát hành 2,4,6...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cung-khuynh-2/10.mp3",
+    "title" : "[BÁCH HỢP]CUNG KHUYNH 2(CHAP 41_45)|| phát hành 2,4,6...hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cung-khuynh-2/11.mp3",
+    "title" : "H+[BÁCH HỢP]CUNG KHUYNH 2(CHAP 46_50)|| phát hành 2,4,6...HÀNG TUẦN.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cung-khuynh-2/12.mp3",
+    "title" : "[BÁCH HỢP]CUNG KHUYNH 2(51_55)|| phát hành 2,4,6...hàng tuần",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cung-khuynh-2/13.mp3",
+    "title" : "[BÁCH HỢP]CUNG KHUYNH 2(56_60)|| phát hành 2,4,6...hàng tuần..",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cung-khuynh-2/14.mp3",
+    "title" : "[BÁCH HỢP]CUNG KHUYNH 2(61_65)|| phát hành 2,4,6...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cung-khuynh-2/15.mp3",
+    "title" : "[BÁCH HỢP]CUNG KHUYNH 2(66_68)+(phiên ngoại Hàn Vũ 1_3)|| phát hành 2,4,6...hàng tuần",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cung-khuynh-2/16.mp3",
+    "title" : "[BÁCH HỢP]CUNG KHUYNH 2(phiên ngoại Hàn Vũ 4)+(chap 69_75)|| phát hành 2,4,6...hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cung-khuynh-2/17.mp3",
+    "title" : "[BÁCH HỢP]CUNG KHUYNH 2(76_80)|| phát hành 2,4,6...hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cung-khuynh-2/18.mp3",
+    "title" : "[BÁCH HỢP]CUNG KHUYNH 2(81_85)|| phát hành 2,4,6...hàng tuần..",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cung-khuynh-2/19.mp3",
+    "title" : "[BÁCH HỢP]CUNG KHUYNH 2(86_90)|| phát hành 2,4,6...hàng tuần...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cung-khuynh-2/2.mp3",
+    "title" : "[BÁCH HỢP]CUNG KHUYNH 2(chap 6_10)|| phát hành 2,4,6...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cung-khuynh-2/20.mp3",
+    "title" : "[BÁCH HỢP]CUNG KHUYNH 2(91_100)|| phát hành 2,4,6...mấy chap này buồn quá các nàng ạ 😞!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cung-khuynh-2/21.mp3",
+    "title" : "[BÁCH HỢP]CUNG KHUYNH 2(101_106)|| phát hành 2,4,6...hết buồn rồi nha các nàng...☺☺",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cung-khuynh-2/22.mp3",
+    "title" : "[HE+HOÀN][BÁCH HỢP]CUNG KHUYNH 2(107_113)|| phát hành 2,4,6...hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cung-khuynh-2/23.mp3",
+    "title" : "[BÁCH HỢP]CUNG KHUYNH 2(phiên ngoại)|| phát hành 2,4,6...||DVCA VÀ VMKHÊ_LLĂNG VÀ LTNHƯỢC...!!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cung-khuynh-2/24.mp3",
+    "title" : "[BÁCH HỢP]CUNG KHUYNH 2(phiên ngoại)|| phát hành 2,4,6...||TẦN MẶC DƯƠNG VÀ ÂU MẪN ÁI!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cung-khuynh-2/25.mp3",
+    "title" : "[BÁCH HỢP]CUNG KHUYNH 2(phiên ngoại)|| TTBĂNG VÀ TUYENCA_HÀN VŨ VÀ TUYENCA...||KẾT THÚC||",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cung-khuynh-2/3.mp3",
+    "title" : "[BÁCH HỢP]CUNG KHUYNH 2(CHAP 11_15)|| phát hành 2,4,6...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cung-khuynh-2/4.mp3",
+    "title" : "[BÁCH HỢP]CUNG KHUYNH 2(CHAP 16_20)|| phát hành 2,4,6...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cung-khuynh-2/5.mp3",
+    "title" : "[BÁCH HỢP]CUNG KHUYNH 2(CHAP 21_25)|| phát hành 2,4,6...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cung-khuynh-2/6.mp3",
+    "title" : "[BÁCH HỢP]CUNG KHUYNH 2(chap 26_30)|| phát hành 2,4,6...hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cung-khuynh-2/7.mp3",
+    "title" : "[BÁCH HỢP]CUNG KHUYNH 2(CHAP 31-35)phần 1|| phát hành 2,4,6...hàng tuần...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cung-khuynh-2/8.mp3",
+    "title" : "[BÁCH HỢP]CUNG KHUYNH 2(chap 31_35)phần 2|| phát hành 2,4,6...hàng tuần",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cung-khuynh-2/9.mp3",
+    "title" : "[BÁCH HỢP]CUNG KHUYNH 2(CHAP 36_40)|| phát hành 2,4,6...HÀNG TUẦN!",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

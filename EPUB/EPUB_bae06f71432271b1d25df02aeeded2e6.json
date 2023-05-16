@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bi-quyet-kinh-doanh-cua-nguoi-do-thai_16890.html",
+    "title" : "Bí Quyết Kinh Doanh Của Người Do Thái",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tri Thức Việt",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 18313,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_bae06f71432271b1d25df02aeeded2e6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_bae06f71432271b1d25df02aeeded2e6.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetKinhDoanhCuaNguoiDoThai/BiQuyetKinhDoanhDoThaiC00.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 161,
+    "title" : "BiQuyetKinhDoanhDoThaiC00",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetKinhDoanhCuaNguoiDoThai/BiQuyetKinhDoanhDoThaiC01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2922,
+    "title" : "BiQuyetKinhDoanhDoThaiC01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetKinhDoanhCuaNguoiDoThai/BiQuyetKinhDoanhDoThaiC02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2282,
+    "title" : "BiQuyetKinhDoanhDoThaiC02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetKinhDoanhCuaNguoiDoThai/BiQuyetKinhDoanhDoThaiC03A.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1616,
+    "title" : "BiQuyetKinhDoanhDoThaiC03A",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetKinhDoanhCuaNguoiDoThai/BiQuyetKinhDoanhDoThaiC03B.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1908,
+    "title" : "BiQuyetKinhDoanhDoThaiC03B",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetKinhDoanhCuaNguoiDoThai/BiQuyetKinhDoanhDoThaiC04A.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2337,
+    "title" : "BiQuyetKinhDoanhDoThaiC04A",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetKinhDoanhCuaNguoiDoThai/BiQuyetKinhDoanhDoThaiC04B.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2006,
+    "title" : "BiQuyetKinhDoanhDoThaiC04B",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetKinhDoanhCuaNguoiDoThai/BiQuyetKinhDoanhDoThaiC05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1985,
+    "title" : "BiQuyetKinhDoanhDoThaiC05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetKinhDoanhCuaNguoiDoThai/BiQuyetKinhDoanhDoThaiC06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1762,
+    "title" : "BiQuyetKinhDoanhDoThaiC06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetKinhDoanhCuaNguoiDoThai/BiQuyetKinhDoanhDoThaiC07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1334,
+    "title" : "BiQuyetKinhDoanhDoThaiC07",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetKinhDoanhCuaNguoiDoThai/BiQuyetKinhDoanhDoThaiC00.mp3",
+    "title" : "BiQuyetKinhDoanhDoThaiC00",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetKinhDoanhCuaNguoiDoThai/BiQuyetKinhDoanhDoThaiC01.mp3",
+    "title" : "BiQuyetKinhDoanhDoThaiC01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetKinhDoanhCuaNguoiDoThai/BiQuyetKinhDoanhDoThaiC02.mp3",
+    "title" : "BiQuyetKinhDoanhDoThaiC02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetKinhDoanhCuaNguoiDoThai/BiQuyetKinhDoanhDoThaiC03A.mp3",
+    "title" : "BiQuyetKinhDoanhDoThaiC03A",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetKinhDoanhCuaNguoiDoThai/BiQuyetKinhDoanhDoThaiC03B.mp3",
+    "title" : "BiQuyetKinhDoanhDoThaiC03B",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetKinhDoanhCuaNguoiDoThai/BiQuyetKinhDoanhDoThaiC04A.mp3",
+    "title" : "BiQuyetKinhDoanhDoThaiC04A",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetKinhDoanhCuaNguoiDoThai/BiQuyetKinhDoanhDoThaiC04B.mp3",
+    "title" : "BiQuyetKinhDoanhDoThaiC04B",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetKinhDoanhCuaNguoiDoThai/BiQuyetKinhDoanhDoThaiC05.mp3",
+    "title" : "BiQuyetKinhDoanhDoThaiC05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetKinhDoanhCuaNguoiDoThai/BiQuyetKinhDoanhDoThaiC06.mp3",
+    "title" : "BiQuyetKinhDoanhDoThaiC06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBiQuyetKinhDoanhCuaNguoiDoThai/BiQuyetKinhDoanhDoThaiC07.mp3",
+    "title" : "BiQuyetKinhDoanhDoThaiC07",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
