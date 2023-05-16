@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/du-hanh-tay-tang_20240.html",
+    "title" : "Du Hành Tây Tạng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Alexandra David-Néel",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 40769,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_b6b2af5774e872d750fca3ff530834a9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_b6b2af5774e872d750fca3ff530834a9.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/du-hanh-tay-tang/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5569,
+    "title" : "truyện phật pháp du hành tây tạng tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-hanh-tay-tang/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5840,
+    "title" : "truyện phật pháp du hành tây tạng tập 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-hanh-tay-tang/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5914,
+    "title" : "truyện phật pháp du hành tây tạng tập 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-hanh-tay-tang/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5840,
+    "title" : "truyện phật pháp du hành tây tạng tập 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-hanh-tay-tang/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5840,
+    "title" : "truyện phật pháp du hành tây tạng tập 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-hanh-tay-tang/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5856,
+    "title" : "truyện phật pháp du hành tây tạng tập 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-hanh-tay-tang/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5910,
+    "title" : "du hành tây ttruyện phật pháp tạng tập 7",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/du-hanh-tay-tang/1.mp3",
+    "title" : "truyện phật pháp du hành tây tạng tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-hanh-tay-tang/2.mp3",
+    "title" : "truyện phật pháp du hành tây tạng tập 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-hanh-tay-tang/3.mp3",
+    "title" : "truyện phật pháp du hành tây tạng tập 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-hanh-tay-tang/4.mp3",
+    "title" : "truyện phật pháp du hành tây tạng tập 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-hanh-tay-tang/5.mp3",
+    "title" : "truyện phật pháp du hành tây tạng tập 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-hanh-tay-tang/6.mp3",
+    "title" : "truyện phật pháp du hành tây tạng tập 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-hanh-tay-tang/7.mp3",
+    "title" : "du hành tây ttruyện phật pháp tạng tập 7",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

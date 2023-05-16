@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/mot-lan-toi-nhan-gian-phai-song-doi-ruc-ro_20342.html",
+    "title" : "Một Lần Tới Nhân Gian, Phải Sống Đời Rực Rỡ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lương Sảng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 31448,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_d9a2da78646bbbba101159af6c25f3a1.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_d9a2da78646bbbba101159af6c25f3a1.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/mot-lan-2/mot-lan-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7966,
+    "title" : "Một lần tới nhân gian phải sống đời rực rỡ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-lan-2/mot-lan-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8119,
+    "title" : "2# Một lần tới nhân gian phải sống đời rực rỡ-Bạn sống 1 ngày như thế nào thì sẽ sống 1 đời như thế",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-lan-2/mot-lan-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7570,
+    "title" : "Bạn phải dồi dào SL &TT thì mới vượt qua đc KK đời Ng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-lan-2/mot-lan-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7793,
+    "title" : "4# Một lần tới nhân gian phải sống đời rực rỡ-Tương lai mà bạn đang trông đợi, thực ra k hề xa xôi",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/mot-lan-2/mot-lan-1.mp3",
+    "title" : "Một lần tới nhân gian phải sống đời rực rỡ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-lan-2/mot-lan-2.mp3",
+    "title" : "2# Một lần tới nhân gian phải sống đời rực rỡ-Bạn sống 1 ngày như thế nào thì sẽ sống 1 đời như thế",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-lan-2/mot-lan-3.mp3",
+    "title" : "Bạn phải dồi dào SL &TT thì mới vượt qua đc KK đời Ng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-lan-2/mot-lan-4.mp3",
+    "title" : "4# Một lần tới nhân gian phải sống đời rực rỡ-Tương lai mà bạn đang trông đợi, thực ra k hề xa xôi",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

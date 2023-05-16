@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dung-cua-dan-ong-tu-do_20352.html",
+    "title" : "Đừng Cưa, Đàn Ông Tự Đổ!",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhi Hexe",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 10276,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_cb52798d374f3130fc1115b1298e8c62.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_cb52798d374f3130fc1115b1298e8c62.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dung-cua-5/dung-cua-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 837,
+    "title" : "0 # Đừng cưa đàn ông tự đổ # Mở đầu # Nhi Hexe",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-cua-5/dung-cua-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 840,
+    "title" : "1 # Đừng cưa đàn ông tự đổ # Đàn ông thật đơn giản # Nhi Hexe",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-cua-5/dung-cua-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1657,
+    "title" : "2 # Đừng cưa, đàn ông tự đổ # Đàn bà xịn # Nhi Hexe",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-cua-5/dung-cua-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1869,
+    "title" : "3 # Đừng cưa, đàn ông tự đổ # Muôn mặt của tình yêu # Nhi Hexe",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-cua-5/dung-cua-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2070,
+    "title" : "4 # Đừng cưa, đàn ông tự đổ # Chuyện trăm năm # Nhi Hexe",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-cua-5/dung-cua-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1698,
+    "title" : "5 # Đừng cưa, đàn ông tự đổ # Yêu 4.0 # Nhi Hexe",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-cua-5/dung-cua-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1305,
+    "title" : "6 # Đừng cưa, đàn ông tự đổ # Để phát triển và hạnh phúc # Hết # Nhi Hexe",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dung-cua-5/dung-cua-1.mp3",
+    "title" : "0 # Đừng cưa đàn ông tự đổ # Mở đầu # Nhi Hexe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-cua-5/dung-cua-2.mp3",
+    "title" : "1 # Đừng cưa đàn ông tự đổ # Đàn ông thật đơn giản # Nhi Hexe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-cua-5/dung-cua-3.mp3",
+    "title" : "2 # Đừng cưa, đàn ông tự đổ # Đàn bà xịn # Nhi Hexe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-cua-5/dung-cua-4.mp3",
+    "title" : "3 # Đừng cưa, đàn ông tự đổ # Muôn mặt của tình yêu # Nhi Hexe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-cua-5/dung-cua-5.mp3",
+    "title" : "4 # Đừng cưa, đàn ông tự đổ # Chuyện trăm năm # Nhi Hexe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-cua-5/dung-cua-6.mp3",
+    "title" : "5 # Đừng cưa, đàn ông tự đổ # Yêu 4.0 # Nhi Hexe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-cua-5/dung-cua-7.mp3",
+    "title" : "6 # Đừng cưa, đàn ông tự đổ # Để phát triển và hạnh phúc # Hết # Nhi Hexe",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

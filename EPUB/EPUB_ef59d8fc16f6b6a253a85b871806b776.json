@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dung-cui-dau-ma-khoc-hay-ngang-dau-ma-di_20343.html",
+    "title" : "Đừng Cúi Đầu Mà Khóc, Hãy Ngẩng Đầu Mà Đi",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lư Tư Hạo",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 20467,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_ef59d8fc16f6b6a253a85b871806b776.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_ef59d8fc16f6b6a253a85b871806b776.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dung-cui-1/dung-cui-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6135,
+    "title" : "dung-cui-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-cui-1/dung-cui-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4378,
+    "title" : "dung-cui-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-cui-1/dung-cui-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4464,
+    "title" : "dung-cui-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-cui-1/dung-cui-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5490,
+    "title" : "dung-cui-4",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dung-cui-1/dung-cui-1.mp3",
+    "title" : "dung-cui-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-cui-1/dung-cui-2.mp3",
+    "title" : "dung-cui-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-cui-1/dung-cui-3.mp3",
+    "title" : "dung-cui-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-cui-1/dung-cui-4.mp3",
+    "title" : "dung-cui-4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

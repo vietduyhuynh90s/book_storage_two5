@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ca-bong-mu_20300.html",
+    "title" : "Cá Bống Mú",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đoàn Giỏi",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 16303,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_520648baf90e6d0811efe6d994ac1cc1.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_520648baf90e6d0811efe6d994ac1cc1.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ca-bong-9/ca-bong-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1833,
+    "title" : "ca-bong-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ca-bong-9/ca-bong-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1813,
+    "title" : "ca-bong-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ca-bong-9/ca-bong-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1811,
+    "title" : "ca-bong-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ca-bong-9/ca-bong-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1782,
+    "title" : "ca-bong-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ca-bong-9/ca-bong-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1815,
+    "title" : "ca-bong-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ca-bong-9/ca-bong-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1804,
+    "title" : "ca-bong-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ca-bong-9/ca-bong-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1801,
+    "title" : "ca-bong-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ca-bong-9/ca-bong-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1806,
+    "title" : "ca-bong-8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ca-bong-9/ca-bong-9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1838,
+    "title" : "ca-bong-9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ca-bong-9/ca-bong-1.mp3",
+    "title" : "ca-bong-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ca-bong-9/ca-bong-2.mp3",
+    "title" : "ca-bong-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ca-bong-9/ca-bong-3.mp3",
+    "title" : "ca-bong-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ca-bong-9/ca-bong-4.mp3",
+    "title" : "ca-bong-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ca-bong-9/ca-bong-5.mp3",
+    "title" : "ca-bong-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ca-bong-9/ca-bong-6.mp3",
+    "title" : "ca-bong-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ca-bong-9/ca-bong-7.mp3",
+    "title" : "ca-bong-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ca-bong-9/ca-bong-8.mp3",
+    "title" : "ca-bong-8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ca-bong-9/ca-bong-9.mp3",
+    "title" : "ca-bong-9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
