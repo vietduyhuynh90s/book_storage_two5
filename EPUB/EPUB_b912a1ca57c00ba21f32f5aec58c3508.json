@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/khuc-hat-ca-heo_20183.html",
+    "title" : "Khúc Hát Cá Heo",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lauren St John",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-19",
+    "duration" : 26874,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_b912a1ca57c00ba21f32f5aec58c3508.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_b912a1ca57c00ba21f32f5aec58c3508.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/khuc-hat-ca-heo.sna/KHUC_HAT_CA_HEO_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3048,
+    "title" : "KHUC HAT CA HEO 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khuc-hat-ca-heo.sna/KHUC_HAT_CA_HEO_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2567,
+    "title" : "KHUC HAT CA HEO 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khuc-hat-ca-heo.sna/KHUC_HAT_CA_HEO_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2380,
+    "title" : "KHUC HAT CA HEO 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khuc-hat-ca-heo.sna/KHUC_HAT_CA_HEO_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2568,
+    "title" : "KHUC HAT CA HEO 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khuc-hat-ca-heo.sna/KHUC_HAT_CA_HEO_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2738,
+    "title" : "KHUC HAT CA HEO 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khuc-hat-ca-heo.sna/KHUC_HAT_CA_HEO_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2600,
+    "title" : "KHUC HAT CA HEO 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khuc-hat-ca-heo.sna/KHUC_HAT_CA_HEO_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2764,
+    "title" : "KHUC HAT CA HEO 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khuc-hat-ca-heo.sna/KHUC_HAT_CA_HEO_08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2993,
+    "title" : "KHUC HAT CA HEO 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khuc-hat-ca-heo.sna/KHUC_HAT_CA_HEO_09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3079,
+    "title" : "KHUC HAT CA HEO 09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khuc-hat-ca-heo.sna/KHUC_HAT_CA_HEO_10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2137,
+    "title" : "KHUC HAT CA HEO 10",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/khuc-hat-ca-heo.sna/KHUC_HAT_CA_HEO_01.mp3",
+    "title" : "KHUC HAT CA HEO 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khuc-hat-ca-heo.sna/KHUC_HAT_CA_HEO_02.mp3",
+    "title" : "KHUC HAT CA HEO 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khuc-hat-ca-heo.sna/KHUC_HAT_CA_HEO_03.mp3",
+    "title" : "KHUC HAT CA HEO 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khuc-hat-ca-heo.sna/KHUC_HAT_CA_HEO_04.mp3",
+    "title" : "KHUC HAT CA HEO 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khuc-hat-ca-heo.sna/KHUC_HAT_CA_HEO_05.mp3",
+    "title" : "KHUC HAT CA HEO 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khuc-hat-ca-heo.sna/KHUC_HAT_CA_HEO_06.mp3",
+    "title" : "KHUC HAT CA HEO 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khuc-hat-ca-heo.sna/KHUC_HAT_CA_HEO_07.mp3",
+    "title" : "KHUC HAT CA HEO 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khuc-hat-ca-heo.sna/KHUC_HAT_CA_HEO_08.mp3",
+    "title" : "KHUC HAT CA HEO 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khuc-hat-ca-heo.sna/KHUC_HAT_CA_HEO_09.mp3",
+    "title" : "KHUC HAT CA HEO 09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khuc-hat-ca-heo.sna/KHUC_HAT_CA_HEO_10.mp3",
+    "title" : "KHUC HAT CA HEO 10",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

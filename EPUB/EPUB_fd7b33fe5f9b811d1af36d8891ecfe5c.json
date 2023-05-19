@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/khuc-dong-dao-lam-lap_20182.html",
+    "title" : "Khúc Đồng Dao Lấm Láp",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Kao Sơn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-19",
+    "duration" : 13508,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_fd7b33fe5f9b811d1af36d8891ecfe5c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_fd7b33fe5f9b811d1af36d8891ecfe5c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cho-2/cho-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3372,
+    "title" : "cho-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cho-2/cho-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4715,
+    "title" : "cho-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cho-2/cho-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4599,
+    "title" : "cho-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cho-2/cho-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 822,
+    "title" : "cho-4",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cho-2/cho-1.mp3",
+    "title" : "cho-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cho-2/cho-2.mp3",
+    "title" : "cho-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cho-2/cho-3.mp3",
+    "title" : "cho-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cho-2/cho-4.mp3",
+    "title" : "cho-4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
