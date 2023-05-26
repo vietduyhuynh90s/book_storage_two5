@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/quan-doan-thep-huawei-13497.html",
+    "title" : "QUÂN ĐOÀN THÉP HUAWEI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hoàng Vệ Hoa",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Thông qua việc tim hiểu sâu sắc tư tưởng và chính sách của Huawei, tác giả đã phân tích một cách triệt để những bí quyết thành công của tập đoàn này. Từ sự hợp tác nhóm, quan niêm kinh doanh, triết lý tổ chức, ý thức cạnh tranh, kiểm soát khủng hoảng, thu hút nhân tài, văn hóa sáng tạo, triết lý dòng tiền, quản lý khách hàng, trách nhiệm xã hội…đã giới thiệu một cách toàn diện lịch sử của Huawei. Hãy cùng chúng tôi bước vào thế giới của Huawei để học hỏi điều then chốt trong tư tưởng quản lý, để lắng nghe điệu nhạc của công ty hiện đại đang hòa mình vào vũ điệu của thế giới. Chương 1. Văn hóa doanh nghiệp Huawei Chương 2. Phương pháp quản lý của Huawei Chương 3. Chiến lược nhân tài của Huawei Chương 4. Bí quyết điều hành của Huawei Chương 5. Tư tưởng cạnh tranh của Huawei Chương 6. Sự sáng tạo của Huawei Chương 7. Ý thức về nguy cơ của Huawei Chương 8. Triết lý về vốn của Huawei Chương 9. Huawei duy trì khách hàng Chương 10. Trách nhiệm xã hội của Huawei</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_62a912e89d0de7f20e5957c558271a5a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_62a912e89d0de7f20e5957c558271a5a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13497-quan-doan-thep-huawei-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13497-quan-doan-thep-huawei-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/ban-tay-cho-em-1087.html",
+    "title" : "BÀN TAY CHO EM",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ichikawa Takuji",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Hiro và Satomi, hai đứa trẻ tự chơi và chăm sóc nhau trong căn hộ tập thể nghèo khi mẹ chúng đi làm cả ngày. Maho, cô gái 24 tuổi hay ốm, đầy tự ti sợ hãi bỗng gặp hai bố con Yasuo mang tâm hồn bị tổn thương, xa lánh người đời. Takayuki và Hatsue đều là trẻ bị cha mẹ bỏ rơi, sống với người bác Kanichi trong một khi nhà cổ lỗ như thể đã bị thế giới lãng quên. Gom ba câu chuyện về những con người yếu đuối, khó hòa nhập. Bàn Tay Cho Em là bức tranh về những kẻ không sao thích nghi với guồng sống hiện đại hối hả Trên cả tình yêu nam nữ, các nhân vật gắn kết bởi tình thân thiết ruột thịt tựa gia đình, như thể người nay sinh ra để dành cho người kia. Sức mạnh tình cảm ấy lấp đầy thiếu khuyết trong tâm hồn, và họ được ở bên nhau, \"như những vì sao\". Tác phẩm của Ichikawa Takuji, vì thế, chính là câu chuyện về thế giới nơi những con người bé nhỏ co cụm tìm đến với nhau để sẻ chia chút hơi ấm và lòng can đảm để bước tiếp. \"Tình yêu là trong lòng luôn cầu mong cho người đó được sống. Nhưng không chỉ có vậy. Tình yêu còn là sức mạnh làm hồi sinh chính bản thân mình.\"</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_a62fcf030e7e2da7eabdea70e75c136e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_a62fcf030e7e2da7eabdea70e75c136e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1087-ban-tay-cho-em-thuviensach.vn.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1087-ban-tay-cho-em-thuviensach.vn.m4a",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

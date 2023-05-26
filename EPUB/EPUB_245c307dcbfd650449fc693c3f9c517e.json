@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tat-lua-long-lan-va-diep-7819.html",
+    "title" : "TẮT LỬA LÒNG (LAN VÀ ĐIỆP)",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Công Hoan",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Tắt Lửa Lòng là một tiểu thuyết tình cảm lãng mạn của nhà văn Nguyễn Công Hoan, giới thiệu lần đầu tiên năm 1933. Tác phẩm này nhanh chóng trở nên phổ biến, và rất nhiều người chuyển thể thành vở kịch, bản nhạc khác nhau. Soạn giả Trần Hữu Trang đã biên kịch lại và chuyển thể lại thành vở cải lương \"Lan và Điệp\" năm 1936. Và cái tên \"Lan và Điệp\" trở thành huyền thoại từ đó, thậm chí nó còn nổi tiếng hơn cả tên tác phẩm Tắt Lửa Lòng.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_245c307dcbfd650449fc693c3f9c517e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_245c307dcbfd650449fc693c3f9c517e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7819-tat-lua-long-lan-va-diep-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7819-tat-lua-long-lan-va-diep-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

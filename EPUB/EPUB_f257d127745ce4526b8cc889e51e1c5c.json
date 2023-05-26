@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tam-gioi-toan-thu-quyen-3-1138.html",
+    "title" : "TAM GIỚI TOÀN THƯ - QUYỂN 3",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thủy Liên Tử",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Chúng sinh, căn bản là khổ giữa dòng đời... Khổ vì tình trường luyến ái, Khổ vì tài lộc công danh, Khổ vì gia đạo lục thân, Khổ vì quốc gia dân tộc, Khổ vì muôn sinh đương khổ. Chỉ khi tự thân không mang lấy chấp niệm vào những sự huyễn hoặc giả tạm, tự thân nhìn thấy được bình yên trong đời giữa trùng trùng khổ nạn thì mới tự tại được. Đã có lúc tình duyên thương mến Bao trái oan tìm đến bủa vây Phong lưu một thoáng đọa đày Buông lòng hồi tỉnh sớm ngày thong dong...</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_f257d127745ce4526b8cc889e51e1c5c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_f257d127745ce4526b8cc889e51e1c5c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1138-tam-gioi-toan-thu-quyen-3-thuviensach.vn.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1138-tam-gioi-toan-thu-quyen-3-thuviensach.vn.m4a",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

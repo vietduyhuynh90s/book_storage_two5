@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/mat-ma-tay-tang-tap-1-38.html",
+    "title" : "MẬT MÃ TÂY TẠNG - TẬP 1",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hà mã",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>MỤC LỤC Chương 1 - Bắt đầu từ một tấm ảnh Bí mật trong tấm ảnh Người điên đầu tiên Bài giảng của Phương T}n Truyền thuyết về Tử Kỳ Lân Chương 2 - Truyền thuyết Tử Kỳ Lân Người điên thứ hai Bộ tộc Qua Ba Trí giả ở Đạt Ngõa Nô Thố Bí mật về cô gái Chương 3 - Hồi ức của Ba Tang Người điên thứ ba Hồi ức của Ba Tang Đ{n ông v{ xe Tranh luận Chương 4 - Băng qua Khả Khả Tây Lý Chiến đấu sinh tử Câu chuyện của Trác Mộc Cường Ba Sinh tồn trên băng nguyên Bá chủ băng nguyên Chương 5 - Chuyến đi kinh hồn trên sông băng tiền sử S|o xương Hang động núi băng Kỳ quan băng Di tích bị đóng băng Chương 6 - Bí mật cuốn nhật ký Thoát chết Trạm cứu hộ Lôi Khắc Tháp Cách Cuốn nhật ký chết chóc Xe lửa xuống miền Nam Chương 7 - Bạc Ba La thần miếu có tồn tại hay không? Bạc Ba La thần miếu Tinh anh tề tựu Giáo quan ma quỷ Nói chuyện dưới trời sao Huấn luyện đặc biệt</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_34c1f6777c3761d0c6aac47d7d1451e4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_34c1f6777c3761d0c6aac47d7d1451e4.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/38-mat-ma-tay-tang-tap-1-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/38-mat-ma-tay-tang-tap-1-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

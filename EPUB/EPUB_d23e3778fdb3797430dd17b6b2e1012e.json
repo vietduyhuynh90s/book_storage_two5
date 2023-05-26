@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/mat-ma-tay-tang-tap-9-46.html",
+    "title" : "MẬT MÃ TÂY TẠNG - TẬP 9",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hà mã",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>CHƯƠNG 62: BÍ ẨN LINH HỒN CHUYỂN THẾ Tẩy huyết Thiên táng Liên minh Thực lực của Merkin Lần đầu thân mật CHƯƠNG 63: ĐỐI ĐẦU THAO THÚ SƯ Mỗi người một ngả Chạy trên lằn ranh sinh tử Suy nghĩ của Quách Nhật Niệm Thanh Tốt cho đa số Hoạn nạn có nhau CHƯƠNG 64: ]M MƯU V[ TÌNH YÊU Thoát khỏi lao ngục Trương Lập gửi mẹ Số mệnh của pháp sư Tháp Tây Gặp lại nhé, Trương Lập Cái chết của Quách Nhật Niệm Thanh CHƯƠNG 65: CUỘC CHIẾN GIỮA NGƯỜI VÀ SÓI Sứ giả của sói Tầng bình đài thứ ba Những ký ức quan trọng Lần thứ hai tiếp xúc với Merkin Đại chiến giữa người và sói Cái chết của Ba Tang CHƯƠNG 66: BA TANG HY SINH Chia làm ba đường Phụ nữ và ma quỷ Kỹ thuật dùng súng cận chiến Lần theo dấu vết Sĩ quan huấn luyện bộ đội đặc chủng quyết đấu Cấp cứu CHƯƠNG 67: GẶP LẠI BA ANH EM SÓI XÁM Nụ hôn biệt ly Lính đánh thuê Tuyệt lộ Phùng sinh Sống chung với sói (1) Sống chung với sói (2) CHƯƠNG 68: NGHÌN SÓI CÙNG TRU Sống chung với sói (3) Săn hươu Sói tru Vũ khí Dấu sói Tiếng sói CHƯƠNG 69: LỐI RA Gọi sói Ác đấu Vĩnh biệt, Nhạc Dương! Về nhà Cái chết của Sói Cả</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_d23e3778fdb3797430dd17b6b2e1012e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_d23e3778fdb3797430dd17b6b2e1012e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/46-mat-ma-tay-tang-tap-9-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/46-mat-ma-tay-tang-tap-9-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

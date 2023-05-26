@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tam-gioi-toan-thu-quyen-5-1140.html",
+    "title" : "TAM GIỚI TOÀN THƯ - QUYỂN 5",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thủy Liên Tử",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Tôi là ai? Từ đâu đến đây? Khi chết sẽ đi về đâu... Truy cầu tìm về cội nguồn của chính mình vẫn luôn là mối trăn trở thường xuất hiện trong tâm cảm mỗi người chúng ta. Tam Giới Toàn Thư quyển 5 này tiếp tục với những đề mục về nguồn gốc vũ trụ, chư vị cao trọng xuất hiện thuở khởi nguyên, và những nơi chốn chân hồn sẽ trở về khi thần thức rời khỏi thân xác hữu hình giả tạm. Đi đâu cũng ráng nhớ, mỗi người chúng ta đều có gia tộc thiêng liêng của mình, còn có ngôi nhà chung hằng hữu nơi cõi hằng sinh. Thủy Liên Tử Tháng 7, năm Kỷ Hợi (2019)</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_77ff3d4635b0ac7daed8a392c77fb0e7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_77ff3d4635b0ac7daed8a392c77fb0e7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1140-tam-gioi-toan-thu-quyen-5-thuviensach.vn.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1140-tam-gioi-toan-thu-quyen-5-thuviensach.vn.m4a",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

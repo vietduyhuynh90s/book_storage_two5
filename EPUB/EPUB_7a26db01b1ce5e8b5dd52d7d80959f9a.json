@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/te-dien-hoa-thuong-7814.html",
+    "title" : "TẾ ĐIÊN HÒA THƯỢNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Khánh Vân",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Tế Điên Hòa Thượng là tác phẩm văn học dân gian Trung Quốc, thuộc loại huyền huyễn hay, kể lại sự tích một vị thiền sư thuộc phái Dương Kỳ, tông Lâm Tế, sống vào đời Tống (khoảng 1150-1209) tại vùng Chiết Giang, Trung Quốc. Cuộc sống của vị thiền sư này có nhiều điều kỳ bí khác đời và cũng khác với đời sống tu hành của Tăng chúng đương thời. Tính tình ông cuồng phóng, thích rượu, thích thịt, người đời gọi ông là \"Tế Điên\", nhưng ông lại là người rất \"tỉnh\", từ bi và ưa giúp đời. Chuyện về cuộc đời của hòa thượng Tế Điên được dân chúng tô đắp thêm nhiều điều kỳ bí, sau được sưu tập, gọt giũa thành tác phẩm \"Tế Điên Hoạt Phật\" hay còn gọi là truyện \"Tế Điên hòa thượng\". Mời các bạn đón đọc Tế Điên Hòa Thượng của tác giả Khánh Vân Cư Sĩ.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_7a26db01b1ce5e8b5dd52d7d80959f9a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_7a26db01b1ce5e8b5dd52d7d80959f9a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7814-te-dien-hoa-thuong-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7814-te-dien-hoa-thuong-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

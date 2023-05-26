@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nhin-an-hop-ly-1232.html",
+    "title" : "NHỊN ĂN HỢP LÝ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Arnold Ehret",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Nhịn ăn là một phương thức chữa lành tuyệt đối cho đời sống động vật. Nó là một phần tự nhiên và (nên là) bản năng của sự sống. Tuy nhiên, không có chủ đề nào gây tranh cãi, thiếu thông tin và gây hiểu lầm hơn là chủ đề nhịn ăn. Ngày nay, người tìm kiếm sức khỏe tự nhiên và người thực hành sức khỏe tự nhiên có rất ít sự nhất trí về cách nhịn ăn hợp lý. Với vài người, một chế độ ăn không chất nhày gồm hoa quả và rau (chế độ ăn không chất nhày) có thể được xem là một cấp độ nhịn ăn. Với những người khác, một chế độ ăn lỏng gồm nước ép hoa quả và rau là nhịn ăn. Nhiều người khẳng định chỉ uống nước lọc mới là nhịn ăn thực sự. Những người khác nói rằng nhịn khô (không chất lỏng hoặc thức ăn cứng) là cách nhịn ăn đúng đắn duy nhất. Chúng ta không cần nghiên cứu ấn phẩm nào khác kỹ hơn ngoài công trình của Giáo sư Arnold Ehret để tìm ra phương thức hợp lý và thực tiễn nhằm hiểu nhịn ăn là gì và thực hiện nó như thế nào. Ehret không có định nghĩa cứng nhắc hay giáo điều về nhịn ăn là và không là gì. Trong cuốn sách này, cũng như nội dung của quyển sách Phương pháp chữa lành bằng chế độ ăn không chất nhày, Ehret thảo luận rộng rãi kinh nghiệm nhịn ăn, gồm chế độ nhịn ăn nước lọc, nước ép và toàn bộ bằng hoa quả. Như định nghĩa chung, Ehret khẳng định rằng nhịn ăn chỉ đơn giản là “ăn ít đi.”</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_127ca6f9abdcfb5b895756d5b380b6ec.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_127ca6f9abdcfb5b895756d5b380b6ec.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1232-nhin-an-hop-ly-thuviensach.vn.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1232-nhin-an-hop-ly-thuviensach.vn.m4a",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/ngon-lua-tim-de-chuyen-hoa-the-xac-tam-tri-tam-hon-193.html",
+    "title" : "NGỌN LỬA TÍM ĐỂ CHUYỂN HÓA THỂ XÁC TÂM TRÍ TÂM HỒN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Neverland",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>MỤC LỤC LỜI GIỚI THIỆU.3 LỜI NÓI ĐẦU..6 NGỌN LỬA TÍM CHỮA LÀNH CÁC VẾT THƯƠNG TỪ TIỀN KIẾP...8 BÍ MẬT CỦA NGỌN LỬA TÍM...17 ĐÔI MẮT CỦA TRẺ THƠ.21 SỰ BẢO VỆ TÂM LINH TỪ NGỌN LỬA TÍM.23 NGỌN LỬA TÍM - MÓN QUÀ CỦA SAINT GERMAIN.24 KINH NGHIỆM VỀ NGỌN LỬA TÍM...26 NGỌN LỬA TÍM HOẠT ĐỘNG NHƯ THẾ NÀO?..27 NGỌN LỬA TÍM HOẠT ĐỘNG NHƯ MỘT CHẤT TẨY MẠNH MẼ..31 CHỮA LÀNH THỂ XÁC VỚI NGỌN LỬA TÍM.33 NGỌN LỬA TÍM GIÚP CÁC THỂ CỦA CHÚNG TA TỰ CHỮA LÀNH...36 VẬT LÝ CHIỀU CAO HƠN LÀM SÁNG TỎ SỰ KỲ DIỆU CỦA NGỌN LỬA TÍM.38 MỘT TRẢI NGHIỆM HOÀI NGHI VỚI NGỌN LỬA TÍM.41 SỰ KHÁC NHAU GIỮA DECREES - BÀI LỆNH VÀ MANTRAS - MẬT CHÚ PHƯƠNG ĐÔNG..43 BỆNH ĐAU LƯNG KINH NIÊN ĐÃ ĐƯỢC CHỮA LÀNH BỞI SAINT GERMAIN VÀ NGỌN LỬA TÍM NHƯ THẾ NÀO..45 CHÍN BƯỚC ĐƯA NGỌN LỬA TÍM VÀO CUỘC SỐNG THƯỜNG NGÀY CỦA BẠN.48 NGỌN LỬA TÍM TIÊU HỦY NHỮNG BẢN GHI CỦA CHIẾN TRANH...59 NHỮNG BÀI LỆNH VÀ NHỮNG SỰ HÌNH DUNG..64</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_e080827b47e06cfb35a572eb0d462d49.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_e080827b47e06cfb35a572eb0d462d49.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/193-ngon-lua-tim-de-chuyen-hoa-the-xac-tam-tri-tam-hon-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/193-ngon-lua-tim-de-chuyen-hoa-the-xac-tam-tri-tam-hon-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

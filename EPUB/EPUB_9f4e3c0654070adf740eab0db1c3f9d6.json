@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/bi-mat-tien-bac-cua-gioi-sieu-giau-13523.html",
+    "title" : "BÍ MẬT TIỀN BẠC CỦA GIỚI SIÊU GIÀU",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Paul Sullivan",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Đừng bao giờ tiêu tiền trước khi có tiền (Thomas Jefferson) Hãy nhớ rằng ai cũng có thể kiếm tiền nhưng chỉ người tài năng thực sự mới biết cách sử dụng đồng tiền (Candace Bushnell) Những người thu nhập cao thuộc nhóm người giàu thật sự hay đó chỉ là những con số được thể hiện trên bảng sao kê ngân hàng? Thực tế, tầng lớp siêu giàu, trung lưu và nghèo khổ chỉ cách nhau bởi một lằn ranh xanh mỏnh manh. Người giàu có thể chỉ là tầng lớp trung lưu, còn nhà tài phiệt cũng có thể đang gánh một món nợ khổng lồ. Cuốn sách BÍ MẬT TIỀN BẠC CỦA GIỚI SIÊU GIÀU đã “bật mí” những cách thức giúp mọi người có thể đưa ra các quyết định tài chính tốt hơn- và hiểu được rằng tiền có ý nghĩa như thế nào đối với họ. Cuốn sách cũng giúp bạn tránh những cạm bẫy xung quanh việc tiết kiệm, chi tiêu, đầu tư và nghĩ khác về sự giàu có để có một cuộc sống an toàn và ít căng thẳng hơn.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_9f4e3c0654070adf740eab0db1c3f9d6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_9f4e3c0654070adf740eab0db1c3f9d6.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13523-bi-mat-tien-bac-cua-gioi-sieu-giau-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13523-bi-mat-tien-bac-cua-gioi-sieu-giau-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

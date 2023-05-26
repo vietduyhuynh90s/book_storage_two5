@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nam-hai-di-nhan-liet-truyen-4986.html",
+    "title" : "NAM HẢI DỊ NHÂN LIỆT TRUYỆN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phan Kế Bính",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Hào kiệt anh tài là khí tinh anh của một nước, cho nên nước nào cũng có, mà thời nào cũng có. Lớn thì gây dựng nên thời thế, tô điểm cho non sông; nhỏ thì lập nên công nghiệp, để danh tiếng về sau; cũng là làm gương cho người đời cả. Nước Nam ta từ xưa đến nay, trải hơn 4.000 năm, chẳng thiếu gì người tài đức, người danh tiếng; nhưng bởi vì sự tích xa xôi mà không rõ, hoặc vì sử sách biên sót mà không tường. Chỉ còn người nào ghi vào sử, hoặc chép vào ký tái của các tư gia, thì còn có thể lưu truyền lại được. Nhưng lại ngặt vì sách thì ít, cho nên lưu truyền ra không được rộng. Người ta nói truyện cổ tích chẳng qua chỉ một vài người được trông vào sách, rồi thì truyền khẩu cho nhau, lõm bõm người nhớ khúc này, kẻ nhớ khúc kia, mỗi người truyền đi lại sai một tý, té ra nhầm lẫn sai cả sự thực của người xưa. Vả chăng mình là người nước Nam, mà sự tích các bậc danh giá trong nước Nam mình không biết, chẳng hóa ra kiến thức của mình kém lắm dư? Vì vậy chúng tôi kê cứu trong chính sử và các tạp ký tìm những truyện các người có danh vọng, có sự tích lạ lùng, chia ra từng môn từng mục, cứ theo thể thức trước sau mà đặt, gọi là “Nam Hải dị nhân liệt truyện”, trước là để lưu cái sự tích của người trước, sau là để các văn nhân tài tử xem cho biết anh tài nước mình, thì chẳng những là giúp được khi vui cười, mà cũng có thể tư ích trí khôn được cho người ta nữa. Còn như những sự quái lạ, là lời tục truyền để lại, thì chúng tôi cũng theo mà chép vào đây, hoặc có, hoặc không, tùy người xem nên lấy nghĩa lý mà đoán, chớ cũng không dám chắc là có những việc ấy cả.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_9311324ec4ccb87fb341ecc79342046b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_9311324ec4ccb87fb341ecc79342046b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/4986-nam-hai-di-nhan-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/4986-nam-hai-di-nhan-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

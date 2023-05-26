@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/gia-tri-cua-cac-mon-an-thuc-duong-1099.html",
+    "title" : "GIÁ TRỊ CỦA CÁC MÓN ĂN THỰC DƯỠNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Georges Ohsawa",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Thật thú vị khi ngày nay người ta thích những chương trình về Thức ăn trên mạng hay các chương trình truyền hình như Người đầu bếp Sắt và Nhà bếp của Địa ngục hơn là chiêm nghiệm cảm giác sáng tạo trong căn bếp của chính họ. Lịch sử đã chứng minh rằng, nấu nướng đã trở thành một phần không thể thiếu trong cuộc sống hàng ngày, nó không chỉ giúp chúng ta nuôi dưỡng mà còn có một nhiệm vụ cao cả đó là gắn kết gia đình và xã hội qua những bữa ăn chung. Cần phải nhớ rằng nấu nướng là một trong các bộ môn nghệ thuật sáng tạo nhất, cũng giống như vẽ, nhảy, hay việc ghi bàn trong một trận bóng đá, nấu nướng cũng có thể nuôi dưỡng và làm thoả mãn tinh thần sáng tạo của chúng ta. Dù phục vụ một bát mì hay nấu ăn trong một bữa tiệc linh đình, rất nhiều tình yêu thương và năng lượng được chứa đựng trong những chiếc tô và chiếc đĩa đó. Khi chia sẻ về cùng một món ăn, cùng một cách nấu nướng hay cùng một thực đơn, chúng ta đang tạo nên một sự kết nối mạnh mẽ. Sự kết nối này được phản ánh qua những nền văn hoá lâu đời và the vast array of ethnic cooking trên thế giới mà chúng ta được thưởng thức ngày nay. Chúng ta có thể cảm nhận được sự đồng cảm với những người đã từng được nếm qua rất nhiều loại thức ăn như chúng ta, đồng thời cũng cảm thấy thoải mái dễ chịu khi không phải giải thích cảm nhận của bản thân như thế nào. Khi còn sống ở Bồ Đào Nha, tôi sẽ rất phấn khích đến nỗi hầu như có thể tưởng tượng rằng một gia đình du khách người Anh đã không còn họ hàng từ lâu khi nhìn thấy họ chất đầy những thùng to và thuổng. Việc đó giúp ngăn tôi lại, không chạy xô đến và tham gia tranh luận với họ về những điều kỳ diệu của những hạt đậu nướng hay cười với giọng khàn khàn về các chương trình truyền hình như con trẻ.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_57a6f53ab5a9171bf4ecb1773af80290.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_57a6f53ab5a9171bf4ecb1773af80290.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1099-gia-tri-cua-cac-mon-an-thuc-duong-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1099-gia-tri-cua-cac-mon-an-thuc-duong-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

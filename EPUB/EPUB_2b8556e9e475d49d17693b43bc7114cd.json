@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/harry-potter-va-bao-boi-tu-than-1064.html",
+    "title" : "HARRY POTTER VÀ BẢO BỐI TỬ THẦN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "J. K. Rowling",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Harry Potter và Bảo bối Tử thần tiếp tục cuộc tìm kiếm những Trường Sinh Linh Giá còn lại mà Harry chưa phá hủy trong tập 6. Sau cái chết của Albus Dumbledore, Chúa tể Voldemort và các Tử thần Thực tử đã xâm nhập vào được Bộ Pháp thuật, giết chết Bộ trưởng và thay thế với một người dưới sự điều khiển của Voldemort. Dưới chế độ mới, một chính sách kỳ thị đã được chấp hành: những người không có dòng máu pháp thuật bị bắt bớ, đăng ký và tước quyền sử dụng đũa phép, một chính sách tương tự như thời Đức Quốc Xã. Dưới tình hình đen tối này, Severus Snape trở thành hiệu trưởng mới của trường Hogwarts và Harry Potter là \"Kẻ Phá Rối số 1\" bị truy nã bởi Bộ Pháp thuật. Harry, Ron và Hermione không trở lại trường Hogwarts mà cùng nhau săn lùng và phá hủy các Trường Sinh Linh Giá của Voldemort. Trên đường, họ khám phá ra khá nhiều điều về quá khứ bí ẩn của cụ Dumbledore và các Bảo bối Tử thần-những bảo vật dùng để trốn thoát cái chết. Với bốn di vật được cụ Dumbledore để lại trong di chúc và sự hỗ trợ của một ân nhân giấu mặt, Harry, Ron và Hermione cùng nhau phá hủy các Trường sinh linh giá, cuối cùng đánh bại Voldemort và cứu thế giới phù thủy, nhưng họ phải trả một cái giá rất đắt với bao nhiêu người thân tử trận trên chiến trường.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_2b8556e9e475d49d17693b43bc7114cd.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_2b8556e9e475d49d17693b43bc7114cd.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1064-harry-potter-va-bao-boi-tu-than-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1064-harry-potter-va-bao-boi-tu-than-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

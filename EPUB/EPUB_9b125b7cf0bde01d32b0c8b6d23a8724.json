@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/chet-vao-than-trung-am-va-tai-sinh-321.html",
+    "title" : "CHẾT VÀO THÂN TRUNG ẤM VÀ TÁI SINH",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đạt Lai Lạt Ma",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>MỤC LỤC Lời nói đầu của Đức Đạt Lai Lạt Ma..7 Lời tựa...17 Giác Đạo Đăng, Căn Bản Tam Thân Luận Chết, Trung Ấm và Tái Sinh - Đại sư Yang-jen-ga-way-lo-dro...33 Nhập đề.35 1. Các Giai Đoạn của Sự Chết.38 2. Các Giai Đoạn Hoàn Tất Thân Trung Ấm..63 3. Đi Tái Sinh...76 4. Dứt Sinh Tử.87 Thư mục tham khảo..93</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_9b125b7cf0bde01d32b0c8b6d23a8724.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_9b125b7cf0bde01d32b0c8b6d23a8724.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/321-chet-vao-than-trung-am-va-tai-sinh-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/321-chet-vao-than-trung-am-va-tai-sinh-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

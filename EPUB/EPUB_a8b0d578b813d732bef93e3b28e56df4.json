@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nuoi-con-khong-phai-la-cuoc-chien-quyen-1-785.html",
+    "title" : "NUÔI CON KHÔNG PHẢI LÀ CUỘC CHIẾN - QUYỂN 1",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hachun Lyonnet",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Mục Lục Lời giới thiệu Lời tựa PHẦN 1 NUÔI CON KHÔNG PHẢI LÀ CUỘC CHIẾN CHƯƠNG 1: ĂN NGỦ TỰ LẬP - MẸ NHÀN CON NGOAN I. Nếp sinh hoạt EASY II. Giúp trẻ tự ngủ III. Cho bé bú (Ăn) CHƯƠNG 2: TUẦN PHÁT TRIỂN KĨ NĂNG VÀ TINH THẦN CHƯƠNG 3: ĂN DẶM BÉ CHỈ HUY (BABY LED WEANING) I. Chuẩn bị cho việc ăn dặm bé chỉ huy II. Các giai đoạn ăn dặm bé chỉ huy (BLW) III. Ăn dặm bé chỉ huy không hoàn toàn CHƯƠNG 4: DINH DƯỠNG CHO BÉ I. Con bạn có thiếu chất không? II. Cho con ăn - đúng và đủ?̀ III. Những sai lầm các mẹ thường gặp khi chuẩn bị thức ăn cho con IV. Sữa bò tươi và các chế phẩm của sữa PHẦN 2 DẠY CON KHÔNG PHẢI LÀ CUỘC CHIẾN CHƯƠNG 5: AN TOÀN CHO TRẺ, AN TÂM CHO MẸ CHA CHƯƠNG 6: TỰ LẬP TỪ TRONG NÔI I. Kĩ năng “tự trấn an” bản thân II. Nếp chơi độc lập III. Giai đoạn “lo sợ xa cách” của trẻ IV. Tầm quan trọng của nếp sinh hoạt V. Khích lệ bản năng tự lập của con VI. Kĩ năng tự chăm sóc bản thân VII. Tự xử lý tình huống CHƯƠNG 7: KỶ LUẬT TÍCH CỰC I. Vì sao trẻ “giở chứng”? II. Thước đo hành vi của con chính là phản ứng của cha mẹ III. Chưa ngoan và cách chèo lái trước khi trở thành “hư” IV. Cha mẹ nên hiểu gì thông qua các mục đích trẻ cần đạt được khi hư? CHƯƠNG 8: CON ĐI NHÀ TRẺ I. Chọn trường phù hợp cho con II. Chuẩn bị tâm lý CHƯƠNG 9: BÉ ĐI DU LỊCH I. Sức khỏe II. Phương tiện đi lại Sách nên đọc</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_a8b0d578b813d732bef93e3b28e56df4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_a8b0d578b813d732bef93e3b28e56df4.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/785-nuoi-con-khong-phai-la-cuoc-chien-quyen-1-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/785-nuoi-con-khong-phai-la-cuoc-chien-quyen-1-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

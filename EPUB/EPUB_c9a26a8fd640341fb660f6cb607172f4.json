@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tinh-hoa-xu-the-phuong-dong-1057.html",
+    "title" : "TINH HOA XỬ THẾ PHƯƠNG ĐÔNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hồng Ứng Minh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>“TINH HOA XỬ THẾ PHƯƠNG ĐÔNG - THÁI CĂN ĐÀM” là bộ sách xử thế kinh điển của tác giả Hồng Ứng Minh, người thời Minh - Trung Quốc. Đây là một trong ba bộ kỳ thư xử thế được lưu truyền đến ngày nay cùng với “Tiểu song u ký” của Trần Kế Nho cũng thời Minh và “Vi lư dạ thoại” của Vương Vĩnh Bưu thời Thanh. Tên sách “Thái Căn Đàm” (bàn về rễ rau) nói lên dụng ý của tác giả là “tài trí và kết quả tu dưỡng của con người chỉ đạt được khi trải qua một quá trình rèn luyện gian khổ”. Bình luận về tên sách, Mao Trạch Đông viết: “Người nhai được rễ rau thì việc gì cũng làm được.” Tác giả đã kết hợp ba trường phái tư tưởng: Nhập thế của Nho gia, Vô vi của Đạo gia và Xuất thế của nhà Phật cùng với sự trải nghiệm của bản thân tác giả để đúc kết thành một tập hợp các nguyên tắc và phương pháp ứng xử của con người. Nội dung bộ sách chia làm ba phần chính: Phần một: Đạo làm người và xử thế Phần hai: Tu thân, dưỡng tính Phần ba: Thành bại trong sự nghiệp Tác giả trình bày vấn đề ngắn gọn bằng cách diễn giải từ những câu cách ngôn trí tuệ về nhân sinh và xử thế hàm chứa ý nghĩa sâu sắc được minh họa qua những điển cố chọn lọc, đậm đà sắc thái văn hóa của xã hội phương Đông ngày trước.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_c9a26a8fd640341fb660f6cb607172f4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_c9a26a8fd640341fb660f6cb607172f4.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1057-tinh-hoa-xu-the-phuong-dong-thuviensach.vn.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1057-tinh-hoa-xu-the-phuong-dong-thuviensach.vn.m4a",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

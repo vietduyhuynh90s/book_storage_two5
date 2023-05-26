@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tai-sao-dan-ong-thich-tinh-duc-va-phu-nu-can-tinh-yeu-407.html",
+    "title" : "TẠI SAO ĐÀN ÔNG THÍCH TÌNH DỤC VÀ PHỤ NỮ CẦN TÌNH YÊU",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Allan",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Allan cùng Barbara Pease là hai tác giả thành công nhất trong mảng sách chuyên đề về các mối quan hệ con người. Tổng cộng, họ đã viết được 15 đầu sách ăn khách - trong đó có 9 quyển bán chạy nhất thế giới - và tổ chức nhiều buổi hội thảo chuyên đề ở gần 30 quốc gia mỗi năm. Sách của họ có mặt trên hơn 100 nước, được dịch ra 51 thứ tiếng và bán được hơn 25 triệu bản. Ngoài ra, họ còn thường xuyên xuất hiện trên những phương tiện truyền thông khắp thế giới - công trình nghiên cứu của họ là chủ đề của 9 series truyền hình, một vở kịch sân khấu và một bộ phim ăn khách hàng đầu với tổng số khán giả ước tính hơn 100 triệu lượt người. Công ty Pease International Ltd. của họ chuyên cung cấp phim video, các khóa đào tạo cùng những buổi hội thảo chuyên đề cho nhiều doanh nghiệp và chính phủ trên khắp các châu lục. Chuyên mục hàng tháng của họ về những mối quan hệ tình cảm đã thu hút hơn 20 triệu độc giả ở 25 quốc gia. Cặp vợ chồng này hiện đang sống tại Úc và Vương quốc Anh cùng 6 người con và 5 đứa cháu nội ngoại. Vừa qua, Allan & Barbara Pease đã quay trở lại với quyển sách quan trọng nhất của họ: Tại sao đàn ông thích tình dục và Phụ nữ cần tình yêu. Trong quyển sách Tại Sao Đàn Ông Thích Tình Dục Và Phụ Nữ Cần Tình Yêu này, họ đã tiết lộ một sự thật về hai phái; đồng thời bằng tài năng của mình, họ đã làm cho các kiến thức khoa học trở nên thú vị, lôi cuốn, dễ hiểu, qua đó hướng dẫn chúng ta cách vận dụng những kiến thức ấy để tìm kiếm tình yêu, giải quyết các rắc rối trong chuyện tình cảm và sống hạnh phúc hơn với người bạn đời. Quyển sách tiết lộ: * Những điều mà cả hai phái thực sự mong muốn trong tình yêu lẫn tình dục * Cách giúp tìm kiếm người bạn đời tuyệt vời và chung sống hạnh phúc * Những điều cần làm khi hormone trong cơ thể tăng cao * Những điều làm tăng/giảm hàm lượng testosterone trong não * Cách cư xử với người bạn tình lừa dối * Làm sao để cải thiện đời sống tình yêu * Làm gì để lấy lại “phong độ”</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_9aaecb6aa5554fc5af00ef8a91bd6979.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_9aaecb6aa5554fc5af00ef8a91bd6979.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/407-tai-sao-dan-ong-thich-tinh-duc-va-phu-nu-can-tinh-yeu-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/407-tai-sao-dan-ong-thich-tinh-duc-va-phu-nu-can-tinh-yeu-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

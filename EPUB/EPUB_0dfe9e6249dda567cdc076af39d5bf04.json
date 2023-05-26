@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/hanh-trinh-mot-linh-hon-188.html",
+    "title" : "HÀNH TRÌNH MỘT LINH HỒN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Peter Richelieu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>LỜI GIỚI THIỆU Mặc dù tôi không phải là một nhà văn và cũng không hề có tài năng hay kinh nghiệm gì về viết văn, quyển sách này được cho ra đời không chút ngại ngùng vì tôi làm theo lệnh của một Vị mà tôi thấy cần phải vâng lời. Phần của sách chứa đựng nhiều điều thích thú hấp dẫn người đọc nhất sẽ bắt đầu từ Chương Bốn. Cho ai không hề nhớ chút gì về những việc mình đã làm trong lúc ngủ, những chương sách này chứa đựng nhiều điều hoàn tòan mới lạ. Có điều tôi phải nói là bởi nhiều việc cần giải thích cần kẽ, độc giả được khuyến khích là đừng đọc lướt qua một cách vội vã những chương đầu, để mong sớm tới chương hấp dẫn phía sau! Những chương mở đầu ghi lại câu chuyện với một bậc Thầy người Ấn, có chứa đầy ắp những dữ kiện thiết yếu mà độc giả cần biết để hiểu rõ các chương sau, cũng như chúng là chìa khóa giải thích nhiều điều xảy tới cho chúng ta vào lúc này hay lúc kia trong đời. Ai đọc các chương mở đầu chậm rãi, kỹ càng và thường xuyên xem trở lại chúng sẽ thu thập trọn vẹn những chi tiết tổng quát, cũng như là có được căn bản vững chắc để thông hiểu dễ dàng phần chuyện tiếp theo các chương ấy. Khi viết lại kinh nghiệm của mình tôi không tô điểm trau chuốt gì thêm, nếu những kinh nghiệm này giúp được vài người trong các bạn hiểu được ý nghĩa của cuộc sống và thấy được an ủi, nếu nó cho bạn hiểu biết về sự tiến hóa của loài thú, khiến bạn thấy có lý do làm bạn với thú vật, thì quyển sách được viết ra không đến nỗi vô ích. Peter Richelieu</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_0dfe9e6249dda567cdc076af39d5bf04.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_0dfe9e6249dda567cdc076af39d5bf04.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/188-hanh-trinh-mot-linh-hon-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/188-hanh-trinh-mot-linh-hon-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

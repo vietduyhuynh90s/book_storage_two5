@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/boi-cung-ca-map-ma-khong-bi-nuot-chung-13520.html",
+    "title" : "BƠI CÙNG CÁ MẬP MÀ KHÔNG BỊ NUỐT CHỬNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Harvey B. Mackay",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Bơi cùng cá mập mà không bị nuốt chửng không chỉ là một bộ sưu tập những tư tưởng thông thái trong kinh doanh, mà còn là một kho báu vô giá những bài học có thể áp dụng ngay vào công việc kinh doanh, vào cuộc sống, các mối quan hệ và các mục tiêu của bạn. ĐÁNH GIÁ/ NHẬN XÉT: “Từ khi bắt đầu áp dụng những bài học của Harvey Mackay, tôi không thể ngừng đọc cuốn sách. Mỗi bài học đều rõ ràng, thẳng thắn và tập trung vào vấn đề. Đây là cuốn sách mà bắt buộc mọi nhân viên của Estee Lauder phải đọc. Rồi chúng tôi sẽ có thể vượt xa các đối thủ khác.” - Leonard Lauder, chủ tịch kiêm CEO Tập đoàn Estee Lauderye “Harvey Mackay đã khéo léo diễn giải các thuật ngữ chuyên sâu và quan trọng theo cách vui nhộn và thú vị. Những sinh viên học ngành quản lý, lãnh đạo có thể học được nhiều thứ từ cuốn sách này.” - Harvey Golub, Chủ tịch kiêm CEO Tập đoàn Dịch vụ Tài chính IDS “Đưa ra lời khuyên bổ ích cũng khó như tiếp nhận lời khuyên vậy, nhưng Harvey Mackay làm tốt cả hai. Những bài học sắc sảo của Harvey Mackay đưa ra các ý tưởng rất dễ hiểu và dễ đồng cảm. Anh nhẹ nhàng dẫn dắt độc giả trải qua chuỗi khoảnh khắc thú vị, đến cảm giác cuối cùng ‘Ồ đương nhiên, thật rõ ràng, quá là đúng đắn!’ - tố chất của một giáo viên giỏi.” - Roy Menninger M. D., Chủ tịch, sáng lập Tập đoàn Menninger Giải thưởng: Sách nằm trong Top 100 cuốn sách kinh doanh kinh điển nhất mọi thời đại do Goodreads bình chọn VỀ TÁC GIẢ: Harvey Mackay là một trong những tác giả được ưa chuộng nhất, tác giả cuốn Tự đào giếng trước khi chết khát. Ông là nhà báo chuyên trách các vấn đề nghiệp đoàn cấp quốc gia, những bài báo của ông đã xuất hiện trong 50 tờ báo trên khắp nước Mỹ. Ông cũng là một CEO và một nhà lãnh đạo xuất chúng.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_50abb398f87c571a7d351a4292d4ba50.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_50abb398f87c571a7d351a4292d4ba50.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13520-boi-cung-ca-map-ma-khong-bi-nuot-chung-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13520-boi-cung-ca-map-ma-khong-bi-nuot-chung-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

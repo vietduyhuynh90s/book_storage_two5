@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/chi-ton-ca-289.html",
+    "title" : "CHÍ TÔN CA",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Vyasa",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Mục lục CHƯƠNG 1 - Sự quan sát đạo quân trên chiến địa Kurukshetra.2 CHƯƠNG 2 - Tóm tắt nội dung của Gita.6 CHƯƠNG 3 - Karma-yoga.12 CHƯƠNG 4 - Trí tuệ siêu việt..16 CHƯƠNG 5 - Karma-yoga - Hành động trong ý thức Krishna..20 CHƯƠNG 6 - Dhyāna-yoga...23 CHƯƠNG 7 - Tri thức về Đấng Tuyệt Đối...27 CHƯƠNG 8 - Đạt tới Thượng Đế..30 CHƯƠNG 9 - Tri thức huyền nhiệm nhất.33 CHƯƠNG 10 - Sự tuyệt diệu của Đấng Tuyệt Đối..36 CHƯƠNG 11 - Vóc thể vũ trụ..39 CHƯƠNG 12 - Sự phục vụ tận tụy...40 CHƯƠNG 13 - Thiên nhiên, đấng hưởng lạc và ý thức.47 CHƯƠNG 14 - Ba thuộc tính của thiên nhiên vật chất.50 CHƯƠNG 15 - Yoga của Đấng Tối Cao.50 CHƯƠNG 16 - Bản chất thần thánh và quỷ quái.53 CHƯƠNG 17 - Những biến thể của đức tin..57 CHƯƠNG 18 - Kết luận - Sự toàn thiện của đức xả ly.60</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_f1f6c5cd1b94e21d2ae64170cf1efa48.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_f1f6c5cd1b94e21d2ae64170cf1efa48.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/289-chi-ton-ca-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/289-chi-ton-ca-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

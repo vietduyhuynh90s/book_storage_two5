@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/thuc-an-quyet-dinh-so-phan-cua-ban-13533.html",
+    "title" : "THỨC ĂN QUYẾT ĐỊNH SỐ PHẬN CỦA BẠN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Namboku Mizuno",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Cuốn sách \"Thức Ăn Quyết Định Số Phận Của Bạn\" của tác giả Namboku Mizuno biên soạn nhằm giáo dục con người thông qua thức ăn đã và sẽ là con đường và mục đích của hệ thống giáo dục toàn cầu bắt đầu từ nền minh triết cổ đại của người Việt cổ - “học ăn” được soi sáng bởi pháp Thiền nguyên thuỷ (Vipassana - Minh sát tuệ) của Đức Phật, vì chính điều này đã được ghi lại trong kinh điển nguyên thủy của Phật giáo. Cuốn sách này gồm hai phần: Phần đầu là nguyên văn những gì mà nhà Nhân tướng học nổi tiếng nhất Nhật Bản ghi lại phần hai gồm những sưu tập về ăn uống có liên quan mất thiết đối với số phận của con người theo ý kiến của tiên sinh Ohsawa, theo truyền thống của Phật giáo nguyên thuỷ, đại thừa và các truyền thống khác.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_0ad84966acf2b3889b5f18556518e522.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_0ad84966acf2b3889b5f18556518e522.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13533-thuc-an-quyet-dinh-so-phan-cua-ban-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13533-thuc-an-quyet-dinh-so-phan-cua-ban-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

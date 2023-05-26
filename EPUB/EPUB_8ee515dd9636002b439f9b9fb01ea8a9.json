@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/5-ngon-ngu-tinh-yeu-1769.html",
+    "title" : "5 NGÔN NGỮ TÌNH YÊU",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Gary Chapman",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Năm Ngôn ngữ Tình yêu là cuốn sách được biên dịch từ tác phẩm nổi tiếng The Five Love Languages của chuyên gia tâm lý - Tiến sĩ Gary Chapman - cuốn sách luôn nằm trong danh sách những cuốn sách bán chạy nhất thế giới và đã được dịch ra 40 ngôn ngữ. Riêng bản tiếng Anh đã phát hành được trên 5 triệu bản và luôn nằm trong top 100 cuốn sách bán chạy nhất của Amazon.com. Việt Nam là ngôn ngữ thứ 41. Năm Ngôn ngữ Tình yêu của Gary Chapman sẽ hé mở cho bạn một điều thú vị rằng, mỗi người trong chúng ta đều có một “ngôn ngữ tình yêu” khác nhau. Khi hiểu được sự khác biệt ấy và biết cách sử dụng đúng ngôn ngữ tình yêu của mình, các bạn sẽ xây dựng được một nền tảng vững chắc cho tình yêu và một gia đình hạnh phúc, nơi cả hai đều cảm thấy mình được quan tâm, yêu thương và chia sẻ trong sự ấm áp, nồng nàn của tình yêu. Để có một đời sống gia đình hạnh phúc bền lâu, cả hai cần dành ra những giờ phút chia sẻ, thảo luận về quan điểm và những điều mình mong muốn từ hành động, lời nói của nhau. Rất có thể, ngôn ngữ yêu thương của bạn và chồng (hoặc vợ bạn) là hoàn toàn khác nhau. Do đó, chúng ta cần sẵn lòng học lấy ngôn ngữ tình yêu của người mình yêu. Và, khi các bạn có thể chia sẻ và thông hiểu nhau nhiều nhất, tình yêu của các bạn sẽ thăng hoa… Với kinh nghiệm ba mươi năm tư vấn hôn nhân, tác giả đã đúc kết được 5 Ngôn ngữ Tình yêu cơ bản - đó là năm cách để biểu đạt và thấu hiểu cảm xúc trong tình yêu. Tuy nhiên, mức độ áp dụng của mỗi người lại khác nhau. Điều quan trọng nhất cần nhớ là, hãy nói bằng ngôn ngữ tình yêu của người bạn đời chứ không phải của bản thân bạn.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_8ee515dd9636002b439f9b9fb01ea8a9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_8ee515dd9636002b439f9b9fb01ea8a9.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1769-5-ngon-ngu-tinh-yeu-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1769-5-ngon-ngu-tinh-yeu-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

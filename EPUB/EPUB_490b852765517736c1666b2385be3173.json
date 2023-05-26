@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/duoi-chan-thay-183.html",
+    "title" : "DƯỚI CHÂN THẦY",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jiddu Krishnamurti",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>LỜI TỰA Với tư cách là một huynh trưởng, tôi được trao đặc quyền viết lời giới thiệu cho quyển sách nhỏ này, là tác phẩm đầu tay của một huynh đệ trẻ tuổi, trẻ về thể xác nhưng không trẻ về mặt linh hồn. Lời giáo huấn trong sách này là do Chân Sư truyền dạy trong lúc chuẩn bị cho em được điểm đạo và được em ghi nhớ trong trí để viết lại − một cách chậm chạp và cần mẫn, vì trình độ Anh ngữ của em năm ngoái kém xa mức lưu loát hiện nay của em. Phần lớn là sự lặp lại chính lời dạy của Chân Sư, còn lại là ý tưởng của Chân Sư do em diễn đạt lại. Hai câu bị bỏ sót đã được Ngài thêm vào. Hai từ bị thiếu cũng đã được bổ sung. Ngoài điều này ra, quyển sách hoàn toàn là của Alcyon, món quà đầu tiên mà em tặng cho thế gian. Quyển sách này có thể giúp ích cho mọi người cũng như những lời dạy đã giúp đỡ em − đó là hy vọng mà vì thế em đã cống hiến quyển sách này. Nhưng lời giáo huấn chỉ có thể có kết quả nếu nó được tuân theo, cũng như nó đã được em tuân thủ từ khi những lời ấy thốt ra từ Chân Sư. Nếu mẫu mực được chấp hành như giới luật thì đối với người đọc cũng như đối với người viết, Cửa Đền vĩ đại sẽ từ từ mở ra và người ấy sẽ đặt chân lên Thánh Đạo. ANNIE BESANT Tháng 12 năm 1910 (Lời tựa trên đây được viết khi ông J. Krishnamurti được 15 tuổi và vẫn còn dưới sự giám hộ của Tiến Sĩ Annie Besant − Nhà xuất bản) Kính tặng những người gõ cửa</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_490b852765517736c1666b2385be3173.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_490b852765517736c1666b2385be3173.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/183-duoi-chan-thay-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/183-duoi-chan-thay-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

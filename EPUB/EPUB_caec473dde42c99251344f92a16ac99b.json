@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/toi-la-ai-va-neu-vay-thi-bao-nhieu-409.html",
+    "title" : "TÔI LÀ AI - VÀ NẾU VẬY THÌ BAO NHIÊU?",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Richard David Precht",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Mình đã kết thúc cuốn sách này với niềm hân hoan tột độ. Một cuốn sách dẫn nhập về triết hết sức gần gũi. Không phải loại triết trên giảng đường ĐH. Hay đến nỗi không dám đọc một lèo, mà phải nhấm nháp từng chút một. Hay ngay từ cái tên “Tôi là ai” với bất kỳ ai đang sống trên cuộc đời này muốn quay trở lại đặt một câu hỏi bản thể luận rằng, tôi là ai? Tôi có phải như René Descartes đã xác định bằng câu nói “Tôi tư duy thì tôi tồn tại không”. Liệu cái bản ngã nó nằm ở đâu trong tôi, có thực là có cái tôi đấy không, hay là tôi chỉ là một phức hợp sinh điện hóa của hữu cơ các nguyên tử. Và nếu có thực nó nằm đâu trong con người tôi. Tại sao tôi có thể vừa ăn vừa xem tivi mà không cần phải chú ý đến hành động nghiền thức ăn của răng, vô thức đã hoạt động hiệu quả và biến những trải nghiệm ý thức của tôi vào trong não và qua những giấc mơ thế nào. Đọc cuốn sách mà không thấy sót một triết gia nào, từ đại thụ Socrate, Aristole, Platon cho đến Hegel, I.Kant và hàng chục nhà sinh học, phân tâm, tâm lý, vật lý học khác cũng quay lại ngồi cùng với tác giả đặt lại câu hỏi “Tôi là ai”. Đọc rồi bạn sẽ hiểu vì sao có những cuốn sách, chỉ bạn đọc bạn thấy nó hay vô cùng, nhưng người khác không thấy được như bạn, tại sao lại có nhiều hướng nhận xét khác nhau trong trang này về cuốn sách như vậy. và Nếu như bạn chưa thể cảm nhận được nó, cũng đừng vội bỏ xó, hãy tiếp tục trải nghiệm rồi lật giở cuốn sách về những chính những gì bạn vừa trải qua, rồi đọc xem có thú vị hay không. Thực sự kinh ngạc và sung sướng vô cùng. Con người đến lúc nào đó, cũng phải đặt lại một câu hỏi về bản thân mình. Đó là hành động khắc khoải, tìm lại chính mình, tìm lại được bản thân. Đó là hành động phản tỉnh của một loài động vật có ý thức, tự truy vấn lại gốc gác xa xưa, như một đứa con xa tìm về quê mẹ mà hành trang chẳng cần gì nhiều ngoài một cuốn sách như thế này.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_caec473dde42c99251344f92a16ac99b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_caec473dde42c99251344f92a16ac99b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/409-toi-la-ai-va-neu-vay-thi-bao-nhieu-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Phần 1/3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/409-toi-la-ai-va-neu-vay-thi-bao-nhieu-thuviensach.vn.mp3?t=14272",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:57:52 Phần 2/3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/409-toi-la-ai-va-neu-vay-thi-bao-nhieu-thuviensach.vn.mp3?t=32349",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:59:09 Phần 3/3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/409-toi-la-ai-va-neu-vay-thi-bao-nhieu-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Phần 1/3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/409-toi-la-ai-va-neu-vay-thi-bao-nhieu-thuviensach.vn.mp3?t=14272",
+    "title" : "03:57:52 Phần 2/3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/409-toi-la-ai-va-neu-vay-thi-bao-nhieu-thuviensach.vn.mp3?t=32349",
+    "title" : "08:59:09 Phần 3/3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

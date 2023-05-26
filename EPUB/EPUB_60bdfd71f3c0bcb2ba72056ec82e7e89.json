@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/vu-tru-xoan-quyen-2-51.html",
+    "title" : "VŨ TRỤ XOẮN - QUYỂN 2",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Dolores Cannon",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>MỤC LỤC MỤC I - LỢI ÍCH CỦA LIỆU PHÁP TIỀN KIẾP 5 Chương 1: Sự Khởi Đầu Của Tôi Trong Thôi Miên 5 Chương 2: Trị Liệu Tiền Kiếp Bình Thường 14 MỤC II - TRI THỨC CỔ ĐẠI VÀ NHỮNG NỀN VĂN MINH BỊ MẤT 28 Chương 3: Người Mèo (Một Nhân Sư Khác Biệt) 28 Chương 4: Nữ Thần Isis 46 Chương 5: Thành Phố Ẩn Tàng 59 Chương 6: Đào Thoát Từ Atlantis 73 Chương 7: Tri Thức Cổ Đại 86 Chương 8: Di Tản 112 MỤC III: SINH MỆNH TIẾN HÓA VÀ NGHIỆP 119 Chương 9: Có Con Tạo Nên Nghiệp 119 Chương 10: Kiếp Sống Trong Thân Thể Phi Nhân Loại 134 Chương 11: Người Lạ Với Trái Đất 142 Chương 12: Làm Việc Suốt Trong Giấc Ngủ 152 Chương 13: Người Thứ Nhất Của Bộ Bảy 173 Chương 14: Sinh Mệnh Tiến Bộ 194 MỤC IV - TRÍ GIẢ 216 Chương 15: Nhớ Về Một Trí Giả 216 Chương 16: Tìm Kiếm Một Trí Giả 228 MỤC V - NHỮNG HÀNH TINH KHÁC 243 Chương 17: Cuộc Sống Trên Những Hành Tinh Khác 243 Chương 18: Hành Tinh Với Mặt Trời Tím 250 MỤC VI - NHỮNG CỔNG THỜI GIAN 268 Chương 19: Người Giám Hộ Cổng 268 Chương 20: Người Thổ Dân 283 Chương 21: Cổng Thời Gian Cho Sinh Mệnh Tương Lai (Nhà Du Hành Thời Gian) 301 MỤC VII - SINH MỆNH NĂNG LƯỢNG VÀ SINH MỆNH NHÀ SÁNG TẠO 314 Chương 22: Những Bí Ẩn 314 Chương 23: Sinh Mệnh Năng Lượng Khác 336 Chương 24: Nếu Bạn Nghĩ, Bạn Sáng Tạo 345 Chương 25: Một Sinh Mệnh Năng Lượng Sáng Tạo 357 Chương 26: Sinh Mệnh Nhà Sáng Tạo Về Nhà 375 MỤC VII - BƯỚC KHỎI ĐÁY SÂU 388 Chương 27: Người Mơ Mơ Giấc Mơ 388 Chương 28: Một Lựa Chọn Khác Với Walk-in 400 Chương 29: Linh Hồn Đa Diện 417 Chương 30: Trái Đất Mới 443 Chương 31: Kết 469 Trang Tác Giả 474</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_60bdfd71f3c0bcb2ba72056ec82e7e89.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_60bdfd71f3c0bcb2ba72056ec82e7e89.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/51-vu-tru-xoan-quyen-2-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/51-vu-tru-xoan-quyen-2-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
