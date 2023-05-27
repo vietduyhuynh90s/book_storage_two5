@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/su-tai-lam-cua-duc-christ-280.html",
+    "title" : "SỰ TÁI LÂM CỦA ĐỨC CHRIST",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Alice Bailey",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>SÁCH CỦA TÁC GIẢ ALICE A. BAILEY Điểm Đạo: Nhân Loại Và Thái Dương Tham Thiền Huyền Môn Tâm Thức Của Nguyên Tử Luận Về Lửa Càn Khôn Ánh Sáng Của Linh Hồn Linh Hồn Và Các Thể Từ Trí Tuệ Đến Trực Giác Luận Về Huyền Linh Thuật Từ Bethlehem Đến Calvary Đường Đạo Trong Kỷ Nguyên Mới - Tập I Đường Đạo Trong Kỷ Nguyên Mới - Tập II Những Vấn Đề Khó Khăn Của Nhân Loại Sự Tái Lâm Của Đức Christ Vận Mệnh Của Các Quốc Gia Ảo Cảm: Một Vấn Đề Của Thế Giới Viễn Cảm Và Thể Dĩ Thái Tự Truyện Chưa Hoàn Tất Giáo Dục Trong Kỷ Nguyên Mới Sự Hiển Lộ Của Thánh Đoàn Sự Chết - Cuộc Phiêu Lưu Vĩ Đại. Linh Hồn, Tính Chất Của Sự Sống. Luận Về Bảy Cung: Tập I - Tâm Lý Học Nội Môn I Tập II - Tâm Lý Học Nội Môn II Tập III - Chiêm Tinh Học Nội Môn Tập IV - Trị Liệu Huyền Môn Tập V - Các Cung Và Điểm Đạo MỤC LỤC Chủ âm 4 Chương I - Giáo lý về Đấng sắp đến 6 Chương II - Cơ hội độc đáo của Đức Christ 18 Chương III - Sự tái lâm của Đức Christ 42 Chương IV - Hoạt động của Đức Christ 71 ngày nay và trong tương lai 1. Những cuộc khủng hoảng của Đức Christ 79 2. Đức Christ là Người Tiền Phong của kỷ nguyên Bảo Bình 90 3. Đức Christ là Đấng Ban Phát Năng Lượng 101 4. Đức Christ, là Đấng Thống Nhất của Đông và Tây phương. 109 Chương V - Giáo huấn của Đức Christ 116 1. Việc thiết lập những mối liên giao chân chính trong nhân loại 123 2. Đức Christ sẽ dạy Luật Luân Hồi 130 3. Sự Hiển Lộ những Bí Nhiệm của Điểm Đạo 136 4. Việc giải tán Ảo Cảm 146 Chương VI - Tân Tôn giáo thế giới 154 1. Sự thật về Thượng Đế 162 2. Mối Liên Giao của Con Người với Thượng Đế 163 3. Sự Thật về Tính Bất Tử và về Sự Tồn Tại Vĩnh Cửu 165 4. Sự Liên Tục Thiên Khải và các cuộc Tiếp Cận Thiêng Liêng. 166 Chương VII - Việc chuẩn bị cho sự tái lâm 181 Kết Luận 211</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_b0fec66529c09743e0f8300a80e74292.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_b0fec66529c09743e0f8300a80e74292.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/280-su-tai-lam-cua-duc-christ-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/280-su-tai-lam-cua-duc-christ-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

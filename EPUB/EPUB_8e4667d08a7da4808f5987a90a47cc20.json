@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/6-chan-li-cua-hanh-phuc-tu-nhung-loi-phat-day-ai-cung-biet-nhung-deu-bo-qua-13899.html",
+    "title" : "6 CHÂN LÍ CỦA HẠNH PHÚC TỪ NHỮNG LỜI PHẬT DẠY: AI CŨNG BIẾT NHƯNG ĐỀU BỎ QUA",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Trong cuộc sống, đôi khi chúng ta sẽ rơi vào những tình huống không mong muốn. Điều đó đem lại những cảm xúc tiêu cực, những lo âu bất ổn. Có thể bạn sẽ tìm cách né tránh hoặc lờ chúng đi nhưng những cảm xúc tiêu cực không dễ bị mất đi. Né tránh chưa bao giờ là cách hay để đối mặt với một vấn đề. Bởi vì con đường ngắn nhất để ra khỏi khủng hoảng là đi xuyên qua nó. Những tình huống xấu nhất chính là cơ hội để bạn thể hiện bản lĩnh và năng lực của mình. Không trải qua mưa bão, làm sao có thể nhìn thấy cầu vồng. Không phải cứ trốn tránh khó khăn là sẽ có một cuộc sống vui vẻ hạnh phúc. Ngược lại, nó chỉ làm cho nỗi đau trở nên sâu sắc hơn. Hãy đối mặt và đừng phủ nhận điều đó bởi những cảm xúc lo lắng, sợ hãi khi gặp khó khăn là khởi nguồn của sự không hài lòng và hạnh phúc về cuộc sống. Giọng đọc: Lan Phương</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_8e4667d08a7da4808f5987a90a47cc20.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_8e4667d08a7da4808f5987a90a47cc20.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13899-6-chan-li-cua-hanh-phuc-tu-nhung-loi-phat-day-ai-cung-biet-nhung-deu-bo-qua-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13899-6-chan-li-cua-hanh-phuc-tu-nhung-loi-phat-day-ai-cung-biet-nhung-deu-bo-qua-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

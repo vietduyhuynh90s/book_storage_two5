@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tien-bac-bac-tien-7851.html",
+    "title" : "TIỀN BẠC BẠC TIỀN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hồ Biểu Chánh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Trong quyển „Tiền bạc bạc tiền“ Hồ Biểu Chánh diễn tả sự xung đột giữa cũ và mới, giữa nhân nghĩa và tham lam của xã hội miền Nam vào thời kỳ bắt đầu tiếp thu lối sống Tây phương. Ông khơi dậy một mối tình thầm kín và tình bạn hữu rất cảm động của ba nhân vật trong hai gia đình rất khác biệt. Câu chuyện kể về gia đình ông Trần Bá Vạn vào đầu những năm 20. Trần Bá Vạn chỉ lo kiếm tiền làm giàu và tìm địa vị. Vợ là Ðỗ thị Ðào, chỉ đánh giá con người qua tiền bạc và quyền tước. Trần Thanh khuê, con gái đầu lòng, ỷ thế cha mẹ có của vừa ăn hiếp chồng vừa bê tha bài bạc. Trần Bá Kỳ là con trai duy nhứt, đang còn đi học và Trần Thanh Kiều là cô con gái út vừa trưởng thành. Bạn thiết của Bá Kỳ là Cao Hiếu Liêm con nhà nghèo, nhưng nhân nghĩa. Trần Bá Kỳ xin mẹ gả em mình cho Cao Hiếu Liêm để thắt chặt thêm tình bằng hữu, nhưng bị từ chối vì bà chê Hiếu Liêm nghèo. Bá Kỳ buồn nhưng phải chấp nhận và xin đi học xa. Từ đó gia đình Trần Bá Vạn chỉ sống trong lý luận quyền tước, tiền bạc. Trần Thanh Kiều bị gia đình gán gả nhiều nơi có tiền bạc. Mặc dù cô và Hiếu Liêm thương nhau, nhưng vì đạo nghĩa nên hai bên vẫn ngăn cách. Trong thời gian Bá kỳ đi học xa, Thanh Kiều gặp nhiều hoàn cảnh éo le nhưng đành chịu. Cuộc tình duyên giữa Thanh Kiều và Hiếu Liêm sẽ ra sao, xin mời bạn đọc tiếp.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_5c2e8e450352a84d5921a7ce60c8c73c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_5c2e8e450352a84d5921a7ce60c8c73c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7851-tien-bac-bac-tien-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7851-tien-bac-bac-tien-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

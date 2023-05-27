@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/dao-con-duong-khong-loi-616.html",
+    "title" : "ĐẠO - CON ĐƯỜNG KHÔNG LỐI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Osho",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>LỜI NGƯỜI DỊCH sho không viết sách, sách của ông là tập hợp những bài nói chuyện ngẫu hứng về nhiều đề tài tâm linh phong phú do môn đệ của ông biên tập lại từ băng ghi âm, ghi hình. Khi dịch sách Osho, trong khả năng của mình, chúng tôi cố gắng giữ đúng giọng văn và lối nói của tác giả bởi chính Osho cũng đã có ý kiến về việc dịch sách của ông. Mới hôm kia tôi nhận được bức thư ngắn của Arup, nói rằng Sarjano đang dịch sách của tôi sang tiếng Ý; nhưng ông ấy thay đổi nhiều chỗ. Ông ấy bỏ đi vài chỗ, ông ấy thêm vào vài chỗ theo hiểu biết của ông ấy. Tất nhiên ông ấy đang cố làm việc tốt, ý định của ông ấy tốt! Ông ấy muốn làm cho nó logic hơn, trí tuệ hơn, tinh vi hơn. Còn tôi lại là kiểu người hơi hoang dã! Ông ấy muốn tỉa tót tôi chỗ này chỗ nọ. Bạn nhìn râu tôi này! Nếu Sarjano được phép, ông ấy sẽ tỉa nó cho giống Nikolai Lenin, nhưng thế thì nó sẽ không còn là râu tôi nữa. Ông ấy đang cố làm nó hấp dẫn hơn. Không nghi ngờ gì về ý định của ông ấy, song đấy lại là những ý định luôn có tính phá hoại. Khi được báo về lời nhắn của tôi là ông ấy phải làm hệt như nó vốn thế: “Đừng cố cải thiện. Nó như thế nào cứ để như thế nấy. Thô thiển, hoang dã, phi logic, nghịch lí, mâu thuẫn, lặp đi lặp lại, bất luận nó như thế nào cứ để như thế nấy!”. Thật khó khăn cho ông ấy. Ông ấy bảo: “Thế thì tôi sẽ không dịch nữa. Thà tôi đi dọn vệ sinh còn hơn”. - Trích từ Osho - Đạo: Cánh cổng vàng. Trong quá trình dịch thuật không tránh khỏi còn có những sai sót, chúng tôi rất mong nhận được những ý kiến đóng góp quý báu của quý độc giả. - Phạm Ngọc Thạch</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_cc68f7261f039c1e818f791e9d90cee9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_cc68f7261f039c1e818f791e9d90cee9.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/616-dao-con-duong-khong-loi-thuviensach.vn.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/616-dao-con-duong-khong-loi-thuviensach.vn.m4a",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

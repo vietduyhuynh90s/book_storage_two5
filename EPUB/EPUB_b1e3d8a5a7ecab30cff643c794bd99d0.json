@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/10-dieu-ban-nen-nho-khi-cam-thay-co-don-13885.html",
+    "title" : "10 ĐIỀU BẠN NÊN NHỚ KHI CẢM THẤY CÔ ĐƠN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Sự thật là, có những lúc bạn cần được một mình. Nếu bạn đã luôn quen với việt giao thiệp với người khác thì điều này có thể sẽ khó khăn. Tuy nhiên, học cách ở một mình và thấy thoải mái với chính bản thân bạn sẽ mang đến cho bạn sự tự tin và độc lập. Chúng ta đã tự cướp cơ hội trở nên độc lập của bản thân khi cứ mải miết đi kiếm tìm các mối quan hệ. Hãy nắm lấy 'thời gian được là chính mình!' Giọng đọc: Lan Phương</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_b1e3d8a5a7ecab30cff643c794bd99d0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_b1e3d8a5a7ecab30cff643c794bd99d0.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13885-10-dieu-ban-nen-nho-khi-cam-thay-co-don-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13885-10-dieu-ban-nen-nho-khi-cam-thay-co-don-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

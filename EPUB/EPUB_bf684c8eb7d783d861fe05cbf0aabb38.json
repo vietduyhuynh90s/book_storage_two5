@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/neu-ban-cam-thay-minh-khong-co-gi-ca-thi-hay-doc-ngay-cau-chuyen-nay-13935.html",
+    "title" : "NẾU BẠN CẢM THẤY MÌNH KHÔNG CÓ GÌ CẢ THÌ HÃY ĐỌC NGAY CÂU CHUYỆN NÀY",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Thỉnh thoảng lướt Facebook, bạn có tự ti vì thấy bạn bè cái gì cũng đủ đầy, công việc, gia đình, tiền bạc, còn mình dường như cái gì cũng không có? Bạn cảm thấy mình thật thua thiệt và càng thêm nản lòng. Nếu bạn đang chìm đắm trong những cảm xúc đó thì câu chuyện dưới đây sẽ giúp bạn nghĩ khác. Giọng đọc: Trọng Khương</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_bf684c8eb7d783d861fe05cbf0aabb38.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_bf684c8eb7d783d861fe05cbf0aabb38.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13935-neu-ban-cam-thay-minh-khong-co-gi-ca-thi-hay-doc-ngay-cau-chuyen-nay-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13935-neu-ban-cam-thay-minh-khong-co-gi-ca-thi-hay-doc-ngay-cau-chuyen-nay-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

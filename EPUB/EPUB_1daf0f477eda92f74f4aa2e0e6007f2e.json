@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tam-gioi-toan-thu-quyen-6-1141.html",
+    "title" : "TAM GIỚI TOÀN THƯ - QUYỂN 6",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thủy Liên Tử",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Giữa biển đời bất tận, con thuyền từ thong dong nhẹ lướt cứu độ chúng sinh thoát khỏi trầm luân khổ hải, đưa chúng sinh về với bến bờ an lạc. Chuyện cứu rỗi hay độ dẫn, là chuyện của người trên thuyền. Nhưng có chịu đưa tay để nắm lấy tay người trên thuyền hay không, lên thuyền rồi có chịu đồng lòng chung hướng đi chung hay không, lại là việc của kẻ đang chơi vơi trong dòng khổ. Thế nên mới nói Đạo độ chúng hữu tình, hữu duyên là vậy. Chúng ta, cùng cố gắng tinh tấn mỗi ngày trong tình thương đại đồng, an nhiên và tỉnh thức nhé. Thủy Liên Tử Tháng 1, năm 2020</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_1daf0f477eda92f74f4aa2e0e6007f2e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_1daf0f477eda92f74f4aa2e0e6007f2e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1141-tam-gioi-toan-thu-quyen-6-thuviensach.vn.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1141-tam-gioi-toan-thu-quyen-6-thuviensach.vn.m4a",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
