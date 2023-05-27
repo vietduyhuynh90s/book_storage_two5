@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/ai-yeu-nhieu-hon-nguoi-do-thua-13947.html",
+    "title" : "AI YÊU NHIỀU HƠN NGƯỜI ĐÓ THUA?",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Bạn thân mến Nhiều khi, tôi thấy ghen tỵ với Khôi. Chỉ là, Khôi quen Nguyên trước tôi và hai người thật là thân thiết. Nhưng giờ tôi lại thấy mình vô lý, chẳng có lý do gì để ghen tỵ với Khôi cả. Nhờ Khôi, tôi mới quen được Nguyên. Tình cảm tôi dành cho Nguyên vẫn nguyên vẹn, Nguyên chưa sẵn sàng nhưng tôi thì sẵn sàng đợi. Giờ tôi Khôi và Nguyên chơi với nhau rất thân. Không biết sau này tôi và Nguyên sẽ thế nào, cỏ trở thành gì đó mà tôi mong muốn hay không, nhưng giờ cứ thế này đã. Thế là đủ.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_a7c331a93b93bfa7bfeeb32d66f80d00.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_a7c331a93b93bfa7bfeeb32d66f80d00.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13947-ai-yeu-nhieu-hon-nguoi-do-thua-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13947-ai-yeu-nhieu-hon-nguoi-do-thua-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

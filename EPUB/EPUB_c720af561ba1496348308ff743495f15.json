@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/4-thu-ban-nen-vat-bo-cang-som-cang-tot-neu-khong-muon-kho-khan-chong-chat-kho-khan-13876.html",
+    "title" : "4 THỨ BẠN NÊN VẤT BỎ CÀNG SỚM CÀNG TỐT NẾU KHÔNG MUỐN KHÓ KHĂN CHỒNG CHẤT KHÓ KHĂN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Người mạnh thực sự không chỉ thể hiện thế mạnh ở vẻ bề ngoài mà nội tâm cũng cần mạnh mẽ. Họ hiểu thất bại là mẹ thành công, thua keo này bày keo khác, không chịu khuất phục, ngã ở đâu đứng lên ở đó. Chỉ có như thế chúng ta mới có thể tiếp cận thành công. Giọng đọc: Trọng Khương</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_c720af561ba1496348308ff743495f15.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_c720af561ba1496348308ff743495f15.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13876-4-thu-ban-nen-vat-bo-cang-som-cang-tot-neu-khong-muon-kho-khan-chong-chat-kho-khan-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13876-4-thu-ban-nen-vat-bo-cang-som-cang-tot-neu-khong-muon-kho-khan-chong-chat-kho-khan-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

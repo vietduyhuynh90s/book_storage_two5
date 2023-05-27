@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/neu-nguoi-khac-coi-thuong-ban-ban-tu-tran-quy-ban-than-la-duoc-roi-13936.html",
+    "title" : "NẾU NGƯỜI KHÁC COI THƯỜNG BẠN, BẠN TỰ TRÂN QUÝ BẢN THÂN LÀ ĐƯỢC RỒI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Cuộc đời sống càng đơn giản càng tốt, bởi sống đơn giản là một cách sống bình thường nhưng lại không tầm thường. Làm người chịu chút thiệt, nhẫn chút khổ, khờ chút dại đó cũng chính là phúc vậy. Giọng đọc: Lan Phương</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_dc715915f1e3bce50b9368940bbb970d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_dc715915f1e3bce50b9368940bbb970d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13936-neu-nguoi-khac-coi-thuong-ban-ban-tu-tran-quy-ban-than-la-duoc-roi-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13936-neu-nguoi-khac-coi-thuong-ban-ban-tu-tran-quy-ban-than-la-duoc-roi-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

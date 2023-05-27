@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/ai-hieu-duoc-ba-chu-khong-nay-tuc-la-da-hieu-duoc-ca-cuoc-doi-13905.html",
+    "title" : "AI HIỂU ĐƯỢC BA CHỮ ‘KHÔNG’ NÀY TỨC LÀ ĐÃ HIỂU ĐƯỢC CẢ CUỘC ĐỜI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Có người nói trưởng thành là quá trình mỗi ngày dần dần lão hóa. Quan sát bạn bè và đồng nghiệp xung quanh, tôi phát hiện ra một hiện tượng rằng, nhóm bạn trung niên đều là khoảng 50, 60 tuổi nhưng trong đó lại có lẫn mấy người tuổi từ 20 - 30. Một lần tôi hỏi mấy người đồng nghiệp trẻ này: “Tại sao lại thích kết giao với những người đồng nghiệp lớn tuổi này, không có ngăn cách thế hệ sao?” Họ lại trả lời tôi rằng: “Kết giao với những người 20, 30 tuổi mới có ngăn cách”. Như vậy có nghĩa đúng như một câu nói là: “Trưởng thành không phải xem bạn tuổi tác lớn bao nhiêu, mà là xem bạn có suy nghĩ và trải nghiệm như thế nào”. Giọng đọc: Lan Phương</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_0a6010fbd14b03c72fc1b532af1151af.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_0a6010fbd14b03c72fc1b532af1151af.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13905-ai-hieu-duoc-ba-chu-khong-nay-tuc-la-da-hieu-duoc-ca-cuoc-doi-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13905-ai-hieu-duoc-ba-chu-khong-nay-tuc-la-da-hieu-duoc-ca-cuoc-doi-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
