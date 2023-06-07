@@ -1,0 +1,233 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nha-dau-tu-thong-minh_19453.html",
+    "title" : "Nhà Đầu Tư Thông Minh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Benjamin Graham",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-07",
+    "duration" : 75124,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_4a964e79f0f981992ebfd470f35a8c49.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_4a964e79f0f981992ebfd470f35a8c49.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nhadaututhongminh_201908/Nh%C3%A0%20%C4%90%E1%BA%A7u%20T%C6%B0%20Th%C3%B4ng%20Minh%20Benjamin%20Graham%20C0%20M%E1%BB%9F%20%C4%90%E1%BA%A7u.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4024,
+    "title" : "Nhà Đầu Tư Thông Minh Benjamin Graham C0 Mở Đầu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhadaututhongminh_201908/Nh%C3%A0%20%C4%90%E1%BA%A7u%20T%C6%B0%20Th%C3%B4ng%20Minh%20Benjamin%20Graham%20C1%20%C4%90%E1%BA%A7u%20T%C6%B0%20Hay%20%C4%90%E1%BA%A7u%20C%C6%A1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4838,
+    "title" : "Nhà Đầu Tư Thông Minh Benjamin Graham C1 Đầu Tư Hay Đầu Cơ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhadaututhongminh_201908/Nh%C3%A0%20%C4%90%E1%BA%A7u%20T%C6%B0%20Th%C3%B4ng%20Minh%20Benjamin%20Graham%20C10%20Nh%C3%A0%20%C4%90%E1%BA%A7u%20T%C6%B0%20v%C3%A0%20C%C3%A1c%20C%E1%BB%91%20V%E1%BA%A5n%20C%E1%BB%A7a%20Anh%20Ta.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4490,
+    "title" : "Nhà Đầu Tư Thông Minh Benjamin Graham C10 Nhà Đầu Tư và Các Cố Vấn Của Anh Ta",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhadaututhongminh_201908/Nh%C3%A0%20%C4%90%E1%BA%A7u%20T%C6%B0%20Th%C3%B4ng%20Minh%20Benjamin%20Graham%20C11%20Ph%C3%A2n%20T%C3%ADch%20Ch%E1%BB%A9ng%20Kho%C3%A1n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6170,
+    "title" : "Nhà Đầu Tư Thông Minh Benjamin Graham C11 Phân Tích Chứng Khoán",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhadaututhongminh_201908/Nh%C3%A0%20%C4%90%E1%BA%A7u%20T%C6%B0%20Th%C3%B4ng%20Minh%20Benjamin%20Graham%20C12%20L%E1%BB%A3i%20T%E1%BB%A9c%20Tr%C3%AAn%201%20C%E1%BB%95%20Phi%E1%BA%BFu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4179,
+    "title" : "Nhà Đầu Tư Thông Minh Benjamin Graham C12 Lợi Tức Trên 1 Cổ Phiếu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhadaututhongminh_201908/Nh%C3%A0%20%C4%90%E1%BA%A7u%20T%C6%B0%20Th%C3%B4ng%20Minh%20Benjamin%20Graham%20C13%20So%20S%C3%A1nh%204%20C%C3%B4ng%20Ty%20Ni%C3%AAm%20Y%E1%BA%BFt.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3221,
+    "title" : "Nhà Đầu Tư Thông Minh Benjamin Graham C13 So Sánh 4 Công Ty Niêm Yết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhadaututhongminh_201908/Nh%C3%A0%20%C4%90%E1%BA%A7u%20T%C6%B0%20Th%C3%B4ng%20Minh%20Benjamin%20Graham%20C14%20L%E1%BB%B1a%20Ch%E1%BB%8Dn%20Ch%E1%BB%A9ng%20Kho%C3%A1n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4049,
+    "title" : "Nhà Đầu Tư Thông Minh Benjamin Graham C14 Lựa Chọn Chứng Khoán",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhadaututhongminh_201908/Nh%C3%A0%20%C4%90%E1%BA%A7u%20T%C6%B0%20Th%C3%B4ng%20Minh%20Benjamin%20Graham%20C15%20Ch%E1%BB%A9ng%20Kho%C3%A1n%20Nh%C3%A0%20%C4%90%E1%BA%A7u%20T%C6%B0%20M%E1%BA%A1nh%20B%E1%BA%A1o.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5340,
+    "title" : "Nhà Đầu Tư Thông Minh Benjamin Graham C15 Chứng Khoán Nhà Đầu Tư Mạnh Bạo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhadaututhongminh_201908/Nh%C3%A0%20%C4%90%E1%BA%A7u%20T%C6%B0%20Th%C3%B4ng%20Minh%20Benjamin%20Graham%20C2%20Nh%C3%A0%20%C4%90%E1%BA%A7u%20T%C6%B0%20V%C3%A0%20L%E1%BA%A1m%20Ph%C3%A1t.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2721,
+    "title" : "Nhà Đầu Tư Thông Minh Benjamin Graham C2 Nhà Đầu Tư Và Lạm Phát",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhadaututhongminh_201908/Nh%C3%A0%20%C4%90%E1%BA%A7u%20T%C6%B0%20Th%C3%B4ng%20Minh%20Benjamin%20Graham%20C3%201%20Th%E1%BA%BF%20K%E1%BB%B7%20Trong%20Th%E1%BB%8B%20Tr%C6%B0%E1%BB%9Dng%20CH%E1%BB%A9ng%20Kho%C3%A1n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3982,
+    "title" : "Nhà Đầu Tư Thông Minh Benjamin Graham C3 1 Thế Kỷ Trong Thị Trường CHứng Khoán",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhadaututhongminh_201908/Nh%C3%A0%20%C4%90%E1%BA%A7u%20T%C6%B0%20Th%C3%B4ng%20Minh%20Benjamin%20Graham%20C4%20Nh%C3%A0%20%C4%90%E1%BA%A7u%20T%C6%B0%20Ph%C3%B2ng%20V%E1%BB%87.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4531,
+    "title" : "Nhà Đầu Tư Thông Minh Benjamin Graham C4 Nhà Đầu Tư Phòng Vệ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhadaututhongminh_201908/Nh%C3%A0%20%C4%90%E1%BA%A7u%20T%C6%B0%20Th%C3%B4ng%20Minh%20Benjamin%20Graham%20C5%20Nh%C3%A0%20%C4%90%E1%BA%A7u%20T%C6%B0%20Ph%C3%B2ng%20V%E1%BB%87%20V%C3%A0%20C%E1%BB%95%20Phi%E1%BA%BFu%20Th%C6%B0%E1%BB%9Dng.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3930,
+    "title" : "Nhà Đầu Tư Thông Minh Benjamin Graham C5 Nhà Đầu Tư Phòng Vệ Và Cổ Phiếu Thường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhadaututhongminh_201908/Nh%C3%A0%20%C4%90%E1%BA%A7u%20T%C6%B0%20Th%C3%B4ng%20Minh%20Benjamin%20Graham%20C6%20Ph%C6%B0%C6%A1ng%20Ph%C3%A1p%20Ph%C3%A2n%20B%E1%BB%95%20Danh%20M%E1%BB%A5c%20%C4%90%E1%BA%A7u%20T%C6%B0.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3930,
+    "title" : "Nhà Đầu Tư Thông Minh Benjamin Graham C6 Phương Pháp Phân Bổ Danh Mục Đầu Tư",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhadaututhongminh_201908/Nh%C3%A0%20%C4%90%E1%BA%A7u%20T%C6%B0%20Th%C3%B4ng%20Minh%20Benjamin%20Graham%20C7%20Ph%C3%A2n%20B%E1%BB%95%20%C4%90%E1%BA%A7u%20T%C6%B0%20Nh%C3%A0%20%C4%90%E1%BA%A7u%20T%C6%B0%20M%E1%BA%A1nh%20B%E1%BA%A1o.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6778,
+    "title" : "Nhà Đầu Tư Thông Minh Benjamin Graham C7 Phân Bổ Đầu Tư Nhà Đầu Tư Mạnh Bạo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhadaututhongminh_201908/Nh%C3%A0%20%C4%90%E1%BA%A7u%20T%C6%B0%20Th%C3%B4ng%20Minh%20Benjamin%20Graham%20C8%20Nh%C3%A0%20%C4%90%E1%BA%A7u%20T%C6%B0%20V%C3%A0%20C%C3%A1c%20Giao%20%C4%90%E1%BB%99ng%20Th%E1%BB%8B%20Tr%C6%B0%E1%BB%9Dng.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7474,
+    "title" : "Nhà Đầu Tư Thông Minh Benjamin Graham C8 Nhà Đầu Tư Và Các Giao Động Thị Trường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhadaututhongminh_201908/Nh%C3%A0%20%C4%90%E1%BA%A7u%20T%C6%B0%20Th%C3%B4ng%20Minh%20Benjamin%20Graham%20C9%20%C4%90%E1%BA%A7u%20T%C6%B0%20V%C3%A0o%20C%C3%A1c%20Qu%E1%BB%B9%20%C4%90%E1%BA%A7u%20T%C6%B0.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5467,
+    "title" : "Nhà Đầu Tư Thông Minh Benjamin Graham C9 Đầu Tư Vào Các Quỹ Đầu Tư",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nhadaututhongminh_201908/Nh%C3%A0%20%C4%90%E1%BA%A7u%20T%C6%B0%20Th%C3%B4ng%20Minh%20Benjamin%20Graham%20C0%20M%E1%BB%9F%20%C4%90%E1%BA%A7u.mp3",
+    "title" : "Nhà Đầu Tư Thông Minh Benjamin Graham C0 Mở Đầu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhadaututhongminh_201908/Nh%C3%A0%20%C4%90%E1%BA%A7u%20T%C6%B0%20Th%C3%B4ng%20Minh%20Benjamin%20Graham%20C1%20%C4%90%E1%BA%A7u%20T%C6%B0%20Hay%20%C4%90%E1%BA%A7u%20C%C6%A1.mp3",
+    "title" : "Nhà Đầu Tư Thông Minh Benjamin Graham C1 Đầu Tư Hay Đầu Cơ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhadaututhongminh_201908/Nh%C3%A0%20%C4%90%E1%BA%A7u%20T%C6%B0%20Th%C3%B4ng%20Minh%20Benjamin%20Graham%20C10%20Nh%C3%A0%20%C4%90%E1%BA%A7u%20T%C6%B0%20v%C3%A0%20C%C3%A1c%20C%E1%BB%91%20V%E1%BA%A5n%20C%E1%BB%A7a%20Anh%20Ta.mp3",
+    "title" : "Nhà Đầu Tư Thông Minh Benjamin Graham C10 Nhà Đầu Tư và Các Cố Vấn Của Anh Ta",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhadaututhongminh_201908/Nh%C3%A0%20%C4%90%E1%BA%A7u%20T%C6%B0%20Th%C3%B4ng%20Minh%20Benjamin%20Graham%20C11%20Ph%C3%A2n%20T%C3%ADch%20Ch%E1%BB%A9ng%20Kho%C3%A1n.mp3",
+    "title" : "Nhà Đầu Tư Thông Minh Benjamin Graham C11 Phân Tích Chứng Khoán",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhadaututhongminh_201908/Nh%C3%A0%20%C4%90%E1%BA%A7u%20T%C6%B0%20Th%C3%B4ng%20Minh%20Benjamin%20Graham%20C12%20L%E1%BB%A3i%20T%E1%BB%A9c%20Tr%C3%AAn%201%20C%E1%BB%95%20Phi%E1%BA%BFu.mp3",
+    "title" : "Nhà Đầu Tư Thông Minh Benjamin Graham C12 Lợi Tức Trên 1 Cổ Phiếu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhadaututhongminh_201908/Nh%C3%A0%20%C4%90%E1%BA%A7u%20T%C6%B0%20Th%C3%B4ng%20Minh%20Benjamin%20Graham%20C13%20So%20S%C3%A1nh%204%20C%C3%B4ng%20Ty%20Ni%C3%AAm%20Y%E1%BA%BFt.mp3",
+    "title" : "Nhà Đầu Tư Thông Minh Benjamin Graham C13 So Sánh 4 Công Ty Niêm Yết",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhadaututhongminh_201908/Nh%C3%A0%20%C4%90%E1%BA%A7u%20T%C6%B0%20Th%C3%B4ng%20Minh%20Benjamin%20Graham%20C14%20L%E1%BB%B1a%20Ch%E1%BB%8Dn%20Ch%E1%BB%A9ng%20Kho%C3%A1n.mp3",
+    "title" : "Nhà Đầu Tư Thông Minh Benjamin Graham C14 Lựa Chọn Chứng Khoán",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhadaututhongminh_201908/Nh%C3%A0%20%C4%90%E1%BA%A7u%20T%C6%B0%20Th%C3%B4ng%20Minh%20Benjamin%20Graham%20C15%20Ch%E1%BB%A9ng%20Kho%C3%A1n%20Nh%C3%A0%20%C4%90%E1%BA%A7u%20T%C6%B0%20M%E1%BA%A1nh%20B%E1%BA%A1o.mp3",
+    "title" : "Nhà Đầu Tư Thông Minh Benjamin Graham C15 Chứng Khoán Nhà Đầu Tư Mạnh Bạo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhadaututhongminh_201908/Nh%C3%A0%20%C4%90%E1%BA%A7u%20T%C6%B0%20Th%C3%B4ng%20Minh%20Benjamin%20Graham%20C2%20Nh%C3%A0%20%C4%90%E1%BA%A7u%20T%C6%B0%20V%C3%A0%20L%E1%BA%A1m%20Ph%C3%A1t.mp3",
+    "title" : "Nhà Đầu Tư Thông Minh Benjamin Graham C2 Nhà Đầu Tư Và Lạm Phát",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhadaututhongminh_201908/Nh%C3%A0%20%C4%90%E1%BA%A7u%20T%C6%B0%20Th%C3%B4ng%20Minh%20Benjamin%20Graham%20C3%201%20Th%E1%BA%BF%20K%E1%BB%B7%20Trong%20Th%E1%BB%8B%20Tr%C6%B0%E1%BB%9Dng%20CH%E1%BB%A9ng%20Kho%C3%A1n.mp3",
+    "title" : "Nhà Đầu Tư Thông Minh Benjamin Graham C3 1 Thế Kỷ Trong Thị Trường CHứng Khoán",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhadaututhongminh_201908/Nh%C3%A0%20%C4%90%E1%BA%A7u%20T%C6%B0%20Th%C3%B4ng%20Minh%20Benjamin%20Graham%20C4%20Nh%C3%A0%20%C4%90%E1%BA%A7u%20T%C6%B0%20Ph%C3%B2ng%20V%E1%BB%87.mp3",
+    "title" : "Nhà Đầu Tư Thông Minh Benjamin Graham C4 Nhà Đầu Tư Phòng Vệ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhadaututhongminh_201908/Nh%C3%A0%20%C4%90%E1%BA%A7u%20T%C6%B0%20Th%C3%B4ng%20Minh%20Benjamin%20Graham%20C5%20Nh%C3%A0%20%C4%90%E1%BA%A7u%20T%C6%B0%20Ph%C3%B2ng%20V%E1%BB%87%20V%C3%A0%20C%E1%BB%95%20Phi%E1%BA%BFu%20Th%C6%B0%E1%BB%9Dng.mp3",
+    "title" : "Nhà Đầu Tư Thông Minh Benjamin Graham C5 Nhà Đầu Tư Phòng Vệ Và Cổ Phiếu Thường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhadaututhongminh_201908/Nh%C3%A0%20%C4%90%E1%BA%A7u%20T%C6%B0%20Th%C3%B4ng%20Minh%20Benjamin%20Graham%20C6%20Ph%C6%B0%C6%A1ng%20Ph%C3%A1p%20Ph%C3%A2n%20B%E1%BB%95%20Danh%20M%E1%BB%A5c%20%C4%90%E1%BA%A7u%20T%C6%B0.mp3",
+    "title" : "Nhà Đầu Tư Thông Minh Benjamin Graham C6 Phương Pháp Phân Bổ Danh Mục Đầu Tư",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhadaututhongminh_201908/Nh%C3%A0%20%C4%90%E1%BA%A7u%20T%C6%B0%20Th%C3%B4ng%20Minh%20Benjamin%20Graham%20C7%20Ph%C3%A2n%20B%E1%BB%95%20%C4%90%E1%BA%A7u%20T%C6%B0%20Nh%C3%A0%20%C4%90%E1%BA%A7u%20T%C6%B0%20M%E1%BA%A1nh%20B%E1%BA%A1o.mp3",
+    "title" : "Nhà Đầu Tư Thông Minh Benjamin Graham C7 Phân Bổ Đầu Tư Nhà Đầu Tư Mạnh Bạo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhadaututhongminh_201908/Nh%C3%A0%20%C4%90%E1%BA%A7u%20T%C6%B0%20Th%C3%B4ng%20Minh%20Benjamin%20Graham%20C8%20Nh%C3%A0%20%C4%90%E1%BA%A7u%20T%C6%B0%20V%C3%A0%20C%C3%A1c%20Giao%20%C4%90%E1%BB%99ng%20Th%E1%BB%8B%20Tr%C6%B0%E1%BB%9Dng.mp3",
+    "title" : "Nhà Đầu Tư Thông Minh Benjamin Graham C8 Nhà Đầu Tư Và Các Giao Động Thị Trường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhadaututhongminh_201908/Nh%C3%A0%20%C4%90%E1%BA%A7u%20T%C6%B0%20Th%C3%B4ng%20Minh%20Benjamin%20Graham%20C9%20%C4%90%E1%BA%A7u%20T%C6%B0%20V%C3%A0o%20C%C3%A1c%20Qu%E1%BB%B9%20%C4%90%E1%BA%A7u%20T%C6%B0.mp3",
+    "title" : "Nhà Đầu Tư Thông Minh Benjamin Graham C9 Đầu Tư Vào Các Quỹ Đầu Tư",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
