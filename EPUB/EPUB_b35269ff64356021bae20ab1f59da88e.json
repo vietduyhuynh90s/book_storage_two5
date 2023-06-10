@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/cam-on-cau-vi-da-tinh-day-13990.html",
+    "title" : "CẢM ƠN CẬU VÌ ĐÃ TỈNH DẬY",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hiền Lương Xal",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Tác giả: Sưu tầm Giọng đọc: Hoàng Coco - Hiền Lương Xal Kỹ thuật & Âm nhạc: Hoàng Coco Biên tập: Greenstar Beat: 1, Melody of the night #1 - VA 2, Voices in the wind - Silvard 3, Linh hồn đã mất - Bằng Kiều 4, Cranberry Harvest - Silvard 5, Bản tình ca cho em - Hồng Dương... Và nhiều bài nhạc khác.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-10",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_b35269ff64356021bae20ab1f59da88e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_b35269ff64356021bae20ab1f59da88e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13990-cam-on-cau-vi-da-tinh-day-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13990-cam-on-cau-vi-da-tinh-day-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
