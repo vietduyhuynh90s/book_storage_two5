@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/ho-chi-minh-chan-dung-mot-cuoc-doi-9966.html",
+    "title" : "HỒ CHÍ MINH - CHÂN DUNG MỘT CUỘC ĐỜI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "William J. Duiker",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Giáo sư William J. Duiker, cựu cán bộ tòa đại sứ Hoa Kỳ ở Sài Gòn từ những năm 1960s, sau gần 30 năm sưu tầm tài liệu, ông lần theo dấu vết người thanh niên Nguyễn Tất Thành từ thời thơ ấu, quá trình học tập thuở thiếu thời đến khi rời cảng Nhà Rồng làm phụ bếp, sang Pháp tìm con đường giải phóng dân tộc, trở thành điệp vụ Đệ Tam Quốc Tế với cái tên Nguyễn Ái Quốc, lang thang đây đó qua châu Phi, Anh, Nga, Mỹ, Thái Lan…về Trung Quốc hoạt động với nhiệm vụ của đặc vụ Đệ Tam Quốc tế. Trở về Việt Nam lãnh đạo cuộc Cách mạng Tháng Tám 1945, thành lập nước Việt Nam Dân Chủ Cộng Hòa. Sau 9 năm kháng chiến, trận thắng Điện Biên Phủ đã đưa đến Hội Nghị Generva 1954, chấm dứt chiến tranh, tạm thời chia cắt hai miền ở vĩ tuyến 17 bên bờ sông Bến Hải, chờ cuộc tổng tuyển cử và những năm cuối đời trong căn nhà sàn cạnh Phủ Chủ tịch sống và làm việc như thế nào phác họa lại chân dung Hồ Chí Minh một cách trung thực và rõ nét nhất so với những cuốn tiểu sử Hồ Chí Minh đã xuất bản trong và ngoài nước.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_d384c2d4992c4c5e66e009fa0f8826e2.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_d384c2d4992c4c5e66e009fa0f8826e2.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/9966-ho-chi-minh-chan-dung-mot-cuoc-doi-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Hồ Chí Minh: Một Cuộc Đời - Part 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9966-ho-chi-minh-chan-dung-mot-cuoc-doi-thuviensach.vn.mp3?t=26560",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:22:40 Hồ Chí Minh: Một Cuộc Đời - Part 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9966-ho-chi-minh-chan-dung-mot-cuoc-doi-thuviensach.vn.mp3?t=53529",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "14:52:09 Hồ Chí Minh: Một Cuộc Đời - Part 3 End",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/9966-ho-chi-minh-chan-dung-mot-cuoc-doi-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Hồ Chí Minh: Một Cuộc Đời - Part 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9966-ho-chi-minh-chan-dung-mot-cuoc-doi-thuviensach.vn.mp3?t=26560",
+    "title" : "07:22:40 Hồ Chí Minh: Một Cuộc Đời - Part 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9966-ho-chi-minh-chan-dung-mot-cuoc-doi-thuviensach.vn.mp3?t=53529",
+    "title" : "14:52:09 Hồ Chí Minh: Một Cuộc Đời - Part 3 End",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

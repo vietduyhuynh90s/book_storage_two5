@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/cuoc-phieu-luu-trong-bong-toi-6901.html",
+    "title" : "CUỘC PHIÊU LƯU TRONG BÓNG TỐI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tom Sullivan",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Những giọt nước mắt chảy dài trên khuôn mặt của cậu bé Tommy 11 tuổi. Bố cậu bé an ủi: “Tommy, con có còn nhớ những gì bố đã nói với con không? Con không bị mù. Con chỉ bị khiếm thị thôi. Bố đã nói với con rằng con có khả năng nhìn thấy nhiều hơn tất cả những đứa trẻ khác. Bố con mình sẽ chứng minh cho chúng thấy điều đó.” Cuộc phiêu lưu trong bóng tối là câu chuyện về cuộc phiêu lưu của một cậu bé bị khiếm thị trong mùa hè năm 1959 - một mùa hè tràn ngập niềm vui, tiếng cười, sự chiến thắng nhưng cũng có cả những giọt nước mắt hờn tủi và vui sướng của Tommy bé bỏng. Luôn mang trong mình những giấc mơ táo bạo, sự tinh nghịch và lòng dũng cảm, Tom đã bứt mình ra khỏi trường học dành cho học sinh khiếm thị và mang đến cho mình rất nhiều sự kiện và cơ hội mới. Chính những sự kiện và cơ hội này đã thực sự làm thay đổi cuộc sống của cậu bé. Thế giới của Tom rất bé nhỏ, thế giới đó chỉ là khu vườn được bao bọc bởi một hàng rào sắt khắc nghiệt. Trong trí tưởng tượng của cậu bé, thế giới bên ngoài rất rộng lớn và chứa đựng nhiều điều thú vị. Cậu tưởng tượng mình trở thành một cầu thủ bóng chày chuyên nghiệp của đội Boston Sox, một người bạn đồng hành với Lone Ranger nổi tiếng, nhưng chính những hàng rào bao quanh vườn đã khiến cậu nhận ra rằng, cậu sẽ không bao giờ có thể biến những giấc mơ của mình thành hiện thực và cậu sẽ không bao giờ thực hiện đựơc những cuộc phiêu lưu để trở thành một người hùng… Cho đến khi cậu bé quyết định chạy trốn và hoà mình vào thế giới tươi đẹp bên ngoài… Khi đã trưởng thành, Tom Sullivan vẫn hào hứng mỗi khi nhớ lại những hành động tinh nghịch và cuộc phiêu lưu mạo hiểm khi tác giả 11 tuổi. Đó chính là những hành động phá vỡ những định kiến của xã hội và giúp cậu bé hoà nhập vào thế giới xung quanh: cậu bé đã trốn khỏi trường học dành cho học sinh khiếm thị, một mình phi ngựa khiến mọi người thót tim và nhận lời thách đấu quyền anh với một đứa trẻ chuyên bắt nạt người khác…</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_7d64a3c06830f12f55fd8d430122c551.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_7d64a3c06830f12f55fd8d430122c551.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/6901-cuoc-phieu-luu-trong-bong-toi-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/6901-cuoc-phieu-luu-trong-bong-toi-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

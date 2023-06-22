@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/sung-ruou-the-14034.html",
+    "title" : "SỪNG RƯỢU THỀ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nghiêm Đa Văn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>- Tiểu thuyết lịch sử - Dựng lại một giai đoạn lịch sử hào hùng của dân tộc, khi triều đình nhà Lý bắt đầu dựng nghiệp xây dựng một vương quốc Đại Việt thống nhất cường thịnh sau một ngàn năm bắc thuộc... Dựng lại hình tượng người anh hùng dân tộc Lý Thường Kiệt, vừa anh dũng vừa bi tráng. Dựng lại cuộc tấn công duy nhất trong lịch sử của nước Việt vào đất Trung Hoa, với 42 ngày đêm ngoan cường chiến đấu, san bằng 3 căn cứ quân sự lớn của nhà Tống ở châu Ung, châu Khâm và châu Liêm, tiêu diệt bộ phận quan trọng trong tiềm năng xâm lược của nhà Tống. \" Trong Sừng Rượu Thề, hình tượng người anh hùng Lý Thường Kiệt được khắc họa với tất cả những bi kịch của số phận khắc nghiệt, với những thử thách cay đắng dám chấp nhận sự hy sinh tột cùng vì vận mệnh Tổ quốc...\" Thái sử Ngô Quân</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_a9b200e03cb496b6f4c58fb51b1ccc80.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_a9b200e03cb496b6f4c58fb51b1ccc80.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14034-sung-ruou-the-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14034-sung-ruou-the-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

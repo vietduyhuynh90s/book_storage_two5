@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tam-tinh-voi-dat-me-13650.html",
+    "title" : "TÂM TÌNH VỚI ĐẤT MẸ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Nhất Hạnh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Albert Einstein nói tôn giáo tương lai của nhân loại sẽ là một tôn giáo vũ trụ (cosmic religion) không dựa trên tín điều (dogmas) mà dựa trên sự thật có bằng cớ xác thật (evidence-based). Ông cũng nói nếu có một cái đạo có thể đi đôi được với khoa học và hướng dẫn được cho sự hình thành của một tôn giáo hoàn vũ như thế thì đó là đạo Bụt. Thế kỷ thứ 21 chứng kiến sự tiếp cận giữa đạo Bụt với văn hóa và khoa học Tây phương. Các khoa học gia đã bắt đầu khảo cứu Phật học và đạo học Đông phương để trưng bày những điểm tương đồng của cả hai truyền thống. Những câu hỏi như bản thể của hiện hữu là gì, vũ trụ có từng đã được sáng tạo hay không, Thượng đế có mang dáng dấp của một con người hay không, đã được đặt ra không phải chỉ trong lĩnh vực tôn giáo và triết học, mà cả ở trong lĩnh vực khoa học. Các khoa học gia thường hay đặt câu hỏi: tại sao cái không trở thành được cái có? Đạo Bụt dạy rằng cái thấy chính xác (chánh kiến) vượt ngoài hai ý niệm có- không (Kinh Tán Đà Ca Chiên Diên, Katyayana). Cái thấy của đạo Bụt về duyên sinh, tương tức, vô sinh, vô hữu, vô tác, vô hành (ajata, abhuta, akata, asamkhata) có thể đối thoại với khoa học một cách hứng thú. Nhà khoa học có thể nắm tay nhà Phật học mà đi trong những thập niên tới của thế kỷ này. Đây là tác phẩm mới nhất của Thiền sư Thích Nhất Hạnh, tuy hình thức nhỏ bé, nhưng có thể đóng vai trò của một hồi trống báo hiệu hiện tượng tiếp cận và hình thành của một tuệ giác mới, có khả năng đem lại sự tổng hợp kỳ diệu giữa Phật học, khoa học, tôn giáo và triết học.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_459fcc25b16e8401ec51bb213617e8e6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_459fcc25b16e8401ec51bb213617e8e6.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13650-tam-tinh-voi-dat-me-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13650-tam-tinh-voi-dat-me-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

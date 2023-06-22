@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/lich-su-khan-hoang-mien-nam-4724.html",
+    "title" : "LỊCH SỬ KHẨN HOANG MIỀN NAM",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Sơn Nam",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Lịch Sử Khẩn Hoang Miền Nam là tập sách biên khảo về quá trình chinh phục thiên nhiên, thuần hoá đất đai, lập làng dựng nghiệp đầy khó khăn, thử thách của các cư dân Việt trên vùng đất mới. Vùng đất mà mỗi khi nhắc đến người ta vẫn thường liên tưởng tới hai câu thơ: \"Đến đây xứ sở lạ lùng. Con chim kêu phải sợ, con cá vùng phải kinh.\", hay \"Chèo ghe sợ sấu cắn chưn. Xuống sông sợ đỉa, lên rừng cọp um\". Bằng kinh nghiệm sống, ưu thế tìm tòi, chắt lọc từ trong vốn tư liệu quý của dân tộc nhà văn Sơn Nam đã tìm ra lối dẫn đưa chúng ta về với cội nguồn, quá trình thiên di, sinh cơ lập nghiệp của lưu dân Việt trong suốt ba thế kỷ qua. Đồng thời mở ra hướng tiếp cận về con đường mở nước và dựng nước của dân tộc ta ở vùng đất mới Nam Bộ.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_384ed55e9150b9c768acffcab13fe462.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_384ed55e9150b9c768acffcab13fe462.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/4724-lich-su-khan-hoang-mien-nam-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/4724-lich-su-khan-hoang-mien-nam-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

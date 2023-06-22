@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/gio-lao-thanh-co-14042.html",
+    "title" : "GIÓ LÀO THÀNH CỔ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ngô Văn Phú",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Gió Lào Thành Cổ là cuốn thiểu thuyết của tác giả Ngô Văn Phú, do NXB Hội Nhà Văn ấn hành. Đây là tiểu thuyết dự thi Cuộc thi tiểu thuyết 1999 - 2000 của Hội Nhà Văn VN. Một thời đã qua với biết bao khí phách hào hùng của phòng tuyến Đông Hà, của Bộ Tư lệnh mặt trận Quảng Trị đuọc phác họa lại trong tập tiểu thuyết này. Trong chiến trường,gữa cái sống và sự chết chỉ cách nhau trong gang tấc,thế nhưng ở đó vẫn có những tiếng đùa vui, ngây thơ đến trong trắng lạ kỳ… Bởi vì họ nghĩ rằng họ phải sống, sống cho bản thân và sống vì Tổ Quốc, sống để đấu tranh giành lại những gì mà không ai hết ngoài chính họ đáng được hưởng… Bởi vì họ đã có niềm tin, và họ đã chiến thắng bằng chính niềm tin đó để có được màu hồng của buổi sớm bình yên</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_c62ac4579b1ec42fa536945d820ea7b5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_c62ac4579b1ec42fa536945d820ea7b5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14042-gio-lao-thanh-co-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14042-gio-lao-thanh-co-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

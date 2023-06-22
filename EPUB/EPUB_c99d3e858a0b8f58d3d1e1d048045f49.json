@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/thanh-tinh-tam-1777.html",
+    "title" : "THANH TỊNH TÂM",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lê Sỹ Minh Tùng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Lời Mở Đầu Phần Giới Thiệu Luân Hồi Hiện Tượng Khi Người Sắp Chết Con Người Và Nghiệp Quả Nghiệp Sát Hại Luật Nghiệp Quả Và Tướng Diện Luật Nghiệp Quả Và Sức Khỏe Luật Nghiệp Quả Và Tài Năng Luật Nghiệp Quả Và Nhân Cách Luật Nghiệp Quả, Biệt Nghiệp Và Cộng Nghiệp Nghiệp Có Thể Chuyển Được Chăng? Tôn Giả Xá Lợi Phất (Sariputra) Đệ Nhất Trí Tuệ Tôn Giả Mục Kiền Liên (Đệ Nhất Thần Thông)(maha Moggalyana) Tôn Giả Đại Ca Diếp, Đệ Nhất Tu Khổ Hạnh(mahakàsyapa) Tôn Giả Ca Chiên Diên, Đệ Nhất Nghị Luận (Katyayana) Tôn Giả Phú Lâu Na, Đệ Nhất Thuyết Pháp (Purnamaitrayaniputra) Tôn Giả A Na Luật, Đệ Nhất Thiên Nhãn (Anurudha) Tôn Giả A Nan, Đệ Nhất Đa Văn (Ananda) Tôn Giả La Hầu La, Đệ Nhất Mật Hạnh (Rahula) Tôn Giả Tu Bồ Đề, Đệ Nhất Giải Không (Subhoti) Tôn Giả Ưu Bà Ly, Đệ Nhất Trì Giới (Upali)</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_c99d3e858a0b8f58d3d1e1d048045f49.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_c99d3e858a0b8f58d3d1e1d048045f49.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1777-thanh-tinh-tam-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1777-thanh-tinh-tam-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

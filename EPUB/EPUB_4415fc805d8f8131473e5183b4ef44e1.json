@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/phep-xuat-hon-209.html",
+    "title" : "PHÉP XUẤT HỒN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đỗ Thuần Hậu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>...\"Chỉ khi nào xuất hồn ra khỏi bản thể, nhập vào cỏi vô-vi mới học được Đạo của Tiên Phật, chớ ở cỏi trần loạn động và ô trược nầy làm gì học được Đạo thanh tịnh vô-vi của Đức Phật - Hồn là một luồng điển chủ chốt trong bản thể, khi được thanh lọc và tập trung đúng mức thì sẽ khai phá nổi \"Huyền Quang khiếu\" để vượt ra khỏi ngục tù trần thế, gọi là giải thoát\"... ĐỖ THUẦN HẬU...\"Cụ Đỗ Thuần Hậu dùng một lối văn tiểu thuyết, nhưng kỳ thật là để nói rõ sự huyền bí trong việc tu hành\"... ...\"Trong câu chuyện \"Mơ duyên quái mộng\" Cụ Đỗ Thuần Hậu thuật lại lúc \"Hồn và Vía\" gặp mhau khắng khít tiền duyên, hai đàng triếu mến nhau, khuyến khích nhau trên đường công phu tu luyện. Thật là lương duyên tiền định giữa \"Tiên Đồng\" và \" Ngọc Nữ\" là cặp vợ chồng thiêng liêng mà người thế thường cho là sống đồng tịch đồng sàng, thác đồng quan đồng quách là vậy.\"... Cư Sĩ Nguyễn Xuân Liêm</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_4415fc805d8f8131473e5183b4ef44e1.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_4415fc805d8f8131473e5183b4ef44e1.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/209-phep-xuat-hon-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/209-phep-xuat-hon-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

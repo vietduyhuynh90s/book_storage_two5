@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/con-bim-trang-tai-den-8976.html",
+    "title" : "CON BIM TRẮNG TAI ĐEN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "G. Trôieppônxki",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Con Bim trắng tai đen viết về thân phận một con chó. Khi phải lên thành phố chữa bệnh, người thợ săn đã gửi Bim - chú chó thân yêu của mình cho hàng xóm trông coi. Nhớ chủ đến nỗi bỏ cả ăn, Bim quyết định ra đi tìm chủ của mình. Lang thang hết nơi này đến nơi khác giữa mùa đông lạnh giá, Bim trải qua không biết bao nhiêu nỗi vất vả và gian nguy. Bị bắt và bị nhốt, hành hạ đến nỗi chân thì giập nát còn cơ thể ngày càng tàn tạ, suy kiệt song Bim vẫn không thay đổi quyết tâm. Nhưng đến khi người chủ thân yêu gặp lại Bim, thì nó đã ra đi mãi mãi. Bông tuyết rơi trên cánh mũi Bim không thể tan ra bởi hơi ấm cơ thể đã không còn. Dưới ngòi bút kì diệu của Trôiepônxki, Bim xuất hiện trên những trang sách như một nhân vật độc lập, sinh động có tính cách hẳn hoi, với một thế giới nội tâm tinh tế và phong phú khiến chúng ta phải thương mến thông cảm, và bùi ngùi khi phải chia tay với con chó hết sức tinh khôn và rất mực trung thành ấy. Con Bim trắng tai đen là một bài thơ bằng văn xuôi ca ngợi tình bạn chung thủy, sự trung thực và vẻ đẹp của thiên nhiên diễm lệ.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_52d37e7702d552ec42208e81dff83e7e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_52d37e7702d552ec42208e81dff83e7e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/8976-con-bim-trang-tai-den-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/8976-con-bim-trang-tai-den-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
