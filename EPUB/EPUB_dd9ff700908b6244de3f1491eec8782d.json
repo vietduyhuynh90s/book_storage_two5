@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/vua-duy-tan-1916-14084.html",
+    "title" : "VUA DUY TÂN 1916",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Trương Đàn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Vua Duy Tân tên là Nguyễn Phúc Vĩnh San, còn có tên là Hoảng, con thứ 5 của vua Thành Thái và bà Nguyễn Thị Định, sinh ngày 26 tháng 8 năm Canh Tý (19 tháng 9 năm 1900). Năm 1907, vua Thành Thái thoái vị, triều đình Huế đưa Hoàng tử Vĩnh San lên ngôi, lấy niên hiệu là Duy Tân lúc mới được 8 tuổi. Vua Duy Tân là vị vua lên ngôi nhỏ tuổi nhất trong 13 vua Nguyễn. Tuy nhiên vua lại là người chững chạc, có khí phách của một bậc đế vương. Cũng như cha mình, vua Duy Tân là người có tư tưởng chống Pháp. Vua đã cùng với Thái Phiên, Trần Cao Vân... vạch định cuộc nổi dậy chống Pháp vào ngày 3 tháng 5 năm 1916. Nhưng âm mưu bại lộ, vua cùng Thái Phiên và Trần Cao Vân trốn ra khỏi Kinh Thành. Ba ngày sau, vua Duy Tân bị Pháp bắt và bị kết tội rồi đày sang đảo Réunion. Vua Duy Tân mất ngày 21 tháng 11 năm Ất Dậu (26-12-1945) trong một tai nạn máy bay khi được 46 tuổi. Vua được an táng tại nghĩa trang Thiên Chúa Giáo M’Baiki, thuộc Cộng Hòa Trung Phi. Ngày 6 tháng 4 năm 1987, vua được cải táng trong khuôn viên của An Lăng (Lăng Dục Đức). Duy Tân có 5 người con (3 trai, 2 gái). Cột mốc: 1900: Nguyễn Phúc Vĩnh San 19 tháng 9 năm 1900, con thứ 5 của vua Thành Thái và bà Nguyễn Thị Định 1907: Vĩnh San lên ngôi lấy niên hiệu là Duy Tân 1916: Duy Tân cùng cha là vua Thành Thái 1940: Vĩnh San đăng vào bộ binh Pháp dưới quyền của tướng Catroux với cấp bậc binh nhì 1945: Ông được đưa qua phục vụ tại Bộ Tham mưu của Sư đoàn 9 Bộ binh Thuộc địa (9ème DIC) đóng ở Forêt Noire, Đức. 1945: Ông tử nạn khi máy bay rớt gần làng Bassako, thuộc phân khu M'Baiki, Cộng hòa Trung Phi. Tất cả phi hành đoàn đều thiệt mạng, gồm có một thiếu tá hoa tiêu, hai trung úy phụ tá, hai quân nhân (trong đó có cựu hoàng Vĩnh San) và bốn thường dân 1987: Hài cốt của vua Duy Tân được gia đình đưa từ M'Baiki, Trung Phi về Paris làm lễ cầu siêu tại Viện Quốc tế Phật học Vincennes và sau đó đưa về an táng tại An Lăng, Huế, cạnh nơi an nghỉ của vua cha Thành Thái 1992: Tại thành phố Saint-Denis (đảo La Réunion) đã khánh thành một đại lộ mang tên ông: Đại lộ Vĩnh San</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_dd9ff700908b6244de3f1491eec8782d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_dd9ff700908b6244de3f1491eec8782d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14084-vua-duy-tan-1916-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14084-vua-duy-tan-1916-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/alicoja-nha-buon-thanh-bat-da-14093.html",
+    "title" : "ALICOJA NHÀ BUÔN THÀNH BÁT ĐA",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Antoine Galland",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Dưới thời giáo chủ Haroun Alrasehid, ở thành phố Bagdad có một người lái buôn tên Ali Cogia, không phải một trong những thương gia giàu nhất cũng không phải loại kém nhất, ông ở trong nhà bố mẹ để lại, không vợ không con. Trong thời gian nghỉ ngơi, ông rất hài lòng về việc buôn bán của mình và trong ba đêm liền ông nằm mơ thấy một cụ già đáng kính nghiêm khắc nhìn, quở trách ông chưa làm nhiệm vụ hành hương đến La Mecque. Giấc mơ làm Ali Cogia bối rối. Là một tín đồ Hồi giáo trung thành, ông biết mình có bổn phận tiến hành cuộc hành hương ấy nhưng bận vì ngôi nhà, đồ đạc và một cửa hiệu, ông vẫn nghĩ có lý do chính đáng để được miễn trừ, cố gắng thay thế bằng những bố thí và các việc thiện khác. Từ lúc nằm mơ, lương tâm dồn nén sợ có tai hoạ gì xảy ra nên ông đành quyết định không chần chừ làm nhiệm vụ đó…</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_8b17e37bb6ab754450c07b10889fdbb3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_8b17e37bb6ab754450c07b10889fdbb3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14093-alicoja-nha-buon-thanh-bat-da-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14093-alicoja-nha-buon-thanh-bat-da-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
