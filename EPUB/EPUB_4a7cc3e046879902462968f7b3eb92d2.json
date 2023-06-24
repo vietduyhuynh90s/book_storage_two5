@@ -1,0 +1,209 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/kinh-tieu-bo-tap-3-14101.html",
+    "title" : "KINH TIỂU BỘ - TẬP 3",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Minh Châu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Tiểu Bộ kinh có nhan đề “Tiểu Bộ”, nhưng lại chứa đựng số lượng kinh lớn nhất trong năm bộ Nikàya là 15 tập, so với Trường Bộ (3 tập), Trung Bộ (3 tập), Tương Ưng Bộ (5 tập) và Tăng Chi Bộ (3 tập). Chữ “Tiểu” ở đây, theo các vị luận sư, muốn chỉ tính cách hỗn hợp nhiều đề tài được diễn tả bằng nhiều thể văn khác nhau, từ các kinh kệ ngắn gọn do Ðức Phật thuyết giảng, các tiền thân Ðức Phật với hàng ngàn bài kệ do các vị Tỳ kheo cảm tác, tiểu sử các Ðức Phật, các vị A-la-hán, sự tích Thiên cung, Ngạ quỷ do chư vị kết tập kinh điển biên soạn..., đến các luận thư phân tích giáo lý mở đầu cho văn học A Tì Ðàm (Abhidhamma) của Luận tạng về sau.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-24",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_4a7cc3e046879902462968f7b3eb92d2.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_4a7cc3e046879902462968f7b3eb92d2.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14101-kinh-tieu-bo-tap-3-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Tập 2 - Chuyện Ngạ Quỷ - Phẩm 1 Phẩm Con Rắn - Chuyện Con Rắn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14101-kinh-tieu-bo-tap-3-thuviensach.vn.mp3?t=4279",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:11:19 Tập 2 - Chuyện Ngạ Quỷ - Phẩm 2 Phẩm Ubbari 1-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14101-kinh-tieu-bo-tap-3-thuviensach.vn.mp3?t=10402",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:53:22 Tập 2 - Chuyện Ngạ Quỷ - Phẩm 3 Tiểu Phẩm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14101-kinh-tieu-bo-tap-3-thuviensach.vn.mp3?t=13072",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:37:52 Tập 2 - Chuyện Ngạ Quỷ - Phẩm 4 Đại Phẩm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14101-kinh-tieu-bo-tap-3-thuviensach.vn.mp3?t=16576",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:36:16 Tập 3 - Chương Một Kệ - Phẩm 1-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14101-kinh-tieu-bo-tap-3-thuviensach.vn.mp3?t=20785",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:46:25 Tập 3 - Chương Một Kệ - Phẩm 7-12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14101-kinh-tieu-bo-tap-3-thuviensach.vn.mp3?t=24390",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:46:30 Tập 3 - Chương Hai Kệ - Phẩm 1-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14101-kinh-tieu-bo-tap-3-thuviensach.vn.mp3?t=28410",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:53:30 Tập 3 - Chương Ba Kệ - Phẩm Ba Kệ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14101-kinh-tieu-bo-tap-3-thuviensach.vn.mp3?t=29692",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:14:52 Tập 3 - Chương Bốn - Phẩm Bốn Kệ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14101-kinh-tieu-bo-tap-3-thuviensach.vn.mp3?t=30692",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:31:32 Tập 3 - Chương Năm - Phẩm Năm Kệ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14101-kinh-tieu-bo-tap-3-thuviensach.vn.mp3?t=32078",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:54:38 Tập 3 - Chương Sáu - Phẩm Sáu Kệ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14101-kinh-tieu-bo-tap-3-thuviensach.vn.mp3?t=33695",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:21:35 Tập 3 - Chương Bảy - Phẩm Bảy Kệ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14101-kinh-tieu-bo-tap-3-thuviensach.vn.mp3?t=34523",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:35:23 Tập 3 - Chương 8-9-10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14101-kinh-tieu-bo-tap-3-thuviensach.vn.mp3?t=36300",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:05:00 Tập 3 - Chương 11 Đến 15",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14101-kinh-tieu-bo-tap-3-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Tập 2 - Chuyện Ngạ Quỷ - Phẩm 1 Phẩm Con Rắn - Chuyện Con Rắn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14101-kinh-tieu-bo-tap-3-thuviensach.vn.mp3?t=4279",
+    "title" : "01:11:19 Tập 2 - Chuyện Ngạ Quỷ - Phẩm 2 Phẩm Ubbari 1-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14101-kinh-tieu-bo-tap-3-thuviensach.vn.mp3?t=10402",
+    "title" : "02:53:22 Tập 2 - Chuyện Ngạ Quỷ - Phẩm 3 Tiểu Phẩm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14101-kinh-tieu-bo-tap-3-thuviensach.vn.mp3?t=13072",
+    "title" : "03:37:52 Tập 2 - Chuyện Ngạ Quỷ - Phẩm 4 Đại Phẩm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14101-kinh-tieu-bo-tap-3-thuviensach.vn.mp3?t=16576",
+    "title" : "04:36:16 Tập 3 - Chương Một Kệ - Phẩm 1-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14101-kinh-tieu-bo-tap-3-thuviensach.vn.mp3?t=20785",
+    "title" : "05:46:25 Tập 3 - Chương Một Kệ - Phẩm 7-12",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14101-kinh-tieu-bo-tap-3-thuviensach.vn.mp3?t=24390",
+    "title" : "06:46:30 Tập 3 - Chương Hai Kệ - Phẩm 1-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14101-kinh-tieu-bo-tap-3-thuviensach.vn.mp3?t=28410",
+    "title" : "07:53:30 Tập 3 - Chương Ba Kệ - Phẩm Ba Kệ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14101-kinh-tieu-bo-tap-3-thuviensach.vn.mp3?t=29692",
+    "title" : "08:14:52 Tập 3 - Chương Bốn - Phẩm Bốn Kệ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14101-kinh-tieu-bo-tap-3-thuviensach.vn.mp3?t=30692",
+    "title" : "08:31:32 Tập 3 - Chương Năm - Phẩm Năm Kệ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14101-kinh-tieu-bo-tap-3-thuviensach.vn.mp3?t=32078",
+    "title" : "08:54:38 Tập 3 - Chương Sáu - Phẩm Sáu Kệ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14101-kinh-tieu-bo-tap-3-thuviensach.vn.mp3?t=33695",
+    "title" : "09:21:35 Tập 3 - Chương Bảy - Phẩm Bảy Kệ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14101-kinh-tieu-bo-tap-3-thuviensach.vn.mp3?t=34523",
+    "title" : "09:35:23 Tập 3 - Chương 8-9-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14101-kinh-tieu-bo-tap-3-thuviensach.vn.mp3?t=36300",
+    "title" : "10:05:00 Tập 3 - Chương 11 Đến 15",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

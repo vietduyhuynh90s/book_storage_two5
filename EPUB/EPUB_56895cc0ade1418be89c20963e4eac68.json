@@ -1,0 +1,341 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/kinh-tieu-bo-tap-6-14104.html",
+    "title" : "KINH TIỂU BỘ - TẬP 6",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Minh Châu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Tiểu Bộ kinh có nhan đề “Tiểu Bộ”, nhưng lại chứa đựng số lượng kinh lớn nhất trong năm bộ Nikàya là 15 tập, so với Trường Bộ (3 tập), Trung Bộ (3 tập), Tương Ưng Bộ (5 tập) và Tăng Chi Bộ (3 tập). Chữ “Tiểu” ở đây, theo các vị luận sư, muốn chỉ tính cách hỗn hợp nhiều đề tài được diễn tả bằng nhiều thể văn khác nhau, từ các kinh kệ ngắn gọn do Ðức Phật thuyết giảng, các tiền thân Ðức Phật với hàng ngàn bài kệ do các vị Tỳ kheo cảm tác, tiểu sử các Ðức Phật, các vị A-la-hán, sự tích Thiên cung, Ngạ quỷ do chư vị kết tập kinh điển biên soạn..., đến các luận thư phân tích giáo lý mở đầu cho văn học A Tì Ðàm (Abhidhamma) của Luận tạng về sau.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-24",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_56895cc0ade1418be89c20963e4eac68.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_56895cc0ade1418be89c20963e4eac68.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14104-kinh-tieu-bo-tap-6-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Tập 5 - Chương 2 - Phẩm Dalha - Chuyện 151 Đến 155",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14104-kinh-tieu-bo-tap-6-thuviensach.vn.mp3?t=2044",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:34:04 Tập 5 - Chương 2 - Phẩm Dalha - Chuyện 156 Đến 160",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14104-kinh-tieu-bo-tap-6-thuviensach.vn.mp3?t=4675",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:17:55 Tập 5 - Chương 2 - Phẩm Santahava - Chuyện 161 Đến 163",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14104-kinh-tieu-bo-tap-6-thuviensach.vn.mp3?t=5790",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:36:30 Tập 5 - Chương 2 - Phẩm Santahava - Chuyện 164 Đến 170",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14104-kinh-tieu-bo-tap-6-thuviensach.vn.mp3?t=7248",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:00:48 Tập 5 - Chương 2 - Phẩm Thiện Pháp - Chuyện 171 Đến 174",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14104-kinh-tieu-bo-tap-6-thuviensach.vn.mp3?t=8358",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:19:18 Tập 5 - Chương 2 - Phẩm Thiện Pháp - Chuyện 175 Đến 180",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14104-kinh-tieu-bo-tap-6-thuviensach.vn.mp3?t=10161",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:49:21 Tập 5 - Chương 2 - Phẩm Asadisa - Chuyện 181 Đến 184",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14104-kinh-tieu-bo-tap-6-thuviensach.vn.mp3?t=11939",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:18:59 Tập 5 - Chương 2 - Phẩm Asadisa - Chuyện 185 Đến 190",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14104-kinh-tieu-bo-tap-6-thuviensach.vn.mp3?t=13850",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:50:50 Tập 5 - Chương 2 - Phẩm Ruhaka - Chuyện 191 Đến 194",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14104-kinh-tieu-bo-tap-6-thuviensach.vn.mp3?t=15463",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:17:43 Tập 5 - Chương 2 - Phẩm Ruhaka - Chuyện 195 Đến 200",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14104-kinh-tieu-bo-tap-6-thuviensach.vn.mp3?t=17192",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:46:32 Tập 5 - Chương 2 - Phẩm Natamdaiha - Chuyện 201 Đến 205",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14104-kinh-tieu-bo-tap-6-thuviensach.vn.mp3?t=18783",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:13:03 Tập 5 - Chương 2 - Phẩm Natamdaiha - Chuyện 206 Đến 210",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14104-kinh-tieu-bo-tap-6-thuviensach.vn.mp3?t=20249",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:37:29 Tập 5 - Chương 2 - Phẩm Biranatthambahaka - Chuyện 211 Đến 216",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14104-kinh-tieu-bo-tap-6-thuviensach.vn.mp3?t=22046",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:07:26 Tập 5 - Chương 2 - Phẩm Biranatthambahaka - Chuyện 217 Đến 220",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14104-kinh-tieu-bo-tap-6-thuviensach.vn.mp3?t=23822",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:37:02 Tập 5 - Chương 2 - Phẩm Kàsàva - Chuyện 221 Đến 223",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14104-kinh-tieu-bo-tap-6-thuviensach.vn.mp3?t=25118",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:58:38 Tập 5 - Chương 2 - Phẩm Kàsàva - Chuyện 224 Đến 230",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14104-kinh-tieu-bo-tap-6-thuviensach.vn.mp3?t=26688",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:24:48 Tập 5 - Chương 2 - Phẩm Upàhana - Chuyện 231 Đến 237",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14104-kinh-tieu-bo-tap-6-thuviensach.vn.mp3?t=28203",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:50:03 Tập 5 - Chương 2 - Phẩm Upàhana - Chuyện 238 Đến 240",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14104-kinh-tieu-bo-tap-6-thuviensach.vn.mp3?t=28954",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:02:34 Tập 5 - Chương 2 - Phẩm Sigàla - Chuyện 241 Đến 244",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14104-kinh-tieu-bo-tap-6-thuviensach.vn.mp3?t=31131",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:38:51 Tập 5 - Chương 2 - Phẩm Sigàla - Chuyện 245 Đến 250",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14104-kinh-tieu-bo-tap-6-thuviensach.vn.mp3?t=32610",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:03:30 Tập 5 - Chương 3 - Phẩm Sankappa - Chuyện 251 Đến 253",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14104-kinh-tieu-bo-tap-6-thuviensach.vn.mp3?t=34513",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:35:13 Tập 5 - Chương 3 - Phẩm Sankappa - Chuyện 254 Đến 256",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14104-kinh-tieu-bo-tap-6-thuviensach.vn.mp3?t=35826",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:57:06 Tập 5 - Chương 3 - Phẩm Sankappa - Chuyện 257",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14104-kinh-tieu-bo-tap-6-thuviensach.vn.mp3?t=37541",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:25:41 Tập 5 - Chương 3 - Phẩm Sankappa - Chuyện 258 Đến 260",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14104-kinh-tieu-bo-tap-6-thuviensach.vn.mp3?t=38725",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:45:25 Tập 5 - Chương 3 - Phẩm Kosya - Chuyện 261 Đến 263",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14104-kinh-tieu-bo-tap-6-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Tập 5 - Chương 2 - Phẩm Dalha - Chuyện 151 Đến 155",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14104-kinh-tieu-bo-tap-6-thuviensach.vn.mp3?t=2044",
+    "title" : "00:34:04 Tập 5 - Chương 2 - Phẩm Dalha - Chuyện 156 Đến 160",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14104-kinh-tieu-bo-tap-6-thuviensach.vn.mp3?t=4675",
+    "title" : "01:17:55 Tập 5 - Chương 2 - Phẩm Santahava - Chuyện 161 Đến 163",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14104-kinh-tieu-bo-tap-6-thuviensach.vn.mp3?t=5790",
+    "title" : "01:36:30 Tập 5 - Chương 2 - Phẩm Santahava - Chuyện 164 Đến 170",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14104-kinh-tieu-bo-tap-6-thuviensach.vn.mp3?t=7248",
+    "title" : "02:00:48 Tập 5 - Chương 2 - Phẩm Thiện Pháp - Chuyện 171 Đến 174",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14104-kinh-tieu-bo-tap-6-thuviensach.vn.mp3?t=8358",
+    "title" : "02:19:18 Tập 5 - Chương 2 - Phẩm Thiện Pháp - Chuyện 175 Đến 180",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14104-kinh-tieu-bo-tap-6-thuviensach.vn.mp3?t=10161",
+    "title" : "02:49:21 Tập 5 - Chương 2 - Phẩm Asadisa - Chuyện 181 Đến 184",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14104-kinh-tieu-bo-tap-6-thuviensach.vn.mp3?t=11939",
+    "title" : "03:18:59 Tập 5 - Chương 2 - Phẩm Asadisa - Chuyện 185 Đến 190",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14104-kinh-tieu-bo-tap-6-thuviensach.vn.mp3?t=13850",
+    "title" : "03:50:50 Tập 5 - Chương 2 - Phẩm Ruhaka - Chuyện 191 Đến 194",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14104-kinh-tieu-bo-tap-6-thuviensach.vn.mp3?t=15463",
+    "title" : "04:17:43 Tập 5 - Chương 2 - Phẩm Ruhaka - Chuyện 195 Đến 200",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14104-kinh-tieu-bo-tap-6-thuviensach.vn.mp3?t=17192",
+    "title" : "04:46:32 Tập 5 - Chương 2 - Phẩm Natamdaiha - Chuyện 201 Đến 205",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14104-kinh-tieu-bo-tap-6-thuviensach.vn.mp3?t=18783",
+    "title" : "05:13:03 Tập 5 - Chương 2 - Phẩm Natamdaiha - Chuyện 206 Đến 210",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14104-kinh-tieu-bo-tap-6-thuviensach.vn.mp3?t=20249",
+    "title" : "05:37:29 Tập 5 - Chương 2 - Phẩm Biranatthambahaka - Chuyện 211 Đến 216",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14104-kinh-tieu-bo-tap-6-thuviensach.vn.mp3?t=22046",
+    "title" : "06:07:26 Tập 5 - Chương 2 - Phẩm Biranatthambahaka - Chuyện 217 Đến 220",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14104-kinh-tieu-bo-tap-6-thuviensach.vn.mp3?t=23822",
+    "title" : "06:37:02 Tập 5 - Chương 2 - Phẩm Kàsàva - Chuyện 221 Đến 223",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14104-kinh-tieu-bo-tap-6-thuviensach.vn.mp3?t=25118",
+    "title" : "06:58:38 Tập 5 - Chương 2 - Phẩm Kàsàva - Chuyện 224 Đến 230",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14104-kinh-tieu-bo-tap-6-thuviensach.vn.mp3?t=26688",
+    "title" : "07:24:48 Tập 5 - Chương 2 - Phẩm Upàhana - Chuyện 231 Đến 237",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14104-kinh-tieu-bo-tap-6-thuviensach.vn.mp3?t=28203",
+    "title" : "07:50:03 Tập 5 - Chương 2 - Phẩm Upàhana - Chuyện 238 Đến 240",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14104-kinh-tieu-bo-tap-6-thuviensach.vn.mp3?t=28954",
+    "title" : "08:02:34 Tập 5 - Chương 2 - Phẩm Sigàla - Chuyện 241 Đến 244",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14104-kinh-tieu-bo-tap-6-thuviensach.vn.mp3?t=31131",
+    "title" : "08:38:51 Tập 5 - Chương 2 - Phẩm Sigàla - Chuyện 245 Đến 250",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14104-kinh-tieu-bo-tap-6-thuviensach.vn.mp3?t=32610",
+    "title" : "09:03:30 Tập 5 - Chương 3 - Phẩm Sankappa - Chuyện 251 Đến 253",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14104-kinh-tieu-bo-tap-6-thuviensach.vn.mp3?t=34513",
+    "title" : "09:35:13 Tập 5 - Chương 3 - Phẩm Sankappa - Chuyện 254 Đến 256",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14104-kinh-tieu-bo-tap-6-thuviensach.vn.mp3?t=35826",
+    "title" : "09:57:06 Tập 5 - Chương 3 - Phẩm Sankappa - Chuyện 257",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14104-kinh-tieu-bo-tap-6-thuviensach.vn.mp3?t=37541",
+    "title" : "10:25:41 Tập 5 - Chương 3 - Phẩm Sankappa - Chuyện 258 Đến 260",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14104-kinh-tieu-bo-tap-6-thuviensach.vn.mp3?t=38725",
+    "title" : "10:45:25 Tập 5 - Chương 3 - Phẩm Kosya - Chuyện 261 Đến 263",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
