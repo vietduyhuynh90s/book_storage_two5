@@ -1,0 +1,293 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/quy-nhay-x-ac.html",
+    "title" : "Quỷ Nhảy X.ác",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hà Dương",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 81154,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_c147fecd22f27c0de89332be928c1ae7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_c147fecd22f27c0de89332be928c1ae7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/quy-nhay-xac/quy-nhay-xac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4632,
+    "title" : "quy-nhay-xac",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-nhay-xac/quy-nhay-x-ac-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3743,
+    "title" : "quy-nhay-x-ac-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-nhay-xac/quy-nhay-xac-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3783,
+    "title" : "quy-nhay-xac-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-nhay-xac/quy-nhay-xac-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3774,
+    "title" : "quy-nhay-xac-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-nhay-xac/quy-nhay-xac-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3896,
+    "title" : "quy-nhay-xac-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-nhay-xac/quy-nhay-xac-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3750,
+    "title" : "quy-nhay-xac-tap-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-nhay-xac/quy-nhay-xac-tap-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3892,
+    "title" : "quy-nhay-xac-tap-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-nhay-xac/quy-nhay-xac-tap-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3752,
+    "title" : "quy-nhay-xac-tap-8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-nhay-xac/quy-nhay-xac-tap-9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3924,
+    "title" : "quy-nhay-xac-tap-9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-nhay-xac/quy-nhay-xac-tap-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3800,
+    "title" : "quy-nhay-xac-tap-10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-nhay-xac/quy-nhay-xac-tap-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3917,
+    "title" : "quy-nhay-xac-tap-11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-nhay-xac/quy-nhay-xac-tap-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3854,
+    "title" : "quy-nhay-xac-tap-12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-nhay-xac/quy-nhay-xac-tap-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3844,
+    "title" : "quy-nhay-xac-tap-13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-nhay-xac/quy-nhay-xac-tap-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3812,
+    "title" : "quy-nhay-xac-tap-14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-nhay-xac/quy-nhay-xac-tap-15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3737,
+    "title" : "quy-nhay-xac-tap-15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-nhay-xac/quy-nhay-xac-tap-16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3816,
+    "title" : "quy-nhay-xac-tap-16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-nhay-xac/quy-nhay-xac-tap-17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3846,
+    "title" : "quy-nhay-xac-tap-17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-nhay-xac/quy-nhay-xac-tap-18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3848,
+    "title" : "quy-nhay-xac-tap-18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-nhay-xac/quy-nhay-xac-tap-19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3726,
+    "title" : "quy-nhay-xac-tap-19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-nhay-xac/quy-nhay-xac-tap-20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3705,
+    "title" : "quy-nhay-xac-tap-20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-nhay-xac/quy-nhay-xac-tap-21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4103,
+    "title" : "quy-nhay-xac-tap-21",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/quy-nhay-xac/quy-nhay-xac.mp3",
+    "title" : "quy-nhay-xac",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-nhay-xac/quy-nhay-x-ac-tap-2.mp3",
+    "title" : "quy-nhay-x-ac-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-nhay-xac/quy-nhay-xac-tap-3.mp3",
+    "title" : "quy-nhay-xac-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-nhay-xac/quy-nhay-xac-tap-4.mp3",
+    "title" : "quy-nhay-xac-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-nhay-xac/quy-nhay-xac-tap-5.mp3",
+    "title" : "quy-nhay-xac-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-nhay-xac/quy-nhay-xac-tap-6.mp3",
+    "title" : "quy-nhay-xac-tap-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-nhay-xac/quy-nhay-xac-tap-7.mp3",
+    "title" : "quy-nhay-xac-tap-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-nhay-xac/quy-nhay-xac-tap-8.mp3",
+    "title" : "quy-nhay-xac-tap-8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-nhay-xac/quy-nhay-xac-tap-9.mp3",
+    "title" : "quy-nhay-xac-tap-9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-nhay-xac/quy-nhay-xac-tap-10.mp3",
+    "title" : "quy-nhay-xac-tap-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-nhay-xac/quy-nhay-xac-tap-11.mp3",
+    "title" : "quy-nhay-xac-tap-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-nhay-xac/quy-nhay-xac-tap-12.mp3",
+    "title" : "quy-nhay-xac-tap-12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-nhay-xac/quy-nhay-xac-tap-13.mp3",
+    "title" : "quy-nhay-xac-tap-13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-nhay-xac/quy-nhay-xac-tap-14.mp3",
+    "title" : "quy-nhay-xac-tap-14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-nhay-xac/quy-nhay-xac-tap-15.mp3",
+    "title" : "quy-nhay-xac-tap-15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-nhay-xac/quy-nhay-xac-tap-16.mp3",
+    "title" : "quy-nhay-xac-tap-16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-nhay-xac/quy-nhay-xac-tap-17.mp3",
+    "title" : "quy-nhay-xac-tap-17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-nhay-xac/quy-nhay-xac-tap-18.mp3",
+    "title" : "quy-nhay-xac-tap-18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-nhay-xac/quy-nhay-xac-tap-19.mp3",
+    "title" : "quy-nhay-xac-tap-19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-nhay-xac/quy-nhay-xac-tap-20.mp3",
+    "title" : "quy-nhay-xac-tap-20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-nhay-xac/quy-nhay-xac-tap-21.mp3",
+    "title" : "quy-nhay-xac-tap-21",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
