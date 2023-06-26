@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/dao-bup-be.html",
+    "title" : "Đảo búp bê",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Âm Sát",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_f7708fb9cf04205554a32166ab482090.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_f7708fb9cf04205554a32166ab482090.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://ia801409.us.archive.org/21/items/dao-bup-be-full/DaoBupBe_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Đảo búp bê tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801409.us.archive.org/21/items/dao-bup-be-full/DaoBupBe_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Đảo búp bê tập 2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://ia801409.us.archive.org/21/items/dao-bup-be-full/DaoBupBe_01.mp3",
+    "title" : "Đảo búp bê tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801409.us.archive.org/21/items/dao-bup-be-full/DaoBupBe_02.mp3",
+    "title" : "Đảo búp bê tập 2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,389 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/thuong-nhan-am-phu.html",
+    "title" : "Thương Nhân Âm Phủ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đạo Môn Lão Cửu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 123919,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_7da735d9d6ab27a2d317e5cbeea23964.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_7da735d9d6ab27a2d317e5cbeea23964.webp",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4539,
+    "title" : "thuong-nhan-am-phu-tap-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4313,
+    "title" : "thuong-nhan-am-phu-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3830,
+    "title" : "thuong-nhan-am-phu-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3976,
+    "title" : "thuong-nhan-am-phu-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5241,
+    "title" : "thuong-nhan-am-phu-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5335,
+    "title" : "thuong-nhan-am-phu-tap-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4912,
+    "title" : "thuong-nhan-am-phu-tap-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5212,
+    "title" : "thuong-nhan-am-phu-tap-8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4388,
+    "title" : "thuong-nhan-am-phu-tap-9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5089,
+    "title" : "thuong-nhan-am-phu-tap-10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4648,
+    "title" : "thuong-nhan-am-phu-tap-11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4473,
+    "title" : "thuong-nhan-am-phu-tap-12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4155,
+    "title" : "thuong-nhan-am-phu-tap-14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4167,
+    "title" : "thuong-nhan-am-phu-tap-15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3802,
+    "title" : "thuong-nhan-am-phu-tap-16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3896,
+    "title" : "thuong-nhan-am-phu-tap-17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4593,
+    "title" : "thuong-nhan-am-phu-tap-18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4667,
+    "title" : "thuong-nhan-am-phu-tap-19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4391,
+    "title" : "thuong-nhan-am-phu-tap-20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4431,
+    "title" : "thuong-nhan-am-phu-tap-21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3926,
+    "title" : "thuong-nhan-am-phu-tap-22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3782,
+    "title" : "thuong-nhan-am-phu-tap-23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4055,
+    "title" : "thuong-nhan-am-phu-tap-24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3748,
+    "title" : "thuong-nhan-am-phu-tap-25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3635,
+    "title" : "thuong-nhan-am-phu-tap-26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3838,
+    "title" : "thuong-nhan-am-phu-tap-27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3702,
+    "title" : "thuong-nhan-am-phu-tap-28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3381,
+    "title" : "thuong-nhan-am-phu-tap-29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3794,
+    "title" : "thuong-nhan-am-phu-tap-30",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-1.mp3",
+    "title" : "thuong-nhan-am-phu-tap-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-2.mp3",
+    "title" : "thuong-nhan-am-phu-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-3.mp3",
+    "title" : "thuong-nhan-am-phu-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-4.mp3",
+    "title" : "thuong-nhan-am-phu-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-5.mp3",
+    "title" : "thuong-nhan-am-phu-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-6.mp3",
+    "title" : "thuong-nhan-am-phu-tap-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-7.mp3",
+    "title" : "thuong-nhan-am-phu-tap-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-8.mp3",
+    "title" : "thuong-nhan-am-phu-tap-8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-9.mp3",
+    "title" : "thuong-nhan-am-phu-tap-9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-10.mp3",
+    "title" : "thuong-nhan-am-phu-tap-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-11.mp3",
+    "title" : "thuong-nhan-am-phu-tap-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-12.mp3",
+    "title" : "thuong-nhan-am-phu-tap-12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-14.mp3",
+    "title" : "thuong-nhan-am-phu-tap-14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-15.mp3",
+    "title" : "thuong-nhan-am-phu-tap-15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-16.mp3",
+    "title" : "thuong-nhan-am-phu-tap-16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-17.mp3",
+    "title" : "thuong-nhan-am-phu-tap-17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-18.mp3",
+    "title" : "thuong-nhan-am-phu-tap-18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-19.mp3",
+    "title" : "thuong-nhan-am-phu-tap-19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-20.mp3",
+    "title" : "thuong-nhan-am-phu-tap-20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-21.mp3",
+    "title" : "thuong-nhan-am-phu-tap-21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-22.mp3",
+    "title" : "thuong-nhan-am-phu-tap-22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-23.mp3",
+    "title" : "thuong-nhan-am-phu-tap-23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-24.mp3",
+    "title" : "thuong-nhan-am-phu-tap-24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-25.mp3",
+    "title" : "thuong-nhan-am-phu-tap-25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-26.mp3",
+    "title" : "thuong-nhan-am-phu-tap-26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-27.mp3",
+    "title" : "thuong-nhan-am-phu-tap-27",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-28.mp3",
+    "title" : "thuong-nhan-am-phu-tap-28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-29.mp3",
+    "title" : "thuong-nhan-am-phu-tap-29",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuong-nhan-am-phu-am-phong/thuong-nhan-am-phu-tap-30.mp3",
+    "title" : "thuong-nhan-am-phu-tap-30",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

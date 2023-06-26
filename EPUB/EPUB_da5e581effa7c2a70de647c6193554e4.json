@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/oan-nghiep-dat-thieng.html",
+    "title" : "Oán Nghiệp Đất Thiêng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Gia Phúc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 11298,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_da5e581effa7c2a70de647c6193554e4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_da5e581effa7c2a70de647c6193554e4.webp",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/oan-nghiep-dat-thieng/oan-nghiep-dat-thieng.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4175,
+    "title" : "oan-nghiep-dat-thieng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/oan-nghiep-dat-thieng/oan-nghiep-dat-thieng-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3419,
+    "title" : "oan-nghiep-dat-thieng-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/oan-nghiep-dat-thieng/oan-nghiep-dat-thieng-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3704,
+    "title" : "oan-nghiep-dat-thieng-tap-3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/oan-nghiep-dat-thieng/oan-nghiep-dat-thieng.mp3",
+    "title" : "oan-nghiep-dat-thieng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/oan-nghiep-dat-thieng/oan-nghiep-dat-thieng-tap-2.mp3",
+    "title" : "oan-nghiep-dat-thieng-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/oan-nghiep-dat-thieng/oan-nghiep-dat-thieng-tap-3.mp3",
+    "title" : "oan-nghiep-dat-thieng-tap-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/cau-trieu-phuu-luu-ky.html",
+    "title" : "Cậu Triệu Phưu Lưu Ký",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Ngọc Ngà",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 28560,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_bdd15bc40ad661c535c2db6a4e88f516.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_bdd15bc40ad661c535c2db6a4e88f516.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cau-trieu-phuu-luu-ky/cau-trieu-phuu-luu-ky.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4231,
+    "title" : "cau-trieu-phuu-luu-ky",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-trieu-phuu-luu-ky/cau-trieu-phuu-luu-ky-tap-9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3889,
+    "title" : "cau-trieu-phuu-luu-ky-tap-9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-trieu-phuu-luu-ky/cau-trieu-phuu-luu-ly-tap-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3813,
+    "title" : "cau-trieu-phuu-luu-ly-tap-10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-trieu-phuu-luu-ky/cau-trieu-phuu-luu-ky-tap-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3895,
+    "title" : "cau-trieu-phuu-luu-ky-tap-11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-trieu-phuu-luu-ky/cau-trieu-phuu-luu-ky-tap-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4301,
+    "title" : "cau-trieu-phuu-luu-ky-tap-12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-trieu-phuu-luu-ky/cau-trieu-phuu-luu-ky-tap-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4220,
+    "title" : "cau-trieu-phuu-luu-ky-tap-13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-trieu-phuu-luu-ky/cau-trieu-phuu-luu-ky-tap-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4211,
+    "title" : "cau-trieu-phuu-luu-ky-tap-14",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cau-trieu-phuu-luu-ky/cau-trieu-phuu-luu-ky.mp3",
+    "title" : "cau-trieu-phuu-luu-ky",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-trieu-phuu-luu-ky/cau-trieu-phuu-luu-ky-tap-9.mp3",
+    "title" : "cau-trieu-phuu-luu-ky-tap-9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-trieu-phuu-luu-ky/cau-trieu-phuu-luu-ly-tap-10.mp3",
+    "title" : "cau-trieu-phuu-luu-ly-tap-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-trieu-phuu-luu-ky/cau-trieu-phuu-luu-ky-tap-11.mp3",
+    "title" : "cau-trieu-phuu-luu-ky-tap-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-trieu-phuu-luu-ky/cau-trieu-phuu-luu-ky-tap-12.mp3",
+    "title" : "cau-trieu-phuu-luu-ky-tap-12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-trieu-phuu-luu-ky/cau-trieu-phuu-luu-ky-tap-13.mp3",
+    "title" : "cau-trieu-phuu-luu-ky-tap-13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-trieu-phuu-luu-ky/cau-trieu-phuu-luu-ky-tap-14.mp3",
+    "title" : "cau-trieu-phuu-luu-ky-tap-14",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

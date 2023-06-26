@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/ba-ve-trong-mua.html",
+    "title" : "Ba về trong mưa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hoàng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_953206dc1bb3fd6238e647228f6422b1.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_953206dc1bb3fd6238e647228f6422b1.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://ia801500.us.archive.org/33/items/ba-ve-trong-mua-full/BaVeTrongMua_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Ba về trong mưa tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801500.us.archive.org/33/items/ba-ve-trong-mua-full/BaVeTrongMua_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Ba về trong mưa tập 2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://ia801500.us.archive.org/33/items/ba-ve-trong-mua-full/BaVeTrongMua_01.mp3",
+    "title" : "Ba về trong mưa tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801500.us.archive.org/33/items/ba-ve-trong-mua-full/BaVeTrongMua_02.mp3",
+    "title" : "Ba về trong mưa tập 2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/nguoi-van-chuyen.html",
+    "title" : "Người Vận Chuyển",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lê Tuấn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 27865,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_8cb7aa91a6c891339c4ce5c6a3ce9074.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_8cb7aa91a6c891339c4ce5c6a3ce9074.webp",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nguoi-van-chuyen-full/nguoi-van-chuyen-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3134,
+    "title" : "nguoi-van-chuyen-tap-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-van-chuyen-full/nguoi-van-chuyen-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2955,
+    "title" : "nguoi-van-chuyen-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-van-chuyen-full/nguoi-van-chuyen-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2640,
+    "title" : "nguoi-van-chuyen-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-van-chuyen-full/nguoi-van-chuyen-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2777,
+    "title" : "nguoi-van-chuyen-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-van-chuyen-full/nguoi-van-chuyen-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2649,
+    "title" : "nguoi-van-chuyen-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-van-chuyen-full/nguoi-van-chuyen-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3420,
+    "title" : "nguoi-van-chuyen-tap-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-van-chuyen-full/nguoi-van-chuyen-tap-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3343,
+    "title" : "nguoi-van-chuyen-tap-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-van-chuyen-full/nguoi-van-chuyen-tap-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3104,
+    "title" : "nguoi-van-chuyen-tap-8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-van-chuyen-full/nguoi-van-chuyen-tap-9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3843,
+    "title" : "nguoi-van-chuyen-tap-9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nguoi-van-chuyen-full/nguoi-van-chuyen-tap-1.mp3",
+    "title" : "nguoi-van-chuyen-tap-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-van-chuyen-full/nguoi-van-chuyen-tap-2.mp3",
+    "title" : "nguoi-van-chuyen-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-van-chuyen-full/nguoi-van-chuyen-tap-3.mp3",
+    "title" : "nguoi-van-chuyen-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-van-chuyen-full/nguoi-van-chuyen-tap-4.mp3",
+    "title" : "nguoi-van-chuyen-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-van-chuyen-full/nguoi-van-chuyen-tap-5.mp3",
+    "title" : "nguoi-van-chuyen-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-van-chuyen-full/nguoi-van-chuyen-tap-6.mp3",
+    "title" : "nguoi-van-chuyen-tap-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-van-chuyen-full/nguoi-van-chuyen-tap-7.mp3",
+    "title" : "nguoi-van-chuyen-tap-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-van-chuyen-full/nguoi-van-chuyen-tap-8.mp3",
+    "title" : "nguoi-van-chuyen-tap-8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-van-chuyen-full/nguoi-van-chuyen-tap-9.mp3",
+    "title" : "nguoi-van-chuyen-tap-9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

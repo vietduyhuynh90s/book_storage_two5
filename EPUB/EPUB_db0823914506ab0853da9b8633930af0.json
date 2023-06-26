@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/tam-long-tran-mach.html",
+    "title" : "Tầm Long Trấn Mạch",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lâm Gia - Thái Bảo",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 22432,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_db0823914506ab0853da9b8633930af0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_db0823914506ab0853da9b8633930af0.webp",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tam-long-tran-mach-toan-thu-full/tam-long-tran-mach-toan-thu-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3705,
+    "title" : "tam-long-tran-mach-toan-thu-tap-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-long-tran-mach-toan-thu-full/tam-long-tran-mach-toan-thu-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4058,
+    "title" : "tam-long-tran-mach-toan-thu-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-long-tran-mach-toan-thu-full/tam-long-tran-mach-toan-thu-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3591,
+    "title" : "tam-long-tran-mach-toan-thu-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-long-tran-mach-toan-thu-full/tam-long-tran-mach-toan-thu-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3497,
+    "title" : "tam-long-tran-mach-toan-thu-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-long-tran-mach-toan-thu-full/tam-long-tran-mach-toan-thu-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3449,
+    "title" : "tam-long-tran-mach-toan-thu-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-long-tran-mach-toan-thu-full/tam-long-tran-mach-toan-thu-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4132,
+    "title" : "tam-long-tran-mach-toan-thu-tap-6",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tam-long-tran-mach-toan-thu-full/tam-long-tran-mach-toan-thu-tap-1.mp3",
+    "title" : "tam-long-tran-mach-toan-thu-tap-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-long-tran-mach-toan-thu-full/tam-long-tran-mach-toan-thu-tap-2.mp3",
+    "title" : "tam-long-tran-mach-toan-thu-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-long-tran-mach-toan-thu-full/tam-long-tran-mach-toan-thu-tap-3.mp3",
+    "title" : "tam-long-tran-mach-toan-thu-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-long-tran-mach-toan-thu-full/tam-long-tran-mach-toan-thu-tap-4.mp3",
+    "title" : "tam-long-tran-mach-toan-thu-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-long-tran-mach-toan-thu-full/tam-long-tran-mach-toan-thu-tap-5.mp3",
+    "title" : "tam-long-tran-mach-toan-thu-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-long-tran-mach-toan-thu-full/tam-long-tran-mach-toan-thu-tap-6.mp3",
+    "title" : "tam-long-tran-mach-toan-thu-tap-6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

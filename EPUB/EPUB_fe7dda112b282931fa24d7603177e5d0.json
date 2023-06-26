@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/vong-nhi-bao-thu.html",
+    "title" : "Vong nhi báo thù",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đang cập nhập",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_fe7dda112b282931fa24d7603177e5d0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_fe7dda112b282931fa24d7603177e5d0.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://ia801505.us.archive.org/29/items/vong-nhi-bao-thu/vong-nhi-bao-thu-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Vong nhi báo oán Tập 1 - MC Quàng A Tũn - Nghetruyenma.net",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801505.us.archive.org/29/items/vong-nhi-bao-thu/vong-nhi-bao-thu-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Vong nhi báo oán Tập 2 - MC Quàng A Tũn - Nghetruyenma.net",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://ia801505.us.archive.org/29/items/vong-nhi-bao-thu/vong-nhi-bao-thu-tap-1.mp3",
+    "title" : "Vong nhi báo oán Tập 1 - MC Quàng A Tũn - Nghetruyenma.net",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801505.us.archive.org/29/items/vong-nhi-bao-thu/vong-nhi-bao-thu-tap-2.mp3",
+    "title" : "Vong nhi báo oán Tập 2 - MC Quàng A Tũn - Nghetruyenma.net",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

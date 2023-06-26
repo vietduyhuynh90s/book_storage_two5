@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/hinh-hai-lang-soi.html",
+    "title" : "Hình Hài Lang Sói",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trần Đan Linh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 24353,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_78abe2101fefeb4aeb428467cd5bf2a3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_78abe2101fefeb4aeb428467cd5bf2a3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hinh-hai-lang-soi/hinh-hai-lang-soi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4137,
+    "title" : "hinh-hai-lang-soi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hinh-hai-lang-soi/hinh-hai-lang-soi-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4038,
+    "title" : "hinh-hai-lang-soi-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hinh-hai-lang-soi/hinh-hai-lang-soi-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3811,
+    "title" : "hinh-hai-lang-soi-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hinh-hai-lang-soi/hinh-hai-lang-soi-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4047,
+    "title" : "hinh-hai-lang-soi-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hinh-hai-lang-soi/hinh-hai-lang-soi-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3869,
+    "title" : "hinh-hai-lang-soi-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hinh-hai-lang-soi/hinh-hai-lang-soi-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4451,
+    "title" : "hinh-hai-lang-soi-tap-6",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hinh-hai-lang-soi/hinh-hai-lang-soi.mp3",
+    "title" : "hinh-hai-lang-soi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hinh-hai-lang-soi/hinh-hai-lang-soi-tap-2.mp3",
+    "title" : "hinh-hai-lang-soi-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hinh-hai-lang-soi/hinh-hai-lang-soi-tap-3.mp3",
+    "title" : "hinh-hai-lang-soi-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hinh-hai-lang-soi/hinh-hai-lang-soi-tap-4.mp3",
+    "title" : "hinh-hai-lang-soi-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hinh-hai-lang-soi/hinh-hai-lang-soi-tap-5.mp3",
+    "title" : "hinh-hai-lang-soi-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hinh-hai-lang-soi/hinh-hai-lang-soi-tap-6.mp3",
+    "title" : "hinh-hai-lang-soi-tap-6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
