@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/co-dau-cua-quy-tuong.html",
+    "title" : "Cô Dâu Của Quỷ Tướng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hoa Dành Dành",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 12841,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_235215fc1a3b2456ea890059c3d998e1.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_235215fc1a3b2456ea890059c3d998e1.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/co-dau-cua-quy-tuong/co-dau-cua-quy-tuong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6880,
+    "title" : "co-dau-cua-quy-tuong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-dau-cua-quy-tuong/co-dau-cua-quy-tuong-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5961,
+    "title" : "co-dau-cua-quy-tuong-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/co-dau-cua-quy-tuong/co-dau-cua-quy-tuong.mp3",
+    "title" : "co-dau-cua-quy-tuong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-dau-cua-quy-tuong/co-dau-cua-quy-tuong-tap-2.mp3",
+    "title" : "co-dau-cua-quy-tuong-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

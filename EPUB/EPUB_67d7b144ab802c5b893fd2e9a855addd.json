@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/ganh-trau-xanh-nhuom-m-au.html",
+    "title" : "Gánh Trầu Xanh Nhuốm M.áu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Bạch Cúc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 6281,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_67d7b144ab802c5b893fd2e9a855addd.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_67d7b144ab802c5b893fd2e9a855addd.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ganh-trau-xanh-nhuom-m-au/ganh-trau-xanh-nhuom-m-au.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6281,
+    "title" : "ganh-trau-xanh-nhuom-m-au",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ganh-trau-xanh-nhuom-m-au/ganh-trau-xanh-nhuom-m-au.mp3",
+    "title" : "ganh-trau-xanh-nhuom-m-au",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

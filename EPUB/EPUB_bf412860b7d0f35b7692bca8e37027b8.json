@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/que-ngoai-dat-am.html",
+    "title" : "Quê Ngoại Đất Âm",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phong Tường",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 18078,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_bf412860b7d0f35b7692bca8e37027b8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_bf412860b7d0f35b7692bca8e37027b8.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/que-ngoai-dat-am/que-ngoai-dat-am.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4985,
+    "title" : "que-ngoai-dat-am",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/que-ngoai-dat-am/que-ngoai-dat-am-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4672,
+    "title" : "que-ngoai-dat-am-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/que-ngoai-dat-am/que-ngoai-dat-am-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4040,
+    "title" : "que-ngoai-dat-am-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/que-ngoai-dat-am/que-ngoai-dat-am-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4381,
+    "title" : "que-ngoai-dat-am-tap-4",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/que-ngoai-dat-am/que-ngoai-dat-am.mp3",
+    "title" : "que-ngoai-dat-am",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/que-ngoai-dat-am/que-ngoai-dat-am-tap-2.mp3",
+    "title" : "que-ngoai-dat-am-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/que-ngoai-dat-am/que-ngoai-dat-am-tap-3.mp3",
+    "title" : "que-ngoai-dat-am-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/que-ngoai-dat-am/que-ngoai-dat-am-tap-4.mp3",
+    "title" : "que-ngoai-dat-am-tap-4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

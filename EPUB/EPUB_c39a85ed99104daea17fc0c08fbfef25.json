@@ -1,0 +1,521 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/dot-nhien-co-than-thong.html",
+    "title" : "Đột Nhiên Có Thần Thông",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 146561,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_c39a85ed99104daea17fc0c08fbfef25.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_c39a85ed99104daea17fc0c08fbfef25.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4432,
+    "title" : "dot-nhien-co-than-thong-tap-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3987,
+    "title" : "dot-nhien-co-than-thong-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3832,
+    "title" : "dot-nhien-co-than-thong-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4016,
+    "title" : "dot-nhien-co-than-thong-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3928,
+    "title" : "dot-nhien-co-than-thong-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4023,
+    "title" : "dot-nhien-co-than-thong-tap-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4000,
+    "title" : "dot-nhien-co-than-thong-tap-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3700,
+    "title" : "dot-nhien-co-than-thong-tap-8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3626,
+    "title" : "dot-nhien-co-than-thong-tap-9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3873,
+    "title" : "dot-nhien-co-than-thong-tap-10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3667,
+    "title" : "dot-nhien-co-than-thong-tap-11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3795,
+    "title" : "dot-nhien-co-than-thong-tap-12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4178,
+    "title" : "dot-nhien-co-than-thong-tap-13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3890,
+    "title" : "dot-nhien-co-than-thong-tap-14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3675,
+    "title" : "dot-nhien-co-than-thong-tap-15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3515,
+    "title" : "dot-nhien-co-than-thong-tap-16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3959,
+    "title" : "dot-nhien-co-than-thong-tap-17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3883,
+    "title" : "dot-nhien-co-than-thong-tap-18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3692,
+    "title" : "dot-nhien-co-than-thong-tap-19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3846,
+    "title" : "dot-nhien-co-than-thong-tap-20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4641,
+    "title" : "dot-nhien-co-than-thong-tap-21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3559,
+    "title" : "dot-nhien-co-than-thong-tap-22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3979,
+    "title" : "dot-nhien-co-than-thong-tap-23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3443,
+    "title" : "dot-nhien-co-than-thong-tap-24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3436,
+    "title" : "dot-nhien-co-than-thong-tap-25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3763,
+    "title" : "dot-nhien-co-than-thong-tap-26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2989,
+    "title" : "dot-nhien-co-than-thong-tap-27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3347,
+    "title" : "dot-nhien-co-than-thong-tap-28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3559,
+    "title" : "dot-nhien-co-than-thong-tap-29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3247,
+    "title" : "dot-nhien-co-than-thong-tap-30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3329,
+    "title" : "dot-nhien-co-than-thong-tap-31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3898,
+    "title" : "dot-nhien-co-than-thong-tap-32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3146,
+    "title" : "dot-nhien-co-than-thong-tap-33",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3458,
+    "title" : "dot-nhien-co-than-thong-tap-34",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3209,
+    "title" : "dot-nhien-co-than-thong-tap-35",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3134,
+    "title" : "dot-nhien-co-than-thong-tap-36",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3008,
+    "title" : "dot-nhien-co-than-thong-tap-37",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4049,
+    "title" : "dot-nhien-co-than-thong-tap-38",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2805,
+    "title" : "dot-nhien-co-than-thong-tap-39",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3045,
+    "title" : "dot-nhien-co-than-thong-tap-40",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-1.mp3",
+    "title" : "dot-nhien-co-than-thong-tap-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-2.mp3",
+    "title" : "dot-nhien-co-than-thong-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-3.mp3",
+    "title" : "dot-nhien-co-than-thong-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-4.mp3",
+    "title" : "dot-nhien-co-than-thong-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-5.mp3",
+    "title" : "dot-nhien-co-than-thong-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-6.mp3",
+    "title" : "dot-nhien-co-than-thong-tap-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-7.mp3",
+    "title" : "dot-nhien-co-than-thong-tap-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-8.mp3",
+    "title" : "dot-nhien-co-than-thong-tap-8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-9.mp3",
+    "title" : "dot-nhien-co-than-thong-tap-9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-10.mp3",
+    "title" : "dot-nhien-co-than-thong-tap-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-11.mp3",
+    "title" : "dot-nhien-co-than-thong-tap-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-12.mp3",
+    "title" : "dot-nhien-co-than-thong-tap-12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-13.mp3",
+    "title" : "dot-nhien-co-than-thong-tap-13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-14.mp3",
+    "title" : "dot-nhien-co-than-thong-tap-14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-15.mp3",
+    "title" : "dot-nhien-co-than-thong-tap-15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-16.mp3",
+    "title" : "dot-nhien-co-than-thong-tap-16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-17.mp3",
+    "title" : "dot-nhien-co-than-thong-tap-17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-18.mp3",
+    "title" : "dot-nhien-co-than-thong-tap-18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-19.mp3",
+    "title" : "dot-nhien-co-than-thong-tap-19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-20.mp3",
+    "title" : "dot-nhien-co-than-thong-tap-20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-21.mp3",
+    "title" : "dot-nhien-co-than-thong-tap-21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-22.mp3",
+    "title" : "dot-nhien-co-than-thong-tap-22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-23.mp3",
+    "title" : "dot-nhien-co-than-thong-tap-23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-24.mp3",
+    "title" : "dot-nhien-co-than-thong-tap-24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-25.mp3",
+    "title" : "dot-nhien-co-than-thong-tap-25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-26.mp3",
+    "title" : "dot-nhien-co-than-thong-tap-26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-27.mp3",
+    "title" : "dot-nhien-co-than-thong-tap-27",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-28.mp3",
+    "title" : "dot-nhien-co-than-thong-tap-28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-29.mp3",
+    "title" : "dot-nhien-co-than-thong-tap-29",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-30.mp3",
+    "title" : "dot-nhien-co-than-thong-tap-30",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-31.mp3",
+    "title" : "dot-nhien-co-than-thong-tap-31",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-32.mp3",
+    "title" : "dot-nhien-co-than-thong-tap-32",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-33.mp3",
+    "title" : "dot-nhien-co-than-thong-tap-33",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-34.mp3",
+    "title" : "dot-nhien-co-than-thong-tap-34",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-35.mp3",
+    "title" : "dot-nhien-co-than-thong-tap-35",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-36.mp3",
+    "title" : "dot-nhien-co-than-thong-tap-36",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-37.mp3",
+    "title" : "dot-nhien-co-than-thong-tap-37",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-38.mp3",
+    "title" : "dot-nhien-co-than-thong-tap-38",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-39.mp3",
+    "title" : "dot-nhien-co-than-thong-tap-39",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dot-nhien-co-than-thong-full/dot-nhien-co-than-thong-tap-40.mp3",
+    "title" : "dot-nhien-co-than-thong-tap-40",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

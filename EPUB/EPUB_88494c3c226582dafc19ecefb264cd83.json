@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/hoa-dao-thut-thit.html",
+    "title" : "Hoa Đào Thút Thít",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lê Ngọc Mai",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 19316,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_88494c3c226582dafc19ecefb264cd83.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_88494c3c226582dafc19ecefb264cd83.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hoa-dao-thut-thit/hoa-dao-thut-thit.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4689,
+    "title" : "hoa-dao-thut-thit",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-dao-thut-thit/hoa-dao-thut-thit-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5093,
+    "title" : "hoa-dao-thut-thit-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-dao-thut-thit/hoa-dao-thut-thit-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4905,
+    "title" : "hoa-dao-thut-thit-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-dao-thut-thit/hoa-dao-thut-thit-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4629,
+    "title" : "hoa-dao-thut-thit-tap-4",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hoa-dao-thut-thit/hoa-dao-thut-thit.mp3",
+    "title" : "hoa-dao-thut-thit",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-dao-thut-thit/hoa-dao-thut-thit-tap-2.mp3",
+    "title" : "hoa-dao-thut-thit-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-dao-thut-thit/hoa-dao-thut-thit-tap-3.mp3",
+    "title" : "hoa-dao-thut-thit-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-dao-thut-thit/hoa-dao-thut-thit-tap-4.mp3",
+    "title" : "hoa-dao-thut-thit-tap-4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

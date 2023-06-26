@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/chiec-ghim-cai-toc-hinh-cuc-hoa-mi.html",
+    "title" : "Chiếc Ghim Cài Tóc Hình Cúc Họa Mi",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hà Lan",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 7205,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_8efb916afb71145db292d8b840ea8762.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_8efb916afb71145db292d8b840ea8762.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chiec-ghim-cai-toc-hinh-cuc-hoa-mi/chiec-ghim-cai-toc-hinh-cuc-hoa-mi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7205,
+    "title" : "chiec-ghim-cai-toc-hinh-cuc-hoa-mi",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chiec-ghim-cai-toc-hinh-cuc-hoa-mi/chiec-ghim-cai-toc-hinh-cuc-hoa-mi.mp3",
+    "title" : "chiec-ghim-cai-toc-hinh-cuc-hoa-mi",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
