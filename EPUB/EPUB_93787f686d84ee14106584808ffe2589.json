@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/nguoi-cha-luom-ve-chai.html",
+    "title" : "Người Cha Lượm Ve Chai",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hoàng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 12372,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_93787f686d84ee14106584808ffe2589.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_93787f686d84ee14106584808ffe2589.webp",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nguoi-cha-luon-ve-chai/nguoi-cha-luon-ve-chai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4169,
+    "title" : "nguoi-cha-luon-ve-chai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-cha-luon-ve-chai/nguoi-cha-luom-ve-chai-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3994,
+    "title" : "nguoi-cha-luom-ve-chai-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-cha-luon-ve-chai/nguoi-cha-luom-ve-chai-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4209,
+    "title" : "nguoi-cha-luom-ve-chai-tap-3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nguoi-cha-luon-ve-chai/nguoi-cha-luon-ve-chai.mp3",
+    "title" : "nguoi-cha-luon-ve-chai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-cha-luon-ve-chai/nguoi-cha-luom-ve-chai-tap-2.mp3",
+    "title" : "nguoi-cha-luom-ve-chai-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-cha-luon-ve-chai/nguoi-cha-luom-ve-chai-tap-3.mp3",
+    "title" : "nguoi-cha-luom-ve-chai-tap-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

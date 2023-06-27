@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/ngoi-lang-linh-thieng.html",
+    "title" : "Ngôi làng linh thiêng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Văn Ba",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 35490,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_b30a99f71f963e4484ea45d1199aa4a3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_b30a99f71f963e4484ea45d1199aa4a3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ngoilanglinhthieng/NgoiLangLinhThieng_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4347,
+    "title" : "NgoiLangLinhThieng_01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoilanglinhthieng/NgoiLangLinhThieng_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6309,
+    "title" : "NgoiLangLinhThieng_02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoilanglinhthieng/NgoiLangLinhThieng_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5051,
+    "title" : "NgoiLangLinhThieng_03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoilanglinhthieng/NgoiLangLinhThieng_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4348,
+    "title" : "NgoiLangLinhThieng_04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoilanglinhthieng/NgoiLangLinhThieng_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4214,
+    "title" : "NgoiLangLinhThieng_05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoilanglinhthieng/NgoiLangLinhThieng_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4665,
+    "title" : "NgoiLangLinhThieng_06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoilanglinhthieng/NgoiLangLinhThieng_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6556,
+    "title" : "NgoiLangLinhThieng_07",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ngoilanglinhthieng/NgoiLangLinhThieng_01.mp3",
+    "title" : "NgoiLangLinhThieng_01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoilanglinhthieng/NgoiLangLinhThieng_02.mp3",
+    "title" : "NgoiLangLinhThieng_02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoilanglinhthieng/NgoiLangLinhThieng_03.mp3",
+    "title" : "NgoiLangLinhThieng_03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoilanglinhthieng/NgoiLangLinhThieng_04.mp3",
+    "title" : "NgoiLangLinhThieng_04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoilanglinhthieng/NgoiLangLinhThieng_05.mp3",
+    "title" : "NgoiLangLinhThieng_05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoilanglinhthieng/NgoiLangLinhThieng_06.mp3",
+    "title" : "NgoiLangLinhThieng_06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoilanglinhthieng/NgoiLangLinhThieng_07.mp3",
+    "title" : "NgoiLangLinhThieng_07",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

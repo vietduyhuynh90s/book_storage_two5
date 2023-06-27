@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/phap-su-dau-da-xoa.html",
+    "title" : "Pháp Sư Đấu Dạ Xoa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lâm Thành Thừa",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 11328,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_d5d619ede7e90afaff16b8052c7a9db4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_d5d619ede7e90afaff16b8052c7a9db4.webp",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/phap-su-dau-da-xoa/phap-su-dau-da-xoa.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3706,
+    "title" : "phap-su-dau-da-xoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phap-su-dau-da-xoa/phap-su-dau-da-xoa-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3640,
+    "title" : "phap-su-dau-da-xoa-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phap-su-dau-da-xoa/phap-su-dau-da-xoa-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3982,
+    "title" : "phap-su-dau-da-xoa-tap-3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/phap-su-dau-da-xoa/phap-su-dau-da-xoa.mp3",
+    "title" : "phap-su-dau-da-xoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phap-su-dau-da-xoa/phap-su-dau-da-xoa-tap-2.mp3",
+    "title" : "phap-su-dau-da-xoa-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phap-su-dau-da-xoa/phap-su-dau-da-xoa-tap-3.mp3",
+    "title" : "phap-su-dau-da-xoa-tap-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

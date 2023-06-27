@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/nghiep-may-doi-chua-tra.html",
+    "title" : "Nghiệp Mấy Đời Chưa Trả",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Luna Nguyễn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 17050,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_15f637933f11861fc405dcededd64139.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_15f637933f11861fc405dcededd64139.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nghiep-may-doi-chua-tra/nghiep-may-doi-chua-tra.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4112,
+    "title" : "nghiep-may-doi-chua-tra",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghiep-may-doi-chua-tra/nghiep-may-doi-chua-tra-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4192,
+    "title" : "nghiep-may-doi-chua-tra-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghiep-may-doi-chua-tra/nghiep-may-doi-chua-tra-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4462,
+    "title" : "nghiep-may-doi-chua-tra-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghiep-may-doi-chua-tra/nghiep-may-doi-chua-tra-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4284,
+    "title" : "nghiep-may-doi-chua-tra-tap-4",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nghiep-may-doi-chua-tra/nghiep-may-doi-chua-tra.mp3",
+    "title" : "nghiep-may-doi-chua-tra",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghiep-may-doi-chua-tra/nghiep-may-doi-chua-tra-tap-2.mp3",
+    "title" : "nghiep-may-doi-chua-tra-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghiep-may-doi-chua-tra/nghiep-may-doi-chua-tra-tap-3.mp3",
+    "title" : "nghiep-may-doi-chua-tra-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghiep-may-doi-chua-tra/nghiep-may-doi-chua-tra-tap-4.mp3",
+    "title" : "nghiep-may-doi-chua-tra-tap-4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

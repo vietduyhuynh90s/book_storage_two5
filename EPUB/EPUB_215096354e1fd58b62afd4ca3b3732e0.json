@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/thien-thi-thuat-2.html",
+    "title" : "Thiên Thi Thuật",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Minh Khôi",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 15799,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_215096354e1fd58b62afd4ca3b3732e0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_215096354e1fd58b62afd4ca3b3732e0.webp",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/thien-thi-thuat_202107/thien-thi-thuat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4476,
+    "title" : "thien-thi-thuat",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-thi-thuat_202107/thien-thi-thuat-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3943,
+    "title" : "thien-thi-thuat-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-thi-thuat_202107/thien-thi-thuat-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3604,
+    "title" : "thien-thi-thuat-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-thi-thuat_202107/thien-thi-thuat-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3776,
+    "title" : "thien-thi-thuat-tap-4",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/thien-thi-thuat_202107/thien-thi-thuat.mp3",
+    "title" : "thien-thi-thuat",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-thi-thuat_202107/thien-thi-thuat-tap-2.mp3",
+    "title" : "thien-thi-thuat-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-thi-thuat_202107/thien-thi-thuat-tap-3.mp3",
+    "title" : "thien-thi-thuat-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-thi-thuat_202107/thien-thi-thuat-tap-4.mp3",
+    "title" : "thien-thi-thuat-tap-4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

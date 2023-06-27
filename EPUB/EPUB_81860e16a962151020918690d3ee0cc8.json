@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/dao-si-thoi-tran.html",
+    "title" : "Đạo Sĩ Thời Trần",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhà Văn Bố Láo",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 18582,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_81860e16a962151020918690d3ee0cc8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_81860e16a962151020918690d3ee0cc8.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dao-si-thoi-tran/dao-si-thoi-tran.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6361,
+    "title" : "dao-si-thoi-tran",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dao-si-thoi-tran/dao-si-thoi-tran-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6000,
+    "title" : "dao-si-thoi-tran-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dao-si-thoi-tran/dao-si-thoi-tran-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6221,
+    "title" : "dao-si-thoi-tran-tap-3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dao-si-thoi-tran/dao-si-thoi-tran.mp3",
+    "title" : "dao-si-thoi-tran",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dao-si-thoi-tran/dao-si-thoi-tran-tap-2.mp3",
+    "title" : "dao-si-thoi-tran-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dao-si-thoi-tran/dao-si-thoi-tran-tap-3.mp3",
+    "title" : "dao-si-thoi-tran-tap-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

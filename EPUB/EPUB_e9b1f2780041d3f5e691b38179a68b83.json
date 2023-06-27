@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/cau-tay-nhap-mo-cho-vong-o-hoa-binh.html",
+    "title" : "Cậu Tẩy Nhập Mộ Cho Vong Ở Hòa Bình",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hà Cơ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 17415,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_e9b1f2780041d3f5e691b38179a68b83.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_e9b1f2780041d3f5e691b38179a68b83.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cau-tay-nhap-mo-cho-vong-o-hoa-binh/cau-tay-nhap-mo-cho-vong-o-hoa-binh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5999,
+    "title" : "cau-tay-nhap-mo-cho-vong-o-hoa-binh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-tay-nhap-mo-cho-vong-o-hoa-binh/cau-tay-nhap-mo-cho-vong-o-hoa-binh-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5883,
+    "title" : "cau-tay-nhap-mo-cho-vong-o-hoa-binh-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-tay-nhap-mo-cho-vong-o-hoa-binh/cau-tay-nhap-mo-cho-vong-o-hoa-binh-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5533,
+    "title" : "cau-tay-nhap-mo-cho-vong-o-hoa-binh-tap-3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cau-tay-nhap-mo-cho-vong-o-hoa-binh/cau-tay-nhap-mo-cho-vong-o-hoa-binh.mp3",
+    "title" : "cau-tay-nhap-mo-cho-vong-o-hoa-binh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-tay-nhap-mo-cho-vong-o-hoa-binh/cau-tay-nhap-mo-cho-vong-o-hoa-binh-tap-2.mp3",
+    "title" : "cau-tay-nhap-mo-cho-vong-o-hoa-binh-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-tay-nhap-mo-cho-vong-o-hoa-binh/cau-tay-nhap-mo-cho-vong-o-hoa-binh-tap-3.mp3",
+    "title" : "cau-tay-nhap-mo-cho-vong-o-hoa-binh-tap-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

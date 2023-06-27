@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/co-gai-nha-ben.html",
+    "title" : "Cô Gái Nhà Bên",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "CodeZone",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 20220,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_5d83d2fa8b0b44bcf58ba849005cb4ef.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_5d83d2fa8b0b44bcf58ba849005cb4ef.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/co-gai-nha-ben/co-gai-nha-ben.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3945,
+    "title" : "co-gai-nha-ben",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-gai-nha-ben/co-gai-nha-ben-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3902,
+    "title" : "co-gai-nha-ben-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-gai-nha-ben/co-gai-nha-ben-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3427,
+    "title" : "co-gai-nha-ben-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-gai-nha-ben/co-gai-nha-ben-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4275,
+    "title" : "co-gai-nha-ben-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-gai-nha-ben/co-gai-nha-ben-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4671,
+    "title" : "co-gai-nha-ben-tap-5",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/co-gai-nha-ben/co-gai-nha-ben.mp3",
+    "title" : "co-gai-nha-ben",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-gai-nha-ben/co-gai-nha-ben-tap-2.mp3",
+    "title" : "co-gai-nha-ben-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-gai-nha-ben/co-gai-nha-ben-tap-3.mp3",
+    "title" : "co-gai-nha-ben-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-gai-nha-ben/co-gai-nha-ben-tap-4.mp3",
+    "title" : "co-gai-nha-ben-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-gai-nha-ben/co-gai-nha-ben-tap-5.mp3",
+    "title" : "co-gai-nha-ben-tap-5",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/lao-thay-cung-o-lang-dai.html",
+    "title" : "Lão Thầy Cúng Ở Làng Đài",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Duy Hoàng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 17846,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_20ee86fe6fe7f9229174962c68e8a8e2.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_20ee86fe6fe7f9229174962c68e8a8e2.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/lao-thay-cung-o-lang-dai/lao-thay-cung-o-lang-dai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6216,
+    "title" : "lao-thay-cung-o-lang-dai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lao-thay-cung-o-lang-dai/lao-thay-cung-o-lang-dai-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6180,
+    "title" : "lao-thay-cung-o-lang-dai-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lao-thay-cung-o-lang-dai/lao-thay-cung-o-lang-dai-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5450,
+    "title" : "lao-thay-cung-o-lang-dai-tap-3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/lao-thay-cung-o-lang-dai/lao-thay-cung-o-lang-dai.mp3",
+    "title" : "lao-thay-cung-o-lang-dai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lao-thay-cung-o-lang-dai/lao-thay-cung-o-lang-dai-tap-2.mp3",
+    "title" : "lao-thay-cung-o-lang-dai-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lao-thay-cung-o-lang-dai/lao-thay-cung-o-lang-dai-tap-3.mp3",
+    "title" : "lao-thay-cung-o-lang-dai-tap-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

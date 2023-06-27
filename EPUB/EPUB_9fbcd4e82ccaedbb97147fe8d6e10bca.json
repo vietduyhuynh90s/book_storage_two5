@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/dao-si-luyen-am-binh.html",
+    "title" : "Đạo Sĩ Luyện Âm Binh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Dạ Vũ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 25116,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_9fbcd4e82ccaedbb97147fe8d6e10bca.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_9fbcd4e82ccaedbb97147fe8d6e10bca.webp",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dao-si-luyen-am-binh/dao-si-luyen-am-binh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3861,
+    "title" : "dao-si-luyen-am-binh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dao-si-luyen-am-binh/dao-si-luyen-am-binh-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3763,
+    "title" : "dao-si-luyen-am-binh-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dao-si-luyen-am-binh/dao-si-luyen-am-binh-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3498,
+    "title" : "dao-si-luyen-am-binh-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dao-si-luyen-am-binh/dao-si-luyen-am-binh-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3508,
+    "title" : "dao-si-luyen-am-binh-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dao-si-luyen-am-binh/dao-si-luyen-am-binh-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3607,
+    "title" : "dao-si-luyen-am-binh-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dao-si-luyen-am-binh/dao-si-luyen-am-binh-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3377,
+    "title" : "dao-si-luyen-am-binh-tap-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dao-si-luyen-am-binh/dao-si-luyen-am-binh-tap-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3502,
+    "title" : "dao-si-luyen-am-binh-tap-7",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dao-si-luyen-am-binh/dao-si-luyen-am-binh.mp3",
+    "title" : "dao-si-luyen-am-binh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dao-si-luyen-am-binh/dao-si-luyen-am-binh-tap-2.mp3",
+    "title" : "dao-si-luyen-am-binh-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dao-si-luyen-am-binh/dao-si-luyen-am-binh-tap-3.mp3",
+    "title" : "dao-si-luyen-am-binh-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dao-si-luyen-am-binh/dao-si-luyen-am-binh-tap-4.mp3",
+    "title" : "dao-si-luyen-am-binh-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dao-si-luyen-am-binh/dao-si-luyen-am-binh-tap-5.mp3",
+    "title" : "dao-si-luyen-am-binh-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dao-si-luyen-am-binh/dao-si-luyen-am-binh-tap-6.mp3",
+    "title" : "dao-si-luyen-am-binh-tap-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dao-si-luyen-am-binh/dao-si-luyen-am-binh-tap-7.mp3",
+    "title" : "dao-si-luyen-am-binh-tap-7",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
