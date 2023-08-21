@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-12",
+    "published" : "2023-08-20",
     "duration" : 25897,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,29 +36,89 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/mientay/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_1aba00199445b4d27de8dfbebc6b0b09_6c52b2d294b968072603421056468a6a_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 13679,
-    "title" : "Tiểu Thuyết của Tô Hoài | Trò Chuyện Đêm Khuya",
+    "duration" : 0,
+    "title" : "Tiểu Thuyết của Tô Hoài | Trò Chuyện Đêm Khuya (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mientay/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_1aba00199445b4d27de8dfbebc6b0b09_6c52b2d294b968072603421056468a6a_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 12218,
-    "title" : "Tiểu Thuyết của Tô Hoài | Trò Chuyện Đêm Khuya",
+    "duration" : 0,
+    "title" : "Tiểu Thuyết của Tô Hoài | Trò Chuyện Đêm Khuya (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_1aba00199445b4d27de8dfbebc6b0b09_6c52b2d294b968072603421056468a6a_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tiểu Thuyết của Tô Hoài | Trò Chuyện Đêm Khuya (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_1aba00199445b4d27de8dfbebc6b0b09_6c52b2d294b968072603421056468a6a_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tiểu Thuyết của Tô Hoài | Trò Chuyện Đêm Khuya (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_1aba00199445b4d27de8dfbebc6b0b09_b89fd41030e544d57333e3ac8de17721_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tiểu Thuyết của Tô Hoài | Trò Chuyện Đêm Khuya (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_1aba00199445b4d27de8dfbebc6b0b09_b89fd41030e544d57333e3ac8de17721_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tiểu Thuyết của Tô Hoài | Trò Chuyện Đêm Khuya (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_1aba00199445b4d27de8dfbebc6b0b09_b89fd41030e544d57333e3ac8de17721_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tiểu Thuyết của Tô Hoài | Trò Chuyện Đêm Khuya (3)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/mientay/1.mp3",
-    "title" : "Tiểu Thuyết của Tô Hoài | Trò Chuyện Đêm Khuya",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_1aba00199445b4d27de8dfbebc6b0b09_6c52b2d294b968072603421056468a6a_1.mp3",
+    "title" : "Tiểu Thuyết của Tô Hoài | Trò Chuyện Đêm Khuya (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mientay/2.mp3",
-    "title" : "Tiểu Thuyết của Tô Hoài | Trò Chuyện Đêm Khuya",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_1aba00199445b4d27de8dfbebc6b0b09_6c52b2d294b968072603421056468a6a_2.mp3",
+    "title" : "Tiểu Thuyết của Tô Hoài | Trò Chuyện Đêm Khuya (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_1aba00199445b4d27de8dfbebc6b0b09_6c52b2d294b968072603421056468a6a_3.mp3",
+    "title" : "Tiểu Thuyết của Tô Hoài | Trò Chuyện Đêm Khuya (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_1aba00199445b4d27de8dfbebc6b0b09_6c52b2d294b968072603421056468a6a_4.mp3",
+    "title" : "Tiểu Thuyết của Tô Hoài | Trò Chuyện Đêm Khuya (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_1aba00199445b4d27de8dfbebc6b0b09_b89fd41030e544d57333e3ac8de17721_1.mp3",
+    "title" : "Tiểu Thuyết của Tô Hoài | Trò Chuyện Đêm Khuya (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_1aba00199445b4d27de8dfbebc6b0b09_b89fd41030e544d57333e3ac8de17721_2.mp3",
+    "title" : "Tiểu Thuyết của Tô Hoài | Trò Chuyện Đêm Khuya (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_1aba00199445b4d27de8dfbebc6b0b09_b89fd41030e544d57333e3ac8de17721_3.mp3",
+    "title" : "Tiểu Thuyết của Tô Hoài | Trò Chuyện Đêm Khuya (3)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

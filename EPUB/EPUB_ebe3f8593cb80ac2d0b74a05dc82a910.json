@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-21",
     "duration" : 9585,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,29 +36,53 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/bocuatoi/BoCuaToi.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_ebe3f8593cb80ac2d0b74a05dc82a910_60fb1fea54f2dbd8b2c7321418e312e3_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4718,
-    "title" : "BoCuaToi",
+    "duration" : 0,
+    "title" : "BoCuaToi (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/bocuatoi/BoCuaToi_02.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_ebe3f8593cb80ac2d0b74a05dc82a910_60fb1fea54f2dbd8b2c7321418e312e3_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4867,
-    "title" : "BoCuaToi 02",
+    "duration" : 0,
+    "title" : "BoCuaToi (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_ebe3f8593cb80ac2d0b74a05dc82a910_7dac68e216aaf6585f2460fe83659832_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "BoCuaToi 02 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_ebe3f8593cb80ac2d0b74a05dc82a910_7dac68e216aaf6585f2460fe83659832_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "BoCuaToi 02 (2)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/bocuatoi/BoCuaToi.mp3",
-    "title" : "BoCuaToi",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_ebe3f8593cb80ac2d0b74a05dc82a910_60fb1fea54f2dbd8b2c7321418e312e3_1.mp3",
+    "title" : "BoCuaToi (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/bocuatoi/BoCuaToi_02.mp3",
-    "title" : "BoCuaToi 02",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_ebe3f8593cb80ac2d0b74a05dc82a910_60fb1fea54f2dbd8b2c7321418e312e3_2.mp3",
+    "title" : "BoCuaToi (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_ebe3f8593cb80ac2d0b74a05dc82a910_7dac68e216aaf6585f2460fe83659832_1.mp3",
+    "title" : "BoCuaToi 02 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_ebe3f8593cb80ac2d0b74a05dc82a910_7dac68e216aaf6585f2460fe83659832_2.mp3",
+    "title" : "BoCuaToi 02 (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

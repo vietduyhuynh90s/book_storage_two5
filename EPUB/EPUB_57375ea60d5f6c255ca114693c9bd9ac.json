@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-19",
     "duration" : 28146,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,17 +36,53 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/BVTHCNTB/B%E1%BB%9Fi%20v%C3%AC%20th%E1%BA%A5u%20hi%E1%BB%83u%20cho%20n%C3%AAn%20t%E1%BB%AB%20bi%20-%20B%E1%BA%A1ch%20L%E1%BA%A1c%20Mai%20%28152kbit_Opus%29.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_57375ea60d5f6c255ca114693c9bd9ac_30478db899f1bed615579d8798641a04_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 28146,
-    "title" : "Bởi vì thấu hiểu cho nên từ bi - Bạch Lạc Mai (152kbit Opus)",
+    "duration" : 0,
+    "title" : "Bởi vì thấu hiểu cho nên từ bi - Bạch Lạc Mai (152kbit Opus) (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_57375ea60d5f6c255ca114693c9bd9ac_30478db899f1bed615579d8798641a04_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Bởi vì thấu hiểu cho nên từ bi - Bạch Lạc Mai (152kbit Opus) (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_57375ea60d5f6c255ca114693c9bd9ac_30478db899f1bed615579d8798641a04_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Bởi vì thấu hiểu cho nên từ bi - Bạch Lạc Mai (152kbit Opus) (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_57375ea60d5f6c255ca114693c9bd9ac_30478db899f1bed615579d8798641a04_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Bởi vì thấu hiểu cho nên từ bi - Bạch Lạc Mai (152kbit Opus) (4)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/BVTHCNTB/B%E1%BB%9Fi%20v%C3%AC%20th%E1%BA%A5u%20hi%E1%BB%83u%20cho%20n%C3%AAn%20t%E1%BB%AB%20bi%20-%20B%E1%BA%A1ch%20L%E1%BA%A1c%20Mai%20%28152kbit_Opus%29.mp3",
-    "title" : "Bởi vì thấu hiểu cho nên từ bi - Bạch Lạc Mai (152kbit Opus)",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_57375ea60d5f6c255ca114693c9bd9ac_30478db899f1bed615579d8798641a04_1.mp3",
+    "title" : "Bởi vì thấu hiểu cho nên từ bi - Bạch Lạc Mai (152kbit Opus) (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_57375ea60d5f6c255ca114693c9bd9ac_30478db899f1bed615579d8798641a04_2.mp3",
+    "title" : "Bởi vì thấu hiểu cho nên từ bi - Bạch Lạc Mai (152kbit Opus) (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_57375ea60d5f6c255ca114693c9bd9ac_30478db899f1bed615579d8798641a04_3.mp3",
+    "title" : "Bởi vì thấu hiểu cho nên từ bi - Bạch Lạc Mai (152kbit Opus) (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_57375ea60d5f6c255ca114693c9bd9ac_30478db899f1bed615579d8798641a04_4.mp3",
+    "title" : "Bởi vì thấu hiểu cho nên từ bi - Bạch Lạc Mai (152kbit Opus) (4)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

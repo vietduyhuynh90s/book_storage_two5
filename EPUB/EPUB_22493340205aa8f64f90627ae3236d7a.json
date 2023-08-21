@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-16",
+    "published" : "2023-08-20",
     "duration" : 17510,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,29 +36,65 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/chi-yeu-minh-sesshoumaru/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_22493340205aa8f64f90627ae3236d7a_dd18e010647877f6ead85d22801c1ddc_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 7414,
-    "title" : "1/2 - Ngôn tình xuyên không đặc sắc",
+    "duration" : 0,
+    "title" : "1/2 - Ngôn tình xuyên không đặc sắc (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/chi-yeu-minh-sesshoumaru/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_22493340205aa8f64f90627ae3236d7a_dd18e010647877f6ead85d22801c1ddc_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 10096,
-    "title" : "2/2 - Ngôn tình xuyên không đặc sắc",
+    "duration" : 0,
+    "title" : "1/2 - Ngôn tình xuyên không đặc sắc (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_22493340205aa8f64f90627ae3236d7a_0485ab40ad2048dd6c7e6a0036b27089_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "2/2 - Ngôn tình xuyên không đặc sắc (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_22493340205aa8f64f90627ae3236d7a_0485ab40ad2048dd6c7e6a0036b27089_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "2/2 - Ngôn tình xuyên không đặc sắc (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_22493340205aa8f64f90627ae3236d7a_0485ab40ad2048dd6c7e6a0036b27089_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "2/2 - Ngôn tình xuyên không đặc sắc (3)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/chi-yeu-minh-sesshoumaru/1.mp3",
-    "title" : "1/2 - Ngôn tình xuyên không đặc sắc",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_22493340205aa8f64f90627ae3236d7a_dd18e010647877f6ead85d22801c1ddc_1.mp3",
+    "title" : "1/2 - Ngôn tình xuyên không đặc sắc (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/chi-yeu-minh-sesshoumaru/2.mp3",
-    "title" : "2/2 - Ngôn tình xuyên không đặc sắc",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_22493340205aa8f64f90627ae3236d7a_dd18e010647877f6ead85d22801c1ddc_2.mp3",
+    "title" : "1/2 - Ngôn tình xuyên không đặc sắc (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_22493340205aa8f64f90627ae3236d7a_0485ab40ad2048dd6c7e6a0036b27089_1.mp3",
+    "title" : "2/2 - Ngôn tình xuyên không đặc sắc (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_22493340205aa8f64f90627ae3236d7a_0485ab40ad2048dd6c7e6a0036b27089_2.mp3",
+    "title" : "2/2 - Ngôn tình xuyên không đặc sắc (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_22493340205aa8f64f90627ae3236d7a_0485ab40ad2048dd6c7e6a0036b27089_3.mp3",
+    "title" : "2/2 - Ngôn tình xuyên không đặc sắc (3)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

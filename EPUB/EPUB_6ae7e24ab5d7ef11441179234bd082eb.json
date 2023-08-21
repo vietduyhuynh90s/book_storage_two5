@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-06-07",
+    "published" : "2023-08-19",
     "duration" : 7596,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,29 +36,53 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/nguoi-dan-1_202202/nguoi-dan-1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_6ae7e24ab5d7ef11441179234bd082eb_76334483c67c9611cd14c08a47404fd2_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3900,
-    "title" : "nguoi-dan-1",
+    "duration" : 0,
+    "title" : "nguoi-dan-1 (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nguoi-dan-1_202202/nguoi-dan-2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_6ae7e24ab5d7ef11441179234bd082eb_76334483c67c9611cd14c08a47404fd2_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3696,
-    "title" : "nguoi-dan-2",
+    "duration" : 0,
+    "title" : "nguoi-dan-1 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_6ae7e24ab5d7ef11441179234bd082eb_4623825e6914b3a8cd0ead8686a4804a_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "nguoi-dan-2 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_6ae7e24ab5d7ef11441179234bd082eb_4623825e6914b3a8cd0ead8686a4804a_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "nguoi-dan-2 (2)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/nguoi-dan-1_202202/nguoi-dan-1.mp3",
-    "title" : "nguoi-dan-1",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_6ae7e24ab5d7ef11441179234bd082eb_76334483c67c9611cd14c08a47404fd2_1.mp3",
+    "title" : "nguoi-dan-1 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nguoi-dan-1_202202/nguoi-dan-2.mp3",
-    "title" : "nguoi-dan-2",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_6ae7e24ab5d7ef11441179234bd082eb_76334483c67c9611cd14c08a47404fd2_2.mp3",
+    "title" : "nguoi-dan-1 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_6ae7e24ab5d7ef11441179234bd082eb_4623825e6914b3a8cd0ead8686a4804a_1.mp3",
+    "title" : "nguoi-dan-2 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_6ae7e24ab5d7ef11441179234bd082eb_4623825e6914b3a8cd0ead8686a4804a_2.mp3",
+    "title" : "nguoi-dan-2 (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
