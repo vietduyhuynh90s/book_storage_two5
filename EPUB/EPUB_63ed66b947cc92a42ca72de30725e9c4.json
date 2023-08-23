@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-23",
     "duration" : 31690,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,15 +36,23 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/nguyen-ly-80-20/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_63ed66b947cc92a42ca72de30725e9c4_637ed2e0348b1d74f5458e770974c360_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4655,
-    "title" : "Nguyên Lý 80/20 - Phần 1",
+    "duration" : 0,
+    "title" : "Nguyên Lý 80/20 - Phần 1 (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nguyen-ly-80-20/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_63ed66b947cc92a42ca72de30725e9c4_637ed2e0348b1d74f5458e770974c360_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Nguyên Lý 80/20 - Phần 1 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_63ed66b947cc92a42ca72de30725e9c4_85b30c2b3cb89367198d0e9e6e11dcb6.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 10988,
@@ -52,25 +60,65 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nguyen-ly-80-20/3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_63ed66b947cc92a42ca72de30725e9c4_33571b81a35c3fd666233c7516e01fca_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 16047,
-    "title" : "Nguyên Lý 80/20 - Phần 3 + 4",
+    "duration" : 0,
+    "title" : "Nguyên Lý 80/20 - Phần 3 + 4 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_63ed66b947cc92a42ca72de30725e9c4_33571b81a35c3fd666233c7516e01fca_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Nguyên Lý 80/20 - Phần 3 + 4 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_63ed66b947cc92a42ca72de30725e9c4_33571b81a35c3fd666233c7516e01fca_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Nguyên Lý 80/20 - Phần 3 + 4 (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_63ed66b947cc92a42ca72de30725e9c4_33571b81a35c3fd666233c7516e01fca_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Nguyên Lý 80/20 - Phần 3 + 4 (4)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/nguyen-ly-80-20/1.mp3",
-    "title" : "Nguyên Lý 80/20 - Phần 1",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_63ed66b947cc92a42ca72de30725e9c4_637ed2e0348b1d74f5458e770974c360_1.mp3",
+    "title" : "Nguyên Lý 80/20 - Phần 1 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nguyen-ly-80-20/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_63ed66b947cc92a42ca72de30725e9c4_637ed2e0348b1d74f5458e770974c360_2.mp3",
+    "title" : "Nguyên Lý 80/20 - Phần 1 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_63ed66b947cc92a42ca72de30725e9c4_85b30c2b3cb89367198d0e9e6e11dcb6.mp3",
     "title" : "Nguyên Lý 80/20 - Phần 2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nguyen-ly-80-20/3.mp3",
-    "title" : "Nguyên Lý 80/20 - Phần 3 + 4",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_63ed66b947cc92a42ca72de30725e9c4_33571b81a35c3fd666233c7516e01fca_1.mp3",
+    "title" : "Nguyên Lý 80/20 - Phần 3 + 4 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_63ed66b947cc92a42ca72de30725e9c4_33571b81a35c3fd666233c7516e01fca_2.mp3",
+    "title" : "Nguyên Lý 80/20 - Phần 3 + 4 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_63ed66b947cc92a42ca72de30725e9c4_33571b81a35c3fd666233c7516e01fca_3.mp3",
+    "title" : "Nguyên Lý 80/20 - Phần 3 + 4 (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_63ed66b947cc92a42ca72de30725e9c4_33571b81a35c3fd666233c7516e01fca_4.mp3",
+    "title" : "Nguyên Lý 80/20 - Phần 3 + 4 (4)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
