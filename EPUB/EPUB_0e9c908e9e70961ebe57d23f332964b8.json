@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-22",
     "duration" : 16643,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,41 +36,89 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/NangBichNguyet/NangBichNguyet_01.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_0e9c908e9e70961ebe57d23f332964b8_c6d8a69dbf73c3f40afc24b3b3a0356b_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4993,
-    "title" : "NangBichNguyet 01",
+    "duration" : 0,
+    "title" : "NangBichNguyet 01 (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/NangBichNguyet/NangBichNguyet_02.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_0e9c908e9e70961ebe57d23f332964b8_c6d8a69dbf73c3f40afc24b3b3a0356b_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 5945,
-    "title" : "NangBichNguyet 02",
+    "duration" : 0,
+    "title" : "NangBichNguyet 01 (2)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/NangBichNguyet/NangBichNguyet_03.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_0e9c908e9e70961ebe57d23f332964b8_02d007ff5e85108dff1c83a73ca060e2_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 5705,
-    "title" : "NangBichNguyet 03",
+    "duration" : 0,
+    "title" : "NangBichNguyet 02 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_0e9c908e9e70961ebe57d23f332964b8_02d007ff5e85108dff1c83a73ca060e2_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "NangBichNguyet 02 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_0e9c908e9e70961ebe57d23f332964b8_02d007ff5e85108dff1c83a73ca060e2_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "NangBichNguyet 02 (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_0e9c908e9e70961ebe57d23f332964b8_c60a25f802ab9423511436c6048f9dc2_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "NangBichNguyet 03 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_0e9c908e9e70961ebe57d23f332964b8_c60a25f802ab9423511436c6048f9dc2_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "NangBichNguyet 03 (2)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/NangBichNguyet/NangBichNguyet_01.mp3",
-    "title" : "NangBichNguyet 01",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_0e9c908e9e70961ebe57d23f332964b8_c6d8a69dbf73c3f40afc24b3b3a0356b_1.mp3",
+    "title" : "NangBichNguyet 01 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/NangBichNguyet/NangBichNguyet_02.mp3",
-    "title" : "NangBichNguyet 02",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_0e9c908e9e70961ebe57d23f332964b8_c6d8a69dbf73c3f40afc24b3b3a0356b_2.mp3",
+    "title" : "NangBichNguyet 01 (2)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/NangBichNguyet/NangBichNguyet_03.mp3",
-    "title" : "NangBichNguyet 03",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_0e9c908e9e70961ebe57d23f332964b8_02d007ff5e85108dff1c83a73ca060e2_1.mp3",
+    "title" : "NangBichNguyet 02 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_0e9c908e9e70961ebe57d23f332964b8_02d007ff5e85108dff1c83a73ca060e2_2.mp3",
+    "title" : "NangBichNguyet 02 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_0e9c908e9e70961ebe57d23f332964b8_02d007ff5e85108dff1c83a73ca060e2_3.mp3",
+    "title" : "NangBichNguyet 02 (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_0e9c908e9e70961ebe57d23f332964b8_c60a25f802ab9423511436c6048f9dc2_1.mp3",
+    "title" : "NangBichNguyet 03 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_0e9c908e9e70961ebe57d23f332964b8_c60a25f802ab9423511436c6048f9dc2_2.mp3",
+    "title" : "NangBichNguyet 03 (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

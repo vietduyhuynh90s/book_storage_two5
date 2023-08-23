@@ -1,0 +1,293 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ban-ve-hanh-phuc_20120.html",
+    "title" : "Bàn Về Hạnh Phúc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Matthieu Ricard",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-22",
+    "duration" : 46735,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/EPUB/EPUB_f00ca66b1d207abc716feb11eebb560a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/IMAGE/IMAGE_f00ca66b1d207abc716feb11eebb560a.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_f00ca66b1d207abc716feb11eebb560a_e48de424a6197448d62762477966033d_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "ban-ve-1 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_f00ca66b1d207abc716feb11eebb560a_e48de424a6197448d62762477966033d_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "ban-ve-1 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_f00ca66b1d207abc716feb11eebb560a_e48de424a6197448d62762477966033d_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "ban-ve-1 (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_f00ca66b1d207abc716feb11eebb560a_e48de424a6197448d62762477966033d_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "ban-ve-1 (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_f00ca66b1d207abc716feb11eebb560a_e48de424a6197448d62762477966033d_5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "ban-ve-1 (5)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_f00ca66b1d207abc716feb11eebb560a_e48de424a6197448d62762477966033d_6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "ban-ve-1 (6)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_f00ca66b1d207abc716feb11eebb560a_e48de424a6197448d62762477966033d_7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "ban-ve-1 (7)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_f00ca66b1d207abc716feb11eebb560a_e48de424a6197448d62762477966033d_8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "ban-ve-1 (8)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_f00ca66b1d207abc716feb11eebb560a_15756ae13050a0c4872cffe7d82969d5_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "ban-ve-2 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_f00ca66b1d207abc716feb11eebb560a_15756ae13050a0c4872cffe7d82969d5_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "ban-ve-2 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_f00ca66b1d207abc716feb11eebb560a_15756ae13050a0c4872cffe7d82969d5_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "ban-ve-2 (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_f00ca66b1d207abc716feb11eebb560a_15756ae13050a0c4872cffe7d82969d5_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "ban-ve-2 (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_f00ca66b1d207abc716feb11eebb560a_15756ae13050a0c4872cffe7d82969d5_5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "ban-ve-2 (5)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_f00ca66b1d207abc716feb11eebb560a_15756ae13050a0c4872cffe7d82969d5_6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "ban-ve-2 (6)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_f00ca66b1d207abc716feb11eebb560a_15756ae13050a0c4872cffe7d82969d5_7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "ban-ve-2 (7)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_f00ca66b1d207abc716feb11eebb560a_f7f24cd68cce9ae68739aa669c2b69d9_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "ban-ve-3 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_f00ca66b1d207abc716feb11eebb560a_f7f24cd68cce9ae68739aa669c2b69d9_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "ban-ve-3 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_f00ca66b1d207abc716feb11eebb560a_f7f24cd68cce9ae68739aa669c2b69d9_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "ban-ve-3 (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_f00ca66b1d207abc716feb11eebb560a_f7f24cd68cce9ae68739aa669c2b69d9_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "ban-ve-3 (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_f00ca66b1d207abc716feb11eebb560a_f7f24cd68cce9ae68739aa669c2b69d9_5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "ban-ve-3 (5)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_f00ca66b1d207abc716feb11eebb560a_f7f24cd68cce9ae68739aa669c2b69d9_6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "ban-ve-3 (6)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_f00ca66b1d207abc716feb11eebb560a_e48de424a6197448d62762477966033d_1.mp3",
+    "title" : "ban-ve-1 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_f00ca66b1d207abc716feb11eebb560a_e48de424a6197448d62762477966033d_2.mp3",
+    "title" : "ban-ve-1 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_f00ca66b1d207abc716feb11eebb560a_e48de424a6197448d62762477966033d_3.mp3",
+    "title" : "ban-ve-1 (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_f00ca66b1d207abc716feb11eebb560a_e48de424a6197448d62762477966033d_4.mp3",
+    "title" : "ban-ve-1 (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_f00ca66b1d207abc716feb11eebb560a_e48de424a6197448d62762477966033d_5.mp3",
+    "title" : "ban-ve-1 (5)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_f00ca66b1d207abc716feb11eebb560a_e48de424a6197448d62762477966033d_6.mp3",
+    "title" : "ban-ve-1 (6)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_f00ca66b1d207abc716feb11eebb560a_e48de424a6197448d62762477966033d_7.mp3",
+    "title" : "ban-ve-1 (7)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_f00ca66b1d207abc716feb11eebb560a_e48de424a6197448d62762477966033d_8.mp3",
+    "title" : "ban-ve-1 (8)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_f00ca66b1d207abc716feb11eebb560a_15756ae13050a0c4872cffe7d82969d5_1.mp3",
+    "title" : "ban-ve-2 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_f00ca66b1d207abc716feb11eebb560a_15756ae13050a0c4872cffe7d82969d5_2.mp3",
+    "title" : "ban-ve-2 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_f00ca66b1d207abc716feb11eebb560a_15756ae13050a0c4872cffe7d82969d5_3.mp3",
+    "title" : "ban-ve-2 (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_f00ca66b1d207abc716feb11eebb560a_15756ae13050a0c4872cffe7d82969d5_4.mp3",
+    "title" : "ban-ve-2 (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_f00ca66b1d207abc716feb11eebb560a_15756ae13050a0c4872cffe7d82969d5_5.mp3",
+    "title" : "ban-ve-2 (5)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_f00ca66b1d207abc716feb11eebb560a_15756ae13050a0c4872cffe7d82969d5_6.mp3",
+    "title" : "ban-ve-2 (6)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_f00ca66b1d207abc716feb11eebb560a_15756ae13050a0c4872cffe7d82969d5_7.mp3",
+    "title" : "ban-ve-2 (7)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_f00ca66b1d207abc716feb11eebb560a_f7f24cd68cce9ae68739aa669c2b69d9_1.mp3",
+    "title" : "ban-ve-3 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_f00ca66b1d207abc716feb11eebb560a_f7f24cd68cce9ae68739aa669c2b69d9_2.mp3",
+    "title" : "ban-ve-3 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_f00ca66b1d207abc716feb11eebb560a_f7f24cd68cce9ae68739aa669c2b69d9_3.mp3",
+    "title" : "ban-ve-3 (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_f00ca66b1d207abc716feb11eebb560a_f7f24cd68cce9ae68739aa669c2b69d9_4.mp3",
+    "title" : "ban-ve-3 (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_f00ca66b1d207abc716feb11eebb560a_f7f24cd68cce9ae68739aa669c2b69d9_5.mp3",
+    "title" : "ban-ve-3 (5)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_f00ca66b1d207abc716feb11eebb560a_f7f24cd68cce9ae68739aa669c2b69d9_6.mp3",
+    "title" : "ban-ve-3 (6)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

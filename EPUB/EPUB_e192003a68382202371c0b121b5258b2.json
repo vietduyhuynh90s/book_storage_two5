@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-22",
     "duration" : 21878,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,41 +36,77 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/congchuaanhyeuem/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_e192003a68382202371c0b121b5258b2_75c32ad8a05679ec303c375f4dad4220_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 7459,
-    "title" : "Truyện ngắn hay chọn lọc",
+    "duration" : 0,
+    "title" : "Truyện ngắn hay chọn lọc (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/congchuaanhyeuem/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_e192003a68382202371c0b121b5258b2_75c32ad8a05679ec303c375f4dad4220_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 6959,
-    "title" : "Tập 2 | Đọc truyện ngắn tình yêu hay nhất hiện nay",
+    "duration" : 0,
+    "title" : "Truyện ngắn hay chọn lọc (2)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/congchuaanhyeuem/3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_e192003a68382202371c0b121b5258b2_539bde8b6bbbe26ad28aa1687585a2bf_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 7460,
-    "title" : "Tập 3 (Hết) | Truyện tình yêu hay và cảm động",
+    "duration" : 0,
+    "title" : "Tập 2 | Đọc truyện ngắn tình yêu hay nhất hiện nay (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_e192003a68382202371c0b121b5258b2_539bde8b6bbbe26ad28aa1687585a2bf_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tập 2 | Đọc truyện ngắn tình yêu hay nhất hiện nay (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_e192003a68382202371c0b121b5258b2_693e865e8bcfa302b49543f19c00c884_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tập 3 (Hết) | Truyện tình yêu hay và cảm động (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_e192003a68382202371c0b121b5258b2_693e865e8bcfa302b49543f19c00c884_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tập 3 (Hết) | Truyện tình yêu hay và cảm động (2)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/congchuaanhyeuem/1.mp3",
-    "title" : "Truyện ngắn hay chọn lọc",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_e192003a68382202371c0b121b5258b2_75c32ad8a05679ec303c375f4dad4220_1.mp3",
+    "title" : "Truyện ngắn hay chọn lọc (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/congchuaanhyeuem/2.mp3",
-    "title" : "Tập 2 | Đọc truyện ngắn tình yêu hay nhất hiện nay",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_e192003a68382202371c0b121b5258b2_75c32ad8a05679ec303c375f4dad4220_2.mp3",
+    "title" : "Truyện ngắn hay chọn lọc (2)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/congchuaanhyeuem/3.mp3",
-    "title" : "Tập 3 (Hết) | Truyện tình yêu hay và cảm động",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_e192003a68382202371c0b121b5258b2_539bde8b6bbbe26ad28aa1687585a2bf_1.mp3",
+    "title" : "Tập 2 | Đọc truyện ngắn tình yêu hay nhất hiện nay (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_e192003a68382202371c0b121b5258b2_539bde8b6bbbe26ad28aa1687585a2bf_2.mp3",
+    "title" : "Tập 2 | Đọc truyện ngắn tình yêu hay nhất hiện nay (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_e192003a68382202371c0b121b5258b2_693e865e8bcfa302b49543f19c00c884_1.mp3",
+    "title" : "Tập 3 (Hết) | Truyện tình yêu hay và cảm động (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_e192003a68382202371c0b121b5258b2_693e865e8bcfa302b49543f19c00c884_2.mp3",
+    "title" : "Tập 3 (Hết) | Truyện tình yêu hay và cảm động (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
