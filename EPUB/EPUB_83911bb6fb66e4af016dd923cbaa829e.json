@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-12",
+    "published" : "2023-08-28",
     "duration" : 20371,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,53 +36,113 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/am-binh-thay-tru-ta/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_83911bb6fb66e4af016dd923cbaa829e_f7b49a83afc1a936b8f006cd03729c91_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4588,
-    "title" : "Truyện Ma Có Thật Về Bùa Chú Hay Và Rợn",
+    "duration" : 0,
+    "title" : "Truyện Ma Có Thật Về Bùa Chú Hay Và Rợn (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/am-binh-thay-tru-ta/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_83911bb6fb66e4af016dd923cbaa829e_f7b49a83afc1a936b8f006cd03729c91_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3938,
-    "title" : "Truyện Ma Có Thật Về Bùa Chú Hay Và Rợn",
+    "duration" : 0,
+    "title" : "Truyện Ma Có Thật Về Bùa Chú Hay Và Rợn (2)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/am-binh-thay-tru-ta/3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_83911bb6fb66e4af016dd923cbaa829e_4c66c7d5a9e5588549898138af35b1cf_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3770,
-    "title" : "Truyện Ma Có Thật Ngọc Lâm Kể Mà Rợn",
+    "duration" : 0,
+    "title" : "Truyện Ma Có Thật Về Bùa Chú Hay Và Rợn (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/am-binh-thay-tru-ta/4.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_83911bb6fb66e4af016dd923cbaa829e_4c66c7d5a9e5588549898138af35b1cf_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 8075,
-    "title" : "Truyện Ma Có Thật Ngọc Lâm Kể Rợn Lắm",
+    "duration" : 0,
+    "title" : "Truyện Ma Có Thật Về Bùa Chú Hay Và Rợn (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_83911bb6fb66e4af016dd923cbaa829e_a19a00430c4ae3a57e509158eb99169d_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ma Có Thật Ngọc Lâm Kể Mà Rợn (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_83911bb6fb66e4af016dd923cbaa829e_a19a00430c4ae3a57e509158eb99169d_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ma Có Thật Ngọc Lâm Kể Mà Rợn (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_83911bb6fb66e4af016dd923cbaa829e_1ec2afd4ce07ebb552c6d5a82fb1de8c_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ma Có Thật Ngọc Lâm Kể Rợn Lắm (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_83911bb6fb66e4af016dd923cbaa829e_1ec2afd4ce07ebb552c6d5a82fb1de8c_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ma Có Thật Ngọc Lâm Kể Rợn Lắm (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_83911bb6fb66e4af016dd923cbaa829e_1ec2afd4ce07ebb552c6d5a82fb1de8c_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ma Có Thật Ngọc Lâm Kể Rợn Lắm (3)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/am-binh-thay-tru-ta/1.mp3",
-    "title" : "Truyện Ma Có Thật Về Bùa Chú Hay Và Rợn",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_83911bb6fb66e4af016dd923cbaa829e_f7b49a83afc1a936b8f006cd03729c91_1.mp3",
+    "title" : "Truyện Ma Có Thật Về Bùa Chú Hay Và Rợn (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/am-binh-thay-tru-ta/2.mp3",
-    "title" : "Truyện Ma Có Thật Về Bùa Chú Hay Và Rợn",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_83911bb6fb66e4af016dd923cbaa829e_f7b49a83afc1a936b8f006cd03729c91_2.mp3",
+    "title" : "Truyện Ma Có Thật Về Bùa Chú Hay Và Rợn (2)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/am-binh-thay-tru-ta/3.mp3",
-    "title" : "Truyện Ma Có Thật Ngọc Lâm Kể Mà Rợn",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_83911bb6fb66e4af016dd923cbaa829e_4c66c7d5a9e5588549898138af35b1cf_1.mp3",
+    "title" : "Truyện Ma Có Thật Về Bùa Chú Hay Và Rợn (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/am-binh-thay-tru-ta/4.mp3",
-    "title" : "Truyện Ma Có Thật Ngọc Lâm Kể Rợn Lắm",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_83911bb6fb66e4af016dd923cbaa829e_4c66c7d5a9e5588549898138af35b1cf_2.mp3",
+    "title" : "Truyện Ma Có Thật Về Bùa Chú Hay Và Rợn (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_83911bb6fb66e4af016dd923cbaa829e_a19a00430c4ae3a57e509158eb99169d_1.mp3",
+    "title" : "Truyện Ma Có Thật Ngọc Lâm Kể Mà Rợn (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_83911bb6fb66e4af016dd923cbaa829e_a19a00430c4ae3a57e509158eb99169d_2.mp3",
+    "title" : "Truyện Ma Có Thật Ngọc Lâm Kể Mà Rợn (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_83911bb6fb66e4af016dd923cbaa829e_1ec2afd4ce07ebb552c6d5a82fb1de8c_1.mp3",
+    "title" : "Truyện Ma Có Thật Ngọc Lâm Kể Rợn Lắm (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_83911bb6fb66e4af016dd923cbaa829e_1ec2afd4ce07ebb552c6d5a82fb1de8c_2.mp3",
+    "title" : "Truyện Ma Có Thật Ngọc Lâm Kể Rợn Lắm (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage5/main/AUDIO/AUDIO_83911bb6fb66e4af016dd923cbaa829e_1ec2afd4ce07ebb552c6d5a82fb1de8c_3.mp3",
+    "title" : "Truyện Ma Có Thật Ngọc Lâm Kể Rợn Lắm (3)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
