@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-16",
+    "published" : "2023-09-06",
     "duration" : 6667,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,29 +36,17 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_929983ccf369421ea086f57bf6bd3be2_23352790ceb22e8cb9e169ee19ef4d21_1.mp3",
+    "href" : "https://archive.org/download/vi-sao/vi-sao.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Nguyên Minh | FUll (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_929983ccf369421ea086f57bf6bd3be2_23352790ceb22e8cb9e169ee19ef4d21_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Nguyên Minh | FUll (2)",
+    "duration" : 6667,
+    "title" : "Nguyên Minh | FUll",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_929983ccf369421ea086f57bf6bd3be2_23352790ceb22e8cb9e169ee19ef4d21_1.mp3",
-    "title" : "Nguyên Minh | FUll (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_929983ccf369421ea086f57bf6bd3be2_23352790ceb22e8cb9e169ee19ef4d21_2.mp3",
-    "title" : "Nguyên Minh | FUll (2)",
+    "href" : "https://archive.org/download/vi-sao/vi-sao.mp3",
+    "title" : "Nguyên Minh | FUll",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

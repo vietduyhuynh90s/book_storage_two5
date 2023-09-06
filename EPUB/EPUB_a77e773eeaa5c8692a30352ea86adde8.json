@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-21",
+    "published" : "2023-09-06",
     "duration" : 16637,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,53 +36,29 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_a77e773eeaa5c8692a30352ea86adde8_5bc02a4380b170544bf3303190a1e27e_1.mp3",
+    "href" : "https://archive.org/download/nhat-ky-gai-goi/1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện Ngôn Tình Hiện Đại Hay Cuốn Hút Đến Mê Người (1)",
+    "duration" : 8073,
+    "title" : "Truyện Ngôn Tình Hiện Đại Hay Cuốn Hút Đến Mê Người",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_a77e773eeaa5c8692a30352ea86adde8_5bc02a4380b170544bf3303190a1e27e_2.mp3",
+    "href" : "https://archive.org/download/nhat-ky-gai-goi/2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện Ngôn Tình Hiện Đại Hay Cuốn Hút Đến Mê Người (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_a77e773eeaa5c8692a30352ea86adde8_c8970366891249a7677c278418ba7347_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Nhật Ký Gái Gọi [Phần 2 HẾT] Cái Kết Vô Cùng Ý Nghĩa (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_a77e773eeaa5c8692a30352ea86adde8_c8970366891249a7677c278418ba7347_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Nhật Ký Gái Gọi [Phần 2 HẾT] Cái Kết Vô Cùng Ý Nghĩa (2)",
+    "duration" : 8564,
+    "title" : "Nhật Ký Gái Gọi [Phần 2 HẾT] Cái Kết Vô Cùng Ý Nghĩa",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_a77e773eeaa5c8692a30352ea86adde8_5bc02a4380b170544bf3303190a1e27e_1.mp3",
-    "title" : "Truyện Ngôn Tình Hiện Đại Hay Cuốn Hút Đến Mê Người (1)",
+    "href" : "https://archive.org/download/nhat-ky-gai-goi/1.mp3",
+    "title" : "Truyện Ngôn Tình Hiện Đại Hay Cuốn Hút Đến Mê Người",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_a77e773eeaa5c8692a30352ea86adde8_5bc02a4380b170544bf3303190a1e27e_2.mp3",
-    "title" : "Truyện Ngôn Tình Hiện Đại Hay Cuốn Hút Đến Mê Người (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_a77e773eeaa5c8692a30352ea86adde8_c8970366891249a7677c278418ba7347_1.mp3",
-    "title" : "Nhật Ký Gái Gọi [Phần 2 HẾT] Cái Kết Vô Cùng Ý Nghĩa (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_a77e773eeaa5c8692a30352ea86adde8_c8970366891249a7677c278418ba7347_2.mp3",
-    "title" : "Nhật Ký Gái Gọi [Phần 2 HẾT] Cái Kết Vô Cùng Ý Nghĩa (2)",
+    "href" : "https://archive.org/download/nhat-ky-gai-goi/2.mp3",
+    "title" : "Nhật Ký Gái Gọi [Phần 2 HẾT] Cái Kết Vô Cùng Ý Nghĩa",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

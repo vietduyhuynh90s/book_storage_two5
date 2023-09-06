@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-24",
-    "duration" : 11315,
+    "published" : "2023-09-06",
+    "duration" : 11830,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,55 +36,31 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_947e10d25d3f21a9aefe894dde47484e_fbea0d0f2d2783ddc78f889eb974ffa6_1.mp3",
+    "href" : "https://archive.org/download/song-thien-1/song-thien-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "song-thien-1 (1)",
+    "duration" : 3600,
+    "title" : "song-thien-1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_947e10d25d3f21a9aefe894dde47484e_fbea0d0f2d2783ddc78f889eb974ffa6_2.mp3",
+    "href" : "https://archive.org/download/song-thien-1/song-thien-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "song-thien-1 (2)",
+    "duration" : 3600,
+    "title" : "song-thien-2",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_947e10d25d3f21a9aefe894dde47484e_b31b3280d9dfe869f7dde7228f702b2d_1.mp3",
+    "href" : "https://archive.org/download/song-thien-1/song-thien-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "song-thien-2 (1)",
+    "duration" : 3600,
+    "title" : "song-thien-3",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_947e10d25d3f21a9aefe894dde47484e_b31b3280d9dfe869f7dde7228f702b2d_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "song-thien-2 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_947e10d25d3f21a9aefe894dde47484e_d07075d9e937c1d468bc0148aa9329eb_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "song-thien-3 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_947e10d25d3f21a9aefe894dde47484e_d07075d9e937c1d468bc0148aa9329eb_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "song-thien-3 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_947e10d25d3f21a9aefe894dde47484e_d149b129434cc215e8fc168b91bd2051.mp3",
+    "href" : "https://archive.org/download/song-thien-1/song-thien-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 515,
@@ -93,31 +69,19 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_947e10d25d3f21a9aefe894dde47484e_fbea0d0f2d2783ddc78f889eb974ffa6_1.mp3",
-    "title" : "song-thien-1 (1)",
+    "href" : "https://archive.org/download/song-thien-1/song-thien-1.mp3",
+    "title" : "song-thien-1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_947e10d25d3f21a9aefe894dde47484e_fbea0d0f2d2783ddc78f889eb974ffa6_2.mp3",
-    "title" : "song-thien-1 (2)",
+    "href" : "https://archive.org/download/song-thien-1/song-thien-2.mp3",
+    "title" : "song-thien-2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_947e10d25d3f21a9aefe894dde47484e_b31b3280d9dfe869f7dde7228f702b2d_1.mp3",
-    "title" : "song-thien-2 (1)",
+    "href" : "https://archive.org/download/song-thien-1/song-thien-3.mp3",
+    "title" : "song-thien-3",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_947e10d25d3f21a9aefe894dde47484e_b31b3280d9dfe869f7dde7228f702b2d_2.mp3",
-    "title" : "song-thien-2 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_947e10d25d3f21a9aefe894dde47484e_d07075d9e937c1d468bc0148aa9329eb_1.mp3",
-    "title" : "song-thien-3 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_947e10d25d3f21a9aefe894dde47484e_d07075d9e937c1d468bc0148aa9329eb_2.mp3",
-    "title" : "song-thien-3 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage5/main/AUDIO/AUDIO_947e10d25d3f21a9aefe894dde47484e_d149b129434cc215e8fc168b91bd2051.mp3",
+    "href" : "https://archive.org/download/song-thien-1/song-thien-4.mp3",
     "title" : "song-thien-4",
     "children" : [ ]
   } ],

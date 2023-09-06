@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-05",
-    "duration" : 7286,
+    "published" : "2023-09-06",
+    "duration" : 10929,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,23 +36,15 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/AUDIO/AUDIO_92df5f691c4c052d849cebe93301b351_43407d1d518c3dbb728f3923a95e678a_1.mp3",
+    "href" : "https://archive.org/download/khong-phai-soi-nhung-cung-dung-la-cuu/khong-phai-soi-nhung-cung-dung-la-cuu-p1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Phần 1 (1)",
+    "duration" : 3643,
+    "title" : "Phần 1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/AUDIO/AUDIO_92df5f691c4c052d849cebe93301b351_43407d1d518c3dbb728f3923a95e678a_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Phần 1 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/AUDIO/AUDIO_92df5f691c4c052d849cebe93301b351_2b2e061b608c04a8062bb3c0c58a799c.mp3",
+    "href" : "https://archive.org/download/khong-phai-soi-nhung-cung-dung-la-cuu/khong-phai-soi-nhung-cung-dung-la-cuu-p2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3643,
@@ -61,15 +53,11 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/AUDIO/AUDIO_92df5f691c4c052d849cebe93301b351_43407d1d518c3dbb728f3923a95e678a_1.mp3",
-    "title" : "Phần 1 (1)",
+    "href" : "https://archive.org/download/khong-phai-soi-nhung-cung-dung-la-cuu/khong-phai-soi-nhung-cung-dung-la-cuu-p1.mp3",
+    "title" : "Phần 1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/AUDIO/AUDIO_92df5f691c4c052d849cebe93301b351_43407d1d518c3dbb728f3923a95e678a_2.mp3",
-    "title" : "Phần 1 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two5/main/AUDIO/AUDIO_92df5f691c4c052d849cebe93301b351_2b2e061b608c04a8062bb3c0c58a799c.mp3",
+    "href" : "https://archive.org/download/khong-phai-soi-nhung-cung-dung-la-cuu/khong-phai-soi-nhung-cung-dung-la-cuu-p2.mp3",
     "title" : "Phần 2",
     "children" : [ ]
   } ],
